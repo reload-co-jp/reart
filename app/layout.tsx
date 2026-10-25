@@ -2,7 +2,10 @@ import type { Metadata, Viewport } from "next"
 import { Footer, Header, Main } from "@/components/elements/layout"
 import { color, font } from "@/components/theme"
 import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/lib/site"
+import Script from "next/script"
 import "./reset.css"
+
+const GA_ID = "G-6P78M1W5D8"
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -40,6 +43,13 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
             美術館の言葉がわかる、美術鑑賞のための辞典。
           </p>
         </Footer>
+        <Script
+          src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
+          strategy="afterInteractive"
+        />
+        <Script id="ga" strategy="afterInteractive">
+          {`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','${GA_ID}');`}
+        </Script>
       </body>
     </html>
   )
