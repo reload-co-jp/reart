@@ -1,4 +1,5 @@
 import type { Metadata } from "next"
+import { pageMeta } from "@/lib/site"
 import Link from "next/link"
 import { notFound } from "next/navigation"
 import { Breadcrumbs } from "@/components/seo"
@@ -24,18 +25,11 @@ export const generateMetadata = async ({
 }: Props): Promise<Metadata> => {
   const c = getCategory((await params).slug)
   if (!c) return {}
-  const path = `/categories/${c.slug}/`
-  const title = `${c.name}の美術用語`
-  return {
-    title,
+  return pageMeta({
+    title: `${c.name}の美術用語一覧`,
     description: c.description,
-    alternates: { canonical: path },
-    openGraph: {
-      url: path,
-      title: `${title}｜ReArt`,
-      description: c.description,
-    },
-  }
+    path: `/categories/${c.slug}/`,
+  })
 }
 
 const CategoryPage = async ({ params }: Props) => {

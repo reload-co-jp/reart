@@ -1,4 +1,4 @@
-import type { Metadata } from "next"
+import { pageMeta } from "@/lib/site"
 import { Suspense } from "react"
 import { Breadcrumbs } from "@/components/seo"
 import { TermGrid } from "@/components/term-card"
@@ -9,12 +9,11 @@ import { categories, termIndex } from "@/lib/data"
 const description =
   "ReArtに掲載している美術用語の一覧です。用語名・読み・英語表記で検索し、カテゴリや難易度で絞り込めます。"
 
-export const metadata: Metadata = {
+export const metadata = pageMeta({
   title: "美術用語一覧",
   description,
-  alternates: { canonical: "/terms/" },
-  openGraph: { url: "/terms/", title: "美術用語一覧｜ReArt", description },
-}
+  path: "/terms/",
+})
 
 const TermsPage = () => {
   const cats = categories.map((c) => ({ slug: c.slug, name: c.name }))

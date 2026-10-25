@@ -4,7 +4,7 @@ import { notFound } from "next/navigation"
 import { Breadcrumbs, JsonLd } from "@/components/seo"
 import { color, font, size, space, styles } from "@/components/theme"
 import { getGuide, getTerm, guides } from "@/lib/data"
-import { absoluteUrl, SITE_NAME } from "@/lib/site"
+import { absoluteUrl, OG_IMAGE, pageMeta, SITE_NAME } from "@/lib/site"
 
 type Props = { params: Promise<{ slug: string }> }
 
@@ -16,18 +16,12 @@ export const generateMetadata = async ({
 }: Props): Promise<Metadata> => {
   const g = getGuide((await params).slug)
   if (!g) return {}
-  const path = `/guides/${g.slug}/`
-  return {
+  return pageMeta({
     title: g.title,
     description: g.description,
-    alternates: { canonical: path },
-    openGraph: {
-      type: "article",
-      url: path,
-      title: `${g.title}｜ReArt`,
-      description: g.description,
-    },
-  }
+    path: `/guides/${g.slug}/`,
+    type: "article",
+  })
 }
 
 const GuidePage = async ({ params }: Props) => {
@@ -51,6 +45,7 @@ const GuidePage = async ({ params }: Props) => {
           description: g.description,
           url: absoluteUrl(path),
           inLanguage: "ja",
+          image: absoluteUrl(OG_IMAGE),
           publisher: { "@type": "Organization", name: SITE_NAME },
         }}
       />

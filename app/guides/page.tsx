@@ -1,4 +1,4 @@
-import type { Metadata } from "next"
+import { pageMeta } from "@/lib/site"
 import Link from "next/link"
 import { Breadcrumbs } from "@/components/seo"
 import { color, font, size, space, styles } from "@/components/theme"
@@ -7,12 +7,11 @@ import { guides } from "@/lib/data"
 const description =
   "テーマに沿って美術用語を順番に学べる学習ガイドです。美術館初心者向けの基本用語から現代美術まで。"
 
-export const metadata: Metadata = {
+export const metadata = pageMeta({
   title: "学習ガイド",
   description,
-  alternates: { canonical: "/guides/" },
-  openGraph: { url: "/guides/", title: "学習ガイド｜ReArt", description },
-}
+  path: "/guides/",
+})
 
 const GuidesPage = () => (
   <div style={{ ...styles.container, maxWidth: "48rem" }}>

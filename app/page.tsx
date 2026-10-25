@@ -14,12 +14,9 @@ import {
   termsInCategory,
   toIndex,
 } from "@/lib/data"
-import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/lib/site"
+import { pageMeta, SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/lib/site"
 
-export const metadata = {
-  alternates: { canonical: "/" },
-  openGraph: { url: "/", title: SITE_NAME, description: SITE_DESCRIPTION },
-}
+export const metadata = pageMeta({ path: "/" })
 
 // ビルド日の用語を静的 HTML に入れておく
 const BUILD_DAY = Math.floor(Date.now() / 86_400_000)

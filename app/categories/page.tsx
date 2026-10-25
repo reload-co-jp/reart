@@ -1,4 +1,4 @@
-import type { Metadata } from "next"
+import { pageMeta } from "@/lib/site"
 import Link from "next/link"
 import { Breadcrumbs } from "@/components/seo"
 import { color, font, size, space, styles } from "@/components/theme"
@@ -7,12 +7,11 @@ import { categories, termsInCategory } from "@/lib/data"
 const description =
   "素材・技法、美術史・芸術運動、現代美術など、テーマ別に美術用語を探せます。"
 
-export const metadata: Metadata = {
+export const metadata = pageMeta({
   title: "カテゴリから美術用語を探す",
   description,
-  alternates: { canonical: "/categories/" },
-  openGraph: { url: "/categories/", title: "カテゴリ｜ReArt", description },
-}
+  path: "/categories/",
+})
 
 const CategoriesPage = () => (
   <div style={styles.container}>

@@ -4,16 +4,18 @@ import { notFound } from "next/navigation"
 import { FC, ReactNode } from "react"
 import { Breadcrumbs, JsonLd } from "@/components/seo"
 import { TermActions } from "@/components/term-actions"
+import { createTermLinker } from "@/components/term-linker"
 import { color, font, size, space, styles, width } from "@/components/theme"
 import {
   getCategory,
   getTerm,
   getTerms,
   guidesForTerm,
+  termIndex,
   terms,
   termsInCategory,
 } from "@/lib/data"
-import { absoluteUrl, SITE_NAME, SITE_URL } from "@/lib/site"
+import { absoluteUrl, pageMeta, SITE_NAME, SITE_URL } from "@/lib/site"
 import { DIFFICULTY_LABEL, Term } from "@/lib/types"
 
 type Props = { params: Promise<{ slug: string }> }
@@ -29,19 +31,12 @@ export const generateMetadata = async ({
 }: Props): Promise<Metadata> => {
   const t = getTerm((await params).slug)
   if (!t) return {}
-  const path = `/terms/${t.slug}/`
-  const title = `${t.term}とは？意味・作品の見方を解説`
-  return {
-    title,
+  return pageMeta({
+    title: `${t.term}とは？意味・作品の見方を解説`,
     description: describe(t),
-    alternates: { canonical: path },
-    openGraph: {
-      type: "article",
-      url: path,
-      title: `${title}｜ReArt`,
-      description: describe(t),
-    },
-  }
+    path: `/terms/${t.slug}/`,
+    type: "article",
+  })
 }
 
 const Block: FC<{ title: string; children: ReactNode }> = ({
@@ -118,6 +113,7 @@ const TermPage = async ({ params }: Props) => {
     term: getTerm(c.slug)!,
   }))
   const guides = guidesForTerm(t.slug)
+  const linkify = createTermLinker(termIndex, t.slug)
 
   return (
     <div style={styles.container}>
@@ -222,17 +218,17 @@ const TermPage = async ({ params }: Props) => {
           </div>
 
           <Block title="詳しい解説">
-            <p style={{ lineHeight: 2 }}>{t.definition}</p>
+            <p style={{ lineHeight: 2 }}>{linkify(t.definition)}</p>
             {t.artUsage && (
               <>
                 <SubHeading>美術の分野での使われ方</SubHeading>
-                <p style={{ lineHeight: 2 }}>{t.artUsage}</p>
+                <p style={{ lineHeight: 2 }}>{linkify(t.artUsage)}</p>
               </>
             )}
             {t.generalDifference && (
               <>
                 <SubHeading>一般的な意味との違い</SubHeading>
-                <p style={{ lineHeight: 2 }}>{t.generalDifference}</p>
+                <p style={{ lineHeight: 2 }}>{linkify(t.generalDifference)}</p>
               </>
             )}
             {confusables.length > 0 && (
@@ -303,7 +299,7 @@ const TermPage = async ({ params }: Props) => {
           {(t.museumUsage || t.museumExample) && (
             <Block title="美術館の解説文での使われ方">
               {t.museumUsage && (
-                <p style={{ lineHeight: 2 }}>{t.museumUsage}</p>
+                <p style={{ lineHeight: 2 }}>{linkify(t.museumUsage)}</p>
               )}
               {t.museumExample && (
                 <figure style={{ marginTop: space.md }}>
