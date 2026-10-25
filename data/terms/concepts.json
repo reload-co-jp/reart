@@ -1,0 +1,654 @@
+[
+  {
+    "slug": "context",
+    "term": "文脈",
+    "reading": "ぶんみゃく",
+    "english": "Context",
+    "aliases": ["コンテクスト", "コンテキスト"],
+    "summary": "作品の意味を左右する、作品をとりまく背景や状況のこと。",
+    "definition": "美術では、作品が作られた時代や社会、作家の経歴、美術史の流れ、展示される場所など、作品の意味を理解するうえで関わってくる周囲の状況を指します。同じ作品でも、どのような文脈に置くかによって意味の受け取られ方が変わる、という考え方がよく示されます。",
+    "artUsage": "「美術史の文脈」「社会的な文脈」「展示の文脈」のように、どの背景に照らして作品を見るかを示すために使われます。とくに現代美術では、作品の意味が見た目だけでは決まらず、文脈によって成り立つことが強調されます。",
+    "generalDifference": "日常では文章の前後のつながり（「文脈から意味を判断する」）を指すことが多い言葉ですが、美術では作品をとりまく背景全体を指す、より広い意味で使われます。",
+    "categoryIds": ["concepts"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "日用品が、美術館という文脈に置かれることで作品として見られるようになる例。"
+      },
+      {
+        "description": "戦時中に描かれた風景画を、当時の社会状況とあわせて読み解く展示。"
+      }
+    ],
+    "viewingTips": [
+      "作品が作られた年や場所を確認し、そのとき社会で何が起きていたかを考える。",
+      "同じ展示室に並べられた他の作品との関係にも注目する。"
+    ],
+    "museumUsage": "現代美術の解説で最もよく使われる言葉の一つです。「〇〇の文脈において」「文脈を読み替える」のような表現で登場します。",
+    "museumExample": "作家は、地域に残る古い写真を現代の美術館という文脈に置き直すことで、忘れられた歴史に新たな光を当てている。",
+    "relatedTerms": [
+      "criticality",
+      "site-specific",
+      "readymade",
+      "representation"
+    ],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "criticality",
+    "term": "批評性",
+    "reading": "ひひょうせい",
+    "english": "Criticality",
+    "aliases": ["批判性", "クリティカル"],
+    "summary": "作品が、社会や美術のあり方、当たり前とされている価値観に問いを投げかける性質。",
+    "definition": "作品が社会の制度や常識、美術そのものの仕組みなどを鋭く見つめ、問い直す力を持っていることを指します。単に悪口を言う「批判」ではなく、物事を別の角度から見せることで、鑑賞者に考えるきっかけを与える性質を評価する言葉として使われます。",
+    "generalDifference": "日常の「批評」や「批判」は、意見を述べたり欠点を指摘したりすることを指しますが、美術の「批評性」は、作品そのものが問いを内に含んでいることを指します。",
+    "categoryIds": ["concepts"],
+    "difficulty": 3,
+    "examples": [
+      {
+        "description": "美術館の収蔵品の偏りをテーマにして、その仕組みを問い直す作品。"
+      },
+      {
+        "description": "広告のイメージを使い、消費社会のあり方を浮かび上がらせる作品。"
+      }
+    ],
+    "viewingTips": [
+      "作品が「何を当たり前でなくしているのか」を考える。",
+      "作品を見て感じた居心地の悪さや違和感が、何に由来するのかを探す。"
+    ],
+    "museumUsage": "現代美術の解説や批評で、作品の評価のポイントとして「高い批評性」「批評的な視点」のように使われます。",
+    "museumExample": "ユーモラスな見た目とは裏腹に、作品は観光地の風景が作られる仕組みに対して鋭い批評性を備えている。",
+    "relatedTerms": [
+      "context",
+      "appropriation",
+      "representation",
+      "postmodernism"
+    ],
+    "prerequisiteTerms": ["context"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "corporeality",
+    "term": "身体性",
+    "reading": "しんたいせい",
+    "english": "Corporeality / Embodiment",
+    "aliases": ["身体", "フィジカリティ"],
+    "summary": "作品の制作や鑑賞において、体の動きや感覚が重要な役割を果たしていること。",
+    "definition": "頭で理解する知識だけでなく、体を通した経験や感覚が作品に関わっていることを指す言葉です。作家の体の動きが作品に痕跡として残っている場合や、鑑賞者が作品の周りを歩いたり、空間に身を置いたりすることで作品を体験する場合などに使われます。",
+    "categoryIds": ["concepts"],
+    "difficulty": 3,
+    "examples": [
+      { "description": "作家が全身を使って描いた、大きな筆の跡が残る絵画。" },
+      { "description": "作家自身の体を使って行うパフォーマンス。" },
+      {
+        "description": "暗い部屋を手探りで進むことで体験するインスタレーション。"
+      }
+    ],
+    "viewingTips": [
+      "作品に残された跡から、作家の体の動きを想像する。",
+      "作品の前で自分の体がどう動き、何を感じているかに意識を向ける。"
+    ],
+    "museumUsage": "パフォーマンスやインスタレーション、身体の動きを感じさせる絵画の解説でよく使われます。",
+    "museumExample": "画面を横切る力強いストロークは、描く行為そのものの身体性を色濃く伝えている。",
+    "relatedTerms": [
+      "performance-art",
+      "brushwork",
+      "installation",
+      "abstract-expressionism"
+    ],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "symbol",
+    "term": "象徴",
+    "reading": "しょうちょう",
+    "english": "Symbol",
+    "aliases": ["シンボル"],
+    "summary": "目に見える物や形によって、目に見えない意味や考えを表すこと。",
+    "definition": "具体的な物やイメージを使って、抽象的な考えや感情、価値を表すことです。たとえば白い百合で純潔を、鳩で平和を表すように、文化の中で共有された意味を持つ場合が多くあります。美術作品では、描かれた物が何を象徴しているかを読み解くことが、作品理解の手がかりになります。",
+    "confusables": [
+      {
+        "slug": "sign",
+        "note": "記号は意味を伝えるしるし全般を指し、象徴はその中でも、具体的なイメージが抽象的な意味と結びついたものを指すことが多い言葉です。"
+      },
+      {
+        "slug": "allegory",
+        "note": "寓意（アレゴリー）は、抽象的な概念を人物や物語の形に置き換えて表すもので、象徴を組み合わせた表現と言えます。"
+      }
+    ],
+    "categoryIds": ["concepts"],
+    "difficulty": 1,
+    "examples": [
+      { "description": "宗教画に描かれた百合の花（純潔の象徴）。" },
+      { "description": "静物画の頭蓋骨（死や人生のはかなさの象徴）。" }
+    ],
+    "viewingTips": [
+      "繰り返し登場する物や、場面にそぐわない物が描かれていないか探す。",
+      "その物が、作品の時代や地域でどんな意味を持っていたかを調べる。"
+    ],
+    "museumUsage": "「〇〇の象徴として描かれている」「象徴的なモチーフ」のように、描かれた物の意味を説明するときに使われます。",
+    "museumExample": "画面の隅に置かれた砂時計は、時の流れと人生のはかなさを象徴している。",
+    "relatedTerms": ["sign", "allegory", "iconography", "motif", "symbolism"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "sign",
+    "term": "記号",
+    "reading": "きごう",
+    "english": "Sign",
+    "aliases": ["サイン", "記号性"],
+    "summary": "何かを指し示したり、意味を伝えたりする働きを持つ「しるし」のこと。",
+    "definition": "文字、図、色、形、身振りなど、それ自体とは別の何かを指し示して意味を伝えるものを指します。美術では、イメージが現実の物を写すだけでなく、社会の中で共有された意味を運ぶ「記号」として働いていることに注目する見方があります。",
+    "generalDifference": "日常では「＋」や「〒」のような図形のしるしを指すことが多い言葉ですが、美術や批評では、イメージや物が意味を伝える働き全般を指して使われます。",
+    "confusables": [
+      {
+        "slug": "symbol",
+        "note": "象徴は、具体的なイメージが抽象的な意味と深く結びついたもので、記号の一種として考えられることもあります。"
+      }
+    ],
+    "categoryIds": ["concepts"],
+    "difficulty": 3,
+    "examples": [
+      { "description": "交通標識やロゴマークを素材にした作品。" },
+      {
+        "description": "ブランド品のイメージが「豊かさ」の記号として扱われている作品。"
+      }
+    ],
+    "viewingTips": [
+      "作品の中のイメージが、それ自体以上の意味を運んでいないかを考える。"
+    ],
+    "museumUsage": "ポップアートや現代美術の解説で、「記号としてのイメージ」「記号的な表現」のように使われます。",
+    "museumExample": "作家は、繰り返し複製された有名人の顔が、個人ではなく記号として消費されていく様子を描き出した。",
+    "relatedTerms": ["symbol", "representation", "pop-art", "appropriation"],
+    "prerequisiteTerms": ["symbol"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "reconstruction",
+    "term": "再構成",
+    "reading": "さいこうせい",
+    "english": "Reconstruction / Recomposition",
+    "aliases": ["再構築", "リコンストラクション"],
+    "summary": "既存の要素をいったん分解し、組み立て直して新しい形や意味を生み出すこと。",
+    "definition": "イメージや素材、記録、歴史的な出来事などを、もとの並びや文脈から切り離し、別の順序や関係で組み立て直すことを指します。美術では、コラージュのように素材を組み替える手法や、資料をもとに過去の出来事や展示を組み立て直す作品などで使われます。",
+    "categoryIds": ["concepts"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "雑誌の写真を切り抜いて、別の風景に組み直したコラージュ。"
+      },
+      {
+        "description": "古い記録映像を編集し直して、新しい物語を作った映像作品。"
+      }
+    ],
+    "viewingTips": [
+      "もとの素材がどんなものだったのか、何が組み替えられたのかを考える。"
+    ],
+    "museumUsage": "「イメージを再構成する」「記憶を再構成する」のように、作家の方法を説明するときに使われます。",
+    "museumExample": "作家は、家族のアルバムから集めた写真を再構成し、個人の記憶と社会の歴史が交わる場面を描き出した。",
+    "relatedTerms": ["collage", "appropriation", "cubism", "context"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "interactive",
+    "term": "インタラクティブ",
+    "reading": "いんたらくてぃぶ",
+    "english": "Interactive",
+    "aliases": ["インタラクション", "双方向"],
+    "summary": "鑑賞者の動きや操作に、作品が反応して変化すること。",
+    "definition": "「相互作用的な」という意味の言葉です。美術では、鑑賞者が近づく、触れる、声を出すといった行為に作品が反応し、映像や音、光などが変化する作品を指して使われます。センサーやコンピュータを使ったメディアアートで多く見られます。",
+    "categoryIds": ["concepts", "contemporary-art"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "床に映された映像が、歩く人の足元に合わせて変化する作品。"
+      },
+      { "description": "画面に触れると音が鳴り、模様が広がる作品。" }
+    ],
+    "viewingTips": [
+      "自分の動きが作品にどう影響しているかを確かめながら体験する。",
+      "他の鑑賞者の動きも作品の一部になっていないか見てみる。"
+    ],
+    "museumUsage": "メディアアートや体験型展示の解説で使われます。",
+    "relatedTerms": ["media-art", "participatory-art", "installation"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "motif",
+    "term": "モチーフ",
+    "reading": "もちーふ",
+    "english": "Motif",
+    "aliases": ["題材", "モティーフ"],
+    "summary": "作品の中で描かれたり、表現のきっかけになったりしている具体的な物や形。",
+    "definition": "作品に描かれている物や人物、形、模様など、表現の素材となる具体的な対象を指します。花、果物、人物、建物など何でもモチーフになりえます。作家が繰り返し取り上げるものを「その作家のモチーフ」と呼ぶこともあります。",
+    "confusables": [
+      {
+        "slug": "subject-matter",
+        "note": "主題は作品が表そうとしている内容やテーマを指し、モチーフはそれを表すために選ばれた具体的な物や形を指します。"
+      }
+    ],
+    "categoryIds": ["concepts", "composition-viewing"],
+    "difficulty": 1,
+    "examples": [
+      { "description": "画家が生涯を通じて描き続けた睡蓮の池。" },
+      { "description": "着物の文様に繰り返し用いられる波や雲の形。" }
+    ],
+    "viewingTips": [
+      "同じ作家の作品を見比べて、繰り返し登場するモチーフを探す。",
+      "モチーフがどのように変形されたり、強調されたりしているかを見る。"
+    ],
+    "museumUsage": "作品解説で最もよく使われる言葉の一つで、「〇〇をモチーフにした作品」のように使われます。",
+    "relatedTerms": ["subject-matter", "symbol", "still-life", "iconography"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "subject-matter",
+    "term": "主題",
+    "reading": "しゅだい",
+    "english": "Subject / Theme",
+    "aliases": ["テーマ", "画題"],
+    "summary": "作品が表そうとしている中心的な内容やテーマ。",
+    "definition": "作品が何を表しているか、何について語っているかという中心的な内容を指します。宗教画であれば聖書の物語、歴史画であれば特定の出来事などが主題となります。現代美術では、記憶、移民、環境など、より抽象的なテーマを指して使われることも多くあります。",
+    "confusables": [
+      {
+        "slug": "motif",
+        "note": "モチーフは描かれている具体的な物や形を指し、主題はそれらを通じて表される内容やテーマを指します。"
+      }
+    ],
+    "categoryIds": ["concepts", "composition-viewing"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "聖母子という主題を、さまざまな画家が描き比べた作品群。"
+      },
+      { "description": "「家族」を主題に、写真や映像、言葉で構成された作品。" }
+    ],
+    "viewingTips": [
+      "まずタイトルを確認し、作品の主題が何かを考えてから細部を見る。"
+    ],
+    "museumUsage": "「〇〇を主題とする」「主題の解釈」のように使われます。",
+    "relatedTerms": ["motif", "iconography", "history-painting", "allegory"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "allegory",
+    "term": "寓意",
+    "reading": "ぐうい",
+    "english": "Allegory",
+    "aliases": ["アレゴリー", "寓意画"],
+    "summary": "愛や正義、時間などの抽象的な概念を、人物や物語の姿に置き換えて表すこと。",
+    "definition": "目に見えない概念を、擬人化された人物や象徴的な物語などに置き換えて表現する方法です。西洋美術では、目隠しをして天秤を持つ女性で「正義」を表すなど、多くの約束事が共有されていました。絵画全体が一つの教訓や考えを表している場合、「寓意画」と呼ばれます。",
+    "confusables": [
+      {
+        "slug": "symbol",
+        "note": "象徴は一つのイメージが意味を表すもので、寓意はそれらを組み合わせて、概念全体を人物や場面として表すものです。"
+      }
+    ],
+    "categoryIds": ["concepts"],
+    "difficulty": 3,
+    "examples": [
+      { "description": "翼を持った老人の姿で「時間」を表した絵画。" },
+      { "description": "四季を四人の人物の姿で表した連作。" }
+    ],
+    "viewingTips": [
+      "人物の持ち物や衣装が、どの概念を表す約束事になっているかを調べる。"
+    ],
+    "museumUsage": "西洋の古典的な絵画の解説で、「〇〇の寓意」のように使われます。",
+    "relatedTerms": ["symbol", "iconography", "vanitas", "history-painting"],
+    "prerequisiteTerms": ["symbol"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "appropriation",
+    "term": "アプロプリエーション",
+    "reading": "あぷろぷりえーしょん",
+    "english": "Appropriation",
+    "aliases": ["流用", "借用", "アプロプリエーション・アート"],
+    "summary": "既存の作品や画像、イメージを借用し、新しい文脈で作品として示す手法。",
+    "definition": "英語で「流用・横取り」を意味します。有名な美術作品、広告、写真などのイメージを意図的に借用し、そのまま、あるいは少しだけ手を加えて自分の作品として示す手法です。とくに1980年代のアメリカで、オリジナリティや作者のあり方を問い直す表現として注目されました。著作権との関係が議論されることもあります。",
+    "categoryIds": ["concepts", "contemporary-art"],
+    "difficulty": 3,
+    "examples": [
+      {
+        "description": "有名な写真家の作品を撮影し直し、自分の作品として発表した写真作品。"
+      },
+      { "description": "広告写真の一部を切り出し、引き伸ばして展示した作品。" }
+    ],
+    "viewingTips": [
+      "元のイメージは何か、借用することでどんな意味の変化が起きているかを考える。"
+    ],
+    "museumUsage": "ポストモダン以降の美術の解説で、作家の手法として使われます。",
+    "relatedTerms": [
+      "originality",
+      "readymade",
+      "postmodernism",
+      "pop-art",
+      "reconstruction"
+    ],
+    "prerequisiteTerms": ["originality"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "representation",
+    "term": "表象",
+    "reading": "ひょうしょう",
+    "english": "Representation",
+    "aliases": ["再現", "リプレゼンテーション"],
+    "summary": "ある物事を、絵や言葉、映像などによって表し示すこと、またはそうして表されたもの。",
+    "definition": "現実の物や出来事、人々などを、イメージや言葉によって「表す」ことや、その表されたものを指します。批評の分野では、表されたものは現実そのものではなく、誰かの視点で選ばれ、作られたものであるという点に注目して使われることが多い言葉です。",
+    "generalDifference": "哲学や心理学では「心に浮かぶイメージ」の意味でも使われますが、美術の解説では「作品の中でどのように表されているか」という意味で使われることがほとんどです。",
+    "categoryIds": ["concepts"],
+    "difficulty": 3,
+    "examples": [
+      {
+        "description": "19世紀のヨーロッパ絵画に描かれた「東洋」のイメージを検証する展示。"
+      },
+      { "description": "メディアにおける女性の表象を問い直す作品。" }
+    ],
+    "viewingTips": [
+      "描かれた人物や場所が、誰の視点で、どのように表されているかを考える。"
+    ],
+    "museumUsage": "現代美術や美術史の解説で、「〇〇の表象」のように、ある対象の表され方を問題にするときに使われます。",
+    "museumExample": "本展は、近代の観光ポスターにおける「ふるさと」の表象を手がかりに、風景とナショナリズムの関係を探る。",
+    "relatedTerms": ["figurative", "sign", "context", "criticality"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "aura",
+    "term": "アウラ",
+    "reading": "あうら",
+    "english": "Aura",
+    "aliases": ["オーラ"],
+    "summary": "芸術作品が「いま・ここ」にしかない一回限りの存在として持つ、独特の雰囲気や重み。",
+    "definition": "ドイツの思想家ヴァルター・ベンヤミンが、1930年代に書いた論文「複製技術時代の芸術作品」で論じた概念です。写真や映画などの複製技術が広がると、作品がそれまで持っていた、唯一無二の存在としての権威や崇高な雰囲気（アウラ）が失われていくと述べました。美術と複製、オリジナルの関係を考えるうえでよく参照されます。",
+    "generalDifference": "日常の「オーラがある」は人の存在感を指しますが、美術ではベンヤミンの議論を踏まえた、作品の一回性に関わる概念として使われます。",
+    "categoryIds": ["concepts"],
+    "difficulty": 3,
+    "examples": [
+      {
+        "description": "画集で何度も見た作品を、実物の前で見たときに感じる特別な感覚。"
+      }
+    ],
+    "viewingTips": [
+      "印刷物や画面で見たときと、実物の前に立ったときの印象の違いを意識する。"
+    ],
+    "museumUsage": "写真、版画、映像など複製を前提とした作品や、オリジナルの意味を問う展示で参照されます。",
+    "relatedTerms": ["originality", "edition", "appropriation"],
+    "prerequisiteTerms": ["originality"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "site-specific",
+    "term": "サイトスペシフィック",
+    "reading": "さいとすぺしふぃっく",
+    "english": "Site-specific",
+    "aliases": ["サイト・スペシフィック", "場所特定的"],
+    "summary": "特定の場所のために制作され、その場所と切り離せない作品のあり方。",
+    "definition": "展示される場所の空間、歴史、地域の文化などを踏まえて制作され、その場所にあることで意味を持つ作品を指します。別の場所へ移すと作品の意味が損なわれる、あるいは作品として成り立たないと考えられます。1960〜70年代以降、美術館の外で行われる作品や地域の芸術祭などで多く見られるようになりました。",
+    "confusables": [
+      {
+        "slug": "installation",
+        "note": "インスタレーションは空間全体を作品とする形式を指し、サイトスペシフィックは特定の場所との結びつきを指します。両方に当てはまる作品も多くあります。"
+      }
+    ],
+    "categoryIds": ["concepts", "contemporary-art"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "廃校となった校舎の教室に、地域の記憶を素材として作られた作品。"
+      },
+      {
+        "description": "海辺の地形や潮の満ち引きに合わせて設置された野外作品。"
+      }
+    ],
+    "viewingTips": [
+      "その場所の歴史や特徴が、作品にどう取り込まれているかを探す。",
+      "周囲の風景や建物も含めて作品として見る。"
+    ],
+    "museumUsage": "芸術祭や野外展示、美術館の特定の空間のために作られた作品の解説で使われます。",
+    "museumExample": "本作は、かつて織物工場だったこの建物のためにサイトスペシフィックに制作された。",
+    "relatedTerms": [
+      "installation",
+      "land-art",
+      "public-art",
+      "context",
+      "art-project"
+    ],
+    "prerequisiteTerms": ["installation"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "medium",
+    "term": "メディウム",
+    "reading": "めでぃうむ",
+    "english": "Medium",
+    "aliases": ["媒体", "メディア", "展色材"],
+    "summary": "作品を成り立たせている素材や表現手段のこと。絵具の「つなぎ」を指す場合もある。",
+    "definition": "美術では大きく二つの意味で使われます。一つは、絵画、彫刻、写真、映像など、作品を成り立たせている表現の手段や形式。もう一つは、絵具の顔料を練り合わせる油や樹脂などの「つなぎ（展色材）」や、絵具に混ぜて性質を調整する画材です。",
+    "generalDifference": "日常の「メディア」はテレビや新聞などの情報媒体を指すことが多いですが、美術では作品の素材や表現形式を指します。",
+    "categoryIds": ["concepts", "materials-techniques"],
+    "difficulty": 3,
+    "examples": [
+      { "description": "絵画というメディウムの特性を問い直す作品。" },
+      { "description": "アクリル絵具に混ぜて質感を変えるジェルメディウム。" }
+    ],
+    "viewingTips": [
+      "作家がなぜその素材・手段を選んだのか、別の手段だったらどうなるかを考える。"
+    ],
+    "museumUsage": "現代美術の解説で「メディウムの特性」「メディウムを横断する」のように使われます。",
+    "relatedTerms": ["mixed-media", "pigment", "modernism", "media-art"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "originality",
+    "term": "オリジナリティ",
+    "reading": "おりじなりてぃ",
+    "english": "Originality",
+    "aliases": ["独創性", "オリジナル"],
+    "summary": "他にはない独自の発想や表現であること。また、複製ではない「本物」であること。",
+    "definition": "美術では、作家の独創性という意味と、複製に対する原作（オリジナル）という意味の両方で使われます。近代以降、オリジナリティは芸術作品の大切な価値とされてきましたが、20世紀後半からは、引用や複製を用いた作品によって、その価値自体が問い直されることもありました。",
+    "categoryIds": ["concepts"],
+    "difficulty": 2,
+    "examples": [
+      { "description": "他の作品の引用で成り立つことを明示した作品。" },
+      {
+        "description": "同じ版から刷られた版画のうち、どれが「オリジナル」かという問題。"
+      }
+    ],
+    "viewingTips": [
+      "作品のどこに作家ならではの発想があるかを探す。",
+      "引用や複製を使った作品では、「独自性」がどこにあるのかを考える。"
+    ],
+    "museumUsage": "作家の評価や、複製・引用を扱う作品の解説で使われます。",
+    "relatedTerms": ["appropriation", "aura", "edition"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "kitsch",
+    "term": "キッチュ",
+    "reading": "きっちゅ",
+    "english": "Kitsch",
+    "aliases": ["キッチ"],
+    "summary": "大衆向けで、通俗的・感傷的とされる物や表現。美術ではそれを意図的に取り入れることもある。",
+    "definition": "ドイツ語に由来し、もともとは安っぽい模造品や、感傷に訴える通俗的な作品を軽んじて呼ぶ言葉でした。批評家クレメント・グリーンバーグが1939年の論文で前衛芸術と対比したことでも知られます。のちにポップアートなどでは、キッチュな物のけばけばしさや親しみやすさを、あえて作品に取り込む表現も現れました。",
+    "categoryIds": ["concepts"],
+    "difficulty": 3,
+    "examples": [
+      { "description": "土産物の置物や派手な装飾品を素材にした作品。" }
+    ],
+    "viewingTips": [
+      "作家がキッチュな物を「否定」しているのか「楽しんでいる」のかを考える。"
+    ],
+    "museumUsage": "ポップアートや現代美術の解説で、作品の通俗的な要素を指して使われます。",
+    "relatedTerms": ["pop-art", "postmodernism", "avant-garde"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "sublime",
+    "term": "崇高",
+    "reading": "すうこう",
+    "english": "The Sublime",
+    "aliases": ["サブライム"],
+    "summary": "圧倒的な大きさや力を前にしたときの、畏れと高揚が入り混じった感覚。",
+    "definition": "18世紀に、イギリスの思想家エドマンド・バークやドイツの哲学者カントらによって論じられた美学の概念です。整った美しさとは異なり、嵐の海や険しい山、無限の広がりなど、人間を圧倒するものを前にしたときに感じる、恐れと感動が入り混じった感覚を指します。ロマン主義の風景画や、20世紀の巨大な抽象絵画などと結びつけて語られます。",
+    "generalDifference": "日常では「崇高な理想」のように「気高い」という意味で使われますが、美学では、畏れを伴う圧倒的な感覚を指す専門用語です。",
+    "categoryIds": ["concepts"],
+    "difficulty": 3,
+    "examples": [
+      { "description": "嵐の海に翻弄される小さな船を描いた風景画。" },
+      { "description": "視界を覆い尽くすほど大きな色面の抽象絵画。" }
+    ],
+    "viewingTips": [
+      "作品の大きさや、描かれた自然の規模に対して、自分がどう感じるかに意識を向ける。"
+    ],
+    "museumUsage": "ロマン主義の風景画や抽象表現主義の解説で使われます。",
+    "relatedTerms": [
+      "romanticism",
+      "landscape-painting",
+      "abstract-expressionism"
+    ],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "iconography",
+    "term": "図像学",
+    "reading": "ずぞうがく",
+    "english": "Iconography / Iconology",
+    "aliases": ["イコノグラフィー", "図像解釈学", "イコノロジー"],
+    "summary": "作品に描かれた人物や物、しぐさが何を意味しているかを読み解く研究方法。",
+    "definition": "美術作品に表されたイメージを、宗教、神話、文学などの文献や当時の約束事と照らし合わせて、その意味を解き明かす美術史の研究方法です。20世紀には美術史家エルヴィン・パノフスキーが、作品の意味を段階的に読み解く方法を体系化したことで知られます。",
+    "categoryIds": ["concepts", "composition-viewing"],
+    "difficulty": 3,
+    "examples": [
+      {
+        "description": "鍵を持つ人物は聖ペテロ、というように持ち物（アトリビュート）から人物を特定する読み方。"
+      }
+    ],
+    "viewingTips": [
+      "人物の持ち物や衣装の色など、手がかりになる「約束事」を探す。"
+    ],
+    "museumUsage": "宗教画や古典的な絵画の解説で、描かれたものの意味を説明する背景として使われます。",
+    "relatedTerms": [
+      "symbol",
+      "allegory",
+      "subject-matter",
+      "history-painting"
+    ],
+    "prerequisiteTerms": ["symbol"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "vanitas",
+    "term": "ヴァニタス",
+    "reading": "ゔぁにたす",
+    "english": "Vanitas",
+    "aliases": ["虚栄", "ヴァニタス画"],
+    "summary": "人生のはかなさや死の必然を思い起こさせる静物画、またはその主題。",
+    "definition": "ラテン語で「むなしさ」を意味し、旧約聖書の一節に由来します。とくに17世紀のオランダで多く描かれた静物画で、頭蓋骨、燃え尽きかけたろうそく、砂時計、しおれた花などを描き、地上の富や快楽のむなしさと死の必然を示しました。",
+    "categoryIds": ["concepts", "genres-styles"],
+    "difficulty": 3,
+    "examples": [
+      { "description": "頭蓋骨と本、消えかけたろうそくが並ぶ静物画。" },
+      {
+        "description": "豪華な食器の横に、しおれた花や倒れたグラスが描かれた静物画。"
+      }
+    ],
+    "viewingTips": ["画面の中で、時の流れや死を暗示する物を探してみる。"],
+    "museumUsage": "17世紀オランダ絵画や静物画の解説で使われ、現代の作品がこの主題を引用することもあります。",
+    "relatedTerms": ["still-life", "symbol", "allegory", "baroque"],
+    "prerequisiteTerms": ["still-life"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "slug": "modernism",
+    "term": "モダニズム",
+    "reading": "もだにずむ",
+    "english": "Modernism",
+    "aliases": ["近代主義", "モダンアート", "近代美術"],
+    "summary": "伝統から離れ、新しい時代にふさわしい表現を追い求めた近代の芸術の考え方。",
+    "definition": "19世紀後半から20世紀半ばにかけて、美術、建築、文学などで広がった考え方や動向の総称です。古い慣習や様式から離れ、新しい技術や都市の生活に見合った表現を追い求めました。美術では、絵画が物語を描くことから離れ、色や形、平面性といった絵画そのものの性質を追究する方向へ進んだことが特徴とされます。",
+    "confusables": [
+      {
+        "slug": "postmodernism",
+        "note": "ポストモダニズムは、モダニズムの「進歩」や「純粋さ」を疑い、多様さや引用を肯定した後の時代の考え方です。"
+      },
+      {
+        "slug": "contemporary",
+        "note": "コンテンポラリーアートは、モダニズム以後から現在までの同時代の美術を指すことが多い言葉です。"
+      }
+    ],
+    "categoryIds": ["art-history", "concepts"],
+    "difficulty": 2,
+    "examples": [
+      { "description": "装飾をなくし、機能性を重視した建築やデザイン。" },
+      { "description": "物語性を捨て、色と形そのものを追求した抽象絵画。" }
+    ],
+    "viewingTips": [
+      "作品が「何を新しくしようとしたのか」「何から離れようとしたのか」を考える。"
+    ],
+    "museumUsage": "近代美術の流れを説明するときや、建築・デザインの展示でよく使われます。",
+    "museumExample": "本作の簡潔な構成は、装飾を排し、素材と形そのものに語らせようとしたモダニズムの理念をよく示している。",
+    "relatedTerms": ["postmodernism", "avant-garde", "abstract", "bauhaus"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "postmodernism",
+    "term": "ポストモダニズム",
+    "reading": "ぽすともだにずむ",
+    "english": "Postmodernism",
+    "aliases": ["ポストモダン"],
+    "summary": "モダニズムの考え方を問い直し、多様さや過去の引用を受け入れた考え方。",
+    "definition": "「モダン（近代）の後」を意味する言葉で、1970年代ごろから建築を中心に広く使われるようになりました。モダニズムが目指した進歩、純粋さ、普遍性を疑い、歴史的な様式の引用、大衆文化との混合、複数の価値観の共存などを肯定します。美術では、既存のイメージを借用するアプロプリエーションなどがその表れとされます。",
+    "confusables": [
+      {
+        "slug": "modernism",
+        "note": "モダニズムは新しさや純粋さを追求した考え方で、ポストモダニズムはそれを問い直した考え方です。"
+      }
+    ],
+    "categoryIds": ["art-history", "concepts"],
+    "difficulty": 3,
+    "examples": [
+      { "description": "古典建築の柱や装飾を、遊び心をもって引用した建築。" },
+      { "description": "有名な作品や広告イメージを借用して再構成した作品。" }
+    ],
+    "viewingTips": [
+      "作品の中に、過去の様式や他のイメージの引用がないか探してみる。"
+    ],
+    "museumUsage": "1970〜80年代以降の美術や建築を説明するときに使われます。",
+    "relatedTerms": ["modernism", "appropriation", "contemporary", "kitsch"],
+    "prerequisiteTerms": ["modernism"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "avant-garde",
+    "term": "アヴァンギャルド",
+    "reading": "あゔぁんぎゃるど",
+    "english": "Avant-garde",
+    "aliases": ["前衛", "前衛芸術", "アバンギャルド"],
+    "summary": "既存の芸術の常識を打ち破り、新しい表現を切りひらこうとする先駆的な芸術や運動。",
+    "definition": "フランス語で、軍隊の先頭を進む「前衛部隊」を意味する言葉です。芸術では、時代の先頭に立って既成の価値観や表現方法に挑戦する作家や運動を指します。とくに20世紀初めのキュビスム、未来派、ダダなどや、戦後日本の前衛美術を指して使われます。",
+    "generalDifference": "日常では「奇抜な」「斬新な」という意味で使われることもありますが、美術史では特定の時代の挑戦的な運動を指す言葉です。",
+    "categoryIds": ["art-history", "concepts"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "美術館の外で行われた、従来の展示の形を壊すような作品発表。"
+      }
+    ],
+    "viewingTips": [
+      "その作品が発表された当時、何が「当たり前」だったのかを想像する。"
+    ],
+    "museumUsage": "「前衛美術」「ロシア・アヴァンギャルド」「戦後日本の前衛」のように、運動や時代をまとめて呼ぶときに使われます。",
+    "relatedTerms": ["modernism", "dada", "futurism", "gutai"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "dada",
+    "term": "ダダ",
+    "reading": "だだ",
+    "english": "Dada",
+    "aliases": ["ダダイスム", "ダダイズム"],
+    "summary": "第一次世界大戦中に生まれた、既成の芸術や価値観を否定した芸術運動。",
+    "definition": "1916年ごろ、スイスのチューリヒにあった「キャバレー・ヴォルテール」を拠点に始まった運動で、その後ベルリン、パリ、ニューヨークなどに広がりました。戦争を生んだ社会の理性や価値観、伝統的な芸術を否定し、でたらめな詩の朗読、コラージュ、レディメイドなど、挑発的で常識はずれな表現を行いました。のちのシュルレアリスムや戦後の美術に大きな影響を与えました。",
+    "categoryIds": ["art-history"],
+    "difficulty": 2,
+    "examples": [
+      { "description": "意味のない音を並べた詩の朗読パフォーマンス。" },
+      { "description": "写真の切り貼りで社会を風刺したフォトモンタージュ。" }
+    ],
+    "viewingTips": [
+      "作品のふざけた見た目の裏にある、戦争や社会への怒りや批判を考える。"
+    ],
+    "museumUsage": "20世紀美術の運動名として使われ、現代美術の源流として紹介されることが多い言葉です。",
+    "relatedTerms": [
+      "readymade",
+      "surrealism",
+      "photomontage",
+      "avant-garde",
+      "fluxus"
+    ],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "impressionism",
+    "term": "印象派",
+    "reading": "いんしょうは",
+    "english": "Impressionism",
+    "aliases": ["印象主義"],
+    "summary": "移ろう光や大気の一瞬の印象を、明るい色彩と素早い筆づかいでとらえようとした19世紀の画家たち。",
+    "definition": "1874年にパリで開かれたグループ展をきっかけに知られるようになった画家たちとその表現です。名前は、クロード・モネの作品《印象、日の出》を見た批評家が、からかうように「印象派」と呼んだことに由来するとされます。屋外での制作を重視し、パレットの上で色を混ぜすぎず、明るい色を小さな筆触で並べることで、光や空気の変化を表そうとしました。",
+    "confusables": [
+      {
+        "slug": "post-impressionism",
+        "note": "ポスト印象派は印象派の後に、それぞれの方法で画面の構成や感情表現を追求した画家たちを指します。"
+      }
+    ],
+    "categoryIds": ["art-history", "genres-styles"],
+    "difficulty": 1,
+    "examples": [
+      { "description": "水面にきらめく光を、細かな色の筆触で描いた風景画。" },
+      { "description": "同じ場所を時間や季節を変えて何枚も描いた連作。" }
+    ],
+    "viewingTips": [
+      "近づくと筆の跡がばらばらに見え、離れると景色としてまとまる変化を体験する。",
+      "影の部分が黒ではなく、青や紫で描かれていないか探してみる。"
+    ],
+    "museumUsage": "西洋近代絵画の展示で最もよく使われる運動名の一つです。",
+    "relatedTerms": [
+      "post-impressionism",
+      "landscape-painting",
+      "brushwork",
+      "japonisme"
+    ],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "post-impressionism",
+    "term": "ポスト印象派",
+    "reading": "ぽすといんしょうは",
+    "english": "Post-Impressionism",
+    "aliases": ["後期印象派", "ポスト・インプレッショニズム"],
+    "summary": "印象派の後に、それぞれ独自の方法で新しい絵画を切りひらいた画家たちの総称。",
+    "definition": "19世紀末に、印象派の影響を受けながらも、そこから進んで独自の表現を追求した画家たちを指す言葉です。セザンヌ、ゴーガン、ファン・ゴッホ、スーラなどが代表的です。統一された運動ではなく、画面の構成、象徴性、感情の表現、色彩の理論など、それぞれが異なる方向を目指しました。名称は1910年にロンドンで開かれた展覧会に由来します。",
+    "generalDifference": "「後期印象派」とも訳されますが、印象派の後期の段階という意味ではなく、印象派の「後」に現れた画家たちという意味です。",
+    "confusables": [
+      {
+        "slug": "impressionism",
+        "note": "印象派は光や大気の印象をとらえることを重視しました。ポスト印象派はそれを出発点に、構成や感情、象徴など別の方向へ進みました。"
+      }
+    ],
+    "categoryIds": ["art-history"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "山や果物を、幾何学的な形の組み合わせのように構成した絵画。"
+      },
+      { "description": "うねるような筆づかいと強い色で描かれた風景画。" },
+      { "description": "小さな色の点を並べて描いた点描の絵画。" }
+    ],
+    "viewingTips": [
+      "同じ「ポスト印象派」の画家同士でも、描き方がまったく違うことを比べてみる。"
+    ],
+    "museumUsage": "西洋近代絵画の展示で、印象派と20世紀美術をつなぐ時期として説明されます。",
+    "relatedTerms": ["impressionism", "fauvism", "cubism", "expressionism"],
+    "prerequisiteTerms": ["impressionism"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "fauvism",
+    "term": "フォーヴィスム",
+    "reading": "ふぉーゔぃすむ",
+    "english": "Fauvism",
+    "aliases": ["野獣派", "フォービズム"],
+    "summary": "現実の色にとらわれず、強烈で鮮やかな色彩を自由に使った20世紀初めの絵画の動向。",
+    "definition": "1905年、パリのサロン・ドートンヌに出品されたアンリ・マティスらの作品の激しい色彩を見た批評家が、作家たちを「フォーヴ（野獣）」と呼んだことに由来します。目に見える色を再現するのではなく、色そのものの力で感情や画面の調和を表そうとしました。運動としての期間は短いものの、20世紀の色彩表現に大きな影響を与えました。",
+    "categoryIds": ["art-history"],
+    "difficulty": 2,
+    "examples": [{ "description": "顔に緑や紫の色が大胆に置かれた人物画。" }],
+    "viewingTips": ["現実とは違う色が、なぜそこに使われているのかを考える。"],
+    "museumUsage": "20世紀初頭の絵画の動向名として使われます。",
+    "relatedTerms": [
+      "post-impressionism",
+      "expressionism",
+      "cubism",
+      "complementary-colors"
+    ],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "cubism",
+    "term": "キュビスム",
+    "reading": "きゅびすむ",
+    "english": "Cubism",
+    "aliases": ["立体派", "キュービズム"],
+    "summary": "物をさまざまな角度から見た形を、一つの画面の中に組み合わせて描いた20世紀初めの美術の動向。",
+    "definition": "1900年代後半から1910年代にかけて、ピカソとブラックを中心に展開した動向です。一つの視点から見た姿を写す伝統的な遠近法を離れ、対象を幾何学的な面に分解し、複数の視点から見た形を一つの画面に再構成しました。新聞紙などを貼り込むパピエ・コレ（コラージュ）も、この中で生まれました。",
+    "categoryIds": ["art-history", "genres-styles"],
+    "difficulty": 2,
+    "examples": [
+      { "description": "正面と横向きの顔が一つに組み合わされたような人物画。" },
+      { "description": "ギターや瓶が、細かな面に分解されて描かれた静物画。" }
+    ],
+    "viewingTips": [
+      "一つの物が、いくつの方向から見た形で組み立てられているかを探す。",
+      "色が抑えられている場合は、形の分解と組み立てに集中して見る。"
+    ],
+    "museumUsage": "20世紀美術の出発点となった動向として紹介されます。",
+    "relatedTerms": [
+      "collage",
+      "perspective",
+      "post-impressionism",
+      "futurism"
+    ],
+    "prerequisiteTerms": ["perspective"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "futurism",
+    "term": "未来派",
+    "reading": "みらいは",
+    "english": "Futurism",
+    "aliases": ["未来主義", "フトゥリズモ"],
+    "summary": "機械や速度、都市のエネルギーを称賛した、20世紀初めのイタリアの芸術運動。",
+    "definition": "1909年、詩人マリネッティが「未来派宣言」を発表して始まった運動です。過去の伝統を否定し、自動車や機械、都市の騒音やスピードを新しい美として称えました。絵画では、動いているものの連続した姿を一つの画面に重ねて、運動や速度を表そうとしました。",
+    "categoryIds": ["art-history"],
+    "difficulty": 3,
+    "examples": [
+      { "description": "走る犬の足や人の動きが何重にもぶれて描かれた絵画。" }
+    ],
+    "viewingTips": [
+      "画面の中の線の向きや反復が、どのように速さや動きを感じさせるかを見る。"
+    ],
+    "museumUsage": "20世紀初頭のヨーロッパの前衛運動の一つとして紹介されます。",
+    "relatedTerms": ["cubism", "avant-garde", "constructivism"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "constructivism",
+    "term": "構成主義",
+    "reading": "こうせいしゅぎ",
+    "english": "Constructivism",
+    "aliases": ["ロシア構成主義"],
+    "summary": "芸術を社会の建設に役立てようとした、1910〜20年代ロシアの芸術運動。",
+    "definition": "ロシア革命前後に、タトリンやロトチェンコらによって展開した運動です。金属やガラス、木などの工業的な素材を幾何学的に組み立てる作品を作り、芸術は個人の表現ではなく、新しい社会を作るための実用的な活動であるべきだと考えました。ポスターや写真、建築、デザインにも大きな影響を与えました。",
+    "categoryIds": ["art-history", "craft-design"],
+    "difficulty": 3,
+    "examples": [
+      { "description": "斜めの構図と力強い文字を組み合わせたポスター。" },
+      { "description": "金属や木を組み立てて空間に吊るした立体作品。" }
+    ],
+    "viewingTips": [
+      "作品が「飾るため」より「社会で使うため」に作られた点に注目する。"
+    ],
+    "museumUsage": "ロシア・アヴァンギャルドやデザイン史の展示で使われます。",
+    "relatedTerms": ["avant-garde", "abstract", "bauhaus", "graphic-design"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "bauhaus",
+    "term": "バウハウス",
+    "reading": "ばうはうす",
+    "english": "Bauhaus",
+    "aliases": [],
+    "summary": "1919年にドイツで設立された、美術・工芸・建築を総合的に教えた造形学校。",
+    "definition": "建築家ヴァルター・グロピウスによって1919年にヴァイマールで設立された学校です。芸術と工芸、技術を統合し、建築を中心としたものづくりを目指しました。のちにデッサウ、ベルリンへと移り、1933年に閉校しました。機能的で簡潔なデザインの考え方や教育の方法は、閉校後も世界中に広まり、近代デザインに大きな影響を与えました。",
+    "categoryIds": ["art-history", "craft-design"],
+    "difficulty": 2,
+    "examples": [
+      { "description": "金属パイプを使った、装飾のない椅子。" },
+      { "description": "幾何学的な形と限られた色で構成されたポスターや織物。" }
+    ],
+    "viewingTips": [
+      "形が「なぜこうなっているのか」を、使いやすさや作りやすさの観点から考える。"
+    ],
+    "museumUsage": "近代デザインや建築の展示でよく使われる固有名詞です。",
+    "relatedTerms": [
+      "modernism",
+      "arts-and-crafts",
+      "graphic-design",
+      "constructivism"
+    ],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "renaissance",
+    "term": "ルネサンス",
+    "reading": "るねさんす",
+    "english": "Renaissance",
+    "aliases": ["文芸復興"],
+    "summary": "古代ギリシャ・ローマの文化を手本に、人間や自然を探究した14〜16世紀ごろのヨーロッパの文化運動。",
+    "definition": "フランス語で「再生」を意味します。14世紀ごろのイタリアで始まり、16世紀にかけてヨーロッパに広がった文化の動きです。美術では、古代の作品を手本としながら、遠近法や解剖学の研究によって、人間や空間を現実的で調和のとれた姿で表そうとしました。レオナルド・ダ・ヴィンチ、ミケランジェロ、ラファエロらが知られます。",
+    "categoryIds": ["art-history"],
+    "difficulty": 1,
+    "examples": [
+      { "description": "線遠近法を用いて奥行きのある空間を描いた宗教画。" },
+      { "description": "人体の構造を研究して制作された彫刻。" }
+    ],
+    "viewingTips": [
+      "画面の奥行きや、人物の体つきの自然さに注目する。",
+      "古代の神話や建築のモチーフが取り入れられていないか探す。"
+    ],
+    "museumUsage": "西洋美術史の時代区分として最もよく使われる言葉の一つです。",
+    "relatedTerms": ["perspective", "fresco", "baroque", "neoclassicism"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "baroque",
+    "term": "バロック",
+    "reading": "ばろっく",
+    "english": "Baroque",
+    "aliases": ["バロック美術"],
+    "summary": "劇的な明暗や動きのある構図が特徴の、17世紀ごろのヨーロッパ美術の様式。",
+    "definition": "17世紀を中心にヨーロッパで広がった美術や建築の様式です。名前はポルトガル語で「ゆがんだ真珠」を意味する言葉に由来するといわれます。強い明暗の対比、斜めの動きのある構図、感情に訴える劇的な表現が特徴です。カラヴァッジョ、ルーベンス、レンブラント、ベラスケスなどが知られます。",
+    "categoryIds": ["art-history"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "暗闇の中で、人物にスポットライトが当たったように描かれた宗教画。"
+      },
+      {
+        "description": "天井一面に天上の世界が広がるように描かれた教会の装飾。"
+      }
+    ],
+    "viewingTips": [
+      "光がどこから当たり、何を浮かび上がらせているかを見る。",
+      "画面の中の動きの方向（斜めの線やねじれた体）を追ってみる。"
+    ],
+    "museumUsage": "西洋美術史の時代区分・様式名として使われます。",
+    "relatedTerms": ["renaissance", "chiaroscuro", "vanitas", "neoclassicism"],
+    "prerequisiteTerms": ["renaissance"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "neoclassicism",
+    "term": "新古典主義",
+    "reading": "しんこてんしゅぎ",
+    "english": "Neoclassicism",
+    "aliases": ["ネオクラシシズム"],
+    "summary": "古代ギリシャ・ローマの美術を理想とし、均整のとれた端正な表現を目指した18世紀後半〜19世紀初めの様式。",
+    "definition": "18世紀半ばに古代遺跡の発掘が進んだことなどを背景に、古代の美術を理想として広がった様式です。明快な輪郭線、安定した構図、道徳的で英雄的な主題が特徴で、華やかな装飾性を持つそれまでの様式に対する反動ともされます。フランスの画家ジャック＝ルイ・ダヴィッドらが知られます。",
+    "confusables": [
+      {
+        "slug": "romanticism",
+        "note": "ロマン主義は、新古典主義の理性や秩序に対して、感情や想像力、個性を重視しました。"
+      }
+    ],
+    "categoryIds": ["art-history"],
+    "difficulty": 3,
+    "examples": [
+      {
+        "description": "古代ローマの英雄の物語を、整った構図と明快な線で描いた歴史画。"
+      }
+    ],
+    "viewingTips": [
+      "人物の配置の左右対称性や、輪郭線のはっきりした描き方に注目する。"
+    ],
+    "museumUsage": "18〜19世紀の西洋美術の様式名として使われ、ロマン主義と対比されます。",
+    "relatedTerms": ["romanticism", "history-painting", "renaissance"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "romanticism",
+    "term": "ロマン主義",
+    "reading": "ろまんしゅぎ",
+    "english": "Romanticism",
+    "aliases": ["ロマン派"],
+    "summary": "理性よりも感情や想像力、個人の内面を重視した18世紀末〜19世紀の芸術の動向。",
+    "definition": "18世紀末から19世紀前半にかけてヨーロッパで広がった芸術・思想の動向です。新古典主義の理性や秩序に対して、激しい感情、異国や過去への憧れ、自然の雄大さや恐ろしさなどを表現しました。絵画ではドラクロワやフリードリヒ、ターナーなどが知られます。",
+    "generalDifference": "日常語の「ロマンチック」は恋愛的な甘い雰囲気を指すことが多いですが、美術の「ロマン主義」は、感情や想像力を重んじる芸術の動向を指します。",
+    "categoryIds": ["art-history"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "嵐の海や霧に包まれた山岳など、自然の雄大さを描いた風景画。"
+      },
+      { "description": "激しい動きと鮮やかな色彩で描かれた戦闘場面。" }
+    ],
+    "viewingTips": [
+      "自然や出来事が、人間よりもはるかに大きな存在として描かれていないかを見る。"
+    ],
+    "museumUsage": "19世紀の西洋美術の動向名として使われます。",
+    "relatedTerms": [
+      "neoclassicism",
+      "sublime",
+      "realism",
+      "landscape-painting"
+    ],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "symbolism",
+    "term": "象徴主義",
+    "reading": "しょうちょうしゅぎ",
+    "english": "Symbolism",
+    "aliases": ["サンボリスム"],
+    "summary": "目に見えない思想や夢、神秘的な世界を、象徴的なイメージによって表そうとした19世紀末の芸術の動向。",
+    "definition": "19世紀後半のフランスの詩の運動から始まり、美術にも広がった動向です。写実主義や印象派が目に見える現実を描いたのに対し、神話や夢、死や愛といった内面的・精神的な世界を、象徴的なイメージを通して表現しようとしました。ギュスターヴ・モローやオディロン・ルドンなどが知られます。",
+    "confusables": [
+      {
+        "slug": "symbol",
+        "note": "「象徴」は一般的な概念で、「象徴主義」は19世紀末の特定の芸術の動向を指します。"
+      }
+    ],
+    "categoryIds": ["art-history"],
+    "difficulty": 3,
+    "examples": [
+      {
+        "description": "神話の人物が幻想的な光の中に浮かぶように描かれた絵画。"
+      }
+    ],
+    "viewingTips": ["描かれた物や人物が、何を象徴しているのかを想像する。"],
+    "museumUsage": "19世紀末の西洋美術の動向名として使われます。",
+    "relatedTerms": ["symbol", "allegory", "art-nouveau", "surrealism"],
+    "prerequisiteTerms": ["symbol"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "gutai",
+    "term": "具体美術協会",
+    "reading": "ぐたいびじゅつきょうかい",
+    "english": "Gutai Art Association",
+    "aliases": ["具体", "GUTAI"],
+    "summary": "1954年に関西で結成された、戦後日本を代表する前衛美術のグループ。",
+    "definition": "画家の吉原治良を中心に、1954年に兵庫県芦屋市で結成されたグループです。「人のまねをするな」という考えのもと、足で描く、物を投げつける、泥の中で体を動かすなど、それまでにない方法で絵画や野外展示、舞台での発表を行いました。物質と人間の行為の関係を追究したその活動は、海外でも高く評価されています。",
+    "categoryIds": ["art-history", "contemporary-art"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "天井から吊るしたロープにつかまり、足で絵具を塗り広げた絵画。"
+      },
+      { "description": "屋外の公園で行われた野外展示。" }
+    ],
+    "viewingTips": [
+      "画面に残された跡から、作家がどんな行為をしたのかを想像する。"
+    ],
+    "museumUsage": "戦後日本美術の展示で、グループ名として使われます。",
+    "relatedTerms": [
+      "avant-garde",
+      "corporeality",
+      "performance-art",
+      "abstract-expressionism"
+    ],
+    "prerequisiteTerms": ["avant-garde"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "mono-ha",
+    "term": "もの派",
+    "reading": "ものは",
+    "english": "Mono-ha",
+    "aliases": [],
+    "summary": "石や木、紙などの素材をほとんど加工せずに置き、物と空間の関係を示した1960年代末〜70年代の日本の美術の動向。",
+    "definition": "1960年代末から70年代にかけて日本で展開した動向で、関根伸夫、李禹煥、菅木志雄らが知られます。石、木、鉄板、紙、綿などの素材を、ほとんど手を加えずに組み合わせたり配置したりすることで、物そのもののあり方や、物同士・物と空間との関係を浮かび上がらせようとしました。",
+    "categoryIds": ["art-history", "contemporary-art"],
+    "difficulty": 3,
+    "examples": [
+      { "description": "ガラス板の上に大きな石を置いた作品。" },
+      { "description": "地面に掘った穴と、掘り出した土を同じ形で並べた作品。" }
+    ],
+    "viewingTips": [
+      "物そのものより、物と物、物と床や壁との「あいだ」に注目する。",
+      "素材の重さや緊張感を、作品の周りを歩きながら感じる。"
+    ],
+    "museumUsage": "戦後日本美術の展示で動向名として使われます。",
+    "relatedTerms": ["minimalism", "installation", "site-specific", "gutai"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "fluxus",
+    "term": "フルクサス",
+    "reading": "ふるくさす",
+    "english": "Fluxus",
+    "aliases": [],
+    "summary": "1960年代に国際的に展開した、芸術と日常の境界をなくそうとした芸術運動。",
+    "definition": "ジョージ・マチューナスが中心となり、1960年代に欧米や日本の作家が参加して展開した運動です。ラテン語の「流れ」に由来する名前のとおり、音楽、パフォーマンス、詩、出版物など分野を横断し、日常の簡単な行為を作品とする「イベント」や、小さな箱に物を詰めた作品などを発表しました。ヨーコ・オノやナム・ジュン・パイクなども関わりました。",
+    "categoryIds": ["art-history", "contemporary-art"],
+    "difficulty": 3,
+    "examples": [
+      {
+        "description": "「ピアノの鍵盤を一つ押す」といった短い指示が書かれたカード。"
+      },
+      { "description": "小物やカードを箱に詰めて、量産・販売した作品。" }
+    ],
+    "viewingTips": [
+      "作品の「指示」を読んで、自分ならどう実行するかを想像してみる。"
+    ],
+    "museumUsage": "1960年代の美術や、パフォーマンス、コンセプチュアル・アートの展示で使われます。",
+    "relatedTerms": ["happening", "performance-art", "conceptual-art", "dada"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "art-nouveau",
+    "term": "アール・ヌーヴォー",
+    "reading": "あーるぬーゔぉー",
+    "english": "Art Nouveau",
+    "aliases": ["アールヌーボー", "ユーゲントシュティール"],
+    "summary": "植物のような曲線を特徴とする、19世紀末〜20世紀初めのヨーロッパの装飾様式。",
+    "definition": "フランス語で「新しい芸術」を意味します。19世紀末から20世紀初めにかけて、ヨーロッパ各地で建築、家具、ガラス工芸、ポスターなどに広がった様式です。植物のつるや花、女性の髪のような、流れるような曲線の装飾が特徴で、日本美術の影響も受けました。ミュシャのポスターやガレのガラス器などが知られます。",
+    "confusables": [
+      {
+        "slug": "art-deco",
+        "note": "アール・ヌーヴォーは植物的な曲線が特徴で、その後に流行したアール・デコは直線的・幾何学的な形が特徴です。"
+      }
+    ],
+    "categoryIds": ["art-history", "craft-design"],
+    "difficulty": 2,
+    "examples": [
+      { "description": "花や草のつるで縁取られた女性像のポスター。" },
+      { "description": "植物の形を取り入れたガラスの花瓶やランプ。" }
+    ],
+    "viewingTips": ["装飾の曲線が、植物のどんな部分から生まれているかを探す。"],
+    "museumUsage": "工芸やデザイン、ポスターの展示で様式名として使われます。",
+    "relatedTerms": ["art-deco", "japonisme", "arts-and-crafts", "symbolism"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "japonisme",
+    "term": "ジャポニスム",
+    "reading": "じゃぽにすむ",
+    "english": "Japonisme",
+    "aliases": ["ジャポニズム", "日本趣味"],
+    "summary": "19世紀後半のヨーロッパで起こった、日本の美術や工芸への関心と、その影響。",
+    "definition": "19世紀後半、開国後の日本から浮世絵や陶磁器、工芸品などが大量にヨーロッパへ渡り、万国博覧会などを通じて広く知られるようになりました。その結果、日本の美術を収集・愛好する流行が生まれ、画家たちは浮世絵の大胆な構図、平らな色面、輪郭線などから新しい表現のヒントを得ました。印象派やポスト印象派、アール・ヌーヴォーに大きな影響を与えました。",
+    "categoryIds": ["art-history"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "背景に浮世絵や扇子、着物などが描き込まれた西洋の絵画。"
+      },
+      { "description": "浮世絵の大胆な構図を取り入れた風景画。" }
+    ],
+    "viewingTips": [
+      "西洋の作品の中に、日本の美術から取り入れた構図や色の使い方を探す。"
+    ],
+    "museumUsage": "19世紀の西洋美術と日本美術の関係を扱う展示で使われます。",
+    "relatedTerms": [
+      "ukiyo-e",
+      "impressionism",
+      "art-nouveau",
+      "post-impressionism"
+    ],
+    "prerequisiteTerms": ["ukiyo-e"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "slug": "materials-techniques",
+    "name": "素材・技法",
+    "description": "作品が「何で」「どうやって」作られているかを表す言葉です。絵具や布、紙、版といった素材や、それを扱う技法を知ると、作品に近づいて表面を見たときの発見が増えます。キャプションの「素材・技法」欄を読むための基本となるカテゴリです。",
+    "featuredTerms": [
+      "oil-painting",
+      "textile",
+      "collage",
+      "mixed-media",
+      "printmaking",
+      "matiere"
+    ]
+  },
+  {
+    "slug": "genres-styles",
+    "name": "美術のジャンル・様式",
+    "description": "風景画や肖像画といった描かれる対象による分類や、抽象・具象のように表現の方向性を示す言葉を集めました。作品がどのような伝統や考え方の流れの中にあるのかをつかむ手がかりになります。",
+    "featuredTerms": [
+      "abstract",
+      "figurative",
+      "contemporary",
+      "landscape-painting",
+      "still-life",
+      "conceptual-art"
+    ]
+  },
+  {
+    "slug": "art-history",
+    "name": "美術史・芸術運動",
+    "description": "ルネサンスから印象派、ダダ、戦後日本の前衛まで、美術の歴史を形づくってきた時代区分や芸術運動の名前です。展覧会のタイトルや章立てによく使われるので、時代の流れとあわせて覚えると展示の構成が見えてきます。",
+    "featuredTerms": [
+      "renaissance",
+      "impressionism",
+      "cubism",
+      "dada",
+      "modernism",
+      "avant-garde"
+    ]
+  },
+  {
+    "slug": "concepts",
+    "name": "表現・批評の概念",
+    "description": "「文脈」「身体性」「批評性」など、作品の意味や評価を語るときに使われる抽象的な言葉です。日常語と同じ単語でも美術では少し違う意味で使われることが多く、解説文を読み解くうえでつまずきやすいポイントでもあります。",
+    "featuredTerms": [
+      "context",
+      "motif",
+      "symbol",
+      "criticality",
+      "corporeality",
+      "appropriation"
+    ]
+  },
+  {
+    "slug": "composition-viewing",
+    "name": "作品の構成・鑑賞",
+    "description": "構図や遠近法など画面の組み立てを表す言葉と、キャプションや図録、キュレーターといった美術館で作品に出会う場面で使われる言葉です。作品の「見方」と展覧会の「仕組み」の両方を知ることができます。",
+    "featuredTerms": [
+      "composition",
+      "perspective",
+      "caption",
+      "curator",
+      "chiaroscuro",
+      "white-cube"
+    ]
+  },
+  {
+    "slug": "craft-design",
+    "name": "工芸・デザイン",
+    "description": "陶芸や漆芸、染織など、暮らしの道具と結びつきながら発展してきた工芸と、デザインの歴史に関わる言葉です。「美術」と「工芸」「デザイン」の境界がどのように考えられてきたかも、展覧会のテーマになることがあります。",
+    "featuredTerms": [
+      "kogei",
+      "ceramics",
+      "mingei",
+      "textile",
+      "arts-and-crafts",
+      "bauhaus"
+    ]
+  },
+  {
+    "slug": "contemporary-art",
+    "name": "現代美術",
+    "description": "インスタレーションや映像、パフォーマンスなど、20世紀後半以降に広がった表現の形式や考え方の言葉です。絵画や彫刻という枠に収まらない作品を前にして「どう見ればいいのか」と感じたときの手がかりになります。",
+    "featuredTerms": [
+      "contemporary",
+      "installation",
+      "conceptual-art",
+      "video-art",
+      "performance-art",
+      "site-specific"
+    ]
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "slug": "installation",
+    "term": "インスタレーション",
+    "reading": "いんすたれーしょん",
+    "english": "Installation",
+    "aliases": ["インスタレーション・アート", "設置芸術"],
+    "summary": "物や映像、音、光などを空間に配置し、その空間全体を作品として体験させる表現。",
+    "definition": "英語で「設置」を意味します。展示室や屋外の空間に、物、映像、音、光などを組み合わせて配置し、鑑賞者がその中に入ったり歩き回ったりして体験する空間全体を作品とする表現形式です。1960〜70年代以降に広がり、現代美術の代表的な形式の一つとなりました。",
+    "generalDifference": "IT分野ではソフトウェアの「インストール」を指しますが、美術では空間を使った作品形式の名前です。",
+    "confusables": [
+      {
+        "slug": "site-specific",
+        "note": "サイトスペシフィックは特定の場所との結びつきを指す言葉で、インスタレーションは空間全体を作品とする形式を指します。"
+      },
+      {
+        "slug": "sculpture",
+        "note": "彫刻は一つの物として周りから見る作品が多いのに対し、インスタレーションは鑑賞者が空間の中に入り込んで体験する作品です。"
+      }
+    ],
+    "categoryIds": ["contemporary-art"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "部屋いっぱいに糸を張りめぐらせ、その中を歩けるようにした作品。"
+      },
+      { "description": "暗い空間に映像と音を組み合わせて投影した作品。" },
+      { "description": "大量の日用品を床一面に並べた作品。" }
+    ],
+    "viewingTips": [
+      "作品の中や周りを歩き、位置によって見え方や聞こえ方がどう変わるかを確かめる。",
+      "光、音、におい、温度など、視覚以外の感覚にも意識を向ける。",
+      "空間に入った瞬間の第一印象を大切にする。"
+    ],
+    "museumUsage": "現代美術の展示で最もよく見かける形式名の一つです。キャプションの素材欄に「インスタレーション」と記されることもあります。",
+    "museumExample": "展示室全体を使ったインスタレーションは、鑑賞者自身を作品の一部として巻き込みながら、記憶と場所の関係を問いかける。",
+    "relatedTerms": [
+      "site-specific",
+      "media-art",
+      "mixed-media",
+      "contemporary"
+    ],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "video-art",
+    "term": "ビデオアート",
+    "reading": "びでおあーと",
+    "english": "Video art",
+    "aliases": ["映像作品", "ヴィデオ・アート", "映像インスタレーション"],
+    "summary": "ビデオや映像を表現の手段として用いた美術作品。",
+    "definition": "1960年代に携帯できるビデオ機器が登場したことをきっかけに広がった表現です。ナム・ジュン・パイクらが先駆者として知られます。物語を見せる映画とは異なり、時間や知覚、メディアそのものを問いかける作品が多く、モニターやプロジェクターを空間に配置したインスタレーションとして展示されることもあります。",
+    "categoryIds": ["contemporary-art"],
+    "difficulty": 1,
+    "examples": [
+      { "description": "複数のテレビモニターを積み上げて映像を流した作品。" },
+      { "description": "同じ動作を繰り返す人物を長時間撮影した映像作品。" }
+    ],
+    "viewingTips": [
+      "作品の長さ（上映時間）を確認し、可能であれば最初から見る。",
+      "映像の内容だけでなく、モニターや投影の仕方も作品の一部として見る。"
+    ],
+    "museumUsage": "キャプションには「シングルチャンネル・ビデオ」「〇分〇秒」などの情報が記されることがあります。",
+    "relatedTerms": ["media-art", "installation", "performance-art", "fluxus"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "performance-art",
+    "term": "パフォーマンス・アート",
+    "reading": "ぱふぉーまんすあーと",
+    "english": "Performance art",
+    "aliases": ["パフォーマンス", "パフォーマンスアート"],
+    "summary": "作家などの身体による行為そのものを作品とする表現。",
+    "definition": "作家自身や参加者の身体を使った行為を、観客の前で行うことを作品とする表現です。演劇やダンスと重なる部分もありますが、物語やせりふよりも、行為や時間、身体そのものを問いかける点が特徴とされます。一回限りで行われることが多いため、写真や映像、残された物によって記録・展示されることもあります。",
+    "confusables": [
+      {
+        "slug": "happening",
+        "note": "ハプニングは1950〜60年代に始まった、観客も巻き込む即興的な出来事としての作品を指し、パフォーマンス・アートの先駆けの一つとされます。"
+      }
+    ],
+    "categoryIds": ["contemporary-art"],
+    "difficulty": 1,
+    "examples": [
+      { "description": "作家が長時間、同じ姿勢で観客と向き合い続ける作品。" },
+      {
+        "description": "パフォーマンスの記録映像と、使用された道具を並べた展示。"
+      }
+    ],
+    "viewingTips": [
+      "行為そのものに加えて、それが行われた時間や場所の意味を考える。",
+      "記録の展示では、その場にいなかった自分が何を想像できるかを意識する。"
+    ],
+    "museumUsage": "現代美術の展示で表現形式の名前として、また記録資料の解説で使われます。",
+    "relatedTerms": ["happening", "corporeality", "fluxus", "video-art"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "media-art",
+    "term": "メディアアート",
+    "reading": "めでぃああーと",
+    "english": "Media art / New media art",
+    "aliases": ["ニューメディアアート", "デジタルアート"],
+    "summary": "コンピュータや映像、通信などの技術を用いた美術表現。",
+    "definition": "コンピュータ、センサー、インターネット、映像機器など、新しいメディア技術を表現の手段として用いる作品の総称です。プログラムによって刻々と変化する作品や、鑑賞者の動きに反応するインタラクティブな作品などがあります。技術そのものや、技術が社会や人間の感覚に与える影響を問いかける作品も多く見られます。",
+    "categoryIds": ["contemporary-art"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "プログラムによって映像が生成され続け、二度と同じ画面にならない作品。"
+      },
+      { "description": "来場者の声や動きに反応して光が変化する作品。" }
+    ],
+    "viewingTips": [
+      "作品がどんな仕組みで動いているかを想像してみる。",
+      "技術の新しさだけでなく、作品が何を問いかけているかに注目する。"
+    ],
+    "museumUsage": "現代美術館やメディアアートの専門施設、フェスティバルで使われます。",
+    "relatedTerms": ["interactive", "video-art", "installation", "medium"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "land-art",
+    "term": "ランドアート",
+    "reading": "らんどあーと",
+    "english": "Land art / Earth art",
+    "aliases": ["アースワーク", "アース・アート"],
+    "summary": "大地や自然の地形そのものを素材や舞台とする、主に野外の大規模な作品。",
+    "definition": "1960年代後半からアメリカを中心に展開した表現です。砂漠や湖、山などの自然の中で、土や石、水などを使って大規模な作品を作りました。美術館やギャラリーの中に収まらず、売買もしにくい作品のあり方は、美術の制度への問いかけでもありました。写真や映像、地図などの記録で紹介されることが多くあります。",
+    "categoryIds": ["contemporary-art"],
+    "difficulty": 2,
+    "examples": [
+      { "description": "湖の中に岩や土で巨大な渦巻きの形を作った作品。" },
+      { "description": "砂漠に長い溝を掘った作品。" }
+    ],
+    "viewingTips": [
+      "記録写真で見る場合は、作品の実際の大きさや周りの自然環境を想像する。",
+      "時間とともに風化・変化することも作品の一部として考える。"
+    ],
+    "museumUsage": "1960〜70年代の美術の展示で、記録資料とともに紹介されます。",
+    "relatedTerms": [
+      "site-specific",
+      "public-art",
+      "minimalism",
+      "installation"
+    ],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "public-art",
+    "term": "パブリックアート",
+    "reading": "ぱぶりっくあーと",
+    "english": "Public art",
+    "aliases": ["パブリック・アート", "公共芸術"],
+    "summary": "公園や駅、広場など、誰もが目にできる公共の場所に設置された作品。",
+    "definition": "美術館の中ではなく、街路、公園、駅、建物の広場など、公共の空間に設置される美術作品を指します。彫刻や壁画のほか、ベンチや照明など機能を持つ作品もあります。地域の人々の日常の風景の一部となるため、場所の歴史や住民との関係が重視されることも多くあります。",
+    "categoryIds": ["contemporary-art"],
+    "difficulty": 1,
+    "examples": [
+      { "description": "駅前の広場に設置された大きな彫刻。" },
+      { "description": "建物の外壁に描かれた大規模な壁画。" }
+    ],
+    "viewingTips": [
+      "身近な街の中にある作品を探し、その場所に置かれた理由を考える。"
+    ],
+    "museumUsage": "地域の芸術プロジェクトや都市計画と関わる展示・解説で使われます。",
+    "relatedTerms": ["site-specific", "street-art", "art-project", "land-art"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "relational-art",
+    "term": "関係性の美学",
+    "reading": "かんけいせいのびがく",
+    "english": "Relational aesthetics",
+    "aliases": ["リレーショナル・アート", "関係性の芸術"],
+    "summary": "物としての作品よりも、作品を通じて生まれる人と人との関係や出会いを重視する考え方。",
+    "definition": "フランスのキュレーター、ニコラ・ブリオーが1990年代に提唱した考え方です。展示空間で料理をふるまう、人が集まる場を作るなど、作品をきっかけに生まれる人間同士の関係やコミュニケーションそのものを作品の中心ととらえました。1990年代以降の参加型の作品を語るときに、よく参照されます。",
+    "confusables": [
+      {
+        "slug": "participatory-art",
+        "note": "参加型アートは観客の参加によって成り立つ作品全般を指し、関係性の美学はそれを理論づけた考え方の一つです。"
+      }
+    ],
+    "categoryIds": ["contemporary-art", "concepts"],
+    "difficulty": 3,
+    "examples": [
+      {
+        "description": "ギャラリーの中で作家が料理を作り、来場者にふるまう作品。"
+      },
+      { "description": "来場者がくつろぎ、会話できる空間をしつらえた作品。" }
+    ],
+    "viewingTips": [
+      "作品の場で、自分と他の来場者の間に何が起きているかに目を向ける。"
+    ],
+    "museumUsage": "1990年代以降の現代美術や参加型の作品の解説で使われます。",
+    "relatedTerms": [
+      "participatory-art",
+      "art-project",
+      "interactive",
+      "context"
+    ],
+    "prerequisiteTerms": ["participatory-art"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "participatory-art",
+    "term": "参加型アート",
+    "reading": "さんかがたあーと",
+    "english": "Participatory art",
+    "aliases": [
+      "参加型作品",
+      "ソーシャリー・エンゲイジド・アート",
+      "体験型アート"
+    ],
+    "summary": "鑑賞者や地域の人々が制作や体験に参加することで成り立つ作品。",
+    "definition": "観客がただ見るだけでなく、作品の制作や進行に関わることで完成する作品を指します。ワークショップの形で作品を共同制作するもの、来場者が物を持ち帰ったり書き込んだりするもの、地域の人々と長期間関わりながら進めるものなど、多様な形があります。",
+    "categoryIds": ["contemporary-art"],
+    "difficulty": 2,
+    "examples": [
+      { "description": "来場者が願いごとを書いたカードを結びつけていく作品。" },
+      {
+        "description": "地域の住民と一緒に記憶を聞き取り、本にまとめるプロジェクト。"
+      }
+    ],
+    "viewingTips": [
+      "参加できる作品なら、実際に関わってみて自分の感じ方の変化を味わう。",
+      "参加者によって作品がどう変化してきたかに注目する。"
+    ],
+    "museumUsage": "芸術祭や地域のアートプロジェクト、教育普及の場面でよく使われます。",
+    "relatedTerms": [
+      "relational-art",
+      "interactive",
+      "art-project",
+      "happening"
+    ],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "art-project",
+    "term": "アートプロジェクト",
+    "reading": "あーとぷろじぇくと",
+    "english": "Art project",
+    "aliases": ["地域アート", "アート・プロジェクト"],
+    "summary": "美術館の外で、地域や社会と関わりながら一定期間にわたって行われる芸術活動。",
+    "definition": "まちなか、農村、離島、商店街、空き家などを舞台に、作家と地域の人々、行政、ボランティアなどが関わりながら行う芸術活動の総称です。作品の展示だけでなく、制作の過程や地域との交流そのものが重視されます。日本では1990年代以降、各地で数多く行われるようになりました。",
+    "categoryIds": ["contemporary-art"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "空き家を改装して作品を展示し、地域の人との交流の場とする活動。"
+      },
+      { "description": "島全体を舞台に、作家が滞在しながら制作する取り組み。" }
+    ],
+    "viewingTips": [
+      "作品だけでなく、その土地の風景や人々の暮らしとあわせて体験する。"
+    ],
+    "museumUsage": "地域の芸術祭や、美術館の外での活動の紹介で使われます。",
+    "relatedTerms": [
+      "site-specific",
+      "participatory-art",
+      "biennale",
+      "public-art"
+    ],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "biennale",
+    "term": "ビエンナーレ",
+    "reading": "びえんなーれ",
+    "english": "Biennale / Biennial",
+    "aliases": ["トリエンナーレ", "国際芸術祭", "芸術祭"],
+    "summary": "2年に1度開かれる大規模な国際美術展。3年に1度のものはトリエンナーレと呼ばれる。",
+    "definition": "イタリア語で「2年ごとの」を意味します。1895年に始まったヴェネツィア・ビエンナーレが代表的で、その後世界各地で同様の国際美術展が開かれるようになりました。3年に1度のものは「トリエンナーレ」と呼ばれます。日本でも各地で国際芸術祭が開かれ、同時代の美術の動向を知る場となっています。",
+    "categoryIds": ["contemporary-art", "composition-viewing"],
+    "difficulty": 1,
+    "examples": [
+      { "description": "国ごとのパビリオンで各国の作家を紹介する国際展。" },
+      { "description": "都市や地域全体を会場にして開かれる芸術祭。" }
+    ],
+    "viewingTips": [
+      "全体のテーマを確認してから、個々の作品がそれにどう応えているかを見る。"
+    ],
+    "museumUsage": "展覧会名や作家の経歴（「〇〇ビエンナーレに参加」）でよく使われます。",
+    "relatedTerms": ["curator", "art-project", "contemporary"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "street-art",
+    "term": "ストリートアート",
+    "reading": "すとりーとあーと",
+    "english": "Street art",
+    "aliases": ["グラフィティ", "ストリート・アート"],
+    "summary": "街の壁や路上など、公共の場で制作・発表される表現。",
+    "definition": "建物の壁、高架下、路上などに描かれる絵やステンシル、ポスターなどの表現を指します。1970年代のニューヨークで広がったグラフィティ（スプレーによる落書き）がルーツの一つとされます。許可なく描かれるものも多く、違法性や公共空間のあり方をめぐって議論される一方、美術館で展示されたり、市場で取引されたりすることも増えています。",
+    "confusables": [
+      {
+        "slug": "public-art",
+        "note": "パブリックアートは行政や所有者の依頼・許可のもとで設置されることが多い作品で、ストリートアートは作家が自発的に街で発表する表現を多く含みます。"
+      }
+    ],
+    "categoryIds": ["contemporary-art"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "ステンシルを使って壁に描かれた、社会を風刺するイメージ。"
+      },
+      { "description": "街の壁一面に描かれた色鮮やかな壁画。" }
+    ],
+    "viewingTips": ["その場所に描かれたことに、どんな意味があるかを考える。"],
+    "museumUsage": "現代美術や都市文化を扱う展示で使われます。",
+    "relatedTerms": ["public-art", "pop-art", "site-specific"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "sound-art",
+    "term": "サウンドアート",
+    "reading": "さうんどあーと",
+    "english": "Sound art",
+    "aliases": ["サウンド・アート", "音響芸術", "サウンド・インスタレーション"],
+    "summary": "音や聴くことそのものを素材・テーマとする美術作品。",
+    "definition": "音を主な素材として用いる美術の表現です。音楽のように曲として演奏されるのではなく、空間の中で鳴る音、環境音、振動などを用いて、聴くという経験や、音と空間の関係を問いかける作品が多くあります。インスタレーションとして展示されることが一般的です。",
+    "categoryIds": ["contemporary-art"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "展示室の複数のスピーカーから、少しずつずれた音が流れる作品。"
+      },
+      { "description": "街の環境音を録音し、別の場所で再生する作品。" }
+    ],
+    "viewingTips": [
+      "部屋の中を移動して、音の聞こえ方の変化を体験する。",
+      "目を閉じて、音だけに集中する時間を作ってみる。"
+    ],
+    "museumUsage": "現代美術の展示で表現形式の名前として使われます。",
+    "relatedTerms": ["installation", "media-art", "fluxus"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "happening",
+    "term": "ハプニング",
+    "reading": "はぷにんぐ",
+    "english": "Happening",
+    "aliases": [],
+    "summary": "観客を巻き込みながら一回限りで行われる、即興的な出来事としての作品。",
+    "definition": "1950年代末にアメリカの作家アラン・カプローが用い始めた言葉で、絵画や彫刻のような完成した物ではなく、一定の場所と時間の中で起こる出来事そのものを作品としました。大まかな筋書きはあっても、観客の参加や偶然によって展開が変わることが特徴です。パフォーマンス・アートや参加型アートの先駆けとされます。",
+    "generalDifference": "日常では「予期せぬ出来事」を意味しますが、美術では1950〜60年代に始まった特定の表現形式を指します。",
+    "categoryIds": ["contemporary-art", "art-history"],
+    "difficulty": 3,
+    "examples": [
+      {
+        "description": "参加者が指示に従って空間を移動し、さまざまな行為を行うイベント。"
+      }
+    ],
+    "viewingTips": ["記録写真や資料から、その場で何が起きていたかを想像する。"],
+    "museumUsage": "1950〜60年代の美術を扱う展示で、パフォーマンスの歴史を説明するときに使われます。",
+    "relatedTerms": ["performance-art", "fluxus", "participatory-art"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  }
+]

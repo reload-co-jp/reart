@@ -1,0 +1,394 @@
+[
+  {
+    "slug": "composition",
+    "term": "構図",
+    "reading": "こうず",
+    "english": "Composition",
+    "aliases": ["コンポジション", "画面構成"],
+    "summary": "画面の中に、物や人物、色や形をどのように配置するかという組み立てのこと。",
+    "definition": "作品の中で、モチーフや色、形、余白などをどのように配置し、全体をまとめるかという画面の組み立てを指します。三角形の安定した構図、斜めの線を生かした動きのある構図、中心をずらした構図など、配置の仕方によって作品の印象は大きく変わります。",
+    "generalDifference": "写真やデザインでも使われる言葉ですが、抽象絵画では作品のタイトルとして「コンポジション」が使われることもあります。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 1,
+    "examples": [
+      { "description": "人物を三角形に配置して安定感を出した宗教画。" },
+      { "description": "画面の端で人物が切れている、大胆な構図の浮世絵。" }
+    ],
+    "viewingTips": [
+      "最初に目が行く場所はどこか、そこから視線がどう動くかをたどる。",
+      "画面を縦横に分ける線や、繰り返される形を探す。"
+    ],
+    "museumUsage": "絵画や写真の解説で、「大胆な構図」「安定した構図」のように使われます。",
+    "museumExample": "画面の手前に大きく波を配し、遠くの山を小さく見せる大胆な構図が、自然の力強さを際立たせている。",
+    "relatedTerms": ["perspective", "blank-space", "motif", "triptych"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "perspective",
+    "term": "遠近法",
+    "reading": "えんきんほう",
+    "english": "Perspective",
+    "aliases": ["透視図法", "線遠近法", "空気遠近法", "パースペクティブ"],
+    "summary": "平らな画面の上に、奥行きや距離感を表すための描き方。",
+    "definition": "遠くの物を小さく、近くの物を大きく描き、平らな画面に立体的な空間があるように見せる方法です。平行な線が画面の奥の一点（消失点）に集まるように描く「線遠近法」は、15世紀のイタリアで理論化され、ルネサンス絵画で発展しました。遠くの物を青みがかった、ぼんやりした色で描く「空気遠近法」もあります。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "床のタイルや建物の線が、画面中央の一点に向かって集まる宗教画。"
+      },
+      { "description": "遠くの山々がだんだん青く、かすんで描かれた風景画。" }
+    ],
+    "viewingTips": [
+      "画面の中の線を延長して、消失点がどこにあるかを探してみる。",
+      "遠近法が意図的に崩されている場合、その効果を考える。"
+    ],
+    "museumUsage": "ルネサンス絵画の解説や、遠近法から離れた近代絵画の説明で使われます。",
+    "relatedTerms": [
+      "renaissance",
+      "composition",
+      "cubism",
+      "landscape-painting"
+    ],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "chiaroscuro",
+    "term": "キアロスクーロ",
+    "reading": "きあろすくーろ",
+    "english": "Chiaroscuro",
+    "aliases": ["明暗法", "明暗対比"],
+    "summary": "光と影の対比によって、立体感や劇的な効果を表す絵画の技法。",
+    "definition": "イタリア語の「明るい（キアロ）」と「暗い（スクーロ）」を組み合わせた言葉です。光の当たる部分と影の部分の明暗の差を利用して、物の立体感や空間の奥行きを表します。とくに強い明暗の対比で劇的な効果を生む表現は、バロック期の絵画で多く用いられました。",
+    "categoryIds": ["composition-viewing", "materials-techniques"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "暗い背景から、光を受けた人物の顔や手が浮かび上がる絵画。"
+      },
+      { "description": "ろうそくの光だけで照らされた室内の場面。" }
+    ],
+    "viewingTips": [
+      "光源がどこにあるか、光がどの方向から差しているかを確かめる。",
+      "最も明るく照らされているのが何か、それがなぜ強調されているのかを考える。"
+    ],
+    "museumUsage": "ルネサンスからバロックの西洋絵画の解説で使われます。",
+    "relatedTerms": ["baroque", "composition", "portrait"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "triptych",
+    "term": "三連画",
+    "reading": "さんれんが",
+    "english": "Triptych",
+    "aliases": ["トリプティック", "三幅対", "祭壇画"],
+    "summary": "三つの画面を並べて、一つの作品として構成したもの。",
+    "definition": "三枚のパネルを並べて一組とした絵画などの形式です。中世からルネサンスのヨーロッパでは、蝶番でつながった左右の扉を開閉できる祭壇画として多く作られました。中央に最も重要な場面を置き、左右に関連する場面を配置するのが一般的です。現代の絵画や写真でも用いられます。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 2,
+    "examples": [
+      { "description": "中央に主要な場面、両翼に関連する人物を描いた祭壇画。" },
+      { "description": "三枚の写真を並べて時間の経過を表した作品。" }
+    ],
+    "viewingTips": [
+      "三つの画面がどのような順序や関係でつながっているかを読み取る。",
+      "扉を閉じたときに見える外側の面が展示されていないかも確認する。"
+    ],
+    "museumUsage": "宗教画の形式名として、また現代作品の構成を説明するときに使われます。",
+    "relatedTerms": ["composition", "renaissance", "subject-matter"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "edition",
+    "term": "エディション",
+    "reading": "えでぃしょん",
+    "english": "Edition",
+    "aliases": ["限定部数", "エディション番号", "ed."],
+    "summary": "版画や写真、彫刻などで、同じ作品を何点制作するかを定めた数や、その番号。",
+    "definition": "版画、写真、ブロンズ彫刻、映像作品など、同じ作品を複数制作できるものについて、制作する総数と各作品の通し番号を示すものです。たとえば「3/50」は50部中の3番目を意味します。総数とは別に、作家の手元に残す「A.P.（アーティスト・プルーフ）」が作られることもあります。",
+    "generalDifference": "日常では本や商品の「版」（限定版など）を指しますが、美術では作品の制作数と通し番号を指す言葉として使われます。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "版画の余白に鉛筆で書かれた「12/30」という番号とサイン。"
+      },
+      { "description": "「ed. 5 + 2AP」と記された写真作品。" }
+    ],
+    "viewingTips": ["版画の余白に書かれた番号やサインを探してみる。"],
+    "museumUsage": "キャプションで、版画や写真、映像作品の制作数を示すために記されます。",
+    "relatedTerms": ["printmaking", "originality", "aura", "caption"],
+    "prerequisiteTerms": ["printmaking"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "catalogue",
+    "term": "図録",
+    "reading": "ずろく",
+    "english": "Exhibition catalogue",
+    "aliases": ["カタログ", "展覧会カタログ"],
+    "summary": "展覧会にあわせて刊行される、出品作品の図版と解説をまとめた本。",
+    "definition": "展覧会の出品作品の写真（図版）、作品データ、作品解説、研究者や学芸員による論文などをまとめた出版物です。展覧会の記録であると同時に、研究資料としての役割も持ちます。会場のショップで販売されることが一般的です。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "出品作品すべてのカラー図版と、作品リストを掲載した本。"
+      }
+    ],
+    "viewingTips": [
+      "鑑賞後に図録の論文を読むと、展示の構成や意図がより深く理解できる。"
+    ],
+    "museumUsage": "展覧会の案内や美術館ショップで使われます。参考文献として挙げられることも多くあります。",
+    "relatedTerms": ["curator", "caption", "retrospective"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "curator",
+    "term": "キュレーター",
+    "reading": "きゅれーたー",
+    "english": "Curator",
+    "aliases": ["学芸員", "キュレーション"],
+    "summary": "展覧会を企画し、作品の選定や展示の構成を考える専門家。",
+    "definition": "美術館などで、作品や資料の収集、調査研究、保存、展覧会の企画などを担当する専門職です。日本の美術館では「学芸員」とほぼ同じ意味で使われます。展覧会のテーマを決め、作品を選び、どのような順序や組み合わせで見せるかを考える仕事は「キュレーション」と呼ばれます。",
+    "generalDifference": "近年は「情報のキュレーション」のように、情報を選んで編集する意味でも広く使われますが、もともとは美術館や博物館の専門職を指す言葉です。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "テーマに沿って複数の作家の作品を選び、展覧会を構成する仕事。"
+      },
+      { "description": "国際芸術祭全体の方向性を決めるディレクター。" }
+    ],
+    "viewingTips": [
+      "章立てや作品の並べ方から、キュレーターの意図を読み取ってみる。"
+    ],
+    "museumUsage": "展覧会のクレジットや解説、ギャラリートークの案内で使われます。",
+    "relatedTerms": ["catalogue", "retrospective", "white-cube", "biennale"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "retrospective",
+    "term": "回顧展",
+    "reading": "かいこてん",
+    "english": "Retrospective",
+    "aliases": ["レトロスペクティブ"],
+    "summary": "一人の作家の初期から晩年までの作品を集め、その歩みをたどる展覧会。",
+    "definition": "一人の作家（またはグループ）の長い期間にわたる作品を集め、制作の変化や全体像を紹介する展覧会です。初期作品から代表作、晩年の作品まで時代順に並べる構成が多く見られます。存命の作家の場合も、それまでの活動をまとめる展覧会を回顧展と呼ぶことがあります。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "画家の学生時代の素描から晩年の大作までを並べた展覧会。"
+      }
+    ],
+    "viewingTips": [
+      "作風がどの時期にどう変わったのか、変わらないものは何かを意識して見る。"
+    ],
+    "museumUsage": "展覧会のタイトルや案内で使われます。",
+    "relatedTerms": ["curator", "catalogue"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "white-cube",
+    "term": "ホワイトキューブ",
+    "reading": "ほわいときゅーぶ",
+    "english": "White cube",
+    "aliases": ["ホワイト・キューブ"],
+    "summary": "白い壁で囲まれ、装飾のない、近現代の美術館やギャラリーの典型的な展示空間。",
+    "definition": "白い壁、均一な照明、窓や装飾のない、作品だけに集中できるよう作られた展示空間を指します。20世紀の美術館で広く採用されました。一方で、作品を現実の社会から切り離し、特別なものに見せる空間であるとして、1970年代には批評家ブライアン・オドハティらによって問い直されました。",
+    "categoryIds": ["composition-viewing", "contemporary-art"],
+    "difficulty": 2,
+    "examples": [
+      { "description": "白い壁と天井の照明だけの、現代的なギャラリー空間。" }
+    ],
+    "viewingTips": [
+      "同じ作品が、ホワイトキューブと歴史的建造物や屋外で展示されたらどう見えるかを想像する。"
+    ],
+    "museumUsage": "現代美術の解説で、美術館の外での展示や、場所と作品の関係を論じるときに使われます。",
+    "relatedTerms": ["site-specific", "context", "installation", "curator"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "complementary-colors",
+    "term": "補色",
+    "reading": "ほしょく",
+    "english": "Complementary colors",
+    "aliases": ["反対色", "補色対比"],
+    "summary": "色相環で正反対の位置にあり、並べると互いを引き立て合う色の組み合わせ。",
+    "definition": "赤と緑、青とオレンジ、黄と紫のように、色相環で向かい合う位置にある色の組み合わせです。隣り合わせに置くとお互いの色が鮮やかに見える「補色対比」の効果があります。印象派やポスト印象派の画家たちは、こうした色の効果を意識して用いました。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 2,
+    "examples": [
+      { "description": "オレンジ色の太陽と青い海を組み合わせた風景画。" },
+      { "description": "赤い服の人物を、緑の背景の前に描いた肖像画。" }
+    ],
+    "viewingTips": [
+      "画面の中で、補色の組み合わせがどこに使われ、何を目立たせているかを探す。"
+    ],
+    "museumUsage": "色彩の効果を説明する絵画の解説で使われます。",
+    "relatedTerms": ["impressionism", "fauvism", "composition"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "blank-space",
+    "term": "余白",
+    "reading": "よはく",
+    "english": "Blank space / Negative space",
+    "aliases": ["ネガティブスペース", "空白"],
+    "summary": "画面の中で、何も描かれていない部分。表現の一部として積極的に生かされることもある。",
+    "definition": "絵や書の画面で、物が描かれていない部分を指します。東アジアの絵画では、余白が霧や水、空気、遠い空間などを想像させる重要な要素として扱われてきました。描かれた部分と同じくらい、何も描かないことが表現に関わっていると考えられます。",
+    "generalDifference": "日常では「ページの余白」のように単に空いている部分を指しますが、美術では作品の意味や空間を生み出す要素として語られます。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "画面の大半を空けて、片隅に小さく松の木を描いた水墨画。"
+      }
+    ],
+    "viewingTips": [
+      "何も描かれていない部分が、何に見えるか（空、水、霧など）を想像してみる。"
+    ],
+    "museumUsage": "日本画や水墨画、書の解説で「余白の美」などの形で使われます。",
+    "relatedTerms": ["composition", "nihonga", "watercolor"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "brushwork",
+    "term": "筆致",
+    "reading": "ひっち",
+    "english": "Brushwork",
+    "aliases": ["タッチ", "筆触", "ストローク"],
+    "summary": "画面に残された筆の運びや跡。描き手の個性が表れる部分。",
+    "definition": "絵具を塗るときの筆の動き方や、その跡のことです。滑らかで跡の見えない仕上げ、短く素早い筆の跡、大きく大胆なストロークなど、筆致は画家によって大きく異なり、作家の個性や制作の勢いを伝えるものとされます。",
+    "categoryIds": ["composition-viewing", "materials-techniques"],
+    "difficulty": 2,
+    "examples": [
+      { "description": "短い筆の跡を並べて光のきらめきを表した風景画。" },
+      {
+        "description": "筆の跡がまったく見えないほど滑らかに仕上げられた肖像画。"
+      }
+    ],
+    "viewingTips": [
+      "近づいて筆の跡の向きや長さを観察し、描いた手の動きを想像する。"
+    ],
+    "museumUsage": "絵画の解説で「軽やかな筆致」「力強いタッチ」のように使われます。",
+    "relatedTerms": ["impasto", "matiere", "impressionism", "corporeality"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "untitled",
+    "term": "無題",
+    "reading": "むだい",
+    "english": "Untitled",
+    "aliases": ["アンタイトルド"],
+    "summary": "作品にタイトルを付けないこと、またはタイトルとして「無題」と付けること。",
+    "definition": "作品に具体的なタイトルを付けず、「無題」「Untitled」とすることです。タイトルによって見る人の解釈を限定しないため、作品そのものと向き合ってほしいという意図が込められることがあります。とくに抽象絵画や現代美術で多く見られます。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 1,
+    "examples": [
+      { "description": "「無題」とだけ付けられた抽象絵画。" },
+      {
+        "description": "「無題（〇〇）」のように、括弧で手がかりが添えられた作品。"
+      }
+    ],
+    "viewingTips": [
+      "タイトルの手がかりがない分、自分ならどんな題を付けるか考えてみる。"
+    ],
+    "museumUsage": "キャプションのタイトル欄で見かけます。",
+    "relatedTerms": ["caption", "abstract"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "caption",
+    "term": "キャプション",
+    "reading": "きゃぷしょん",
+    "english": "Caption / Label",
+    "aliases": ["作品ラベル", "解説パネル", "ラベル"],
+    "summary": "展示作品のそばに掲示される、作品名や作者、素材などの情報を記した札。",
+    "definition": "作品の横や下に掲示される小さな説明のことです。一般的に、作家名、作品名、制作年、素材・技法、サイズ、所蔵先などが記されます。作品の背景や見どころを短く説明した解説文が添えられることもあります。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "「作家名／作品名／制作年／油彩、キャンバス／所蔵先」と記された作品ラベル。"
+      }
+    ],
+    "viewingTips": [
+      "先に作品を見て自分なりの印象を持ってから、キャプションを読むのもおすすめ。",
+      "素材・技法の欄に注目すると、作品の作り方への理解が深まる。"
+    ],
+    "museumUsage": "展示室で必ず目にする基本の言葉です。",
+    "relatedTerms": ["mixed-media", "untitled", "edition", "catalogue"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  }
+]

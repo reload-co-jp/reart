@@ -1,0 +1,595 @@
+[
+  {
+    "slug": "contemporary",
+    "term": "コンテンポラリーアート",
+    "reading": "こんてんぽらりーあーと",
+    "english": "Contemporary art",
+    "aliases": ["コンテンポラリー", "現代アート", "現代美術"],
+    "summary": "いまの時代に生きる作家による、同時代の美術のこと。",
+    "definition": "英語の contemporary は「同時代の」という意味です。美術では、おおむね第二次世界大戦後、とくに1960〜70年代以降から現在までの美術を指すことが多い言葉です。絵画や彫刻だけでなく、インスタレーション、映像、パフォーマンスなど多様な形式を含み、社会や歴史、私たちの生き方と関わるテーマを扱う作品が多く見られます。",
+    "artUsage": "どの時期から「コンテンポラリー」と呼ぶかは、美術館や研究者によって異なります。日本では「現代美術」「現代アート」とほぼ同じ意味で使われます。",
+    "generalDifference": "ダンスや音楽でも「コンテンポラリー」は使われますが、美術では「近代美術（モダンアート）」と区別して、より新しい時代の美術を表す言葉として使われます。",
+    "confusables": [
+      {
+        "slug": "modernism",
+        "note": "モダンアート（近代美術）は19世紀後半から20世紀半ばごろの美術を指すことが多く、コンテンポラリーアートはそれ以降の、作家と鑑賞者が同じ時代を生きる美術を指します。"
+      }
+    ],
+    "categoryIds": ["genres-styles", "contemporary-art"],
+    "difficulty": 1,
+    "examples": [
+      { "description": "展示室全体を使ったインスタレーション。" },
+      { "description": "社会問題を取材して制作された映像作品。" },
+      { "description": "観客が参加することで完成する作品。" }
+    ],
+    "viewingTips": [
+      "「何が描かれているか」だけでなく「なぜこの形式なのか」を考える。",
+      "作品タイトルや解説文から、作家が向き合っている問題を探す。",
+      "わからなさも鑑賞の一部として、自分が感じた違和感を言葉にしてみる。"
+    ],
+    "museumUsage": "美術館名や展覧会名（「〇〇コンテンポラリー」）にも使われ、近代美術と区別して展示の時代区分を示すときによく登場します。",
+    "museumExample": "本展は、コンテンポラリーアートの作家たちが、記憶や移動というテーマにどのように向き合ってきたかをたどる。",
+    "relatedTerms": [
+      "modernism",
+      "postmodernism",
+      "installation",
+      "conceptual-art"
+    ],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "abstract",
+    "term": "抽象",
+    "reading": "ちゅうしょう",
+    "english": "Abstract / Abstraction",
+    "aliases": ["抽象画", "抽象絵画", "抽象芸術", "アブストラクト"],
+    "summary": "現実の物の姿をそのまま描かず、色や形、線などで表現すること。",
+    "definition": "具体的な人物や風景をそのまま再現するのではなく、色、形、線、質感などの要素そのものによって表現する美術を指します。現実の物を単純化していった結果として生まれた抽象と、はじめから何も再現しない抽象があります。20世紀初めにカンディンスキーやモンドリアンらによって本格的に展開されました。",
+    "generalDifference": "日常では「抽象的な話」のように「具体的でない、わかりにくい」という意味で使われますが、美術では「現実の物の形を写さない」という表現の方向性を指す言葉です。",
+    "confusables": [
+      {
+        "slug": "figurative",
+        "note": "具象は現実の物の形がわかるように表す表現で、抽象と対になる言葉です。"
+      }
+    ],
+    "categoryIds": ["genres-styles"],
+    "difficulty": 1,
+    "examples": [
+      { "description": "四角形や線だけで構成された絵画。" },
+      {
+        "description": "絵具をしたたらせたり、大きな筆の動きを残したりした絵画。"
+      },
+      { "description": "風景をもとにしながら、色の帯だけに単純化した作品。" }
+    ],
+    "viewingTips": [
+      "「何に見えるか」を探すより、色の組み合わせや形のリズムを感じてみる。",
+      "大きな作品では、近づいたときと離れたときの印象の違いを比べる。",
+      "タイトルが内容のヒントになっていることもあるので確認する。"
+    ],
+    "museumUsage": "「抽象表現」「抽象化」「半抽象」のように使われ、作品の表現の方向性を説明します。",
+    "museumExample": "作家は、海辺の風景を出発点としながら、水平線と色彩の関係だけを残すところまで画面を抽象化していった。",
+    "relatedTerms": [
+      "figurative",
+      "abstract-expressionism",
+      "minimalism",
+      "constructivism"
+    ],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "figurative",
+    "term": "具象",
+    "reading": "ぐしょう",
+    "english": "Figurative / Representational",
+    "aliases": ["具象画", "具象絵画", "具象表現"],
+    "summary": "人物や風景、物など、現実にあるものの姿がわかるように表すこと。",
+    "definition": "見る人が「何が表されているか」を認識できる形で表現する美術を指します。写真のように細部まで写すものだけでなく、形を大胆に変形していても、元の対象がわかる場合は具象に含まれます。",
+    "confusables": [
+      {
+        "slug": "abstract",
+        "note": "抽象は現実の物の形を写さず、色や形そのもので表現する方向性で、具象と対になる言葉です。"
+      },
+      {
+        "slug": "realism",
+        "note": "写実主義（リアリズム）は、19世紀の特定の運動や、ありのままに描こうとする態度を指します。具象はより広く、対象がわかる表現全般を指します。"
+      }
+    ],
+    "categoryIds": ["genres-styles"],
+    "difficulty": 1,
+    "examples": [
+      { "description": "人物の姿がはっきりわかる肖像画。" },
+      {
+        "description": "形がデフォルメされているが、花瓶と果物だとわかる静物画。"
+      }
+    ],
+    "viewingTips": [
+      "何が描かれているかを確認したうえで、それを作家がどう変形・強調しているかを見る。"
+    ],
+    "museumUsage": "抽象との対比で、作品や作家の表現の方向を説明するときに使われます。「具象から抽象へ」のような変化の説明もよく見られます。",
+    "relatedTerms": ["abstract", "realism", "motif", "portrait"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "conceptual-art",
+    "term": "コンセプチュアル・アート",
+    "reading": "こんせぷちゅあるあーと",
+    "english": "Conceptual art",
+    "aliases": ["コンセプチュアルアート", "概念芸術"],
+    "summary": "見た目の美しさや技術よりも、作品の背後にある考え（コンセプト）を重視する美術。",
+    "definition": "1960年代後半から70年代にかけて、欧米を中心に広がった美術の動向です。作品の本質は物としての完成度ではなく、アイデアや考え方にあるとする立場で、言葉、指示書、写真、記録などが作品として示されることもあります。デュシャンのレディメイドがその先駆けとされます。",
+    "categoryIds": ["genres-styles", "contemporary-art"],
+    "difficulty": 2,
+    "examples": [
+      { "description": "壁に言葉だけが書かれている作品。" },
+      {
+        "description": "作家が書いた手順書に従って、展示のたびに別の人が制作する作品。"
+      }
+    ],
+    "viewingTips": [
+      "「何が見えるか」よりも「何を問いかけているか」を考える。",
+      "タイトルや解説、添えられた文章も作品の一部として読む。"
+    ],
+    "museumUsage": "現代美術の歴史を説明するときの重要な用語として使われ、「コンセプチュアルな作品」のように形容詞的にも使われます。",
+    "museumExample": "壁に記された短い指示文は、作品とは物ではなく考えそのものであるという、コンセプチュアル・アートの姿勢を示している。",
+    "relatedTerms": ["readymade", "minimalism", "contemporary", "fluxus"],
+    "prerequisiteTerms": ["readymade"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "surrealism",
+    "term": "シュルレアリスム",
+    "reading": "しゅるれありすむ",
+    "english": "Surrealism",
+    "aliases": ["超現実主義", "シュールレアリスム"],
+    "summary": "夢や無意識の世界を表現しようとした、20世紀の芸術運動。",
+    "definition": "フランス語で「超現実主義」を意味します。詩人アンドレ・ブルトンが1924年に「シュルレアリスム宣言」を発表したことで始まった運動で、フロイトの精神分析の影響を受け、理性に縛られない夢や無意識の世界を表現しようとしました。絵画では、写実的な描き方で不思議な光景を描く作品や、偶然性を生かした技法による作品が生まれました。",
+    "generalDifference": "日常語の「シュール」は「奇妙な」「不条理な」という意味で使われますが、もとの言葉は特定の芸術運動の名前です。",
+    "categoryIds": ["genres-styles", "art-history"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "溶けた時計や宙に浮かぶ岩など、現実にはありえない光景を写実的に描いた絵画。"
+      },
+      {
+        "description": "フロッタージュやデカルコマニーなど、偶然できた形をもとにした作品。"
+      }
+    ],
+    "viewingTips": [
+      "現実の物同士の、ありえない組み合わせに注目する。",
+      "夢を見ているときのような、理屈では説明できない感覚を味わってみる。"
+    ],
+    "museumUsage": "20世紀美術の展示で運動名として使われるほか、「シュルレアリスム的な」のように、影響関係を説明するときにも使われます。",
+    "relatedTerms": ["dada", "frottage", "decalcomania", "avant-garde"],
+    "prerequisiteTerms": ["dada"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "minimalism",
+    "term": "ミニマリズム",
+    "reading": "みにまりずむ",
+    "english": "Minimalism",
+    "aliases": ["ミニマル・アート", "ミニマルアート"],
+    "summary": "装飾や作家の個性を極力そぎ落とし、単純な形や構造で構成する美術の動向。",
+    "definition": "1960年代のアメリカを中心に展開した美術の動向です。立方体や直線などの単純な幾何学的形態、工業製品の素材、同じ単位の反復などを用い、作家の手の跡や感情表現を排除しようとしました。作品そのものの物質感や、作品が置かれた空間と鑑賞者の関係に目を向けさせた点が特徴です。",
+    "generalDifference": "日常では「ミニマリスト」のように、持ち物を最小限にする暮らし方を指すことがありますが、美術では1960年代の特定の動向を指す言葉です。",
+    "categoryIds": ["genres-styles", "art-history"],
+    "difficulty": 2,
+    "examples": [
+      { "description": "同じ大きさの金属の箱が壁に等間隔で並んだ作品。" },
+      { "description": "市販の蛍光灯を組み合わせて空間に配置した作品。" },
+      { "description": "床に金属板を敷き並べた作品。" }
+    ],
+    "viewingTips": [
+      "作品の周りを歩き、見る位置によって形や光の見え方がどう変わるかを体験する。",
+      "作品と壁、床、展示室との関係に注目する。"
+    ],
+    "museumUsage": "1960年代以降の美術を説明するときの動向名として使われ、「ミニマルな」のように形容詞的にも使われます。",
+    "relatedTerms": ["abstract", "conceptual-art", "sculpture", "white-cube"],
+    "prerequisiteTerms": ["abstract"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "pop-art",
+    "term": "ポップアート",
+    "reading": "ぽっぷあーと",
+    "english": "Pop art",
+    "aliases": ["ポップ・アート"],
+    "summary": "広告や漫画、商品など、大衆文化のイメージを取り入れた美術。",
+    "definition": "1950年代のイギリスで生まれ、1960年代のアメリカで大きく展開した美術の動向です。広告、漫画、映画スター、日用品のパッケージなど、大量生産・大量消費社会のイメージを作品に取り込みました。アンディ・ウォーホルやロイ・リキテンスタインがよく知られています。",
+    "categoryIds": ["genres-styles", "art-history"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "スーパーで売られている缶詰のラベルを繰り返し描いた作品。"
+      },
+      {
+        "description": "漫画のコマを、印刷の網点まで含めて大きく描き写した絵画。"
+      }
+    ],
+    "viewingTips": [
+      "見慣れたイメージが美術館に置かれることで、どう見え方が変わるかを考える。",
+      "大量生産・複製というテーマと、繰り返しやシルクスクリーンの技法の関係に注目する。"
+    ],
+    "museumUsage": "1960年代美術の動向名として使われるほか、「ポップな」のように明るく大衆的な表現を形容するときにも使われます。",
+    "relatedTerms": [
+      "silkscreen",
+      "appropriation",
+      "kitsch",
+      "abstract-expressionism"
+    ],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "expressionism",
+    "term": "表現主義",
+    "reading": "ひょうげんしゅぎ",
+    "english": "Expressionism",
+    "aliases": ["エクスプレッショニズム", "ドイツ表現主義"],
+    "summary": "目に見える姿よりも、作家の内面の感情や精神を強く表そうとする表現。",
+    "definition": "20世紀初頭のドイツを中心に展開した芸術の動向で、ドレスデンの「ブリュッケ（橋）」やミュンヘンの「青騎士」などのグループが知られます。強烈な色彩、ゆがめられた形、荒々しい筆づかいなどで、不安や孤独、情熱といった内面を表そうとしました。絵画だけでなく、版画、映画、建築、文学にも広がりました。",
+    "categoryIds": ["genres-styles", "art-history"],
+    "difficulty": 2,
+    "examples": [
+      { "description": "現実とは違う強い色で塗られた人物画。" },
+      { "description": "鋭く彫られた線が目立つ木版画。" }
+    ],
+    "viewingTips": [
+      "色や形の「ゆがみ」が、どんな感情を伝えているかを感じ取る。"
+    ],
+    "museumUsage": "20世紀初頭のドイツ美術を説明する運動名として使われるほか、「表現主義的な」のように、感情を強く表す作風を形容するときにも使われます。",
+    "relatedTerms": [
+      "fauvism",
+      "abstract-expressionism",
+      "woodblock-print",
+      "post-impressionism"
+    ],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "abstract-expressionism",
+    "term": "抽象表現主義",
+    "reading": "ちゅうしょうひょうげんしゅぎ",
+    "english": "Abstract Expressionism",
+    "aliases": ["アブストラクト・エクスプレッショニズム"],
+    "summary": "1940〜50年代のアメリカで展開した、大画面の抽象絵画の動向。",
+    "definition": "第二次世界大戦後のニューヨークを中心に展開した絵画の動向です。ジャクソン・ポロックのように絵具をしたたらせたり、身体全体を使って描く「アクション・ペインティング」と、マーク・ロスコのように広い色面で画面を満たす「カラーフィールド・ペインティング」などの傾向があります。美術の中心がパリからニューヨークへ移ったことを象徴する動向とされます。",
+    "categoryIds": ["genres-styles", "art-history"],
+    "difficulty": 3,
+    "examples": [
+      {
+        "description": "床に広げたキャンバスに絵具をしたたらせて描いた大きな絵画。"
+      },
+      {
+        "description": "ぼんやりとした色の長方形が浮かぶような、壁一面の大きさの絵画。"
+      }
+    ],
+    "viewingTips": [
+      "作品の前に近づいて立ち、視界が色や線で満たされる感覚を味わう。",
+      "絵具の流れや飛び散りから、描いたときの身体の動きを想像する。"
+    ],
+    "museumUsage": "戦後アメリカ美術の動向名として使われます。",
+    "relatedTerms": ["abstract", "expressionism", "corporeality", "pop-art"],
+    "prerequisiteTerms": ["abstract"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "still-life",
+    "term": "静物画",
+    "reading": "せいぶつが",
+    "english": "Still life",
+    "aliases": ["静物", "スティル・ライフ", "ナチュール・モルト"],
+    "summary": "花や果物、器など、動かない物を題材にして描いた絵画。",
+    "definition": "花、果物、食べ物、食器、楽器、書物など、自ら動かない物を組み合わせて描いた絵画のジャンルです。17世紀のオランダやフランドルで独立したジャンルとして大きく発展しました。物の質感を描き分ける技術を示すと同時に、物に象徴的な意味を込めることもありました。",
+    "categoryIds": ["genres-styles"],
+    "difficulty": 1,
+    "examples": [
+      { "description": "花瓶に生けられた色とりどりの花の絵。" },
+      { "description": "テーブルの上の果物と水差しを描いた絵。" }
+    ],
+    "viewingTips": [
+      "ガラス、金属、果物の皮など、質感の違いがどう描き分けられているかを見る。",
+      "選ばれた物に象徴的な意味が込められていないか考える。"
+    ],
+    "museumUsage": "絵画のジャンル分けとして、風景画や肖像画と並んで使われます。",
+    "relatedTerms": ["vanitas", "motif", "landscape-painting", "portrait"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "landscape-painting",
+    "term": "風景画",
+    "reading": "ふうけいが",
+    "english": "Landscape painting",
+    "aliases": ["風景", "ランドスケープ"],
+    "summary": "山や海、田園、都市など、自然や景色を主な題材にした絵画。",
+    "definition": "自然や土地の景色を主題として描いた絵画のジャンルです。西洋では長く宗教画や歴史画の背景として描かれていましたが、17世紀ごろから独立したジャンルとして発展し、19世紀には印象派の画家たちが屋外で光の変化をとらえようとしました。東アジアでは山水画として古くから重要なジャンルでした。",
+    "categoryIds": ["genres-styles"],
+    "difficulty": 1,
+    "examples": [
+      { "description": "朝の光に包まれた川辺の景色を描いた油彩画。" },
+      { "description": "墨の濃淡で山や川を表した山水画。" }
+    ],
+    "viewingTips": [
+      "空の広さや地平線の高さなど、画面の構図に注目する。",
+      "その景色が実在の場所か、理想化・想像された風景かを考える。"
+    ],
+    "museumUsage": "絵画のジャンル分けとして使われるほか、展覧会のテーマとしてもよく取り上げられます。",
+    "relatedTerms": [
+      "perspective",
+      "impressionism",
+      "composition",
+      "still-life"
+    ],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "portrait",
+    "term": "肖像画",
+    "reading": "しょうぞうが",
+    "english": "Portrait",
+    "aliases": ["肖像", "ポートレート", "自画像"],
+    "summary": "特定の人物の顔や姿を描いた絵画。",
+    "definition": "実在する特定の人物を描いた絵画のジャンルです。王侯貴族や裕福な市民が注文して描かせることが多く、外見だけでなく、身分や職業、人柄を示す工夫が凝らされてきました。画家が自分自身を描いたものは「自画像」と呼ばれます。",
+    "categoryIds": ["genres-styles"],
+    "difficulty": 1,
+    "examples": [
+      { "description": "豪華な衣装を着た貴族の全身像。" },
+      { "description": "画家が鏡を見ながら描いた自画像。" }
+    ],
+    "viewingTips": [
+      "服装や持ち物、背景が、その人物について何を伝えているかを探す。",
+      "視線の向きや表情から、描かれた人の性格や画家との関係を想像する。"
+    ],
+    "museumUsage": "絵画のジャンル分けとして使われます。写真や彫刻でも、人物を表した作品に使われることがあります。",
+    "relatedTerms": ["figurative", "symbol", "still-life", "chiaroscuro"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "genre-painting",
+    "term": "風俗画",
+    "reading": "ふうぞくが",
+    "english": "Genre painting",
+    "aliases": ["ジャンル画"],
+    "summary": "人々の日常生活や、身近な暮らしの場面を描いた絵画。",
+    "definition": "名前の知られた人物や歴史上の出来事ではなく、市場や台所、酒場、祭りなど、名もない人々の日常の場面を描いた絵画です。17世紀オランダの絵画や、日本の浮世絵などに多く見られます。教訓や風刺が込められていることもあります。",
+    "generalDifference": "日本語の「風俗」は日常で別の意味でも使われますが、美術では「その時代の生活や習慣」を指します。",
+    "categoryIds": ["genres-styles"],
+    "difficulty": 2,
+    "examples": [
+      { "description": "台所で牛乳を注ぐ女性など、家庭の一場面を描いた絵。" },
+      { "description": "江戸の町の人々の暮らしや流行を描いた浮世絵。" }
+    ],
+    "viewingTips": [
+      "当時の服装や道具、建物など、生活の細部を観察する。",
+      "日常の場面に、教訓や皮肉が込められていないか考える。"
+    ],
+    "museumUsage": "絵画のジャンル分けとして使われ、歴史画や肖像画と対比されます。",
+    "relatedTerms": ["history-painting", "ukiyo-e", "portrait"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "history-painting",
+    "term": "歴史画",
+    "reading": "れきしが",
+    "english": "History painting",
+    "aliases": [],
+    "summary": "歴史上の出来事や神話、聖書、文学の物語の場面を描いた絵画。",
+    "definition": "歴史的事件だけでなく、ギリシャ・ローマ神話、聖書、古典文学などの物語の場面を描いた絵画を広く指します。17世紀以降のヨーロッパの美術アカデミーでは、多くの人物を描き分ける知識と技術が求められることから、絵画のジャンルの中で最も格が高いものとされていました。",
+    "generalDifference": "「歴史」と付きますが、実際の歴史的事件だけでなく、神話や宗教の物語の場面も含みます。",
+    "categoryIds": ["genres-styles"],
+    "difficulty": 2,
+    "examples": [
+      { "description": "神話の英雄の物語を描いた大きな油彩画。" },
+      { "description": "戦いや戴冠式などの歴史的場面を描いた作品。" }
+    ],
+    "viewingTips": [
+      "どの物語のどの場面かを、タイトルや登場人物の持ち物から読み解く。",
+      "画面の中で最も重要な人物がどこに配置されているかを見る。"
+    ],
+    "museumUsage": "西洋絵画の展示で、ジャンルの格付けやアカデミーの制度を説明するときに使われます。",
+    "relatedTerms": [
+      "neoclassicism",
+      "allegory",
+      "iconography",
+      "genre-painting"
+    ],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "realism",
+    "term": "写実主義",
+    "reading": "しゃじつしゅぎ",
+    "english": "Realism",
+    "aliases": ["リアリズム", "レアリスム"],
+    "summary": "理想化せずに、現実のありのままの姿を描こうとする態度や運動。",
+    "definition": "美術史では、19世紀半ばのフランスで、ギュスターヴ・クールベらが神話や理想化された美ではなく、農民や労働者など同時代の現実をありのままに描こうとした運動を指します。より広く、対象を見たとおりに忠実に描こうとする態度を指すこともあります。",
+    "confusables": [
+      {
+        "slug": "figurative",
+        "note": "具象は対象がわかる表現全般を指し、写実主義は「ありのまま」を重視する態度や19世紀の運動を指します。"
+      }
+    ],
+    "categoryIds": ["genres-styles", "art-history"],
+    "difficulty": 2,
+    "examples": [
+      { "description": "畑で働く農民の姿を、美化せずに描いた絵画。" },
+      { "description": "細部まで写真のように描き込まれた静物画。" }
+    ],
+    "viewingTips": ["何が「ありのまま」として選ばれて描かれているかを考える。"],
+    "museumUsage": "19世紀フランス美術の運動名として使われるほか、「写実的な描写」のように描き方を説明する言葉としても使われます。",
+    "relatedTerms": [
+      "figurative",
+      "romanticism",
+      "impressionism",
+      "genre-painting"
+    ],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "nihonga",
+    "term": "日本画",
+    "reading": "にほんが",
+    "english": "Nihonga",
+    "aliases": [],
+    "summary": "岩絵具や墨、膠などの伝統的な画材を使い、日本の絵画の伝統に基づいて描かれる絵画。",
+    "definition": "明治時代に西洋から入ってきた油彩画（洋画）と区別するために使われるようになった言葉です。鉱物を砕いた岩絵具や墨などを、動物の皮や骨から作る膠（にかわ）で紙や絹に定着させて描くのが基本的な技法です。伝統を受け継ぎながらも、西洋画の表現を取り入れるなど、近代以降に新しく形づくられてきた絵画でもあります。",
+    "confusables": [
+      {
+        "slug": "yoga-painting",
+        "note": "洋画は油彩など西洋由来の技法で描かれた絵画で、日本画と対になる言葉です。"
+      }
+    ],
+    "categoryIds": ["genres-styles", "art-history"],
+    "difficulty": 1,
+    "examples": [
+      { "description": "絹に岩絵具で描かれた花鳥画。" },
+      { "description": "金箔を貼った背景に、季節の草花を描いた屏風。" }
+    ],
+    "viewingTips": [
+      "岩絵具の粒子が光を受けてきらめく様子を、角度を変えて見る。",
+      "余白の使い方や、輪郭線の美しさに注目する。"
+    ],
+    "museumUsage": "近代以降の日本の絵画を分類するときの基本的な言葉として使われます。",
+    "relatedTerms": ["yoga-painting", "pigment", "blank-space", "ukiyo-e"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "yoga-painting",
+    "term": "洋画",
+    "reading": "ようが",
+    "english": "Yōga (Western-style painting)",
+    "aliases": ["西洋画"],
+    "summary": "油彩など西洋から伝わった技法や画材で、日本の画家が描いた絵画。",
+    "definition": "明治時代以降、西洋から本格的に導入された油彩画などの技法による絵画を、日本画と区別して呼ぶ言葉です。美術の分野では、主に日本の画家による西洋風の絵画を指して使われます。",
+    "generalDifference": "日常では「洋画」は海外の映画を指すことが多いですが、美術館では絵画のジャンルを指します。",
+    "confusables": [
+      {
+        "slug": "nihonga",
+        "note": "日本画は岩絵具や墨、膠など伝統的な画材で描かれた絵画で、洋画と対になる言葉です。"
+      }
+    ],
+    "categoryIds": ["genres-styles", "art-history"],
+    "difficulty": 1,
+    "examples": [
+      { "description": "明治・大正期の画家が油彩で描いた日本の風景や人物。" }
+    ],
+    "viewingTips": [
+      "西洋の技法で日本の風景や人物を描く工夫や、日本画との違いを比べてみる。"
+    ],
+    "museumUsage": "近代日本美術の展示で、日本画と対比して使われます。",
+    "relatedTerms": ["nihonga", "oil-painting", "impressionism"],
+    "prerequisiteTerms": ["oil-painting"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "ukiyo-e",
+    "term": "浮世絵",
+    "reading": "うきよえ",
+    "english": "Ukiyo-e",
+    "aliases": ["錦絵"],
+    "summary": "江戸時代に発展した、町人の暮らしや流行、風景などを描いた絵画・版画。",
+    "definition": "「浮世」は当世風・現代風という意味で、江戸時代の人々の流行や娯楽、役者、美人、名所の風景などを描いた絵画です。肉筆画もありますが、多くは木版画として大量に刷られ、手頃な値段で庶民に親しまれました。18世紀半ばには多色摺りの「錦絵」が生まれました。葛飾北斎や歌川広重らが知られ、19世紀後半にはヨーロッパの画家たちにも影響を与えました。",
+    "categoryIds": ["genres-styles", "art-history"],
+    "difficulty": 1,
+    "examples": [
+      { "description": "東海道の宿場の風景を連作で描いた名所絵。" },
+      { "description": "人気の歌舞伎役者を描いた役者絵。" }
+    ],
+    "viewingTips": [
+      "大胆な構図や、遠くと近くを極端に対比させる画面の作り方に注目する。",
+      "絵師だけでなく、彫師・摺師の技にも目を向ける。"
+    ],
+    "museumUsage": "日本美術の展示で、ジャンル名として使われます。ジャポニスムの展示では西洋美術への影響が紹介されます。",
+    "relatedTerms": [
+      "woodblock-print",
+      "japonisme",
+      "genre-painting",
+      "landscape-painting"
+    ],
+    "prerequisiteTerms": ["woodblock-print"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  }
+]

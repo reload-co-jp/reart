@@ -1,0 +1,218 @@
+[
+  {
+    "slug": "kogei",
+    "term": "工芸",
+    "reading": "こうげい",
+    "english": "Crafts / Kōgei",
+    "aliases": ["工芸品", "クラフト"],
+    "summary": "陶磁、漆、染織、金工、木工など、素材と技術を生かして作られる器物やその表現。",
+    "definition": "日常の道具や装飾品などを、素材の特性と熟練した技術によって作り出す分野です。陶磁、漆、染織、金工、木工、竹工、ガラスなどが含まれます。用途を持つ物として発展してきた一方、近代以降は鑑賞のための作品としての工芸も展開し、「美術」との関係がたびたび議論されてきました。",
+    "categoryIds": ["craft-design"],
+    "difficulty": 1,
+    "examples": [
+      { "description": "茶の湯で使われる茶碗。" },
+      { "description": "用途を持たない、鑑賞のための陶による立体作品。" }
+    ],
+    "viewingTips": [
+      "素材の特性（硬さ、つや、透明感など）がどう生かされているかを見る。",
+      "使うための道具なら、手に取ったときの形や重さを想像する。"
+    ],
+    "museumUsage": "展示の分類や、「工芸と美術」というテーマを扱う展示で使われます。",
+    "relatedTerms": ["ceramics", "lacquerware", "dyeing", "mingei", "textile"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "ceramics",
+    "term": "陶芸",
+    "reading": "とうげい",
+    "english": "Ceramics",
+    "aliases": ["陶磁器", "やきもの", "セラミックス"],
+    "summary": "粘土などを成形し、窯で焼いて器や作品を作る工芸、またはその作品。",
+    "definition": "土を形づくり、高温で焼き固めて作る工芸です。主に粘土で作られる「陶器」と、陶石を原料として高温で焼く「磁器」などに分けられます。表面にかける釉薬（ゆうやく）の種類や、窯の中での炎の当たり方によって、色や質感が大きく変わります。",
+    "categoryIds": ["craft-design", "materials-techniques"],
+    "difficulty": 1,
+    "examples": [
+      { "description": "釉薬が流れて独特の景色を生んだ茶碗。" },
+      { "description": "白い磁器に青い顔料で絵付けをした染付の皿。" }
+    ],
+    "viewingTips": [
+      "釉薬のたまりや流れ、焼きむらなど、窯の中で偶然生まれた表情に注目する。",
+      "器の裏側（高台）の作りも見どころの一つ。"
+    ],
+    "museumUsage": "工芸の展示で分野名として使われます。キャプションには「陶器」「磁器」などの区分が記されます。",
+    "relatedTerms": ["kogei", "mingei", "lacquerware"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "lacquerware",
+    "term": "漆芸",
+    "reading": "しつげい",
+    "english": "Lacquerware",
+    "aliases": ["漆器", "漆工", "蒔絵", "螺鈿"],
+    "summary": "ウルシの木の樹液である漆を塗り重ねて作る工芸、またはその作品。",
+    "definition": "ウルシの木から採れる樹液（漆）を、木や布などの素地に何度も塗り重ねて仕上げる工芸です。乾くと丈夫で美しいつやが生まれます。漆で描いた模様に金や銀の粉をまく「蒔絵（まきえ）」や、貝殻の内側の輝く部分をはめ込む「螺鈿（らでん）」など、多彩な装飾技法が発達しました。",
+    "categoryIds": ["craft-design", "materials-techniques"],
+    "difficulty": 2,
+    "examples": [
+      { "description": "黒い漆の地に、金の蒔絵で秋草を描いた硯箱。" },
+      { "description": "貝の輝きを生かした螺鈿の飾り箱。" }
+    ],
+    "viewingTips": [
+      "見る角度を変えて、蒔絵の金粉や螺鈿の輝き方の変化を楽しむ。"
+    ],
+    "museumUsage": "工芸の展示で分野名・技法名として使われます。",
+    "relatedTerms": ["kogei", "ceramics"],
+    "prerequisiteTerms": ["kogei"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "mingei",
+    "term": "民藝",
+    "reading": "みんげい",
+    "english": "Mingei",
+    "aliases": ["民芸", "民藝運動", "民衆的工芸"],
+    "summary": "名もない職人が作った日常の道具に美しさを見いだそうとした考え方と運動。",
+    "definition": "「民衆的工芸」を略した言葉で、思想家の柳宗悦が1920年代に、陶芸家の河井寬次郎や濱田庄司らとともに提唱しました。名もない職人が作り、暮らしの中で使われてきた日用品に、華美な美術品とは異なる「用の美」を見いだしました。各地の手仕事の収集や紹介、新しい工芸の制作などの活動が「民藝運動」として展開しました。",
+    "categoryIds": ["craft-design"],
+    "difficulty": 2,
+    "examples": [
+      { "description": "各地の窯で作られた、日常使いの素朴な器。" },
+      { "description": "農村で使われてきた織物や木工の道具。" }
+    ],
+    "viewingTips": [
+      "作者ではなく、使う人の暮らしを想像しながら道具を見る。",
+      "大量に作られたからこそ生まれる、無駄のない形に注目する。"
+    ],
+    "museumUsage": "工芸やデザインの展示で、運動名や思想として紹介されます。",
+    "relatedTerms": ["kogei", "ceramics", "arts-and-crafts", "dyeing"],
+    "prerequisiteTerms": ["kogei"],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "dyeing",
+    "term": "染色",
+    "reading": "せんしょく",
+    "english": "Dyeing",
+    "aliases": ["染め", "型染", "友禅", "絞り染め"],
+    "summary": "布や糸に染料で色をつけ、模様を表す技法。",
+    "definition": "植物や鉱物、合成化学から得られる染料で、布や糸を染める技法です。型紙を使って糊を置き、染まらない部分を作る型染、糸で布をくくって模様を出す絞り、糊で輪郭を描いて色をさす友禅など、さまざまな技法があります。織物とあわせて「染織」と呼ばれます。",
+    "categoryIds": ["craft-design", "materials-techniques"],
+    "difficulty": 2,
+    "examples": [
+      { "description": "型紙で文様を繰り返し染めた着物。" },
+      { "description": "藍で染めた布に、絞りで白い模様を出した作品。" }
+    ],
+    "viewingTips": [
+      "色のにじみや染めむらなど、手仕事ならではの表情を探す。",
+      "模様の繰り返しから、型や技法を推測してみる。"
+    ],
+    "museumUsage": "工芸やテキスタイルの展示で、技法名として使われます。",
+    "relatedTerms": ["textile", "kogei", "pigment", "mingei"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "arts-and-crafts",
+    "term": "アーツ・アンド・クラフツ運動",
+    "reading": "あーつあんどくらふつうんどう",
+    "english": "Arts and Crafts Movement",
+    "aliases": ["アーツ・アンド・クラフツ"],
+    "summary": "19世紀後半のイギリスで、手仕事の価値と生活の美を取り戻そうとした運動。",
+    "definition": "ウィリアム・モリスらが中心となり、19世紀後半のイギリスで展開したデザインと工芸の運動です。産業革命による粗悪な大量生産品に反発し、職人による手仕事の喜びと、日常生活の中の美しさを取り戻そうとしました。家具、壁紙、テキスタイル、書物などのデザインに大きな影響を与え、のちのアール・ヌーヴォーや民藝運動にも影響を与えたとされます。",
+    "categoryIds": ["craft-design", "art-history"],
+    "difficulty": 2,
+    "examples": [
+      { "description": "植物の模様を繰り返し配した壁紙やテキスタイル。" },
+      { "description": "手仕事で丁寧に作られた本の装丁。" }
+    ],
+    "viewingTips": [
+      "自然の植物や鳥が、どのように模様としてデザインされているかを見る。"
+    ],
+    "museumUsage": "デザイン史や工芸の展示で運動名として使われます。",
+    "relatedTerms": ["art-nouveau", "mingei", "bauhaus", "textile"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "art-deco",
+    "term": "アール・デコ",
+    "reading": "あーるでこ",
+    "english": "Art Deco",
+    "aliases": ["アールデコ"],
+    "summary": "直線や幾何学的な形を特徴とする、1920〜30年代に流行した装飾様式。",
+    "definition": "1925年にパリで開かれた「現代装飾美術・産業美術国際博覧会」の略称に由来する名前です。直線、円、ジグザグなどの幾何学的な形、左右対称の構成、機械や速度を思わせる洗練された装飾が特徴です。建築、家具、ジュエリー、ポスター、ファッションなど幅広い分野に広がりました。",
+    "confusables": [
+      {
+        "slug": "art-nouveau",
+        "note": "アール・ヌーヴォーは植物的な曲線が特徴で、アール・デコはそれに続いて流行した、直線的で幾何学的な様式です。"
+      }
+    ],
+    "categoryIds": ["craft-design", "art-history"],
+    "difficulty": 2,
+    "examples": [
+      { "description": "扇形やジグザグの模様で飾られた建物の入口。" },
+      { "description": "幾何学的な模様のガラスのランプや香水瓶。" }
+    ],
+    "viewingTips": ["繰り返される幾何学模様や、左右対称のデザインを探す。"],
+    "museumUsage": "デザインや建築、工芸の展示で様式名として使われます。",
+    "relatedTerms": ["art-nouveau", "graphic-design", "modernism"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "graphic-design",
+    "term": "グラフィックデザイン",
+    "reading": "ぐらふぃっくでざいん",
+    "english": "Graphic design",
+    "aliases": ["グラフィック", "視覚デザイン"],
+    "summary": "文字や図、写真などを組み合わせて、情報やイメージを視覚的に伝えるデザイン。",
+    "definition": "ポスター、本、雑誌、パッケージ、ロゴ、標識など、印刷物や画面を通じて情報を伝えるためのデザインの分野です。文字の書体や配置（タイポグラフィ）、色、図版、余白などを組み合わせて、伝わりやすさと美しさを両立させます。",
+    "categoryIds": ["craft-design"],
+    "difficulty": 1,
+    "examples": [
+      { "description": "展覧会や映画のポスター。" },
+      { "description": "企業や美術館のロゴマーク。" }
+    ],
+    "viewingTips": [
+      "文字の大きさや配置が、見る人の視線をどう誘導しているかを見る。"
+    ],
+    "museumUsage": "デザインの展示や、ポスター・書籍の展示で分野名として使われます。",
+    "relatedTerms": ["photomontage", "constructivism", "bauhaus", "silkscreen"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-25",
+    "updatedAt": "2026-10-25"
+  }
+]

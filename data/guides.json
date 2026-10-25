@@ -1,0 +1,105 @@
+[
+  {
+    "slug": "museum-basics",
+    "title": "美術館初心者が知っておきたい基本用語",
+    "description": "はじめて美術館に行く人に向けて、展示室やキャプションで必ず出会う言葉を集めました。作品の分類から、展示の仕組みまでを順番にたどります。",
+    "steps": [
+      {
+        "slug": "caption",
+        "note": "まずは作品の横にある説明パネルの読み方から。"
+      },
+      { "slug": "figurative" },
+      {
+        "slug": "abstract",
+        "note": "具象とセットで覚えると理解しやすい言葉です。"
+      },
+      { "slug": "motif" },
+      { "slug": "composition" },
+      { "slug": "oil-painting" },
+      {
+        "slug": "curator",
+        "note": "展覧会を企画している人の仕事を知ると、展示の構成が見えてきます。"
+      },
+      { "slug": "catalogue" }
+    ],
+    "nextGuides": ["museum-texts", "painting"]
+  },
+  {
+    "slug": "contemporary-art",
+    "title": "現代美術を理解するための用語",
+    "description": "「これも美術なの？」と感じやすい現代美術。その背景にある考え方と、よく使われる表現形式の名前を、歴史の流れに沿って学びます。",
+    "steps": [
+      { "slug": "contemporary" },
+      {
+        "slug": "modernism",
+        "note": "現代美術を理解するには、その前の時代の考え方を知るのが近道です。"
+      },
+      { "slug": "readymade" },
+      { "slug": "conceptual-art" },
+      { "slug": "installation" },
+      { "slug": "site-specific" },
+      { "slug": "performance-art" },
+      { "slug": "video-art" },
+      { "slug": "relational-art" },
+      {
+        "slug": "context",
+        "note": "最後に、現代美術の解説で最もよく使われる言葉を確認します。"
+      }
+    ],
+    "nextGuides": ["museum-texts", "materials"]
+  },
+  {
+    "slug": "painting",
+    "title": "絵画の見方を深める用語",
+    "description": "絵の前で「何を見ればいいかわからない」ときに役立つ、画面の組み立てや描き方に関わる言葉です。",
+    "steps": [
+      { "slug": "composition" },
+      { "slug": "perspective" },
+      { "slug": "chiaroscuro" },
+      { "slug": "complementary-colors" },
+      { "slug": "brushwork" },
+      { "slug": "matiere" },
+      { "slug": "still-life" },
+      { "slug": "landscape-painting" },
+      { "slug": "portrait" }
+    ],
+    "nextGuides": ["materials", "museum-texts"]
+  },
+  {
+    "slug": "materials",
+    "title": "素材と技法の基本",
+    "description": "キャプションの「素材・技法」欄に書かれた言葉を読めるようになるためのガイドです。絵具の種類から版画、布や陶まで、作品が何でできているかを学びます。",
+    "steps": [
+      {
+        "slug": "pigment",
+        "note": "多くの絵具に共通する「色の粉」から始めます。"
+      },
+      { "slug": "oil-painting" },
+      { "slug": "watercolor" },
+      { "slug": "tempera" },
+      { "slug": "printmaking" },
+      { "slug": "silkscreen" },
+      { "slug": "textile" },
+      { "slug": "ceramics" },
+      { "slug": "mixed-media" }
+    ],
+    "nextGuides": ["painting", "contemporary-art"]
+  },
+  {
+    "slug": "museum-texts",
+    "title": "美術館の解説文を読み解くための言葉",
+    "description": "解説パネルや図録には、日常語と同じ単語なのに意味がつかみにくい言葉がよく登場します。そうした「批評のことば」を中心に学びます。",
+    "steps": [
+      { "slug": "context" },
+      { "slug": "representation" },
+      { "slug": "symbol" },
+      { "slug": "sign" },
+      { "slug": "corporeality" },
+      { "slug": "criticality" },
+      { "slug": "medium" },
+      { "slug": "reconstruction" },
+      { "slug": "appropriation" }
+    ],
+    "nextGuides": ["contemporary-art", "museum-basics"]
+  }
+]

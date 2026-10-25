@@ -1,34 +1,100 @@
-import { ComponentProps, FC, ReactNode } from "react"
+import Link from "next/link"
+import { FC, ReactNode } from "react"
+import { color, font, size, space, styles } from "@/components/theme"
+import { SearchForm } from "@/components/search-form"
 
-export const Title: FC<ComponentProps<"h1">> = ({
-  style,
-  children,
-  ...props
-}) => (
-  <h1 style={{ fontSize: "1rem", margin: 0, ...style }} {...props}>
-    {children}
-  </h1>
-)
+const NAV = [
+  { href: "/terms/", label: "用語一覧" },
+  { href: "/categories/", label: "カテゴリ" },
+  { href: "/guides/", label: "学習ガイド" },
+  { href: "/saved/", label: "保存した用語" },
+]
 
-export const Header: FC<{ children: ReactNode }> = ({ children }) => (
+export const Header: FC = () => (
   <header
     style={{
-      backgroundColor: "#333",
-      boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1)",
-      padding: ".5rem 1rem",
-      position: "relative",
+      background: color.bg,
+      borderBottom: `1px solid ${color.border}`,
+      padding: `${space.sm} 0`,
     }}
   >
-    {children}
+    <div
+      style={{
+        ...styles.container,
+        alignItems: "center",
+        columnGap: space.lg,
+        display: "flex",
+        flexWrap: "wrap",
+        rowGap: space.sm,
+      }}
+    >
+      <Link
+        href="/"
+        style={{
+          alignItems: "baseline",
+          color: color.text,
+          display: "flex",
+          gap: space.sm,
+          textDecoration: "none",
+        }}
+      >
+        <span
+          style={{
+            fontFamily: font.serif,
+            fontSize: "1.5rem",
+            fontWeight: 700,
+            letterSpacing: ".04em",
+          }}
+        >
+          Re<span style={{ color: color.accent }}>A</span>rt
+        </span>
+        <span style={{ color: color.sub, fontSize: size.xs }}>
+          美術用語辞典
+        </span>
+      </Link>
+      <nav aria-label="メインメニュー" style={{ flex: "1 1 auto" }}>
+        <ul
+          style={{
+            display: "flex",
+            gap: space.xs,
+            listStyle: "none",
+            overflowX: "auto",
+            padding: 0,
+          }}
+        >
+          {NAV.map((n) => (
+            <li key={n.href}>
+              <Link
+                href={n.href}
+                style={{
+                  alignItems: "center",
+                  color: color.text,
+                  display: "flex",
+                  fontSize: size.sm,
+                  minHeight: "2.75rem",
+                  padding: `0 ${space.sm}`,
+                  textDecoration: "none",
+                  whiteSpace: "nowrap",
+                }}
+              >
+                {n.label}
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </nav>
+      <div style={{ flex: "1 1 16rem", maxWidth: "24rem" }}>
+        <SearchForm id="header-search" compact />
+      </div>
+    </div>
   </header>
 )
 
 export const Main: FC<{ children: ReactNode }> = ({ children }) => (
   <main
     style={{
-      background: "#222",
-      minHeight: "calc(100dvh - 5.625rem)",
-      padding: "1rem",
+      minHeight: "calc(100dvh - 12rem)",
+      padding: `${space.xl} 0 ${space.xxl}`,
     }}
   >
     {children}
@@ -38,12 +104,12 @@ export const Main: FC<{ children: ReactNode }> = ({ children }) => (
 export const Footer: FC<{ children: ReactNode }> = ({ children }) => (
   <footer
     style={{
-      backgroundColor: "#333",
-      boxShadow: "0 -4px 6px rgba(0, 0, 0, 0.1)",
-      fontSize: ".75rem",
-      padding: "1rem",
+      borderTop: `1px solid ${color.border}`,
+      color: color.sub,
+      fontSize: size.xs,
+      padding: `${space.lg} 0`,
     }}
   >
-    {children}
+    <div style={styles.container}>{children}</div>
   </footer>
 )
