@@ -26,6 +26,11 @@ const ExhibitionsPage = () => (
       展覧会別 知っておきたい用語
     </h1>
     <p style={{ lineHeight: 2, marginBottom: space.lg }}>{description}</p>
+    <p style={{ lineHeight: 2, marginBottom: space.lg }}>
+      <Link href="/exhibitions/current/" style={styles.link}>
+        東京で開催中の企画展ごとの用語はこちら
+      </Link>
+    </p>
 
     <nav aria-label="展覧会の種類" style={{ marginBottom: space.xl }}>
       <ul

@@ -5,6 +5,9 @@ on:
     branches:
       - main
   workflow_dispatch:
+  # 毎日 6:00 JST に企画展情報を取り直して再デプロイ
+  schedule:
+    - cron: "0 21 * * *"
 
 permissions:
   contents: read
@@ -32,6 +35,11 @@ jobs:
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
+
+      # 失敗時はリポジトリにある前回の取得結果でビルドする
+      - name: Fetch exhibitions
+        run: pnpm fetch:exhibitions
+        continue-on-error: true
 
       - name: Build application
         run: pnpm build

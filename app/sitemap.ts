@@ -10,7 +10,14 @@ const sitemap = (): MetadataRoute.Sitemap => {
     .sort()
     .at(-1)
   return [
-    ...["/", "/terms/", "/categories/", "/guides/", "/exhibitions/"].map((p) => ({
+    ...[
+      "/",
+      "/terms/",
+      "/categories/",
+      "/guides/",
+      "/exhibitions/",
+      "/exhibitions/current/",
+    ].map((p) => ({
       url: absoluteUrl(p),
       lastModified: latest,
     })),

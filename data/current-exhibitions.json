@@ -1,0 +1,200 @@
+{
+  "source": "https://artscape.jp/exhibitions/?area=tokyo",
+  "fetchedAt": "2026-10-26T01:42:28.596Z",
+  "exhibitions": [
+    {
+      "id": "81874",
+      "url": "https://artscape.jp/exhibitions/81874/",
+      "title": "金井大次朗 初個展 「庭園の仔」",
+      "venue": "ギャラリー・マルヒ",
+      "start": "2026-11-07",
+      "end": "2026-11-15",
+      "terms": []
+    },
+    {
+      "id": "78911",
+      "url": "https://artscape.jp/exhibitions/78911/",
+      "title": "とりごえまり 個展『dark forest』",
+      "venue": "Sprout Books and Art",
+      "start": "2026-10-31",
+      "end": "2026-11-29",
+      "terms": []
+    },
+    {
+      "id": "81789",
+      "url": "https://artscape.jp/exhibitions/81789/",
+      "title": "佐藤愛美 個展「Drawing the human」",
+      "venue": "Alt_Medium",
+      "start": "2026-11-06",
+      "end": "2026-11-11",
+      "terms": ["oil-painting", "corporeality"]
+    },
+    {
+      "id": "81784",
+      "url": "https://artscape.jp/exhibitions/81784/",
+      "title": "山岸千穂・林銘君 二人展 「－境界－」",
+      "venue": "Gallery MUMON",
+      "start": "2026-11-13",
+      "end": "2026-11-28",
+      "terms": ["ink-painting"]
+    },
+    {
+      "id": "81702",
+      "url": "https://artscape.jp/exhibitions/81702/",
+      "title": "たじまひろえ個展『檸檬の約束』",
+      "venue": "one room gallery",
+      "start": "2026-11-01",
+      "end": "2026-12-27",
+      "terms": []
+    },
+    {
+      "id": "81674",
+      "url": "https://artscape.jp/exhibitions/81674/",
+      "title": "木綿花展-花守り-",
+      "venue": "イスム表参道店仏像ワールドギャラリー",
+      "start": "2026-11-17",
+      "end": "2026-11-29",
+      "terms": ["printmaking"]
+    },
+    {
+      "id": "81645",
+      "url": "https://artscape.jp/exhibitions/81645/",
+      "title": "松浦浩之「Super Acrylic Skin – SIGNALS」",
+      "venue": "東京画廊+BTAP",
+      "start": "2026-11-21",
+      "end": "2026-12-26",
+      "terms": ["graphic-design", "contemporary", "perspective"]
+    },
+    {
+      "id": "81641",
+      "url": "https://artscape.jp/exhibitions/81641/",
+      "title": "菅木志雄 Works on Paper",
+      "venue": "東京画廊+BTAP",
+      "start": "2026-10-10",
+      "end": "2026-11-14",
+      "terms": [
+        "mono-ha",
+        "installation",
+        "modernism",
+        "retrospective",
+        "drawing",
+        "relief",
+        "contemporary"
+      ]
+    },
+    {
+      "id": "81468",
+      "url": "https://artscape.jp/exhibitions/81468/",
+      "title": "川村今日子　 景色のうつわ展",
+      "venue": "cafe&gallery CHIARO/SCURO キアロスクーロ 光と影と",
+      "start": "2026-10-29",
+      "end": "2026-11-08",
+      "terms": ["ceramics", "kogei"]
+    },
+    {
+      "id": "81477",
+      "url": "https://artscape.jp/exhibitions/81477/",
+      "title": "伊藤久美子 個展｜「souvenir」",
+      "venue": "VALLOON STUDIO SHIBUYA",
+      "start": "2026-11-01",
+      "end": "2026-11-15",
+      "terms": ["abstract"]
+    },
+    {
+      "id": "81408",
+      "url": "https://artscape.jp/exhibitions/81408/",
+      "title": "港区の洋風建築と洋家具",
+      "venue": "港区立郷土歴史館",
+      "start": "2026-10-24",
+      "end": "2026-12-20",
+      "terms": []
+    },
+    {
+      "id": "81332",
+      "url": "https://artscape.jp/exhibitions/81332/",
+      "title": "アトリエシムラ10周年展示販売会「色への祝祭—にほひたつ—」",
+      "venue": "アトリエシムラ Gallery & School 東京・世田谷",
+      "start": "2026-10-30",
+      "end": "2026-12-22",
+      "terms": ["dyeing", "textile", "subject-matter"]
+    },
+    {
+      "id": "81382",
+      "url": "https://artscape.jp/exhibitions/81382/",
+      "title": "岩崎 美ゆき 個展「きみの海は不可侵」",
+      "venue": "Alt_Medium",
+      "start": "2026-10-30",
+      "end": "2026-11-04",
+      "terms": ["reconstruction"]
+    },
+    {
+      "id": "81305",
+      "url": "https://artscape.jp/exhibitions/81305/",
+      "title": "WE ARE THE HOUSE―向井山朋子＋高田冬彦（居候）",
+      "venue": "WHAT MUSEUM（ワットミュージアム）",
+      "start": "2027-01-19",
+      "end": "2027-03-22",
+      "terms": [
+        "contemporary",
+        "installation",
+        "corporeality",
+        "video-art",
+        "curator"
+      ]
+    },
+    {
+      "id": "81222",
+      "url": "https://artscape.jp/exhibitions/81222/",
+      "title": "パァーッと光が出て、キラキラッていろんなものが見えてくる。",
+      "venue": "草間彌生美術館",
+      "start": "2026-10-08",
+      "end": "2027-01-31",
+      "terms": ["drawing", "collage", "printmaking", "sculpture"]
+    },
+    {
+      "id": "81163",
+      "url": "https://artscape.jp/exhibitions/81163/",
+      "title": "戦後日本を代表する彫刻家「柳原義達の世界・人体」",
+      "venue": "関口美術館",
+      "start": "2026-10-31",
+      "end": "2027-03-14",
+      "terms": ["sculpture", "drawing", "printmaking"]
+    },
+    {
+      "id": "80202",
+      "url": "https://artscape.jp/exhibitions/80202/",
+      "title": "ユアサエボシと戦後アヴァンギャルドの変身寓話集",
+      "venue": "練馬区立美術館",
+      "start": "2026-10-31",
+      "end": "2026-12-27",
+      "terms": ["avant-garde", "contemporary"]
+    },
+    {
+      "id": "80647",
+      "url": "https://artscape.jp/exhibitions/80647/",
+      "title": "日本のアートディレクション展 2026",
+      "venue": "ギンザ・グラフィック・ギャラリー（ggg）",
+      "start": "2026-10-30",
+      "end": "2026-11-30",
+      "terms": ["graphic-design"]
+    },
+    {
+      "id": "80325",
+      "url": "https://artscape.jp/exhibitions/80325/",
+      "title": "国際美術展 TOKYO ATLAS",
+      "venue": "WHAT MUSEUM（ワットミュージアム）",
+      "start": "2026-10-10",
+      "end": "2026-12-20",
+      "terms": []
+    },
+    {
+      "id": "77723",
+      "url": "https://artscape.jp/exhibitions/77723/",
+      "title": "種と根っこ ─ 都市の耕し方",
+      "venue": "東京オペラシティ アートギャラリー",
+      "start": "2026-10-17",
+      "end": "2026-12-20",
+      "terms": ["contemporary"]
+    }
+  ]
+}
