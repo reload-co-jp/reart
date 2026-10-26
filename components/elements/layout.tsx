@@ -7,6 +7,7 @@ const NAV = [
   { href: "/terms/", label: "用語一覧" },
   { href: "/categories/", label: "カテゴリ" },
   { href: "/guides/", label: "学習ガイド" },
+  { href: "/exhibitions/", label: "展覧会別" },
   { href: "/saved/", label: "保存した用語" },
 ]
 

@@ -1,5 +1,12 @@
 import { describe, expect, it } from "vitest"
-import { categories, getTerm, guides, terms, validate } from "./data"
+import {
+  categories,
+  exhibitions,
+  getTerm,
+  guides,
+  terms,
+  validate,
+} from "./data"
 import type { Term } from "./types"
 
 const base = terms[0]
@@ -32,6 +39,6 @@ describe("data", () => {
   })
 
   it("guides reference existing guides", () => {
-    expect(validate(terms, categories, guides)).toEqual([])
+    expect(validate(terms, categories, guides, exhibitions)).toEqual([])
   })
 })

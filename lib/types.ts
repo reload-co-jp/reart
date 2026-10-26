@@ -80,3 +80,10 @@ export const DIFFICULTY_LABEL: Record<Difficulty, string> = {
   2: "基本",
   3: "発展",
 }
+
+export type Exhibition = {
+  slug: string
+  title: string
+  description: string
+  terms: { slug: string; note?: string }[]
+}

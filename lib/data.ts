@@ -1,8 +1,9 @@
 import fs from "node:fs"
 import path from "node:path"
 import categoriesJson from "@/data/categories.json"
+import exhibitionsJson from "@/data/exhibitions.json"
 import guidesJson from "@/data/guides.json"
-import type { Category, Guide, Term, TermIndex } from "./types"
+import type { Category, Exhibition, Guide, Term, TermIndex } from "./types"
 
 // data/terms/*.json（各ファイルは Term の配列）をすべて読み込む。
 // ファイルを追加するだけで一覧・カテゴリ・検索・sitemap に反映される。
@@ -22,7 +23,8 @@ const DATE = /^\d{4}-\d{2}-\d{2}$/
 export const validate = (
   terms: Term[],
   categories: Category[],
-  guides: Guide[]
+  guides: Guide[],
+  exhibitions: Exhibition[] = []
 ): string[] => {
   const errors: string[] = []
   const termSlugs = new Set<string>()
@@ -72,14 +74,19 @@ export const validate = (
       if (!guideSlugs.has(n))
         errors.push(`guide "${g.slug}": unknown guide "${n}"`)
   }
+  for (const e of exhibitions)
+    for (const s of e.terms)
+      if (!published.has(s.slug))
+        errors.push(`exhibition "${e.slug}": broken reference "${s.slug}"`)
   return errors
 }
 
 const allTerms = loadTerms()
 export const categories: Category[] = categoriesJson
 export const guides: Guide[] = guidesJson
+export const exhibitions: Exhibition[] = exhibitionsJson
 
-const errors = validate(allTerms, categories, guides)
+const errors = validate(allTerms, categories, guides, exhibitions)
 if (errors.length) throw new Error(`Invalid data:\n${errors.join("\n")}`)
 
 // 以降、公開済みの用語だけを扱う

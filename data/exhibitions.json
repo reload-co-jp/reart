@@ -1,0 +1,183 @@
+[
+  {
+    "slug": "impressionism",
+    "title": "印象派展",
+    "description": "モネやルノワールなど、光と色の移ろいを描いた画家たちの展覧会。前後の時代とのつながりを知ると、展示の流れがよく見えます。",
+    "terms": [
+      { "slug": "impressionism" },
+      {
+        "slug": "realism",
+        "note": "印象派の直前の動き。章立ての最初によく登場します。"
+      },
+      { "slug": "post-impressionism" },
+      {
+        "slug": "japonisme",
+        "note": "浮世絵との比較展示がある展覧会では必ず出てきます。"
+      },
+      { "slug": "landscape-painting" },
+      { "slug": "brushwork" },
+      { "slug": "complementary-colors" },
+      { "slug": "oil-painting" }
+    ]
+  },
+  {
+    "slug": "western-old-masters",
+    "title": "西洋古典絵画展",
+    "description": "ルネサンスからバロック、新古典主義まで、ヨーロッパの美術館コレクションを紹介する展覧会。描かれた物語や象徴を読み解く言葉が役立ちます。",
+    "terms": [
+      { "slug": "renaissance" },
+      { "slug": "baroque" },
+      { "slug": "neoclassicism" },
+      { "slug": "romanticism" },
+      {
+        "slug": "history-painting",
+        "note": "かつて最も格の高いジャンルとされた絵画です。"
+      },
+      { "slug": "iconography" },
+      { "slug": "allegory" },
+      { "slug": "vanitas", "note": "静物画の髑髏や砂時計の意味がわかります。" },
+      { "slug": "chiaroscuro" },
+      { "slug": "perspective" },
+      { "slug": "tempera" },
+      { "slug": "fresco" }
+    ]
+  },
+  {
+    "slug": "japanese-art",
+    "title": "日本美術・浮世絵展",
+    "description": "浮世絵や近代の日本画・洋画を紹介する展覧会。技法や画材の違いを知ると、作品のキャプションがぐっと読みやすくなります。",
+    "terms": [
+      { "slug": "ukiyo-e" },
+      { "slug": "woodblock-print" },
+      { "slug": "printmaking" },
+      { "slug": "edition" },
+      {
+        "slug": "nihonga",
+        "note": "洋画と対になる言葉。明治以降の展覧会で頻出します。"
+      },
+      { "slug": "yoga-painting" },
+      { "slug": "pigment" },
+      { "slug": "blank-space" },
+      { "slug": "genre-painting" },
+      { "slug": "japonisme" }
+    ]
+  },
+  {
+    "slug": "modern-art",
+    "title": "20世紀美術・近代美術展",
+    "description": "キュビスムやシュルレアリスムなど、20世紀前半の「〇〇イズム」が次々と登場する展覧会。運動の名前と技法をセットで押さえましょう。",
+    "terms": [
+      { "slug": "modernism" },
+      { "slug": "avant-garde" },
+      { "slug": "fauvism" },
+      { "slug": "expressionism" },
+      { "slug": "cubism" },
+      { "slug": "futurism" },
+      { "slug": "dada" },
+      { "slug": "surrealism" },
+      { "slug": "abstract" },
+      { "slug": "collage" },
+      {
+        "slug": "frottage",
+        "note": "シュルレアリスムの展示でよく見かける技法です。"
+      },
+      { "slug": "readymade" }
+    ]
+  },
+  {
+    "slug": "contemporary-art",
+    "title": "現代美術展・国際芸術祭",
+    "description": "インスタレーションや映像作品が並ぶ展覧会や、ビエンナーレなどの芸術祭。作品の形式と、その背景にある考え方を表す言葉を集めました。",
+    "terms": [
+      { "slug": "contemporary" },
+      { "slug": "installation" },
+      { "slug": "site-specific" },
+      { "slug": "video-art" },
+      { "slug": "performance-art" },
+      { "slug": "conceptual-art" },
+      { "slug": "participatory-art" },
+      { "slug": "relational-art" },
+      {
+        "slug": "biennale",
+        "note": "国際芸術祭のことを指す場合が多い言葉です。"
+      },
+      { "slug": "art-project" },
+      { "slug": "mixed-media" },
+      { "slug": "untitled" }
+    ]
+  },
+  {
+    "slug": "postwar-japan",
+    "title": "戦後日本の前衛美術展",
+    "description": "具体やもの派など、戦後の日本で生まれた前衛的な動きを紹介する展覧会。海外の同時代の動きと並べて見ると理解が深まります。",
+    "terms": [
+      { "slug": "gutai" },
+      { "slug": "mono-ha" },
+      { "slug": "avant-garde" },
+      { "slug": "happening" },
+      { "slug": "fluxus" },
+      { "slug": "abstract-expressionism" },
+      { "slug": "found-object" },
+      { "slug": "corporeality" }
+    ]
+  },
+  {
+    "slug": "craft-design",
+    "title": "工芸・デザイン展",
+    "description": "陶芸や漆、染織から、ポスターや家具などのデザインまで。生活と美術のつながりを扱う展覧会で出会う言葉です。",
+    "terms": [
+      { "slug": "kogei" },
+      { "slug": "ceramics" },
+      { "slug": "lacquerware" },
+      { "slug": "dyeing" },
+      { "slug": "textile" },
+      {
+        "slug": "mingei",
+        "note": "アーツ・アンド・クラフツ運動と比べて紹介されることがあります。"
+      },
+      { "slug": "arts-and-crafts" },
+      { "slug": "art-nouveau" },
+      { "slug": "art-deco" },
+      { "slug": "bauhaus" },
+      { "slug": "graphic-design" }
+    ]
+  },
+  {
+    "slug": "prints-pop",
+    "title": "版画・ポップアート展",
+    "description": "版画作品や、ウォーホルに代表されるポップアートの展覧会。刷りの技法やエディション番号の意味を知っておくと楽しめます。",
+    "terms": [
+      { "slug": "printmaking" },
+      {
+        "slug": "edition",
+        "note": "作品横の「12/50」といった数字の意味です。"
+      },
+      { "slug": "silkscreen" },
+      { "slug": "lithograph" },
+      { "slug": "etching" },
+      { "slug": "pop-art" },
+      { "slug": "appropriation" },
+      { "slug": "photomontage" },
+      { "slug": "kitsch" }
+    ]
+  },
+  {
+    "slug": "retrospective",
+    "title": "作家の回顧展",
+    "description": "ひとりの作家の生涯の仕事をたどる展覧会。作風の変化を追うときや、図録・キャプションを読むときに役立つ言葉です。",
+    "terms": [
+      { "slug": "retrospective" },
+      { "slug": "curator" },
+      { "slug": "catalogue" },
+      { "slug": "caption" },
+      {
+        "slug": "drawing",
+        "note": "完成作の前段階として展示されることが多い作品です。"
+      },
+      { "slug": "motif" },
+      { "slug": "subject-matter" },
+      { "slug": "matiere" },
+      { "slug": "context" }
+    ]
+  }
+]
