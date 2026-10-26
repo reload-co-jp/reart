@@ -755,5 +755,444 @@
     "status": "published",
     "createdAt": "2026-10-25",
     "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "sfumato",
+    "term": "スフマート",
+    "reading": "すふまーと",
+    "english": "Sfumato (伊)",
+    "aliases": ["ぼかし技法"],
+    "summary": "輪郭線を使わず、色の境目を煙のようにぼかして形を表す絵画の技法。",
+    "definition": "イタリア語で「煙のような」「消えていく」という意味の言葉に由来します。薄く溶いた絵具を何層も重ね、明るい部分から暗い部分へ境目がわからないほどなめらかに移り変わらせることで、柔らかな立体感や空気の奥行きを生み出します。ルネサンス期のレオナルド・ダ・ヴィンチが得意とした技法として知られています。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "人物の口元や目元の輪郭がはっきりせず、表情が見る角度によって変わって見える肖像画。"
+      },
+      {
+        "description": "遠くの山並みが青くかすみ、空気に溶け込むように描かれた背景。"
+      }
+    ],
+    "viewingTips": [
+      "顔の輪郭や目元に、はっきりした線があるかどうかを近くで確かめる。",
+      "明るい部分から暗い部分への移り変わりがどれほどなめらかかを見る。"
+    ],
+    "museumUsage": "ルネサンス絵画の展覧会で、レオナルドやその影響を受けた画家の作品解説によく登場します。",
+    "relatedTerms": ["renaissance", "chiaroscuro", "oil-painting", "glazing"],
+    "prerequisiteTerms": ["oil-painting"],
+    "sources": [],
+    "verification": {
+      "status": "unverified"
+    },
+    "status": "published",
+    "createdAt": "2026-10-26",
+    "updatedAt": "2026-10-26"
+  },
+  {
+    "slug": "glazing",
+    "term": "グレーズ",
+    "reading": "ぐれーず",
+    "english": "Glazing",
+    "aliases": ["グラッシ", "グレージング"],
+    "summary": "乾いた絵具の上に、透明な絵具を薄く塗り重ねる油彩などの技法。",
+    "definition": "下の層が乾いてから、油などで薄く溶いた透明感のある絵具を何度も重ねる技法です。光が透明な層を通り抜けて下の色に反射するため、混ぜた絵具では出せない深みや輝きのある色になります。油彩の古典的な技法で、厚塗りのインパストとは対照的な描き方です。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 3,
+    "examples": [
+      {
+        "description": "何層もの薄い赤が重ねられ、奥から光るように見える衣服の描写。"
+      },
+      {
+        "description": "肌の部分が透き通るような質感で描かれた古典的な肖像画。"
+      }
+    ],
+    "viewingTips": [
+      "色に奥行きや透明感があるかどうか、斜めからも眺めてみる。",
+      "同じ作家の厚塗りの部分と見比べて、表面の質感の違いを探す。"
+    ],
+    "museumUsage": "西洋古典絵画の展覧会で、画家の制作工程や修復の解説の中で使われることがあります。",
+    "relatedTerms": ["oil-painting", "impasto", "sfumato", "matiere"],
+    "prerequisiteTerms": ["oil-painting"],
+    "sources": [],
+    "verification": {
+      "status": "unverified"
+    },
+    "status": "published",
+    "createdAt": "2026-10-26",
+    "updatedAt": "2026-10-26"
+  },
+  {
+    "slug": "gouache",
+    "term": "グアッシュ",
+    "reading": "ぐあっしゅ",
+    "english": "Gouache (仏)",
+    "aliases": ["ガッシュ", "不透明水彩"],
+    "summary": "水で溶いて使う、不透明で平らに塗れる水彩絵具。",
+    "definition": "顔料にアラビアゴムなどを混ぜて作る水性の絵具で、透明水彩より顔料の割合が多く、下の色を隠すように不透明に塗れるのが特徴です。乾くとマットで均一な色面になるため、ポスターやイラストレーション、デザインの原画などにも広く使われてきました。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "均一な色面で描かれた、ポスターやデザインの原画。"
+      },
+      {
+        "description": "水彩で描いた上に、白いグアッシュでハイライトを加えた風景のスケッチ。"
+      }
+    ],
+    "viewingTips": [
+      "色面が透けているか、下の色を覆い隠しているかを見比べる。",
+      "表面のつや（マットか光沢があるか）に注目する。"
+    ],
+    "museumUsage": "作品キャプションの素材欄に「紙にグアッシュ」などと書かれていることが多い言葉です。",
+    "relatedTerms": [
+      "watercolor",
+      "pigment",
+      "acrylic-paint",
+      "graphic-design"
+    ],
+    "prerequisiteTerms": ["watercolor"],
+    "sources": [],
+    "verification": {
+      "status": "unverified"
+    },
+    "status": "published",
+    "createdAt": "2026-10-26",
+    "updatedAt": "2026-10-26"
+  },
+  {
+    "slug": "pointillism",
+    "term": "点描",
+    "reading": "てんびょう",
+    "english": "Pointillism",
+    "aliases": ["点描主義", "点描法"],
+    "summary": "細かな色の点を並べて、離れて見たときに目の中で色が混ざり合うように描く技法。",
+    "definition": "絵具をパレットで混ぜずに、純粋な色の小さな点を画面に並べていく描き方です。離れて見ると隣り合う色が目の中で混ざって見え、明るく鮮やかな効果が得られると考えられました。19世紀後半のフランスで、ジョルジュ・スーラやポール・シニャックらが色彩の科学的な理論をもとに体系化し、その動きは新印象派と呼ばれます。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "近づくと色の点の集まりにしか見えないのに、離れると水辺の風景が浮かび上がる絵画。"
+      },
+      {
+        "description": "オレンジと青など、補色の点が隣り合うように置かれた画面。"
+      }
+    ],
+    "viewingTips": [
+      "作品に近づいたときと離れたときで、見え方がどう変わるかを比べる。",
+      "点の大きさや形、並べ方が画面の場所によって違うかを探す。"
+    ],
+    "museumUsage": "印象派展やポスト印象派の展覧会で、スーラやシニャックの作品解説によく登場します。",
+    "relatedTerms": [
+      "post-impressionism",
+      "impressionism",
+      "complementary-colors",
+      "brushwork"
+    ],
+    "prerequisiteTerms": ["impressionism"],
+    "sources": [],
+    "verification": {
+      "status": "unverified"
+    },
+    "status": "published",
+    "createdAt": "2026-10-26",
+    "updatedAt": "2026-10-26"
+  },
+  {
+    "slug": "trompe-loeil",
+    "term": "トロンプ・ルイユ",
+    "reading": "とろんぷるいゆ",
+    "english": "Trompe-l'œil (仏)",
+    "aliases": ["だまし絵"],
+    "summary": "本物がそこにあるかのように見る人の目を欺く、徹底した写実の表現。",
+    "definition": "フランス語で「目をだます」という意味です。壁に描かれた窓や扉、画面に貼られたように見えるメモや虫など、実物と見間違えるほど立体的に描くことで、見る人を一瞬だまそうとする表現を指します。古代の壁画から見られ、ルネサンス以降は遠近法や陰影の技術とともに発展しました。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "額縁から手や物がはみ出してくるように描かれた絵画。"
+      },
+      {
+        "description": "建物の天井が、空へ向かって吹き抜けているように描かれた天井画。"
+      }
+    ],
+    "viewingTips": [
+      "どこから見たときに最も本物らしく見えるか、立つ位置を変えてみる。",
+      "作家が見る人をどう「だまそう」としているか、その仕掛けを探す。"
+    ],
+    "museumUsage": "静物画や天井画の解説、また「だまし絵」をテーマにした展覧会で使われる言葉です。",
+    "relatedTerms": ["perspective", "still-life", "chiaroscuro", "realism"],
+    "prerequisiteTerms": ["perspective"],
+    "sources": [],
+    "verification": {
+      "status": "unverified"
+    },
+    "status": "published",
+    "createdAt": "2026-10-26",
+    "updatedAt": "2026-10-26"
+  },
+  {
+    "slug": "dripping",
+    "term": "ドリッピング",
+    "reading": "どりっぴんぐ",
+    "english": "Dripping",
+    "aliases": ["ポーリング"],
+    "summary": "絵筆を画面につけず、絵具を垂らしたり流したりして描く技法。",
+    "definition": "キャンバスを床に広げ、缶から直接、または棒や筆の先から絵具を垂らし、流し、飛ばして画面を作る技法です。1940年代後半にアメリカのジャクソン・ポロックが本格的に用いたことで知られ、描く人の身体の動きがそのまま画面に残る点が重視されました。抽象表現主義を代表する手法の一つです。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "何色もの細い線が網の目のように重なり合った、大きな抽象画。"
+      },
+      {
+        "description": "絵具が飛び散った跡や、たまって盛り上がった跡が残る画面。"
+      }
+    ],
+    "viewingTips": [
+      "線の太さや勢いから、作家の腕や体の動きを想像してみる。",
+      "画面の端まで模様が続いているか、中心があるかを見る。"
+    ],
+    "museumUsage": "抽象表現主義や戦後美術の展覧会で、ポロックの作品解説によく登場します。",
+    "relatedTerms": ["abstract-expressionism", "abstract", "corporeality"],
+    "prerequisiteTerms": ["abstract-expressionism"],
+    "sources": [],
+    "verification": {
+      "status": "unverified"
+    },
+    "status": "published",
+    "createdAt": "2026-10-26",
+    "updatedAt": "2026-10-26"
+  },
+  {
+    "slug": "drypoint",
+    "term": "ドライポイント",
+    "reading": "どらいぽいんと",
+    "english": "Drypoint",
+    "aliases": [],
+    "summary": "銅版などに鋭い針で直接線を刻む、凹版画の技法。",
+    "definition": "腐食液を使わず、硬い針で金属板を直接引っかいて線を彫る技法です。彫ったときに線の両側にできる金属のまくれ（バー）にインクがたまるため、刷ると線の周りがにじんだような柔らかく温かみのある表情になります。まくれは刷るたびにすり減るため、刷れる枚数が限られるのも特徴です。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 3,
+    "examples": [
+      {
+        "description": "線のまわりがビロードのようににじんで見える人物像の版画。"
+      },
+      {
+        "description": "同じ版から刷られた初期の刷りと後期の刷りで、線の濃さが違う作品。"
+      }
+    ],
+    "viewingTips": [
+      "線の輪郭がシャープか、ふわっとにじんでいるかを見比べる。",
+      "エッチングの作品と並んでいたら、線の質の違いを探す。"
+    ],
+    "museumUsage": "版画展で、エッチングやアクアチントと並んで技法名として表示されます。",
+    "relatedTerms": ["etching", "printmaking", "edition", "aquatint"],
+    "prerequisiteTerms": ["printmaking"],
+    "sources": [],
+    "verification": {
+      "status": "unverified"
+    },
+    "status": "published",
+    "createdAt": "2026-10-26",
+    "updatedAt": "2026-10-26"
+  },
+  {
+    "slug": "aquatint",
+    "term": "アクアチント",
+    "reading": "あくあちんと",
+    "english": "Aquatint",
+    "aliases": [],
+    "summary": "松脂の粉などを使い、線ではなく面の濃淡を表す銅版画の技法。",
+    "definition": "銅版に松脂などの細かな粉を焼き付けてから腐食させることで、粉の隙間に細かなくぼみを作り、インクを面としてためる技法です。腐食させる時間を変えることで、水彩のようなぼかしや段階的な濃淡を表せます。線を表すエッチングと組み合わせて使われることが多く、ゴヤの版画集などで知られています。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 3,
+    "examples": [
+      {
+        "description": "線描に、灰色の面の陰影が重ねられた銅版画。"
+      },
+      {
+        "description": "空や影の部分が、水彩で塗ったような柔らかな濃淡で表された版画。"
+      }
+    ],
+    "viewingTips": [
+      "線で描かれた部分と、面で塗られたような部分を見分ける。",
+      "面の部分に、細かな粒状の模様が見えるか近づいて確かめる。"
+    ],
+    "museumUsage": "版画展のキャプションで「エッチング、アクアチント」のように併記されることが多い言葉です。",
+    "relatedTerms": ["etching", "printmaking", "drypoint", "mezzotint"],
+    "prerequisiteTerms": ["etching"],
+    "sources": [],
+    "verification": {
+      "status": "unverified"
+    },
+    "status": "published",
+    "createdAt": "2026-10-26",
+    "updatedAt": "2026-10-26"
+  },
+  {
+    "slug": "mezzotint",
+    "term": "メゾチント",
+    "reading": "めぞちんと",
+    "english": "Mezzotint",
+    "aliases": ["マニエール・ノワール"],
+    "summary": "版の全面を細かく荒らしてから削り、黒から光を浮かび上がらせる銅版画の技法。",
+    "definition": "ロッカーと呼ばれる刃のついた道具で銅版の全面に細かな傷をつけ、そのまま刷ると真っ黒になる状態を作ります。そこからスクレーパーなどで傷を削ったり磨いたりして、白や灰色の部分を作り出します。深いビロードのような黒と、なめらかな階調が特徴です。日本では長谷川潔がこの技法を復興させたことで知られています。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 3,
+    "examples": [
+      {
+        "description": "深い黒の背景から、静物がほのかに浮かび上がるように表された版画。"
+      },
+      {
+        "description": "線がほとんどなく、なめらかな明暗の変化だけで形が表された作品。"
+      }
+    ],
+    "viewingTips": [
+      "黒の部分の深さや質感を、照明の下でじっくり見る。",
+      "形が線で描かれているのか、明暗だけで表されているのかを確かめる。"
+    ],
+    "museumUsage": "版画展や、銅版画家の回顧展で技法名として登場します。",
+    "relatedTerms": ["printmaking", "etching", "aquatint", "chiaroscuro"],
+    "prerequisiteTerms": ["printmaking"],
+    "sources": [],
+    "verification": {
+      "status": "unverified"
+    },
+    "status": "published",
+    "createdAt": "2026-10-26",
+    "updatedAt": "2026-10-26"
+  },
+  {
+    "slug": "encaustic",
+    "term": "エンカウスティーク",
+    "reading": "えんかうすてぃーく",
+    "english": "Encaustic",
+    "aliases": ["蜜蝋画", "蝋画"],
+    "summary": "顔料を溶かした蜜蝋（みつろう）で描く、熱を使う絵画の技法。",
+    "definition": "蜜蝋に顔料を混ぜ、熱で溶かした状態で画面に塗り、冷えて固まることで定着させる技法です。古代ギリシャ・ローマの時代から使われ、エジプトで見つかった「ファイユームの肖像画」がよく知られています。蝋ならではの半透明の層やつや、厚みのある表面が特徴で、20世紀以降も現代の作家によって使われています。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 3,
+    "examples": [
+      {
+        "description": "ミイラの顔の部分に取り付けられた、古代の板絵の肖像。"
+      },
+      {
+        "description": "蝋の層が重なり、表面に半透明の厚みが感じられる現代の抽象作品。"
+      }
+    ],
+    "viewingTips": [
+      "表面のつやや、層の重なりによる半透明感を見る。",
+      "筆跡が溶けて固まったような跡があるかを探す。"
+    ],
+    "museumUsage": "古代美術の展覧会や、素材に特徴のある現代美術作品のキャプションで使われます。",
+    "relatedTerms": ["pigment", "tempera", "matiere", "portrait"],
+    "prerequisiteTerms": ["pigment"],
+    "sources": [],
+    "verification": {
+      "status": "unverified"
+    },
+    "status": "published",
+    "createdAt": "2026-10-26",
+    "updatedAt": "2026-10-26"
+  },
+  {
+    "slug": "casting",
+    "term": "鋳造",
+    "reading": "ちゅうぞう",
+    "english": "Casting",
+    "aliases": ["キャスティング", "ブロンズ鋳造"],
+    "summary": "溶かした金属などを型に流し込み、固めて形を作る技法。",
+    "definition": "粘土などで作った原型から型を取り、そこに溶かした青銅（ブロンズ）などの金属や石膏、樹脂を流し込んで作品を作る方法です。原型を蝋で作り、型の中で蝋を溶かし出して金属と入れ替える「ロストワックス（蝋型鋳造）」がよく知られています。同じ型から複数の作品を作れるため、彫刻にもエディションの考え方があります。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "作家が粘土で作った原型をもとに、ブロンズで鋳造された人物像。"
+      },
+      {
+        "description": "同じ原型から鋳造され、複数の美術館に所蔵されている彫刻。"
+      }
+    ],
+    "viewingTips": [
+      "キャプションに鋳造年や鋳造所の名前が書かれているかを確かめる。",
+      "表面の色や質感から、素材がブロンズか石膏か樹脂かを見分ける。"
+    ],
+    "museumUsage": "彫刻作品のキャプションで「ブロンズ」の表記とともに、制作年と鋳造年が分けて示されることがあります。",
+    "relatedTerms": ["sculpture", "relief", "edition"],
+    "prerequisiteTerms": ["sculpture"],
+    "sources": [],
+    "verification": {
+      "status": "unverified"
+    },
+    "status": "published",
+    "createdAt": "2026-10-26",
+    "updatedAt": "2026-10-26"
+  },
+  {
+    "slug": "ink-painting",
+    "term": "水墨画",
+    "reading": "すいぼくが",
+    "english": "Ink painting",
+    "aliases": ["墨絵", "水墨"],
+    "summary": "墨の濃淡やにじみ、かすれを生かして描く絵画。",
+    "definition": "墨を水で溶き、その濃さや筆の運び、にじみやかすれによって形や空間、光や空気感を表す絵画です。中国で発展し、日本には鎌倉時代ごろに禅宗とともに本格的に伝わりました。室町時代の雪舟をはじめ多くの画家が手がけ、余白を生かした構成も大きな特徴です。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "濃い墨の線と、薄い墨のぼかしで描き分けられた山水図。"
+      },
+      {
+        "description": "大きな余白の中に、竹や鳥が少しだけ描かれた掛軸。"
+      }
+    ],
+    "viewingTips": [
+      "墨の濃い部分と薄い部分で、近いものと遠いものがどう描き分けられているかを見る。",
+      "何も描かれていない余白が、霧や水、空としてどう働いているかを考える。"
+    ],
+    "museumUsage": "日本美術や中国美術の展覧会で、「紙本墨画」などの表記とともに頻出します。",
+    "relatedTerms": ["blank-space", "brushwork", "nihonga", "pigment"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": {
+      "status": "unverified"
+    },
+    "status": "published",
+    "createdAt": "2026-10-26",
+    "updatedAt": "2026-10-26"
+  },
+  {
+    "slug": "maki-e",
+    "term": "蒔絵",
+    "reading": "まきえ",
+    "english": "Maki-e",
+    "aliases": [],
+    "summary": "漆で文様を描き、乾く前に金や銀の粉を蒔きつけて装飾する技法。",
+    "definition": "器物の表面に漆で絵や文様を描き、その漆が乾ききる前に金粉や銀粉を蒔いて付着させる、日本で独自に発展した漆芸の技法です。平らに仕上げる平蒔絵、文様を盛り上げる高蒔絵、全体を研ぎ出す研出蒔絵などの種類があります。硯箱や文箱、調度品などに用いられ、海外へも輸出されて高く評価されました。",
+    "categoryIds": ["materials-techniques", "craft-design"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "黒い漆の地に、金で秋草の文様が描かれた硯箱。"
+      },
+      {
+        "description": "文様の一部が立体的に盛り上がって見える手箱。"
+      }
+    ],
+    "viewingTips": [
+      "金の文様が平らか、盛り上がっているかを斜めから見る。",
+      "金の粉の細かさや、色の違う金の使い分けを探す。"
+    ],
+    "museumUsage": "工芸展や日本美術の展覧会で、漆工品の技法名として作品名に含まれることも多い言葉です。",
+    "relatedTerms": ["lacquerware", "kogei", "japonisme"],
+    "prerequisiteTerms": ["lacquerware"],
+    "sources": [],
+    "verification": {
+      "status": "unverified"
+    },
+    "status": "published",
+    "createdAt": "2026-10-26",
+    "updatedAt": "2026-10-26"
   }
 ]
