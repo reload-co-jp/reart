@@ -15,17 +15,22 @@ export const pageMeta = ({
   description = SITE_DESCRIPTION,
   path,
   type = "website",
+  publishedTime,
+  modifiedTime,
 }: {
   title?: string
   description?: string
   path: string
   type?: "website" | "article"
+  publishedTime?: string
+  modifiedTime?: string
 }): Metadata => ({
   ...(title && { title }),
   description,
   alternates: { canonical: path },
   openGraph: {
     type,
+    ...(type === "article" && { publishedTime, modifiedTime }),
     url: path,
     title: title ? `${title}｜ReArt` : SITE_NAME,
     description,

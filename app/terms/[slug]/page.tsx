@@ -15,7 +15,13 @@ import {
   terms,
   termsInCategory,
 } from "@/lib/data"
-import { absoluteUrl, pageMeta, SITE_NAME, SITE_URL } from "@/lib/site"
+import {
+  absoluteUrl,
+  OG_IMAGE,
+  pageMeta,
+  SITE_NAME,
+  SITE_URL,
+} from "@/lib/site"
 import { DIFFICULTY_LABEL, Term } from "@/lib/types"
 
 type Props = { params: Promise<{ slug: string }> }
@@ -36,6 +42,8 @@ export const generateMetadata = async ({
     description: describe(t),
     path: `/terms/${t.slug}/`,
     type: "article",
+    publishedTime: t.createdAt,
+    modifiedTime: t.updatedAt,
   })
 }
 
@@ -126,15 +134,25 @@ const TermPage = async ({ params }: Props) => {
       <JsonLd
         data={{
           "@context": "https://schema.org",
-          "@type": "DefinedTerm",
-          name: t.term,
-          alternateName: [t.reading, t.english, ...t.aliases].filter(Boolean),
+          "@type": "Article",
+          headline: `${t.term}とは？意味・作品の見方を解説`,
           description: t.summary,
           url: absoluteUrl(path),
-          inDefinedTermSet: {
-            "@type": "DefinedTermSet",
-            name: SITE_NAME,
-            url: `${SITE_URL}/terms/`,
+          image: absoluteUrl(OG_IMAGE),
+          inLanguage: "ja",
+          datePublished: t.createdAt,
+          dateModified: t.updatedAt,
+          publisher: { "@type": "Organization", name: SITE_NAME, url: SITE_URL },
+          mainEntity: {
+            "@type": "DefinedTerm",
+            name: t.term,
+            alternateName: [t.reading, t.english, ...t.aliases].filter(Boolean),
+            description: t.summary,
+            inDefinedTermSet: {
+              "@type": "DefinedTermSet",
+              name: SITE_NAME,
+              url: `${SITE_URL}/terms/`,
+            },
           },
         }}
       />
