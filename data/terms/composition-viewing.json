@@ -390,5 +390,111 @@
     "status": "published",
     "createdAt": "2026-10-25",
     "updatedAt": "2026-10-25"
+  },
+  {
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-29",
+    "updatedAt": "2026-10-29",
+    "prerequisiteTerms": ["composition"],
+    "slug": "golden-ratio",
+    "term": "黄金比",
+    "reading": "おうごんひ",
+    "english": "Golden ratio",
+    "aliases": ["黄金分割", "黄金律"],
+    "summary": "約1：1.618の比率で、古くから美しい比例とされてきたもの。",
+    "definition": "線分を、全体と長い部分の比が、長い部分と短い部分の比と等しくなるように分けたときの比率で、およそ1：1.618です。古代ギリシアから知られ、ルネサンス期には数学者ルカ・パチョーリが『神聖比例論』で論じました。20世紀には建築家ル・コルビュジエが黄金比をもとにした寸法体系「モデュロール」を考案しました。",
+    "artUsage": "絵画や建築の構図・比例を分析する際に使われます。ただし、古代の建築や有名な絵画に黄金比が使われているという説には、後から当てはめたものも多く、根拠がはっきりしない例も少なくありません。",
+    "confusables": [
+      {
+        "slug": "rule-of-thirds",
+        "note": "三分割法は画面を三等分する簡易な構図の目安、黄金比は約1：1.618という特定の比率です。"
+      }
+    ],
+    "difficulty": 2,
+    "examples": [
+      { "description": "縦横の比率が黄金比に近い長方形の画面。" },
+      { "description": "黄金比にもとづく寸法で設計された近代建築。" }
+    ],
+    "viewingTips": [
+      "画面のどこに主役や水平線が置かれているかを測るように見てみる。",
+      "「黄金比が使われている」という解説は、作者の意図か後世の分析かを確かめる。"
+    ],
+    "museumUsage": "構図の解説や建築・デザインの展示で「黄金比にもとづく構成」のように使われます。",
+    "museumExample": "画面は黄金比にもとづいて分割され、人物は分割線の交点近くに配置されている。",
+    "relatedTerms": ["composition", "rule-of-thirds", "perspective"],
+    "categoryIds": ["composition-viewing"]
+  },
+  {
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-29",
+    "updatedAt": "2026-10-29",
+    "prerequisiteTerms": ["composition"],
+    "slug": "rule-of-thirds",
+    "term": "三分割法",
+    "reading": "さんぶんかつほう",
+    "english": "Rule of thirds",
+    "aliases": ["三分割構図", "三分割"],
+    "summary": "画面を縦横それぞれ三等分し、その線や交点に主要なものを置く構図の目安。",
+    "definition": "画面を縦横に三等分する2本ずつの線を想定し、その線上や交点に主題や水平線を置く構図法です。18世紀末のイギリスで、風景画の構図について述べた言葉に由来するとされます。主題を中央から外すことで、画面に動きや余白、奥行きが生まれやすくなります。",
+    "artUsage": "写真や映像の分野で特によく使われますが、絵画の構図を分析するときの手がかりにもなります。ただし、画家が三分割法を意識して描いたとは限りません。",
+    "confusables": [
+      {
+        "slug": "golden-ratio",
+        "note": "黄金比は約1：1.618という比率、三分割法は画面を三等分する簡易な目安です。"
+      }
+    ],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "水平線を画面の下から3分の1の位置に置き、空を広く見せた風景画。"
+      },
+      { "description": "人物の目の位置を上3分の1の線に合わせた肖像写真。" }
+    ],
+    "viewingTips": [
+      "画面に縦横の三分割線を思い描き、主役や水平線の位置を確かめる。",
+      "あえて中央に主題を置いた作品と比べ、印象の違いを考える。"
+    ],
+    "museumUsage": "写真展や、構図をテーマにした鑑賞プログラムなどで使われます。",
+    "museumExample": "地平線を画面の下3分の1に置くことで、広大な空が強調されている。",
+    "relatedTerms": [
+      "composition",
+      "golden-ratio",
+      "blank-space",
+      "landscape-painting"
+    ],
+    "categoryIds": ["composition-viewing"]
+  },
+  {
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-29",
+    "updatedAt": "2026-10-29",
+    "prerequisiteTerms": [],
+    "slug": "byobu",
+    "term": "屏風",
+    "reading": "びょうぶ",
+    "english": "Folding screen",
+    "aliases": ["屏風絵", "六曲一双"],
+    "summary": "複数の画面をつないだ折りたたみ式の調度で、日本美術の重要な画面形式。",
+    "definition": "風よけや間仕切りのための室内調度で、その画面に絵や書が描かれました。一枚の面を「扇（せん）」と数え、六扇からなるものを「六曲」、左右一対を「一双」と呼びます。向かって右を右隻（うせき）、左を左隻（させき）といいます。ジグザグに折って立てるため、見る角度によって画面に奥行きや変化が生まれます。",
+    "artUsage": "屏風に描かれた絵画（屏風絵）を指して使われることも多く、展示では作品名に「〜図屏風」とつくのが一般的です。",
+    "difficulty": 1,
+    "examples": [
+      { "description": "左右一対の六曲屏風に、春と秋の景色を描き分けた作品。" },
+      { "description": "金箔を貼った画面に松と波を描いた屏風。" }
+    ],
+    "viewingTips": [
+      "右隻から左隻へ、右から左へと視線を移して見る。",
+      "少し離れて全体を見たあと、斜めから折れ目による立体感も確かめる。"
+    ],
+    "museumUsage": "日本美術の展示で「六曲一双」「右隻・左隻」などの表記とともに登場します。",
+    "museumExample": "六曲一双の大画面に、四季の移ろいが右隻から左隻へと連続して描かれている。",
+    "relatedTerms": ["rinpa", "kano-school", "yamato-e", "triptych"],
+    "categoryIds": ["composition-viewing"]
   }
 ]

@@ -1227,5 +1227,40 @@
     "status": "published",
     "createdAt": "2026-10-29",
     "updatedAt": "2026-10-29"
+  },
+  {
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-29",
+    "updatedAt": "2026-10-29",
+    "prerequisiteTerms": ["drawing"],
+    "slug": "croquis",
+    "term": "クロッキー",
+    "reading": "くろっきー",
+    "english": "Croquis",
+    "aliases": ["速写"],
+    "summary": "短い時間で対象の形や動きをすばやく描きとる素描。",
+    "definition": "フランス語で「素描、スケッチ」を意味する言葉です。美術教育では、モデルのポーズを数十秒から数分ほどの短時間で描く練習を指すことが多く、細部よりも全体の動き、量感、バランスをつかむことを目的とします。",
+    "artUsage": "制作の準備段階の素早い描写や、その練習を指して使われます。完成作品とは別に、作家の観察の鋭さや線の魅力を伝える資料として展示されることもあります。",
+    "confusables": [
+      {
+        "slug": "drawing",
+        "note": "デッサン（ドローイング）は時間をかけて形や明暗を観察して描くことが多く、クロッキーは短時間で動きをつかむ速写です。"
+      }
+    ],
+    "difficulty": 1,
+    "examples": [
+      { "description": "踊り子の一瞬のポーズを数本の線で描きとった紙の作品。" },
+      { "description": "街ゆく人々を手帳にすばやく描いたスケッチ群。" }
+    ],
+    "viewingTips": [
+      "線の勢いや迷いのなさに注目する。",
+      "同じ作家の完成作と見比べ、何を捉えようとしたかを考える。"
+    ],
+    "museumUsage": "作家の素描を紹介する展示などで、「クロッキー」「人体クロッキー」として登場します。",
+    "museumExample": "わずかな線で人体の動きを捉えたクロッキーからは、作家の鋭い観察眼がうかがえる。",
+    "relatedTerms": ["drawing", "brushwork"],
+    "categoryIds": ["materials-techniques"]
   }
 ]

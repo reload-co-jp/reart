@@ -390,5 +390,37 @@
     "status": "published",
     "createdAt": "2026-10-29",
     "updatedAt": "2026-10-29"
+  },
+  {
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-29",
+    "updatedAt": "2026-10-29",
+    "prerequisiteTerms": ["lacquerware"],
+    "slug": "kintsugi",
+    "term": "金継ぎ",
+    "reading": "きんつぎ",
+    "english": "Kintsugi",
+    "aliases": ["金繕い", "金つくろい", "銀継ぎ"],
+    "summary": "割れや欠けのある器を漆で修理し、継ぎ目を金で装飾して仕上げる技法。",
+    "definition": "漆を接着剤や充填材として使って器を修復し、継ぎ目に漆を塗って金粉を蒔いて仕上げる技法です。仕上げには蒔絵と同じ手法が用いられます。茶の湯の文化の中で発展したとされ、修理の跡を隠すのではなく、器の新たな「景色」として鑑賞する点に特徴があります。銀を使うものは銀継ぎと呼ばれます。",
+    "artUsage": "陶磁器の修理技法を指すほか、傷や不完全さを受け入れて価値に変える考え方の比喩としても使われます。",
+    "generalDifference": "近年は合成樹脂の接着剤や金色の塗料を使った簡易な方法も「金継ぎ」と呼ばれますが、伝統的には本漆と金粉を用いる技法を指します。",
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "茶碗のひびに沿って金の線が走る、金継ぎで修理された茶碗。"
+      },
+      { "description": "欠けた口縁を漆で埋め、金で仕上げた皿。" }
+    ],
+    "viewingTips": [
+      "金の線の形を、器の模様の一部として眺めてみる。",
+      "いつ、なぜ修理されたのか、器の来歴を解説で確かめる。"
+    ],
+    "museumUsage": "茶道具や陶磁器の展示で「金継ぎが施された」「金繕い」として紹介されます。",
+    "museumExample": "割れを金で継いだ跡は、器が大切に使い継がれてきた歴史を物語っている。",
+    "relatedTerms": ["lacquerware", "maki-e", "ceramics", "wabi-sabi"],
+    "categoryIds": ["craft-design"]
   }
 ]

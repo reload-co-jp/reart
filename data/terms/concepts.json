@@ -650,5 +650,65 @@
     "status": "published",
     "createdAt": "2026-10-25",
     "updatedAt": "2026-10-25"
+  },
+  {
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-29",
+    "updatedAt": "2026-10-29",
+    "prerequisiteTerms": [],
+    "slug": "wabi-sabi",
+    "term": "侘び寂び",
+    "reading": "わびさび",
+    "english": "Wabi-sabi",
+    "aliases": ["わびさび", "侘寂", "侘び", "寂び"],
+    "summary": "簡素なもの、古びたもの、不完全なものに美しさを見いだす日本的な美意識。",
+    "definition": "「侘び」は質素で静かな状態の中に心の充足を見いだす美意識、「寂び」は時間の経過によって生まれる古びや枯れた趣を指します。もともとは別の概念で、侘びは千利休らの茶の湯、寂びは松尾芭蕉らの俳諧と結びつけて語られてきました。現代では一語として使われ、海外でも“Wabi-sabi”として紹介されています。",
+    "artUsage": "茶道具や陶磁器、水墨画、庭園などの解説で、簡素さや古び、不均整の美しさを説明するときに使われます。",
+    "generalDifference": "日常では「和風で渋い」「趣がある」くらいの漠然とした意味で使われることが多いですが、本来は茶の湯や俳諧の歴史の中で育まれた美意識を指します。",
+    "difficulty": 2,
+    "examples": [
+      { "description": "形がゆがみ、釉薬が不均一に流れた素朴な茶碗。" },
+      { "description": "苔むした石と簡素な植栽で構成された庭。" }
+    ],
+    "viewingTips": [
+      "整っていない形や、使い込まれた痕跡をあえて味わってみる。",
+      "装飾の少なさが、どんな静けさや緊張感を生んでいるか考える。"
+    ],
+    "museumUsage": "茶の湯や日本工芸の展示で「侘びの美」「侘び茶」などの形で登場します。",
+    "museumExample": "ゆがんだ形と土の荒々しさを残した茶碗は、侘び茶の美意識を体現している。",
+    "relatedTerms": ["kintsugi", "blank-space", "ceramics", "ink-painting"],
+    "categoryIds": ["concepts"]
+  },
+  {
+    "sources": [],
+    "verification": { "status": "unverified" },
+    "status": "published",
+    "createdAt": "2026-10-29",
+    "updatedAt": "2026-10-29",
+    "prerequisiteTerms": [],
+    "slug": "national-treasure",
+    "term": "国宝",
+    "reading": "こくほう",
+    "english": "National Treasure",
+    "aliases": ["国宝指定"],
+    "summary": "国が指定する重要文化財のうち、特に価値が高いとされるもの。",
+    "definition": "文化財保護法にもとづき、国が「重要文化財」に指定したもののうち、世界文化の見地から価値が高く、たぐいない国民の宝として指定されたものです。絵画、彫刻、工芸品、書跡、考古資料などの美術工芸品と、建造物があります。まず重要文化財に指定され、そのなかから特に価値の高いものが国宝に指定される仕組みです。",
+    "artUsage": "展示では作品名の横に「国宝」「重要文化財（重文）」と表示されます。保存のため展示日数が限られることが多く、会期中に展示替えが行われることがあります。",
+    "generalDifference": "日常では「わが家の国宝」のように大切なものの比喩としても使われますが、美術館では法律にもとづく指定を指します。",
+    "difficulty": 1,
+    "examples": [
+      { "description": "国宝に指定された平安時代の絵巻物。" },
+      { "description": "会期の前期だけ公開される国宝の屏風。" }
+    ],
+    "viewingTips": [
+      "お目当ての国宝は、展示期間（前期・後期）を事前に確認する。",
+      "国宝や重要文化財の表示がない作品にも目を向け、指定の有無と自分の印象を比べてみる。"
+    ],
+    "museumUsage": "日本美術の展覧会のキャプションや広告で、「国宝」「重要文化財」の表記として頻繁に登場します。",
+    "museumExample": "本展では、国宝3件、重要文化財12件を含む約100件の作品を展示する（会期中展示替えあり）。",
+    "relatedTerms": ["byobu", "calligraphy", "sculpture", "catalogue"],
+    "categoryIds": ["concepts"]
   }
 ]
