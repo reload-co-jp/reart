@@ -141,7 +141,9 @@ const TermPage = async ({ params }: Props) => {
           headline: `${t.term}とは？意味・作品の見方を解説`,
           description: t.summary,
           url: absoluteUrl(path),
-          image: absoluteUrl(OG_IMAGE),
+          image: [...artworks.map((a) => a.localImagePath), OG_IMAGE].map(
+            absoluteUrl
+          ),
           inLanguage: "ja",
           datePublished: t.createdAt,
           dateModified: t.updatedAt,
