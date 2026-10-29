@@ -2,6 +2,7 @@ import Link from "next/link"
 import { FC, ReactNode } from "react"
 import { color, font, size, space, styles } from "@/components/theme"
 import { SearchForm } from "@/components/search-form"
+import { NavMenu } from "@/components/elements/nav-menu"
 
 const NAV = [
   { href: "/terms/", label: "用語一覧" },
@@ -17,6 +18,7 @@ export const Header: FC = () => (
       background: color.ink,
       color: color.inverse,
       padding: `${space.sm} 0`,
+      position: "relative",
     }}
   >
     <div
@@ -51,37 +53,7 @@ export const Header: FC = () => (
         </span>
         <span style={{ fontSize: size.xs }}>美術用語辞典</span>
       </Link>
-      <nav aria-label="メインメニュー" style={{ flex: "1 1 auto" }}>
-        <ul
-          style={{
-            display: "flex",
-            gap: space.xs,
-            listStyle: "none",
-            overflowX: "auto",
-            padding: 0,
-          }}
-        >
-          {NAV.map((n) => (
-            <li key={n.href}>
-              <Link
-                href={n.href}
-                style={{
-                  alignItems: "center",
-                  color: color.inverse,
-                  display: "flex",
-                  fontSize: size.sm,
-                  minHeight: "2.75rem",
-                  padding: `0 ${space.sm}`,
-                  textDecoration: "none",
-                  whiteSpace: "nowrap",
-                }}
-              >
-                {n.label}
-              </Link>
-            </li>
-          ))}
-        </ul>
-      </nav>
+      <NavMenu items={NAV} />
       <div style={{ flex: "1 1 16rem", maxWidth: "24rem" }}>
         <SearchForm id="header-search" compact />
       </div>

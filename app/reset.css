@@ -12,3 +12,33 @@ input,
 select {
   font: inherit;
 }
+
+.nav-toggle {
+  display: none;
+}
+
+@media (max-width: 40rem) {
+  .nav {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .nav-toggle {
+    display: inline-flex;
+  }
+
+  /* ヘッダーの高さを変えないよう、ヘッダー直下に重ねて開く */
+  .nav-list {
+    flex-direction: column;
+    left: 0;
+    padding: 0 1rem 0.5rem !important;
+    position: absolute;
+    right: 0;
+    top: 100%;
+    z-index: 10;
+  }
+
+  .nav-list:not([data-open]) {
+    display: none !important;
+  }
+}

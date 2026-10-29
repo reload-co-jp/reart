@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest"
-import { render, screen } from "@testing-library/react"
+import { fireEvent, render, screen } from "@testing-library/react"
 import { Footer, Header, Main } from "./layout"
 
 describe("Header", () => {
@@ -32,5 +32,19 @@ describe("Footer", () => {
       </Footer>
     )
     expect(screen.getByText("© ReArt")).toBeInTheDocument()
+  })
+})
+
+describe("NavMenu", () => {
+  it("toggles the menu and closes it on link click", () => {
+    render(<Header />)
+    const toggle = screen.getByRole("button", { name: "メニュー" })
+    const list = document.getElementById("nav-list")!
+    expect(list).not.toHaveAttribute("data-open")
+    fireEvent.click(toggle)
+    expect(toggle).toHaveAttribute("aria-expanded", "true")
+    expect(list).toHaveAttribute("data-open")
+    fireEvent.click(screen.getByRole("link", { name: "カテゴリ" }))
+    expect(list).not.toHaveAttribute("data-open")
   })
 })
