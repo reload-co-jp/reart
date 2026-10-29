@@ -46,6 +46,41 @@ const ExhibitionPage = async ({ params }: Props) => {
         {e.title} 知っておきたい用語
       </h1>
       <p style={{ lineHeight: 2, marginBottom: space.lg }}>{e.description}</p>
+      {e.event && (
+        <dl
+          style={{
+            border: `1px solid ${color.border}`,
+            fontSize: size.sm,
+            lineHeight: 1.8,
+            marginBottom: space.lg,
+            padding: space.md,
+          }}
+        >
+          {[
+            ["開催日時", e.event.date],
+            ["会場", e.event.venue],
+            ["料金", e.event.price],
+          ].map(([k, v]) => (
+            <div key={k} style={{ marginBottom: space.xs }}>
+              <dt style={{ color: color.sub, fontSize: size.xs }}>{k}</dt>
+              <dd style={{ margin: 0 }}>{v}</dd>
+            </div>
+          ))}
+          <div>
+            <dt style={{ color: color.sub, fontSize: size.xs }}>公式サイト</dt>
+            <dd style={{ margin: 0 }}>
+              <a
+                href={e.event.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                style={styles.link}
+              >
+                {e.event.url}
+              </a>
+            </dd>
+          </div>
+        </dl>
+      )}
       <ul style={{ listStyle: "none", padding: 0 }}>
         {e.terms.map((s) => {
           const t = getTerm(s.slug)!

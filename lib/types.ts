@@ -117,5 +117,7 @@ export type Exhibition = {
   slug: string
   title: string
   description: string
+  // 開催日が決まっているイベントの開催情報
+  event?: { date: string; venue: string; price: string; url: string }
   terms: { slug: string; note?: string }[]
 }

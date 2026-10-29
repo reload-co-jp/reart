@@ -541,5 +541,121 @@
     "status": "published",
     "createdAt": "2026-10-25",
     "updatedAt": "2026-10-30"
+  },
+  {
+    "slug": "nuit-blanche",
+    "term": "ニュイ・ブランシュ",
+    "reading": "にゅいぶらんしゅ",
+    "english": "Nuit Blanche",
+    "aliases": ["ニュイブランシュ", "白夜祭"],
+    "summary": "パリで始まった、街なかを会場に現代アートをオールナイトで楽しむ祭典。",
+    "definition": "フランスの首都パリで開催される現代アートの祭典です。2002年にパリ市長の提案で始まり、毎年10月最初の土曜日から日曜日にかけて、現代アートの展示やコンサート、文化的なイベントを町中を使ってオールナイトで行います。当日はパリ市庁舎も市民に開放されます。「ニュイ・ブランシュ」はフランス語で「徹夜をする」という意味で、日本では「白夜祭」とも呼ばれます。同様のイベントは世界のほかの都市にも広がっています。",
+    "categoryIds": ["contemporary-art"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "美術館や広場、商業施設などを会場に、夜通し作品やパフォーマンスを公開するアートイベント。"
+      }
+    ],
+    "viewingTips": [
+      "昼間の街と比べて、夜の暗さや人の流れが作品の見え方をどう変えているかを意識する。"
+    ],
+    "museumUsage": "夜間に開催されるアートイベントの紹介や、そのモデルとなった催しとして名前が挙がります。",
+    "relatedTerms": ["public-art", "art-project", "installation"],
+    "prerequisiteTerms": [],
+    "sources": [
+      {
+        "title": "「ニュイブランシュ」講談社 世界の祭り・イベントガイド",
+        "url": "https://kotobank.jp/word/%E3%81%AB%E3%82%86%E3%81%84%E3%81%B6%E3%82%89%E3%82%93%E3%81%97%E3%82%86-774431",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "slug": "contemporary-dance",
+    "term": "コンテンポラリー・ダンス",
+    "reading": "こんてんぽらりーだんす",
+    "english": "Contemporary dance",
+    "aliases": ["コンテンポラリーダンス", "現代舞踊", "現代ダンス"],
+    "summary": "モダンダンス以降の創作舞踊。狭義には1960年代以降の実験的な舞踊を指す。",
+    "definition": "現代舞踊のことで、広義にはモダンダンス以降の創作舞踊を、狭義には1960年頃から広がりをみせた前衛的・実験的な舞踊を指します。「同時代の舞踊」という意味で、他ジャンルの前衛芸術と共通した主張をもち、現代の社会状況を反映するものと考えられてきました。1960年代後半のアメリカでは日常的な動作で踊りをつくるポスト・モダン・ダンスが生まれ、1970年代にはドイツでピナ・バウシュらのタンツ・テアター（舞踊演劇）が注目を集めました。1980年代初頭にはフランスでヌーベル・ダンスが起こり、振付家たちはフランス各地の振付センターを拠点に活動を展開しました。",
+    "confusables": [
+      {
+        "slug": "performance-art",
+        "note": "パフォーマンス・アートは美術の文脈から生まれた身体による行為の表現で、ダンスなど既成の上演芸術とは区別されます。"
+      }
+    ],
+    "categoryIds": ["contemporary-art"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "日常的な動作や即興を取り入れ、物語よりも身体の動きそのものを見せる舞台作品。"
+      },
+      { "description": "美術館の展示室や屋外の広場で上演されるダンス作品。" }
+    ],
+    "viewingTips": [
+      "振付が何を表しているかよりも、身体が空間や時間とどう関わっているかを見る。",
+      "会場が劇場以外の場合、その場所が選ばれた理由を考える。"
+    ],
+    "museumUsage": "美術館やアートイベントでのパフォーマンス・プログラムの紹介で使われます。",
+    "relatedTerms": ["performance-art", "corporeality", "contemporary-circus"],
+    "prerequisiteTerms": [],
+    "sources": [
+      {
+        "title": "「現代舞踊」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E7%8F%BE%E4%BB%A3%E8%88%9E%E8%B8%8A-1311751",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "「コンテンポラリーダンス」デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E3%81%93%E3%82%93%E3%81%A6%E3%82%93%E3%81%BD%E3%82%89%E3%82%8A%E3%83%BC%E3%81%A0%E3%82%93%E3%81%99-1710858",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "slug": "contemporary-circus",
+    "term": "現代サーカス",
+    "reading": "げんだいさーかす",
+    "english": "Contemporary circus",
+    "aliases": ["ヌーヴォー・シルク", "ヌーボー・シルク"],
+    "summary": "曲芸の技術を、身体表現や舞台芸術として作品化するサーカス。",
+    "definition": "アクロバットやジャグリング、空中芸などのサーカスの技術を、見せ物としての曲芸にとどまらず、ダンスや演劇、美術と交差する身体表現として作品化するものです。動物の芸を用いず、物語やテーマ、空間の演出を重視する作品が多く見られます。劇場だけでなく、屋外や都市空間で上演されることもあります。",
+    "confusables": [
+      {
+        "slug": "contemporary-dance",
+        "note": "コンテンポラリー・ダンスと重なる作品も多く、両方の要素をもつアーティストもいます。"
+      }
+    ],
+    "categoryIds": ["contemporary-art"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "大きな輪や器具を使った動きで、自然や風景を表現する屋外パフォーマンス。"
+      }
+    ],
+    "viewingTips": [
+      "技の難しさだけでなく、器具や身体の動きが生み出すイメージに注目する。"
+    ],
+    "museumUsage": "アートイベントのパフォーマンス・プログラムの紹介で使われます。",
+    "relatedTerms": ["contemporary-dance", "performance-art", "corporeality"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30",
+      "note": "主要な辞典・用語集（コトバンク、artscape、造形ファイル、Tate Art Terms）を確認しましたが、この用語を解説した出典は見つかりませんでした。本文は編集部の記述によるものです。"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
   }
 ]
