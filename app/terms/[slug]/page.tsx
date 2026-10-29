@@ -2,6 +2,7 @@ import type { Metadata } from "next"
 import Link from "next/link"
 import { notFound } from "next/navigation"
 import { FC, ReactNode } from "react"
+import { ImageViewer } from "@/components/image-viewer"
 import { Breadcrumbs, JsonLd } from "@/components/seo"
 import { TermActions } from "@/components/term-actions"
 import { createTermLinker } from "@/components/term-linker"
@@ -315,10 +316,9 @@ const TermPage = async ({ params }: Props) => {
                 {artworks.map((a) => (
                   <li key={a.id}>
                     <figure>
-                      <img
+                      <ImageViewer
                         src={a.localImagePath}
                         alt={a.title}
-                        loading="lazy"
                         style={{
                           width: "100%",
                           height: 200,
@@ -334,7 +334,11 @@ const TermPage = async ({ params }: Props) => {
                         <br />
                         <span style={{ color: color.sub }}>
                           {a.museum}／{a.rights}／
-                          <a href={a.sourceUrl} style={styles.link} rel="noopener">
+                          <a
+                            href={a.sourceUrl}
+                            style={styles.link}
+                            rel="noopener"
+                          >
                             作品ページ
                           </a>
                         </span>
