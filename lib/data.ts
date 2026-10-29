@@ -1,9 +1,19 @@
 import fs from "node:fs"
 import path from "node:path"
+import artworksJson from "@/data/artworks.json"
 import categoriesJson from "@/data/categories.json"
 import exhibitionsJson from "@/data/exhibitions.json"
 import guidesJson from "@/data/guides.json"
-import type { Category, Exhibition, Guide, Term, TermIndex } from "./types"
+import termArtworksJson from "@/data/term-artworks.json"
+import type {
+  Artwork,
+  Category,
+  Exhibition,
+  Guide,
+  Term,
+  TermArtwork,
+  TermIndex,
+} from "./types"
 
 // data/terms/*.json（各ファイルは Term の配列）をすべて読み込む。
 // ファイルを追加するだけで一覧・カテゴリ・検索・sitemap に反映される。
@@ -24,7 +34,9 @@ export const validate = (
   terms: Term[],
   categories: Category[],
   guides: Guide[],
-  exhibitions: Exhibition[] = []
+  exhibitions: Exhibition[] = [],
+  artworks: Artwork[] = [],
+  termArtworks: Record<string, TermArtwork[]> = {}
 ): string[] => {
   const errors: string[] = []
   const termSlugs = new Set<string>()
@@ -78,6 +90,13 @@ export const validate = (
     for (const s of e.terms)
       if (!published.has(s.slug))
         errors.push(`exhibition "${e.slug}": broken reference "${s.slug}"`)
+  const artworkIds = new Set(artworks.map((a) => a.id))
+  for (const [slug, links] of Object.entries(termArtworks)) {
+    if (!termSlugs.has(slug)) errors.push(`artworks: unknown term "${slug}"`)
+    for (const l of links)
+      if (!artworkIds.has(l.artworkId))
+        errors.push(`artworks "${slug}": unknown artwork "${l.artworkId}"`)
+  }
   return errors
 }
 
@@ -85,8 +104,17 @@ const allTerms = loadTerms()
 export const categories: Category[] = categoriesJson
 export const guides: Guide[] = guidesJson
 export const exhibitions: Exhibition[] = exhibitionsJson
+const artworks = artworksJson as Artwork[]
+const termArtworks: Record<string, TermArtwork[]> = termArtworksJson
 
-const errors = validate(allTerms, categories, guides, exhibitions)
+const errors = validate(
+  allTerms,
+  categories,
+  guides,
+  exhibitions,
+  artworks,
+  termArtworks
+)
 if (errors.length) throw new Error(`Invalid data:\n${errors.join("\n")}`)
 
 // 以降、公開済みの用語だけを扱う
@@ -127,6 +155,13 @@ export const guidesForCategory = (slug: string) =>
     .filter((x) => x.n > 0)
     .sort((a, b) => b.n - a.n)
     .map((x) => x.g)
+
+// 用語に紐付いた確認済みの作品のうち、画像を保存済みのものを表示順に
+export const artworksForTerm = (slug: string) =>
+  (termArtworks[slug] ?? [])
+    .filter((l) => !l.unchecked)
+    .map((l) => artworks.find((a) => a.id === l.artworkId)!)
+    .filter((a) => a.localImagePath)
 
 export const toIndex = (t: Term): TermIndex => ({
   slug: t.slug,

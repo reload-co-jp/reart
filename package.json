@@ -13,7 +13,8 @@
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "test:watch": "vitest",
-    "fetch:exhibitions": "node scripts/fetch-exhibitions.ts"
+    "fetch:exhibitions": "node scripts/fetch-exhibitions.ts",
+    "artworks": "node scripts/artworks.ts"
   },
   "keywords": [],
   "author": "",

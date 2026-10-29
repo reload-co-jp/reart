@@ -1,0 +1,2639 @@
+{
+  "modernism": [
+    {
+      "artworkId": "cma:164314",
+      "keyword": "Modernism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:130974",
+      "keyword": "Modernism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "postmodernism": [],
+  "avant-garde": [
+    {
+      "artworkId": "met:393177",
+      "keyword": "Avant-garde",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:20637",
+      "keyword": "Avant-garde",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:128394",
+      "keyword": "Avant-garde",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:126769",
+      "keyword": "Avant-garde",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "dada": [
+    {
+      "artworkId": "cma:159216",
+      "keyword": "Dada",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "impressionism": [
+    {
+      "artworkId": "met:13177",
+      "keyword": "Impressionism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:13176",
+      "keyword": "Impressionism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:320778",
+      "keyword": "Impressionism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:125104",
+      "keyword": "Impressionism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "post-impressionism": [
+    {
+      "artworkId": "met:694642",
+      "keyword": "Post-Impressionism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:125104",
+      "keyword": "Post-Impressionism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:135299",
+      "keyword": "Post-Impressionism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "fauvism": [
+    {
+      "artworkId": "cma:115405",
+      "keyword": "Fauvism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "cubism": [
+    {
+      "artworkId": "cma:115405",
+      "keyword": "Cubism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:143278",
+      "keyword": "Cubism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "futurism": [],
+  "constructivism": [],
+  "bauhaus": [
+    {
+      "artworkId": "cma:136592",
+      "keyword": "Bauhaus",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "renaissance": [
+    {
+      "artworkId": "cma:113202",
+      "keyword": "Renaissance",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:143744",
+      "keyword": "Renaissance",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:207016",
+      "keyword": "Renaissance",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:679092",
+      "keyword": "Renaissance",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "baroque": [
+    {
+      "artworkId": "cma:148758",
+      "keyword": "Baroque",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:111691",
+      "keyword": "Baroque",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:502347",
+      "keyword": "Baroque",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:503578",
+      "keyword": "Baroque",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "neoclassicism": [
+    {
+      "artworkId": "cma:169465",
+      "keyword": "Neoclassicism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:150353",
+      "keyword": "Neoclassicism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:85429",
+      "keyword": "Neoclassicism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:200356",
+      "keyword": "Neoclassicism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "romanticism": [
+    {
+      "artworkId": "cma:150851",
+      "keyword": "Romanticism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:161708",
+      "keyword": "Romanticism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:438947",
+      "keyword": "Romanticism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:206893",
+      "keyword": "Romanticism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "symbolism": [
+    {
+      "artworkId": "cma:110180",
+      "keyword": "Symbolism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:294067",
+      "keyword": "Symbolism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:781761",
+      "keyword": "Symbolism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:548303",
+      "keyword": "Symbolism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "gutai": [
+    {
+      "artworkId": "met:16580",
+      "keyword": "Gutai Art Association",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:13124",
+      "keyword": "Gutai Art Association",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "mono-ha": [
+    {
+      "artworkId": "met:671001",
+      "keyword": "Mono-ha",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:44861",
+      "keyword": "Mono-ha",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "fluxus": [],
+  "art-nouveau": [
+    {
+      "artworkId": "cma:370537",
+      "keyword": "Art Nouveau",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:148803",
+      "keyword": "Art Nouveau",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:392369",
+      "keyword": "Art Nouveau",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:392368",
+      "keyword": "Art Nouveau",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "japonisme": [
+    {
+      "artworkId": "cma:166854",
+      "keyword": "Japonisme",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:166855",
+      "keyword": "Japonisme",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:399200",
+      "keyword": "Japonisme",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:771056",
+      "keyword": "Japonisme",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "composition": [
+    {
+      "artworkId": "cma:143278",
+      "keyword": "Composition",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:153326",
+      "keyword": "Composition",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "perspective": [
+    {
+      "artworkId": "met:777804",
+      "keyword": "Perspective",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:365241",
+      "keyword": "Perspective",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:95401",
+      "keyword": "Perspective",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:151904",
+      "keyword": "Perspective",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "chiaroscuro": [
+    {
+      "artworkId": "cma:136307",
+      "keyword": "Chiaroscuro",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:149782",
+      "keyword": "Chiaroscuro",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:386049",
+      "keyword": "Chiaroscuro",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:638336",
+      "keyword": "Chiaroscuro",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "triptych": [
+    {
+      "artworkId": "cma:120995",
+      "keyword": "Triptych",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:130492",
+      "keyword": "Triptych",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:207034",
+      "keyword": "Triptych",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:460519",
+      "keyword": "Triptych",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "edition": [
+    {
+      "artworkId": "cma:351227",
+      "keyword": "Edition",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:133111",
+      "keyword": "Edition",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "catalogue": [
+    {
+      "artworkId": "met:415761",
+      "keyword": "Exhibition catalogue",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:202733",
+      "keyword": "Exhibition catalogue",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:115160",
+      "keyword": "Exhibition catalogue",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:300665",
+      "keyword": "Exhibition catalogue",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "curator": [
+    {
+      "artworkId": "met:188324",
+      "keyword": "Curator",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:756889",
+      "keyword": "Curator",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:135238",
+      "keyword": "Curator",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:129221",
+      "keyword": "Curator",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "retrospective": [
+    {
+      "artworkId": "met:191818",
+      "keyword": "Retrospective",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:255983",
+      "keyword": "Retrospective",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "white-cube": [
+    {
+      "artworkId": "met:544089",
+      "keyword": "White cube",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:245494",
+      "keyword": "White cube",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "complementary-colors": [
+    {
+      "artworkId": "cma:140319",
+      "keyword": "Complementary colors",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:140318",
+      "keyword": "Complementary colors",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:443197",
+      "keyword": "Complementary colors",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:436170",
+      "keyword": "Complementary colors",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "blank-space": [
+    {
+      "artworkId": "cma:138857",
+      "keyword": "Blank space",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:171438",
+      "keyword": "Blank space",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:548517",
+      "keyword": "Blank space",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:42319",
+      "keyword": "Blank space",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "brushwork": [
+    {
+      "artworkId": "cma:130391",
+      "keyword": "Brushwork",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:135595",
+      "keyword": "Brushwork",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:49773",
+      "keyword": "Brushwork",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:36037",
+      "keyword": "Brushwork",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "untitled": [
+    {
+      "artworkId": "cma:152349",
+      "keyword": "Untitled",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:534931",
+      "keyword": "Untitled",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "caption": [
+    {
+      "artworkId": "cma:145830",
+      "keyword": "Caption",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:535124",
+      "keyword": "Caption",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:811574",
+      "keyword": "Caption",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:811579",
+      "keyword": "Caption",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "context": [
+    {
+      "artworkId": "met:246124",
+      "keyword": "Context",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:504217",
+      "keyword": "Context",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:136459",
+      "keyword": "Context",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:137276",
+      "keyword": "Context",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "criticality": [
+    {
+      "artworkId": "met:395763",
+      "keyword": "Criticality",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:725400",
+      "keyword": "Criticality",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "corporeality": [
+    {
+      "artworkId": "met:198627",
+      "keyword": "Corporeality",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:198606",
+      "keyword": "Corporeality",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "symbol": [
+    {
+      "artworkId": "cma:159181",
+      "keyword": "Symbol",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:147558",
+      "keyword": "Symbol",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:319050",
+      "keyword": "Symbol",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:447009",
+      "keyword": "Symbol",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "sign": [
+    {
+      "artworkId": "cma:147060",
+      "keyword": "Sign",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:147058",
+      "keyword": "Sign",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:7511",
+      "keyword": "Sign",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:8252",
+      "keyword": "Sign",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "reconstruction": [
+    {
+      "artworkId": "cma:152017",
+      "keyword": "Reconstruction",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:153369",
+      "keyword": "Reconstruction",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:551605",
+      "keyword": "Reconstruction",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:551606",
+      "keyword": "Reconstruction",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "interactive": [
+    {
+      "artworkId": "met:26502",
+      "keyword": "Interactive",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:54028",
+      "keyword": "Interactive",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "motif": [
+    {
+      "artworkId": "cma:101864",
+      "keyword": "Motif",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:311692",
+      "keyword": "Motif",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:454778",
+      "keyword": "Motif",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:51954",
+      "keyword": "Motif",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "subject-matter": [
+    {
+      "artworkId": "cma:148672",
+      "keyword": "Subject",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:151064",
+      "keyword": "Subject",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:189436",
+      "keyword": "Subject",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:685759",
+      "keyword": "Subject",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "allegory": [
+    {
+      "artworkId": "met:437217",
+      "keyword": "Allegory",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:373908",
+      "keyword": "Allegory",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:143904",
+      "keyword": "Allegory",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:105637",
+      "keyword": "Allegory",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "appropriation": [
+    {
+      "artworkId": "cma:114743",
+      "keyword": "Appropriation",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:153810",
+      "keyword": "Appropriation",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:82626",
+      "keyword": "Appropriation",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:680133",
+      "keyword": "Appropriation",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "representation": [
+    {
+      "artworkId": "met:565106",
+      "keyword": "Representation",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:565105",
+      "keyword": "Representation",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:156896",
+      "keyword": "Representation",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:147008",
+      "keyword": "Representation",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "aura": [
+    {
+      "artworkId": "met:54125",
+      "keyword": "Aura",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:147",
+      "keyword": "Aura",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:145999",
+      "keyword": "Aura",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:142736",
+      "keyword": "Aura",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "site-specific": [
+    {
+      "artworkId": "cma:160128",
+      "keyword": "Site-specific",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:148774",
+      "keyword": "Site-specific",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:437793",
+      "keyword": "Site-specific",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:437797",
+      "keyword": "Site-specific",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "medium": [
+    {
+      "artworkId": "cma:101646",
+      "keyword": "Medium",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:520273",
+      "keyword": "Medium",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:548997",
+      "keyword": "Medium",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:549002",
+      "keyword": "Medium",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "originality": [
+    {
+      "artworkId": "met:423385",
+      "keyword": "Originality",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:240880",
+      "keyword": "Originality",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:126769",
+      "keyword": "Originality",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:149108",
+      "keyword": "Originality",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "kitsch": [],
+  "sublime": [
+    {
+      "artworkId": "cma:137153",
+      "keyword": "The Sublime",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:159770",
+      "keyword": "The Sublime",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:736517",
+      "keyword": "The Sublime",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:789533",
+      "keyword": "The Sublime",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "iconography": [
+    {
+      "artworkId": "cma:163543",
+      "keyword": "Iconography",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:170479",
+      "keyword": "Iconography",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:337062",
+      "keyword": "Iconography",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:367094",
+      "keyword": "Iconography",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "vanitas": [
+    {
+      "artworkId": "met:336034",
+      "keyword": "Vanitas",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:436485",
+      "keyword": "Vanitas",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "installation": [
+    {
+      "artworkId": "cma:165164",
+      "keyword": "Installation",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:156810",
+      "keyword": "Installation",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "video-art": [
+    {
+      "artworkId": "cma:129214",
+      "keyword": "Video art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:118674",
+      "keyword": "Video art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "performance-art": [
+    {
+      "artworkId": "met:853686",
+      "keyword": "Performance art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:148156",
+      "keyword": "Performance art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:110818",
+      "keyword": "Performance art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "media-art": [
+    {
+      "artworkId": "cma:148753",
+      "keyword": "Media art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:108544",
+      "keyword": "Media art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:448654",
+      "keyword": "Media art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:448655",
+      "keyword": "Media art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "land-art": [
+    {
+      "artworkId": "met:12595",
+      "keyword": "Land art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:337853",
+      "keyword": "Land art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:136479",
+      "keyword": "Land art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:136480",
+      "keyword": "Land art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "public-art": [
+    {
+      "artworkId": "cma:110910",
+      "keyword": "Public art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:112585",
+      "keyword": "Public art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "relational-art": [
+    {
+      "artworkId": "met:455041",
+      "keyword": "Relational aesthetics",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:62543",
+      "keyword": "Relational aesthetics",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "participatory-art": [],
+  "art-project": [
+    {
+      "artworkId": "cma:152258",
+      "keyword": "Art project",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:160047",
+      "keyword": "Art project",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:372052",
+      "keyword": "Art project",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:374564",
+      "keyword": "Art project",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "biennale": [],
+  "street-art": [
+    {
+      "artworkId": "cma:141484",
+      "keyword": "Street art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:97165",
+      "keyword": "Street art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:658769",
+      "keyword": "Street art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:13124",
+      "keyword": "Street art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "sound-art": [
+    {
+      "artworkId": "cma:110821",
+      "keyword": "Sound art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:154757",
+      "keyword": "Sound art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:553045",
+      "keyword": "Sound art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "happening": [
+    {
+      "artworkId": "cma:114778",
+      "keyword": "Happening",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:114776",
+      "keyword": "Happening",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:754987",
+      "keyword": "Happening",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:547773",
+      "keyword": "Happening",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "kogei": [
+    {
+      "artworkId": "cma:300665",
+      "keyword": "Crafts",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:127712",
+      "keyword": "Crafts",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:20270",
+      "keyword": "Crafts",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:14336",
+      "keyword": "Crafts",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "ceramics": [
+    {
+      "artworkId": "cma:137298",
+      "keyword": "Ceramics",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:155665",
+      "keyword": "Ceramics",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:449044",
+      "keyword": "Ceramics",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:447658",
+      "keyword": "Ceramics",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "lacquerware": [
+    {
+      "artworkId": "cma:703217",
+      "keyword": "Lacquerware",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:142640",
+      "keyword": "Lacquerware",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:841656",
+      "keyword": "Lacquerware",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:51282",
+      "keyword": "Lacquerware",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "mingei": [
+    {
+      "artworkId": "met:36115",
+      "keyword": "Mingei",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "dyeing": [
+    {
+      "artworkId": "cma:156310",
+      "keyword": "Dyeing",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:98133",
+      "keyword": "Dyeing",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:74585",
+      "keyword": "Dyeing",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:61803",
+      "keyword": "Dyeing",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "arts-and-crafts": [
+    {
+      "artworkId": "cma:300665",
+      "keyword": "Arts and Crafts Movement",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:375054",
+      "keyword": "Arts and Crafts Movement",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:20270",
+      "keyword": "Arts and Crafts Movement",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:14336",
+      "keyword": "Arts and Crafts Movement",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "art-deco": [
+    {
+      "artworkId": "cma:173164",
+      "keyword": "Art Deco",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:109610",
+      "keyword": "Art Deco",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "graphic-design": [
+    {
+      "artworkId": "cma:149955",
+      "keyword": "Graphic design",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:151951",
+      "keyword": "Graphic design",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "contemporary": [
+    {
+      "artworkId": "cma:109042",
+      "keyword": "Contemporary art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:147938",
+      "keyword": "Contemporary art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:459210",
+      "keyword": "Contemporary art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "abstract": [
+    {
+      "artworkId": "cma:124800",
+      "keyword": "Abstract",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:100713",
+      "keyword": "Abstract",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "figurative": [
+    {
+      "artworkId": "met:14859",
+      "keyword": "Figurative",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:98657",
+      "keyword": "Figurative",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:110819",
+      "keyword": "Figurative",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "conceptual-art": [
+    {
+      "artworkId": "cma:156281",
+      "keyword": "Conceptual art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:137323",
+      "keyword": "Conceptual art",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "surrealism": [
+    {
+      "artworkId": "cma:142792",
+      "keyword": "Surrealism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:171157",
+      "keyword": "Surrealism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "minimalism": [
+    {
+      "artworkId": "cma:151444",
+      "keyword": "Minimalism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:97133",
+      "keyword": "Minimalism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:72738",
+      "keyword": "Minimalism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "pop-art": [],
+  "expressionism": [
+    {
+      "artworkId": "cma:142792",
+      "keyword": "Expressionism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:103708",
+      "keyword": "Expressionism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "abstract-expressionism": [
+    {
+      "artworkId": "cma:103708",
+      "keyword": "Abstract Expressionism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "still-life": [
+    {
+      "artworkId": "cma:147607",
+      "keyword": "Still life",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:132616",
+      "keyword": "Still life",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:436305",
+      "keyword": "Still life",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:10996",
+      "keyword": "Still life",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "landscape-painting": [
+    {
+      "artworkId": "met:53577",
+      "keyword": "Landscape painting",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:53576",
+      "keyword": "Landscape painting",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:141639",
+      "keyword": "Landscape painting",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:171296",
+      "keyword": "Landscape painting",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "portrait": [
+    {
+      "artworkId": "cma:124089",
+      "keyword": "Portrait",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:160885",
+      "keyword": "Portrait",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:226943",
+      "keyword": "Portrait",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:191566",
+      "keyword": "Portrait",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "genre-painting": [
+    {
+      "artworkId": "cma:153778",
+      "keyword": "Genre painting",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:117774",
+      "keyword": "Genre painting",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:10843",
+      "keyword": "Genre painting",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:11224",
+      "keyword": "Genre painting",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "history-painting": [
+    {
+      "artworkId": "cma:163044",
+      "keyword": "History painting",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:149665",
+      "keyword": "History painting",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:436579",
+      "keyword": "History painting",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:377262",
+      "keyword": "History painting",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "realism": [
+    {
+      "artworkId": "met:253619",
+      "keyword": "Realism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:40063",
+      "keyword": "Realism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:151904",
+      "keyword": "Realism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:145412",
+      "keyword": "Realism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "nihonga": [
+    {
+      "artworkId": "met:744428",
+      "keyword": "Nihonga",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "yoga-painting": [
+    {
+      "artworkId": "cma:147449",
+      "keyword": "Yōga",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:145852",
+      "keyword": "Yōga",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:39251",
+      "keyword": "Yōga",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:38476",
+      "keyword": "Yōga",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "ukiyo-e": [
+    {
+      "artworkId": "met:789145",
+      "keyword": "Ukiyo-e",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:789144",
+      "keyword": "Ukiyo-e",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:151064",
+      "keyword": "Ukiyo-e",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:152444",
+      "keyword": "Ukiyo-e",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "textile": [
+    {
+      "artworkId": "cma:165269",
+      "keyword": "Textile",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:165272",
+      "keyword": "Textile",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:450741",
+      "keyword": "Textile",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:463022",
+      "keyword": "Textile",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "matiere": [
+    {
+      "artworkId": "cma:122767",
+      "keyword": "Matière",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:107033",
+      "keyword": "Matière",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:757106",
+      "keyword": "Matière",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:460478",
+      "keyword": "Matière",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "collage": [
+    {
+      "artworkId": "cma:138684",
+      "keyword": "Collage",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:715339",
+      "keyword": "Collage",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:291371",
+      "keyword": "Collage",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "mixed-media": [
+    {
+      "artworkId": "cma:129799",
+      "keyword": "Mixed media",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:142753",
+      "keyword": "Mixed media",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "readymade": [
+    {
+      "artworkId": "cma:310353",
+      "keyword": "Readymade",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:141110",
+      "keyword": "Readymade",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:222226",
+      "keyword": "Readymade",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "frottage": [],
+  "silkscreen": [
+    {
+      "artworkId": "cma:133320",
+      "keyword": "Silkscreen",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:133319",
+      "keyword": "Silkscreen",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "oil-painting": [
+    {
+      "artworkId": "met:659725",
+      "keyword": "Oil painting",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:656610",
+      "keyword": "Oil painting",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:141639",
+      "keyword": "Oil painting",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:136911",
+      "keyword": "Oil painting",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "watercolor": [
+    {
+      "artworkId": "cma:110565",
+      "keyword": "Watercolor",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:172894",
+      "keyword": "Watercolor",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:1668",
+      "keyword": "Watercolor",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:268873",
+      "keyword": "Watercolor",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "tempera": [
+    {
+      "artworkId": "cma:283088",
+      "keyword": "Tempera",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:169736",
+      "keyword": "Tempera",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:551159",
+      "keyword": "Tempera",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:548847",
+      "keyword": "Tempera",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "fresco": [
+    {
+      "artworkId": "met:253327",
+      "keyword": "Fresco",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:471425",
+      "keyword": "Fresco",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:138881",
+      "keyword": "Fresco",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:141207",
+      "keyword": "Fresco",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "acrylic-paint": [
+    {
+      "artworkId": "cma:103664",
+      "keyword": "Acrylic paint",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:543427",
+      "keyword": "Acrylic paint",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "lithograph": [
+    {
+      "artworkId": "cma:122918",
+      "keyword": "Lithograph",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:108408",
+      "keyword": "Lithograph",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "etching": [
+    {
+      "artworkId": "cma:160709",
+      "keyword": "Etching",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:128883",
+      "keyword": "Etching",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "woodblock-print": [
+    {
+      "artworkId": "cma:679096",
+      "keyword": "Woodblock print",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:679373",
+      "keyword": "Woodblock print",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:51088",
+      "keyword": "Woodblock print",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:55196",
+      "keyword": "Woodblock print",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "printmaking": [
+    {
+      "artworkId": "cma:155849",
+      "keyword": "Printmaking",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:125526",
+      "keyword": "Printmaking",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:415528",
+      "keyword": "Printmaking",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:817514",
+      "keyword": "Printmaking",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "assemblage": [
+    {
+      "artworkId": "cma:98745",
+      "keyword": "Assemblage",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:97693",
+      "keyword": "Assemblage",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "decalcomania": [
+    {
+      "artworkId": "met:6210",
+      "keyword": "Decalcomania",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "photomontage": [
+    {
+      "artworkId": "met:305832",
+      "keyword": "Photomontage",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "drawing": [
+    {
+      "artworkId": "cma:144846",
+      "keyword": "Drawing",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:149149",
+      "keyword": "Drawing",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:380202",
+      "keyword": "Drawing",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:3408",
+      "keyword": "Drawing",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "impasto": [
+    {
+      "artworkId": "cma:149111",
+      "keyword": "Impasto",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:142372",
+      "keyword": "Impasto",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:252509",
+      "keyword": "Impasto",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:647338",
+      "keyword": "Impasto",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "pigment": [
+    {
+      "artworkId": "met:318444",
+      "keyword": "Pigment",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:40640",
+      "keyword": "Pigment",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:109518",
+      "keyword": "Pigment",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:109514",
+      "keyword": "Pigment",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "found-object": [
+    {
+      "artworkId": "cma:97485",
+      "keyword": "Found object",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:123806",
+      "keyword": "Found object",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:37743",
+      "keyword": "Found object",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:11677",
+      "keyword": "Found object",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "sculpture": [
+    {
+      "artworkId": "met:394727",
+      "keyword": "Sculpture",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:449853",
+      "keyword": "Sculpture",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:98627",
+      "keyword": "Sculpture",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:143152",
+      "keyword": "Sculpture",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "relief": [
+    {
+      "artworkId": "cma:109294",
+      "keyword": "Relief",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:108314",
+      "keyword": "Relief",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:307639",
+      "keyword": "Relief",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:307638",
+      "keyword": "Relief",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "sfumato": [
+    {
+      "artworkId": "met:459421",
+      "keyword": "Sfumato",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:816618",
+      "keyword": "Sfumato",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:112586",
+      "keyword": "Sfumato",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:153406",
+      "keyword": "Sfumato",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "glazing": [
+    {
+      "artworkId": "cma:151901",
+      "keyword": "Glazing",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:299444",
+      "keyword": "Glazing",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:590412",
+      "keyword": "Glazing",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:590413",
+      "keyword": "Glazing",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "gouache": [
+    {
+      "artworkId": "cma:145195",
+      "keyword": "Gouache",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:101498",
+      "keyword": "Gouache",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:826330",
+      "keyword": "Gouache",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:415324",
+      "keyword": "Gouache",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "pointillism": [
+    {
+      "artworkId": "met:437658",
+      "keyword": "Pointillism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:459117",
+      "keyword": "Pointillism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:320778",
+      "keyword": "Pointillism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:161274",
+      "keyword": "Pointillism",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "trompe-loeil": [
+    {
+      "artworkId": "cma:132938",
+      "keyword": "Trompe-l'œil",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "dripping": [
+    {
+      "artworkId": "met:823924",
+      "keyword": "Dripping",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:59861",
+      "keyword": "Dripping",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:155871",
+      "keyword": "Dripping",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:140476",
+      "keyword": "Dripping",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "drypoint": [
+    {
+      "artworkId": "cma:108103",
+      "keyword": "Drypoint",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:135706",
+      "keyword": "Drypoint",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "aquatint": [
+    {
+      "artworkId": "cma:132853",
+      "keyword": "Aquatint",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:132850",
+      "keyword": "Aquatint",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:395202",
+      "keyword": "Aquatint",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:405473",
+      "keyword": "Aquatint",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "mezzotint": [
+    {
+      "artworkId": "met:263461",
+      "keyword": "Mezzotint",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:263462",
+      "keyword": "Mezzotint",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:457386",
+      "keyword": "Mezzotint",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:457384",
+      "keyword": "Mezzotint",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "encaustic": [
+    {
+      "artworkId": "cma:145925",
+      "keyword": "Encaustic",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:145923",
+      "keyword": "Encaustic",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:3531",
+      "keyword": "Encaustic",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:14326",
+      "keyword": "Encaustic",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "casting": [
+    {
+      "artworkId": "met:316476",
+      "keyword": "Casting",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:728281",
+      "keyword": "Casting",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:329314",
+      "keyword": "Casting",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:125101",
+      "keyword": "Casting",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "ink-painting": [
+    {
+      "artworkId": "cma:151543",
+      "keyword": "Ink painting",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:145430",
+      "keyword": "Ink painting",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:55353",
+      "keyword": "Ink painting",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:74673",
+      "keyword": "Ink painting",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ],
+  "maki-e": [
+    {
+      "artworkId": "met:57585",
+      "keyword": "Maki-e",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "met:57955",
+      "keyword": "Maki-e",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:156795",
+      "keyword": "Maki-e",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:156797",
+      "keyword": "Maki-e",
+      "reason": "キーワード一致（未確認）",
+      "unchecked": true
+    }
+  ]
+}

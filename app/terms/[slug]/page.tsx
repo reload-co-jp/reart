@@ -7,6 +7,7 @@ import { TermActions } from "@/components/term-actions"
 import { createTermLinker } from "@/components/term-linker"
 import { color, font, size, space, styles, width } from "@/components/theme"
 import {
+  artworksForTerm,
   getCategory,
   getTerm,
   getTerms,
@@ -113,6 +114,7 @@ const TermPage = async ({ params }: Props) => {
   const primary = cats[0]!
   const path = `/terms/${t.slug}/`
   const related = getTerms(t.relatedTerms)
+  const artworks = artworksForTerm(t.slug)
   const sameCategory = termsInCategory(primary.slug)
     .filter((x) => x.slug !== t.slug && !t.relatedTerms.includes(x.slug))
     .slice(0, 5)
@@ -294,6 +296,50 @@ const TermPage = async ({ params }: Props) => {
                         ）
                       </span>
                     )}
+                  </li>
+                ))}
+              </ul>
+            </Block>
+          )}
+
+          {artworks.length > 0 && (
+            <Block title="関連作品">
+              <ul
+                style={{
+                  listStyle: "none",
+                  display: "grid",
+                  gridTemplateColumns: "repeat(auto-fill, minmax(200px, 1fr))",
+                  gap: space.md,
+                }}
+              >
+                {artworks.map((a) => (
+                  <li key={a.id}>
+                    <figure>
+                      <img
+                        src={a.localImagePath}
+                        alt={a.title}
+                        loading="lazy"
+                        style={{
+                          width: "100%",
+                          height: 200,
+                          objectFit: "contain",
+                          background: color.accentSoft,
+                        }}
+                      />
+                      <figcaption
+                        style={{ fontSize: size.sm, marginTop: space.xs }}
+                      >
+                        {a.artist && `${a.artist}`}《{a.title}》
+                        {a.date && `、${a.date}`}
+                        <br />
+                        <span style={{ color: color.sub }}>
+                          {a.museum}／{a.rights}／
+                          <a href={a.sourceUrl} style={styles.link} rel="noopener">
+                            作品ページ
+                          </a>
+                        </span>
+                      </figcaption>
+                    </figure>
                   </li>
                 ))}
               </ul>

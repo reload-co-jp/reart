@@ -81,6 +81,33 @@ export const DIFFICULTY_LABEL: Record<Difficulty, string> = {
   3: "発展",
 }
 
+// 美術館 API から取得した作品（data/artworks.json）。`pnpm artworks` で登録する。
+// 利用条件（CC0 / Public Domain）を確認できた作品だけを保存する。
+export type Artwork = {
+  id: string // `${source}:${sourceId}`
+  source: "met" | "cma"
+  sourceId: string
+  title: string
+  artist: string
+  date: string
+  museum: string
+  description: string
+  imageUrl: string
+  localImagePath?: string // public/ 以下の画像パス。未取得なら無し
+  sourceUrl: string
+  rights: string
+  downloadedAt?: string
+  error?: string // 画像取得エラー。`pnpm artworks refresh` で再試行
+}
+
+// 用語と作品の紐付け（data/term-artworks.json、用語 slug → 配列順 = 表示順）
+export type TermArtwork = {
+  artworkId: string
+  keyword: string
+  reason: string
+  unchecked?: boolean // `collect` で自動収集した未確認の候補。ページに出さない
+}
+
 export type Exhibition = {
   slug: string
   title: string
