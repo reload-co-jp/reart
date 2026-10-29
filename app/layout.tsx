@@ -2,7 +2,11 @@ import type { Metadata, Viewport } from "next"
 import { Footer, Header, Main } from "@/components/elements/layout"
 import { color, font } from "@/components/theme"
 import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/lib/site"
-import { Noto_Sans_JP } from "next/font/google"
+import {
+  Cormorant_Garamond,
+  Noto_Sans_JP,
+  Shippori_Mincho,
+} from "next/font/google"
 import Script from "next/script"
 import "./reset.css"
 
@@ -11,6 +15,22 @@ const notoSansJp = Noto_Sans_JP({
   variable: "--font-noto-sans-jp",
   display: "swap",
   preload: false,
+})
+
+// 見出し用: 欧文は Cormorant、和文は Shippori Mincho
+const shipporiMincho = Shippori_Mincho({
+  weight: ["500", "700"],
+  variable: "--font-shippori-mincho",
+  display: "swap",
+  preload: false,
+})
+
+const cormorant = Cormorant_Garamond({
+  weight: ["500", "600", "700"],
+  style: ["normal", "italic"],
+  subsets: ["latin"],
+  variable: "--font-cormorant",
+  display: "swap",
 })
 
 const GA_ID = "G-6P78M1W5D8"
@@ -33,7 +53,10 @@ export const viewport: Viewport = {
 
 const RootLayout = ({ children }: { children: React.ReactNode }) => {
   return (
-    <html lang="ja" className={notoSansJp.variable}>
+    <html
+      lang="ja"
+      className={`${notoSansJp.variable} ${shipporiMincho.variable} ${cormorant.variable}`}
+    >
       <body
         style={{
           background: color.bg,

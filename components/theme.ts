@@ -15,9 +15,9 @@ export const color = {
 
 export const font = {
   sans: 'var(--font-noto-sans-jp), "Hiragino Sans", "Yu Gothic", Meiryo, sans-serif',
-  // 国立西洋美術館に合わせて見出しもゴシック体で統一する
+  // 欧文を Cormorant、和文を Shippori Mincho で組む見出し用
   serif:
-    'var(--font-noto-sans-jp), "Hiragino Sans", "Yu Gothic", Meiryo, sans-serif',
+    'var(--font-cormorant), var(--font-shippori-mincho), "Hiragino Mincho ProN", "Yu Mincho", serif',
 }
 
 export const size = {
@@ -54,8 +54,10 @@ export const styles = {
   sectionTitle: {
     borderBottom: `1px solid ${color.text}`,
     fontFamily: font.serif,
+    fontFeatureSettings: '"palt"',
     fontSize: size.xl,
-    fontWeight: 400,
+    fontWeight: 500,
+    letterSpacing: ".06em",
     marginBottom: space.lg,
     paddingBottom: space.sm,
   },

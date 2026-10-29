@@ -59,17 +59,30 @@ const Page: FC = () => {
       <section
         style={{
           ...styles.container,
-          maxWidth: "48rem",
-          padding: `${space.xl} ${space.md}`,
+          padding: `${space.xxl} ${space.md}`,
           textAlign: "center",
         }}
       >
+        <p
+          style={{
+            color: color.accent,
+            fontFamily: font.serif,
+            fontSize: size.lg,
+            fontStyle: "italic",
+            letterSpacing: ".12em",
+            marginBottom: space.md,
+          }}
+        >
+          A Glossary of Art
+        </p>
         <h1
           style={{
             fontFamily: font.serif,
+            fontFeatureSettings: '"palt"',
             fontSize: size.xxl,
             fontWeight: 500,
-            lineHeight: 1.4,
+            letterSpacing: ".08em",
+            lineHeight: 1.6,
           }}
         >
           美術館の言葉がわかる、
@@ -79,7 +92,8 @@ const Page: FC = () => {
         <p
           style={{
             color: color.sub,
-            lineHeight: 1.9,
+            letterSpacing: ".05em",
+            lineHeight: 2,
             margin: `${space.lg} 0 ${space.xl}`,
           }}
         >
@@ -87,7 +101,9 @@ const Page: FC = () => {
           <wbr />
           美術館の解説で出会う言葉を、わかりやすく学べます。
         </p>
-        <SearchForm id="hero-search" />
+        <div style={{ margin: "0 auto", maxWidth: "40rem" }}>
+          <SearchForm id="hero-search" />
+        </div>
       </section>
 
       <section style={{ ...styles.container, maxWidth: "48rem" }}>

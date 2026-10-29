@@ -27,10 +27,10 @@ export const TermCard: FC<{
       <span
         style={{
           color: color.accent,
-          fontSize: size.xs,
-          fontWeight: 600,
-          letterSpacing: ".18em",
-          textTransform: "uppercase",
+          fontFamily: font.serif,
+          fontSize: size.md,
+          fontStyle: "italic",
+          letterSpacing: ".04em",
         }}
       >
         {term.english}
@@ -39,9 +39,10 @@ export const TermCard: FC<{
     <span
       style={{
         fontFamily: font.serif,
+        fontFeatureSettings: '"palt"',
         fontSize: size.xl,
         fontWeight: 700,
-        letterSpacing: ".04em",
+        letterSpacing: ".06em",
         lineHeight: 1.3,
       }}
     >
