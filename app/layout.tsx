@@ -1,3 +1,4 @@
+import Link from "next/link"
 import type { Metadata, Viewport } from "next"
 import { Footer, Header, Main } from "@/components/elements/layout"
 import { color, font } from "@/components/theme"
@@ -72,6 +73,11 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
           <p>
             &copy; ReArt｜美術用語辞典 —
             美術館の言葉がわかる、美術鑑賞のための辞典。
+          </p>
+          <p>
+            <Link href="/about/" style={{ color: "inherit" }}>
+              このサイトについて
+            </Link>
           </p>
         </Footer>
         <Script

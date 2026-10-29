@@ -23,6 +23,7 @@ const sitemap = (): MetadataRoute.Sitemap => {
       "/guides/",
       "/exhibitions/",
       "/exhibitions/current/",
+      "/about/",
     ].map((p) => ({
       url: absoluteUrl(p),
       lastModified: latest,
