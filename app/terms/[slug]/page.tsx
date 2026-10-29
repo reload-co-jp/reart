@@ -142,7 +142,12 @@ const TermPage = async ({ params }: Props) => {
           inLanguage: "ja",
           datePublished: t.createdAt,
           dateModified: t.updatedAt,
-          publisher: { "@type": "Organization", name: SITE_NAME, url: SITE_URL },
+          author: { "@type": "Organization", name: SITE_NAME, url: SITE_URL },
+          publisher: {
+            "@type": "Organization",
+            name: SITE_NAME,
+            url: SITE_URL,
+          },
           mainEntity: {
             "@type": "DefinedTerm",
             name: t.term,

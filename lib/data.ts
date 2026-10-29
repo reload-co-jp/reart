@@ -106,6 +106,13 @@ export const getGuide = (slug: string) => guides.find((g) => g.slug === slug)
 export const termsInCategory = (slug: string) =>
   terms.filter((t) => t.categoryIds.includes(slug))
 
+// 用語群の最終更新日（sitemap / 記事の dateModified 用）
+export const lastUpdated = (ts: Term[]) =>
+  ts
+    .map((t) => t.updatedAt)
+    .sort()
+    .at(-1)
+
 export const guidesForTerm = (slug: string) =>
   guides.filter((g) => g.steps.some((s) => s.slug === slug))
 

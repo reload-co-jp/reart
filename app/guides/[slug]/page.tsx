@@ -3,8 +3,14 @@ import Link from "next/link"
 import { notFound } from "next/navigation"
 import { Breadcrumbs, JsonLd } from "@/components/seo"
 import { color, font, size, space, styles } from "@/components/theme"
-import { getGuide, getTerm, guides } from "@/lib/data"
-import { absoluteUrl, OG_IMAGE, pageMeta, SITE_NAME } from "@/lib/site"
+import { getGuide, getTerm, getTerms, guides, lastUpdated } from "@/lib/data"
+import {
+  absoluteUrl,
+  OG_IMAGE,
+  pageMeta,
+  SITE_NAME,
+  SITE_URL,
+} from "@/lib/site"
 
 type Props = { params: Promise<{ slug: string }> }
 
@@ -21,6 +27,7 @@ export const generateMetadata = async ({
     description: g.description,
     path: `/guides/${g.slug}/`,
     type: "article",
+    modifiedTime: lastUpdated(getTerms(g.steps.map((s) => s.slug))),
   })
 }
 
@@ -46,7 +53,13 @@ const GuidePage = async ({ params }: Props) => {
           url: absoluteUrl(path),
           inLanguage: "ja",
           image: absoluteUrl(OG_IMAGE),
-          publisher: { "@type": "Organization", name: SITE_NAME },
+          dateModified: lastUpdated(steps.map((s) => s.term)),
+          author: { "@type": "Organization", name: SITE_NAME, url: SITE_URL },
+          publisher: {
+            "@type": "Organization",
+            name: SITE_NAME,
+            url: SITE_URL,
+          },
         }}
       />
       <article>
