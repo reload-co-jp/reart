@@ -1,93 +1,80 @@
-# Next.js Static Site Template
+# ReArt｜美術用語辞典
 
-Next.js 16 + React 19 + TypeScript を使用した静的サイト生成のテンプレートリポジトリです。GitHub Pages へのデプロイが自動化されています。
+美術館で出会うなじみのない美術用語を事前に知り、作品を文脈や背景とともに鑑賞するための学習用の辞典です。
+
+https://reart.reload.co.jp
+
+## 主な機能
+
+- **用語辞典** - カテゴリ別の美術用語。各用語に出典（コトバンク、artscape、武蔵野美術大学 造形ファイル、Tate など）を併記
+- **ガイド** - テーマに沿って用語を順にたどる学習ページ
+- **展覧会** - 開催中の展覧会と、その解説に出てくる用語の紐付け
+- **関連作品** - The Met / Cleveland Museum of Art のパブリックドメイン（CC0）作品画像
+- **保存** - 気になる用語をブラウザに保存
 
 ## 技術スタック
 
-- **Next.js** 16 - App Router / Static Export
-- **React** 19
-- **TypeScript** 5
-- **ESLint** 9 - Flat Config
-- **Prettier** 3
+- Next.js 16（App Router / Static Export）
+- React 19 / TypeScript 5
+- Vitest + Testing Library
+- ESLint 9 / Prettier 3
 
-## このテンプレートの使い方
+## 開発
 
-1. **「Use this template」ボタン**をクリックして新しいリポジトリを作成
-2. リポジトリをクローン
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
-   ```
-3. 依存関係をインストール
-   ```bash
-   pnpm install
-   ```
-4. 開発サーバーを起動
-   ```bash
-   pnpm dev
-   ```
-
-## セットアップ後にやること
-
-### 1. `next.config.js` の修正
-
-`basePath` をリポジトリ名に変更してください：
-
-```js
-basePath: process.env.NODE_ENV === "production" ? "/YOUR_REPO_NAME" : "",
+```bash
+pnpm install
+pnpm dev
 ```
 
-### 2. `app/layout.tsx` の修正
+| コマンド                  | 説明                                        |
+| ------------------------- | ------------------------------------------- |
+| `pnpm dev`                | 開発サーバーを起動                          |
+| `pnpm build`              | 静的サイトをビルド（`/out` に出力）         |
+| `pnpm test`               | テストを実行                                |
+| `pnpm lint`               | ESLint を実行                               |
+| `pnpm typecheck`          | 型チェック                                  |
+| `pnpm format`             | Prettier でフォーマット                     |
+| `pnpm fetch:exhibitions`  | artscape から開催中の展覧会と関連用語を取得 |
+| `pnpm artworks <command>` | 用語に関連する作品を検索・登録（下記参照）  |
 
-メタデータとサイト情報を更新してください：
+### 作品の登録
 
-```tsx
-export const metadata: Metadata = {
-  title: "Your Site Title",
-  description: "Your site description",
-}
+```bash
+pnpm artworks search <slug> [keyword] [--page N]   # 候補を検索
+pnpm artworks add <slug> <artworkId> <keyword> [理由]
+pnpm artworks remove <slug> <artworkId>
+pnpm artworks refresh [artworkId]                  # 画像を再取得
+pnpm artworks collect                              # 全用語に未確認の候補を登録
 ```
 
-### 3. GitHub Pages の設定
-
-1. リポジトリの **Settings** → **Pages** へ移動
-2. **Source** を「GitHub Actions」に設定
+利用条件を確認できた CC0 / パブリックドメインの作品のみ保存します。
 
 ## ディレクトリ構成
 
 ```
 .
-├── app/
-│   ├── layout.tsx      # ルートレイアウト
-│   ├── page.tsx        # ホームページ
-│   └── reset.css       # CSSリセット
-├── .github/
-│   └── workflows/
-│       ├── lint.yml    # リント自動実行
-│       └── deploy.yml  # GitHub Pages 自動デプロイ
-├── next.config.js      # Next.js 設定
-├── tsconfig.json       # TypeScript 設定
-├── eslint.config.mjs   # ESLint 設定
-└── .prettierrc.json    # Prettier 設定
+├── app/                 # ページ（terms, categories, guides, exhibitions, saved, about）
+├── components/          # UI コンポーネント
+├── lib/                 # データ読み込み・検索・サイト設定
+├── data/
+│   ├── terms/*.json     # 用語（カテゴリごと）
+│   ├── categories.json
+│   ├── guides.json
+│   ├── exhibitions.json
+│   ├── current-exhibitions.json
+│   ├── artworks.json
+│   └── term-artworks.json
+├── public/artworks/     # 作品画像
+└── scripts/             # データ取得スクリプト
 ```
 
-## スクリプト
+## 用語の追加
 
-| コマンド | 説明 |
-|---------|------|
-| `pnpm dev` | 開発サーバーを起動 |
-| `pnpm build` | 静的サイトをビルド（`/out` に出力） |
-| `pnpm lint` | ESLint を実行 |
-| `pnpm format` | Prettier でコードをフォーマット |
-| `pnpm typecheck` | TypeScript の型チェック |
+`data/terms/*.json` を編集します。出典の探し方・記載方法・`verification` の書き方は [CLAUDE.md](./CLAUDE.md) を参照してください。編集後は `pnpm format` と `pnpm test` で確認します。
 
-## 機能
+## デプロイ
 
-- **静的サイト生成** - `next build` で `/out` に HTML を出力
-- **自動デプロイ** - main ブランチへの push で GitHub Pages に自動デプロイ
-- **自動リント** - push 時に ESLint / Prettier チェックを実行
-- **依存関係の自動更新** - Dependabot による週次チェック
-- **エディタ設定** - VS Code での自動フォーマット設定済み
+main ブランチへの push で GitHub Actions が GitHub Pages にデプロイします。
 
 ## ライセンス
 
