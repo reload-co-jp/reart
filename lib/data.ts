@@ -2,6 +2,7 @@ import fs from "node:fs"
 import path from "node:path"
 import artworksJson from "@/data/artworks.json"
 import categoriesJson from "@/data/categories.json"
+import currentExhibitionsJson from "@/data/current-exhibitions.json"
 import exhibitionsJson from "@/data/exhibitions.json"
 import guidesJson from "@/data/guides.json"
 import termArtworksJson from "@/data/term-artworks.json"
@@ -130,6 +131,22 @@ export const getTerms = (slugs: string[]) =>
 export const getCategory = (slug: string) =>
   categories.find((c) => c.slug === slug)
 export const getGuide = (slug: string) => guides.find((g) => g.slug === slug)
+export const getExhibition = (slug: string) =>
+  exhibitions.find((e) => e.slug === slug)
+
+// 東京の企画展。ビルド時点で終了済み・用語なしの展覧会は出さない
+const today = new Date().toISOString().slice(0, 10)
+export const currentExhibitionsSource = {
+  source: currentExhibitionsJson.source,
+  fetchedAt: currentExhibitionsJson.fetchedAt,
+}
+export const currentExhibitions = currentExhibitionsJson.exhibitions
+  .filter((e) => e.end >= today)
+  .map((e) => ({ ...e, terms: getTerms(e.terms), open: e.start <= today }))
+  .filter((e) => e.terms.length > 0)
+  .sort((a, b) => Number(b.open) - Number(a.open) || a.end.localeCompare(b.end))
+export const getCurrentExhibition = (id: string) =>
+  currentExhibitions.find((e) => e.id === id)
 
 export const termsInCategory = (slug: string) =>
   terms.filter((t) => t.categoryIds.includes(slug))

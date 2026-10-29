@@ -2,7 +2,7 @@ import { pageMeta } from "@/lib/site"
 import Link from "next/link"
 import { Breadcrumbs } from "@/components/seo"
 import { color, font, size, space, styles } from "@/components/theme"
-import { exhibitions, getTerm } from "@/lib/data"
+import { exhibitions } from "@/lib/data"
 
 const description =
   "印象派展、日本美術展、現代美術展、工芸展など、展覧会の種類ごとに知っておきたい美術用語をまとめました。行く前の予習にどうぞ。"
@@ -32,84 +32,34 @@ const ExhibitionsPage = () => (
       </Link>
     </p>
 
-    <nav aria-label="展覧会の種類" style={{ marginBottom: space.xl }}>
-      <ul
-        style={{
-          display: "flex",
-          flexWrap: "wrap",
-          gap: space.sm,
-          listStyle: "none",
-          padding: 0,
-        }}
-      >
-        {exhibitions.map((e) => (
-          <li key={e.slug}>
-            <a
-              href={`#${e.slug}`}
-              style={{ ...styles.link, fontSize: size.sm }}
-            >
-              {e.title}
-            </a>
-          </li>
-        ))}
-      </ul>
-    </nav>
-
-    {exhibitions.map((e) => (
-      <section
-        key={e.slug}
-        id={e.slug}
-        style={{ marginBottom: space.xl, scrollMarginTop: space.xl }}
-      >
-        <h2 style={styles.sectionTitle}>{e.title}</h2>
-        <p style={{ fontSize: size.sm, lineHeight: 1.8 }}>{e.description}</p>
-        <ul style={{ listStyle: "none", padding: 0 }}>
-          {e.terms.map((s) => {
-            const t = getTerm(s.slug)!
-            return (
-              <li
-                key={s.slug}
-                style={{
-                  borderBottom: `1px solid ${color.border}`,
-                  padding: `${space.md} 0`,
-                }}
-              >
-                <Link
-                  href={`/terms/${s.slug}/`}
-                  style={{ ...styles.link, fontWeight: 500 }}
-                >
-                  {t.term}
-                </Link>
-                <span
-                  style={{
-                    color: color.sub,
-                    fontSize: size.xs,
-                    marginLeft: space.sm,
-                  }}
-                >
-                  {t.reading}
-                </span>
-                <p style={{ fontSize: size.sm, lineHeight: 1.8 }}>
-                  {t.summary}
-                </p>
-                {s.note && (
-                  <p
-                    style={{
-                      color: color.sub,
-                      fontSize: size.sm,
-                      lineHeight: 1.8,
-                      marginTop: space.xs,
-                    }}
-                  >
-                    {s.note}
-                  </p>
-                )}
-              </li>
-            )
-          })}
-        </ul>
-      </section>
-    ))}
+    <ul style={{ listStyle: "none", padding: 0 }}>
+      {exhibitions.map((e) => (
+        <li
+          key={e.slug}
+          style={{
+            borderBottom: `1px solid ${color.border}`,
+            padding: `${space.md} 0`,
+          }}
+        >
+          <Link
+            href={`/exhibitions/${e.slug}/`}
+            style={{ ...styles.link, fontWeight: 500 }}
+          >
+            {e.title}
+          </Link>
+          <span
+            style={{
+              color: color.sub,
+              fontSize: size.xs,
+              marginLeft: space.sm,
+            }}
+          >
+            {e.terms.length}語
+          </span>
+          <p style={{ fontSize: size.sm, lineHeight: 1.8 }}>{e.description}</p>
+        </li>
+      ))}
+    </ul>
   </div>
 )
 

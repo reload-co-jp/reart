@@ -1,6 +1,8 @@
 import type { MetadataRoute } from "next"
 import {
   categories,
+  currentExhibitions,
+  exhibitions,
   getTerms,
   guides,
   lastUpdated,
@@ -32,6 +34,14 @@ const sitemap = (): MetadataRoute.Sitemap => {
     ...categories.map((c) => ({
       url: absoluteUrl(`/categories/${c.slug}/`),
       lastModified: lastUpdated(termsInCategory(c.slug)),
+    })),
+    ...exhibitions.map((e) => ({
+      url: absoluteUrl(`/exhibitions/${e.slug}/`),
+      lastModified: lastUpdated(getTerms(e.terms.map((s) => s.slug))),
+    })),
+    ...currentExhibitions.map((e) => ({
+      url: absoluteUrl(`/exhibitions/current/${e.id}/`),
+      lastModified: latest,
     })),
     ...guides.map((g) => ({
       url: absoluteUrl(`/guides/${g.slug}/`),
