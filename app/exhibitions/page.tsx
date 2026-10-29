@@ -76,7 +76,7 @@ const ExhibitionsPage = () => (
               >
                 <Link
                   href={`/terms/${s.slug}/`}
-                  style={{ ...styles.link, fontWeight: 600 }}
+                  style={{ ...styles.link, fontWeight: 500 }}
                 >
                   {t.term}
                 </Link>

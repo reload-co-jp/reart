@@ -84,7 +84,7 @@ const LinkList: FC<{ title: string; items: Term[] }> = ({ title, items }) =>
                 textDecoration: "none",
               }}
             >
-              <span style={{ color: color.accent, fontWeight: 600 }}>
+              <span style={{ color: color.accent, fontWeight: 500 }}>
                 {t.term}
               </span>
               <span
@@ -171,7 +171,7 @@ const TermPage = async ({ params }: Props) => {
           style={{
             fontFamily: font.serif,
             fontSize: size.xxl,
-            fontWeight: 600,
+            fontWeight: 500,
             lineHeight: 1.3,
             margin: `${space.xs} 0 ${space.md}`,
           }}

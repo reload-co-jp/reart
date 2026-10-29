@@ -2,20 +2,22 @@ import type { CSSProperties } from "react"
 
 // デザイントークン
 export const color = {
-  bg: "#f7f4ee",
-  surface: "#fffdf9",
-  text: "#1f1d1a",
-  sub: "#5f5a52",
-  border: "#ddd5c7",
-  accent: "#a8402a",
-  accentSoft: "#f3e3dc",
-  ink: "#24384f",
+  bg: "#fff",
+  surface: "#fff",
+  text: "#000",
+  sub: "#666",
+  border: "#ddd",
+  accent: "#c7002c",
+  accentSoft: "#f6f6f6",
+  ink: "#333",
+  inverse: "#fff",
 }
 
 export const font = {
-  sans: '"Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Yu Gothic", Meiryo, sans-serif',
+  sans: 'var(--font-noto-sans-jp), "Hiragino Sans", "Yu Gothic", Meiryo, sans-serif',
+  // 国立西洋美術館に合わせて見出しもゴシック体で統一する
   serif:
-    '"Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", "YuMincho", serif',
+    'var(--font-noto-sans-jp), "Hiragino Sans", "Yu Gothic", Meiryo, sans-serif',
 }
 
 export const size = {
@@ -52,8 +54,8 @@ export const styles = {
   sectionTitle: {
     borderBottom: `1px solid ${color.text}`,
     fontFamily: font.serif,
-    fontSize: size.lg,
-    fontWeight: 600,
+    fontSize: size.xl,
+    fontWeight: 400,
     marginBottom: space.lg,
     paddingBottom: space.sm,
   },
@@ -71,7 +73,7 @@ export const styles = {
   },
   tag: {
     border: `1px solid ${color.border}`,
-    borderRadius: "999px",
+    borderRadius: 0,
     color: color.sub,
     display: "inline-block",
     fontSize: size.xs,
@@ -81,7 +83,7 @@ export const styles = {
     alignItems: "center",
     background: color.surface,
     border: `1px solid ${color.text}`,
-    borderRadius: "4px",
+    borderRadius: 0,
     color: color.text,
     cursor: "pointer",
     display: "inline-flex",
@@ -93,7 +95,7 @@ export const styles = {
   input: {
     background: color.surface,
     border: `1px solid ${color.border}`,
-    borderRadius: "4px",
+    borderRadius: 0,
     color: color.text,
     fontSize: size.md,
     minHeight: "2.75rem",

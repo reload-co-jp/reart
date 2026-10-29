@@ -68,7 +68,7 @@ const Page: FC = () => {
           style={{
             fontFamily: font.serif,
             fontSize: size.xxl,
-            fontWeight: 600,
+            fontWeight: 500,
             lineHeight: 1.4,
           }}
         >
@@ -123,7 +123,7 @@ const Page: FC = () => {
                   {String(i + 1).padStart(2, "0")}
                 </span>
                 <span>
-                  <span style={{ display: "block", fontWeight: 600 }}>
+                  <span style={{ display: "block", fontWeight: 500 }}>
                     {c.name}
                   </span>
                   <span style={{ color: color.sub, fontSize: size.xs }}>
@@ -197,7 +197,7 @@ const Page: FC = () => {
                   style={{
                     display: "block",
                     fontFamily: font.serif,
-                    fontWeight: 600,
+                    fontWeight: 500,
                   }}
                 >
                   {g.title}

@@ -102,7 +102,7 @@ const GuidePage = async ({ params }: Props) => {
               <div>
                 <Link
                   href={`/terms/${s.slug}/`}
-                  style={{ ...styles.link, fontSize: size.lg, fontWeight: 600 }}
+                  style={{ ...styles.link, fontSize: size.lg, fontWeight: 500 }}
                 >
                   {s.term.term}
                 </Link>

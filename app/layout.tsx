@@ -2,8 +2,16 @@ import type { Metadata, Viewport } from "next"
 import { Footer, Header, Main } from "@/components/elements/layout"
 import { color, font } from "@/components/theme"
 import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/lib/site"
+import { Noto_Sans_JP } from "next/font/google"
 import Script from "next/script"
 import "./reset.css"
+
+const notoSansJp = Noto_Sans_JP({
+  weight: ["400", "500", "700"],
+  variable: "--font-noto-sans-jp",
+  display: "swap",
+  preload: false,
+})
 
 const GA_ID = "G-6P78M1W5D8"
 
@@ -25,7 +33,7 @@ export const viewport: Viewport = {
 
 const RootLayout = ({ children }: { children: React.ReactNode }) => {
   return (
-    <html lang="ja">
+    <html lang="ja" className={notoSansJp.variable}>
       <body
         style={{
           background: color.bg,

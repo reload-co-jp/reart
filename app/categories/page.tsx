@@ -50,7 +50,7 @@ const CategoriesPage = () => (
                 display: "block",
                 fontFamily: font.serif,
                 fontSize: size.lg,
-                fontWeight: 600,
+                fontWeight: 500,
               }}
             >
               {c.name}

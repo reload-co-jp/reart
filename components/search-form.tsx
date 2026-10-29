@@ -31,7 +31,7 @@ export const SearchForm: FC<{
       type="submit"
       style={{
         ...styles.button,
-        background: color.text,
+        background: color.accent,
         color: color.surface,
         flexShrink: 0,
         ...(compact ? {} : { minHeight: "3.5rem", padding: `0 ${space.lg}` }),

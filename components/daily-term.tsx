@@ -24,14 +24,14 @@ export const DailyTerm: FC<{ terms: TermIndex[]; buildDay: number }> = ({
         padding: space.lg,
       }}
     >
-      <p style={{ color: color.accent, fontSize: size.xs, fontWeight: 600 }}>
+      <p style={{ color: color.accent, fontSize: size.xs, fontWeight: 500 }}>
         今日の用語
       </p>
       <p
         style={{
           fontFamily: font.serif,
           fontSize: size.xl,
-          fontWeight: 600,
+          fontWeight: 500,
           marginTop: space.xs,
         }}
       >

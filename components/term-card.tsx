@@ -13,7 +13,7 @@ export const TermCard: FC<{
     style={{
       background: color.surface,
       border: `1px solid ${color.border}`,
-      borderRadius: "4px",
+      borderRadius: 0,
       color: color.text,
       display: "flex",
       flexDirection: "column",
@@ -28,7 +28,7 @@ export const TermCard: FC<{
       {term.english && ` / ${term.english}`}
     </span>
     <span
-      style={{ fontFamily: font.serif, fontSize: size.lg, fontWeight: 600 }}
+      style={{ fontFamily: font.serif, fontSize: size.lg, fontWeight: 500 }}
     >
       {term.term}
     </span>

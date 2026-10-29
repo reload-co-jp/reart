@@ -14,8 +14,8 @@ const NAV = [
 export const Header: FC = () => (
   <header
     style={{
-      background: color.bg,
-      borderBottom: `1px solid ${color.border}`,
+      background: color.ink,
+      color: color.inverse,
       padding: `${space.sm} 0`,
     }}
   >
@@ -33,7 +33,7 @@ export const Header: FC = () => (
         href="/"
         style={{
           alignItems: "baseline",
-          color: color.text,
+          color: color.inverse,
           display: "flex",
           gap: space.sm,
           textDecoration: "none",
@@ -49,9 +49,7 @@ export const Header: FC = () => (
         >
           Re<span style={{ color: color.accent }}>A</span>rt
         </span>
-        <span style={{ color: color.sub, fontSize: size.xs }}>
-          美術用語辞典
-        </span>
+        <span style={{ fontSize: size.xs }}>美術用語辞典</span>
       </Link>
       <nav aria-label="メインメニュー" style={{ flex: "1 1 auto" }}>
         <ul
@@ -69,7 +67,7 @@ export const Header: FC = () => (
                 href={n.href}
                 style={{
                   alignItems: "center",
-                  color: color.text,
+                  color: color.inverse,
                   display: "flex",
                   fontSize: size.sm,
                   minHeight: "2.75rem",
@@ -105,10 +103,10 @@ export const Main: FC<{ children: ReactNode }> = ({ children }) => (
 export const Footer: FC<{ children: ReactNode }> = ({ children }) => (
   <footer
     style={{
-      borderTop: `1px solid ${color.border}`,
-      color: color.sub,
+      background: "rgba(0, 0, 0, 0.9)",
+      color: color.inverse,
       fontSize: size.xs,
-      padding: `${space.lg} 0`,
+      padding: `${space.xl} 0`,
     }}
   >
     <div style={styles.container}>{children}</div>
