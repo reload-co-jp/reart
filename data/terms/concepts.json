@@ -33,7 +33,11 @@
     ],
     "prerequisiteTerms": [],
     "sources": [],
-    "verification": { "status": "unverified" },
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30",
+      "note": "主要な辞典・用語集（コトバンク、Tate Art Terms）を確認しましたが、この用語を美術の意味で解説した出典は見つかりませんでした。本文は編集部の記述によるものです。"
+    },
     "status": "published",
     "createdAt": "2026-10-25",
     "updatedAt": "2026-10-25"
@@ -71,7 +75,11 @@
     ],
     "prerequisiteTerms": ["context"],
     "sources": [],
-    "verification": { "status": "unverified" },
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30",
+      "note": "主要な辞典・用語集（コトバンク、Tate Art Terms）を確認しましたが、この用語を美術の意味で解説した出典は見つかりませんでした。本文は編集部の記述によるものです。"
+    },
     "status": "published",
     "createdAt": "2026-10-25",
     "updatedAt": "2026-10-25"
@@ -83,7 +91,7 @@
     "english": "Corporeality / Embodiment",
     "aliases": ["身体", "フィジカリティ"],
     "summary": "作品の制作や鑑賞において、体の動きや感覚が重要な役割を果たしていること。",
-    "definition": "頭で理解する知識だけでなく、体を通した経験や感覚が作品に関わっていることを指す言葉です。作家の体の動きが作品に痕跡として残っている場合や、鑑賞者が作品の周りを歩いたり、空間に身を置いたりすることで作品を体験する場合などに使われます。",
+    "definition": "頭で理解する知識だけでなく、体を通した経験や感覚が作品に関わっていることを指す言葉です。作家の体の動きが作品に痕跡として残っている場合や、鑑賞者が作品の周りを歩いたり、空間に身を置いたりすることで作品を体験する場合などに使われます。哲学では、身体は心と対になる、人間の生理的・物理的な側面として考えられてきました。身体を心の自由を奪う「檻」とみるか、心の意図を行為として実現する「道具」とみるかなど、その捉え方は心をどう理解するかによって変わってきました。美術で「身体性」という場合も、こうした心と体を切り離す見方を問い直す文脈で語られることがあります。",
     "categoryIds": ["concepts"],
     "difficulty": 3,
     "examples": [
@@ -106,11 +114,17 @@
       "abstract-expressionism"
     ],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「身体」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E8%BA%AB%E4%BD%93-161861",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "symbol",
@@ -119,7 +133,7 @@
     "english": "Symbol",
     "aliases": ["シンボル"],
     "summary": "目に見える物や形によって、目に見えない意味や考えを表すこと。",
-    "definition": "具体的な物やイメージを使って、抽象的な考えや感情、価値を表すことです。たとえば白い百合で純潔を、鳩で平和を表すように、文化の中で共有された意味を持つ場合が多くあります。美術作品では、描かれた物が何を象徴しているかを読み解くことが、作品理解の手がかりになります。",
+    "definition": "具体的な物やイメージを使って、抽象的な考えや感情、価値を表すことです。たとえば白い百合で純潔を、鳩で平和を表すように、文化の中で共有された意味を持つ場合が多くあります。美術作品では、描かれた物が何を象徴しているかを読み解くことが、作品理解の手がかりになります。王冠が君主政治を、花嫁の白無垢が純潔を表すのも象徴の例です。哲学では、意味を担う記号のうち、とくに人間による意味づけを担うものを狭い意味での象徴と呼び、自然なつながりよりも、取り決めによるつながりや関係に結びついたものとされます。",
     "confusables": [
       {
         "slug": "sign",
@@ -144,11 +158,17 @@
     "museumExample": "画面の隅に置かれた砂時計は、時の流れと人生のはかなさを象徴している。",
     "relatedTerms": ["sign", "allegory", "iconography", "motif", "symbolism"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「象徴」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%97%E3%82%93%E3%81%BC%E3%82%8B-3155031",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "sign",
@@ -157,7 +177,7 @@
     "english": "Sign",
     "aliases": ["サイン", "記号性"],
     "summary": "何かを指し示したり、意味を伝えたりする働きを持つ「しるし」のこと。",
-    "definition": "文字、図、色、形、身振りなど、それ自体とは別の何かを指し示して意味を伝えるものを指します。美術では、イメージが現実の物を写すだけでなく、社会の中で共有された意味を運ぶ「記号」として働いていることに注目する見方があります。",
+    "definition": "文字、図、色、形、身振りなど、それ自体とは別の何かを指し示して意味を伝えるものを指します。美術では、イメージが現実の物を写すだけでなく、社会の中で共有された意味を運ぶ「記号」として働いていることに注目する見方があります。ヨーロッパの言葉で記号にあたる語は、ギリシア語の「シュンボロン（割符）」に由来し、Aを見てBを知ることができるとき、AはBの記号であるとされました。象形文字や数字、絵などが代表的な記号で、のちには表音文字のように、それ自体に意味がなくとも文を組み立てる素材となるものも記号と呼ばれるようになりました。",
     "generalDifference": "日常では「＋」や「〒」のような図形のしるしを指すことが多い言葉ですが、美術や批評では、イメージや物が意味を伝える働き全般を指して使われます。",
     "confusables": [
       {
@@ -180,11 +200,17 @@
     "museumExample": "作家は、繰り返し複製された有名人の顔が、個人ではなく記号として消費されていく様子を描き出した。",
     "relatedTerms": ["symbol", "representation", "pop-art", "appropriation"],
     "prerequisiteTerms": ["symbol"],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「記号」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E8%A8%98%E5%8F%B7-2627",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "reconstruction",
@@ -212,7 +238,11 @@
     "relatedTerms": ["collage", "appropriation", "cubism", "context"],
     "prerequisiteTerms": [],
     "sources": [],
-    "verification": { "status": "unverified" },
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30",
+      "note": "主要な辞典・用語集（コトバンク、Tate Art Terms）を確認しましたが、この用語を美術の意味で解説した出典は見つかりませんでした。本文は編集部の記述によるものです。"
+    },
     "status": "published",
     "createdAt": "2026-10-25",
     "updatedAt": "2026-10-25"
@@ -224,7 +254,7 @@
     "english": "Interactive",
     "aliases": ["インタラクション", "双方向"],
     "summary": "鑑賞者の動きや操作に、作品が反応して変化すること。",
-    "definition": "「相互作用的な」という意味の言葉です。美術では、鑑賞者が近づく、触れる、声を出すといった行為に作品が反応し、映像や音、光などが変化する作品を指して使われます。センサーやコンピュータを使ったメディアアートで多く見られます。",
+    "definition": "「相互作用的な」という意味の言葉です。美術では、鑑賞者が近づく、触れる、声を出すといった行為に作品が反応し、映像や音、光などが変化する作品を指して使われます。センサーやコンピュータを使ったメディアアートで多く見られます。日本語では「双方向芸術」とも呼ばれ、作品と観客の対話や観客の積極的な参加によって成り立つ作品の総称です。こうした作品と観客の関係を問う試みは、未来派によるダイナミズムの賛美、動きを取り入れたキネティック・アート、アラン・カプローらの環境芸術などにさかのぼることができます。",
     "categoryIds": ["concepts", "contemporary-art"],
     "difficulty": 1,
     "examples": [
@@ -240,11 +270,17 @@
     "museumUsage": "メディアアートや体験型展示の解説で使われます。",
     "relatedTerms": ["media-art", "participatory-art", "installation"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「インタラクティブ・アート」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%84%E3%82%93%E3%81%9F%E3%82%89%E3%81%8F%E3%81%A6%E3%81%84%E3%81%B6%E3%81%82%E3%83%BC%E3%81%A8-3143604",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "motif",
@@ -253,7 +289,7 @@
     "english": "Motif",
     "aliases": ["題材", "モティーフ"],
     "summary": "作品の中で描かれたり、表現のきっかけになったりしている具体的な物や形。",
-    "definition": "作品に描かれている物や人物、形、模様など、表現の素材となる具体的な対象を指します。花、果物、人物、建物など何でもモチーフになりえます。作家が繰り返し取り上げるものを「その作家のモチーフ」と呼ぶこともあります。",
+    "definition": "作品に描かれている物や人物、形、模様など、表現の素材となる具体的な対象を指します。花、果物、人物、建物など何でもモチーフになりえます。作家が繰り返し取り上げるものを「その作家のモチーフ」と呼ぶこともあります。もともとは「動機」を意味し、作者が素材から主題を導き出すときの創作の衝動を指す言葉でもあります。装飾美術では繰り返し現れる模様を、音楽では楽想をつくる短い旋律を指すなど、分野によって意味が少しずつ異なります。",
     "confusables": [
       {
         "slug": "subject-matter",
@@ -273,11 +309,17 @@
     "museumUsage": "作品解説で最もよく使われる言葉の一つで、「〇〇をモチーフにした作品」のように使われます。",
     "relatedTerms": ["subject-matter", "symbol", "still-life", "iconography"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「モチーフ」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%82%82%E3%81%A1%E3%83%BC%E3%81%B5-3173264",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "subject-matter",
@@ -286,7 +328,7 @@
     "english": "Subject / Theme",
     "aliases": ["テーマ", "画題"],
     "summary": "作品が表そうとしている中心的な内容やテーマ。",
-    "definition": "作品が何を表しているか、何について語っているかという中心的な内容を指します。宗教画であれば聖書の物語、歴史画であれば特定の出来事などが主題となります。現代美術では、記憶、移民、環境など、より抽象的なテーマを指して使われることも多くあります。",
+    "definition": "作品が何を表しているか、何について語っているかという中心的な内容を指します。宗教画であれば聖書の物語、歴史画であれば特定の出来事などが主題となります。現代美術では、記憶、移民、環境など、より抽象的なテーマを指して使われることも多くあります。「テーマ」の訳語で、思考や表現において素材をまとめる中心となるものを指します。文芸では表現の目標となる思想内容を、音楽では楽曲の性格を決める主要な楽想を指すなど、分野によって使われ方が異なります。",
     "confusables": [
       {
         "slug": "motif",
@@ -307,11 +349,17 @@
     "museumUsage": "「〇〇を主題とする」「主題の解釈」のように使われます。",
     "relatedTerms": ["motif", "iconography", "history-painting", "allegory"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「主題」百科事典マイペディア",
+        "url": "https://kotobank.jp/word/%E4%B8%BB%E9%A1%8C-77786",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "allegory",
@@ -320,7 +368,7 @@
     "english": "Allegory",
     "aliases": ["アレゴリー", "寓意画"],
     "summary": "愛や正義、時間などの抽象的な概念を、人物や物語の姿に置き換えて表すこと。",
-    "definition": "目に見えない概念を、擬人化された人物や象徴的な物語などに置き換えて表現する方法です。西洋美術では、目隠しをして天秤を持つ女性で「正義」を表すなど、多くの約束事が共有されていました。絵画全体が一つの教訓や考えを表している場合、「寓意画」と呼ばれます。",
+    "definition": "目に見えない概念を、擬人化された人物や象徴的な物語などに置き換えて表現する方法です。西洋美術では、目隠しをして天秤を持つ女性で「正義」を表すなど、多くの約束事が共有されていました。絵画全体が一つの教訓や考えを表している場合、「寓意画」と呼ばれます。ある意味を直接表さず、別の物事に託して表すことを指し、「寓意を含んだ絵」のように使われます。英語の「アレゴリー」にあたります。",
     "confusables": [
       {
         "slug": "symbol",
@@ -339,11 +387,17 @@
     "museumUsage": "西洋の古典的な絵画の解説で、「〇〇の寓意」のように使われます。",
     "relatedTerms": ["symbol", "iconography", "vanitas", "history-painting"],
     "prerequisiteTerms": ["symbol"],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「寓意」デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%AF%93%E6%84%8F-54810",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "appropriation",
@@ -352,7 +406,7 @@
     "english": "Appropriation",
     "aliases": ["流用", "借用", "アプロプリエーション・アート"],
     "summary": "既存の作品や画像、イメージを借用し、新しい文脈で作品として示す手法。",
-    "definition": "英語で「流用・横取り」を意味します。有名な美術作品、広告、写真などのイメージを意図的に借用し、そのまま、あるいは少しだけ手を加えて自分の作品として示す手法です。とくに1980年代のアメリカで、オリジナリティや作者のあり方を問い直す表現として注目されました。著作権との関係が議論されることもあります。",
+    "definition": "英語で「流用・横取り」を意味します。有名な美術作品、広告、写真などのイメージを意図的に借用し、そのまま、あるいは少しだけ手を加えて自分の作品として示す手法です。とくに1980年代のアメリカで、オリジナリティや作者のあり方を問い直す表現として注目されました。著作権との関係が議論されることもあります。日本語では「盗用芸術」と訳されることもあります。1960年代のポップ・アートや、ゲルハルト・リヒター、ジグマール・ポルケによる広告イメージのコピーなどが先駆けとされ、1970年代末から80年代にかけて、オリジナリティや真実性の価値を相対化するポストモダン芸術の代表的な手法として確立し、1990年代には日本やヨーロッパにも広がりました。",
     "categoryIds": ["concepts", "contemporary-art"],
     "difficulty": 3,
     "examples": [
@@ -373,11 +427,17 @@
       "reconstruction"
     ],
     "prerequisiteTerms": ["originality"],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「アプロプリエーション」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%82%E3%81%B7%E3%82%8D%E3%81%B7%E3%82%8A%E3%81%88%E3%83%BC%E3%81%97%E3%82%88%E3%82%93-3141494",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "representation",
@@ -386,7 +446,7 @@
     "english": "Representation",
     "aliases": ["再現", "リプレゼンテーション"],
     "summary": "ある物事を、絵や言葉、映像などによって表し示すこと、またはそうして表されたもの。",
-    "definition": "現実の物や出来事、人々などを、イメージや言葉によって「表す」ことや、その表されたものを指します。批評の分野では、表されたものは現実そのものではなく、誰かの視点で選ばれ、作られたものであるという点に注目して使われることが多い言葉です。",
+    "definition": "現実の物や出来事、人々などを、イメージや言葉によって「表す」ことや、その表されたものを指します。批評の分野では、表されたものは現実そのものではなく、誰かの視点で選ばれ、作られたものであるという点に注目して使われることが多い言葉です。英語の「リプレゼンテーション」の訳語で、語源のラテン語には「ふたたび現前させること」という意味があります。哲学では、心や意識に現れるものを指す言葉として使われてきました。",
     "generalDifference": "哲学や心理学では「心に浮かぶイメージ」の意味でも使われますが、美術の解説では「作品の中でどのように表されているか」という意味で使われることがほとんどです。",
     "categoryIds": ["concepts"],
     "difficulty": 3,
@@ -403,11 +463,17 @@
     "museumExample": "本展は、近代の観光ポスターにおける「ふるさと」の表象を手がかりに、風景とナショナリズムの関係を探る。",
     "relatedTerms": ["figurative", "sign", "context", "criticality"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「表象」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E8%A1%A8%E8%B1%A1-121320",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "aura",
@@ -416,7 +482,7 @@
     "english": "Aura",
     "aliases": ["オーラ"],
     "summary": "芸術作品が「いま・ここ」にしかない一回限りの存在として持つ、独特の雰囲気や重み。",
-    "definition": "ドイツの思想家ヴァルター・ベンヤミンが、1930年代に書いた論文「複製技術時代の芸術作品」で論じた概念です。写真や映画などの複製技術が広がると、作品がそれまで持っていた、唯一無二の存在としての権威や崇高な雰囲気（アウラ）が失われていくと述べました。美術と複製、オリジナルの関係を考えるうえでよく参照されます。",
+    "definition": "ドイツの思想家ヴァルター・ベンヤミンが、1930年代に書いた論文「複製技術時代の芸術作品」で論じた概念です。写真や映画などの複製技術が広がると、作品がそれまで持っていた、唯一無二の存在としての権威や崇高な雰囲気（アウラ）が失われていくと述べました。美術と複製、オリジナルの関係を考えるうえでよく参照されます。ギリシア語の原義は「息」や「風のそよぎ」です。神秘思想などで人を取り巻く光を指す場合は日本語で「オーラ」と表記されるのが普通で、「アウラ」と表記するときは、ベンヤミンが「複製技術時代の芸術作品」（1935〜1939年）で論じた、伝統的な芸術作品の一回限りの存在感を指すことが多くなります。",
     "generalDifference": "日常の「オーラがある」は人の存在感を指しますが、美術ではベンヤミンの議論を踏まえた、作品の一回性に関わる概念として使われます。",
     "categoryIds": ["concepts"],
     "difficulty": 3,
@@ -431,11 +497,17 @@
     "museumUsage": "写真、版画、映像など複製を前提とした作品や、オリジナルの意味を問う展示で参照されます。",
     "relatedTerms": ["originality", "edition", "appropriation"],
     "prerequisiteTerms": ["originality"],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「アウラ」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%82%E3%81%86%E3%82%89-3140404",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "site-specific",
@@ -444,7 +516,7 @@
     "english": "Site-specific",
     "aliases": ["サイト・スペシフィック", "場所特定的"],
     "summary": "特定の場所のために制作され、その場所と切り離せない作品のあり方。",
-    "definition": "展示される場所の空間、歴史、地域の文化などを踏まえて制作され、その場所にあることで意味を持つ作品を指します。別の場所へ移すと作品の意味が損なわれる、あるいは作品として成り立たないと考えられます。1960〜70年代以降、美術館の外で行われる作品や地域の芸術祭などで多く見られるようになりました。",
+    "definition": "展示される場所の空間、歴史、地域の文化などを踏まえて制作され、その場所にあることで意味を持つ作品を指します。別の場所へ移すと作品の意味が損なわれる、あるいは作品として成り立たないと考えられます。1960〜70年代以降、美術館の外で行われる作品や地域の芸術祭などで多く見られるようになりました。英国のテート美術館の用語解説では、特定の場所のために設計され、その場所と相互に関係し合う作品と説明されています。その場所から取り去られると意味の大部分を失うため、インスタレーションと結びつけて「サイトスペシフィック・インスタレーション」と呼ばれることも多く、ランドアートはほぼ定義上サイトスペシフィックであるとされます。",
     "confusables": [
       {
         "slug": "installation",
@@ -475,11 +547,17 @@
       "art-project"
     ],
     "prerequisiteTerms": ["installation"],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "Art Term「Site-specific」",
+        "url": "https://www.tate.org.uk/art/art-terms/s/site-specific",
+        "publisher": "Tate"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "medium",
@@ -488,7 +566,7 @@
     "english": "Medium",
     "aliases": ["媒体", "メディア", "展色材"],
     "summary": "作品を成り立たせている素材や表現手段のこと。絵具の「つなぎ」を指す場合もある。",
-    "definition": "美術では大きく二つの意味で使われます。一つは、絵画、彫刻、写真、映像など、作品を成り立たせている表現の手段や形式。もう一つは、絵具の顔料を練り合わせる油や樹脂などの「つなぎ（展色材）」や、絵具に混ぜて性質を調整する画材です。",
+    "definition": "美術では大きく二つの意味で使われます。一つは、絵画、彫刻、写真、映像など、作品を成り立たせている表現の手段や形式。もう一つは、絵具の顔料を練り合わせる油や樹脂などの「つなぎ（展色材）」や、絵具に混ぜて性質を調整する画材です。英国のテート美術館の用語解説でも、メディウム（ミディアム）は絵画・彫刻・版画といった美術の種類と、作品を形づくる素材の両方を指す言葉と説明されています。",
     "generalDifference": "日常の「メディア」はテレビや新聞などの情報媒体を指すことが多いですが、美術では作品の素材や表現形式を指します。",
     "categoryIds": ["concepts", "materials-techniques"],
     "difficulty": 3,
@@ -502,11 +580,17 @@
     "museumUsage": "現代美術の解説で「メディウムの特性」「メディウムを横断する」のように使われます。",
     "relatedTerms": ["mixed-media", "pigment", "modernism", "media-art"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "Art Term「Medium」",
+        "url": "https://www.tate.org.uk/art/art-terms/m/medium",
+        "publisher": "Tate"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "originality",
@@ -515,7 +599,7 @@
     "english": "Originality",
     "aliases": ["独創性", "オリジナル"],
     "summary": "他にはない独自の発想や表現であること。また、複製ではない「本物」であること。",
-    "definition": "美術では、作家の独創性という意味と、複製に対する原作（オリジナル）という意味の両方で使われます。近代以降、オリジナリティは芸術作品の大切な価値とされてきましたが、20世紀後半からは、引用や複製を用いた作品によって、その価値自体が問い直されることもありました。",
+    "definition": "美術では、作家の独創性という意味と、複製に対する原作（オリジナル）という意味の両方で使われます。近代以降、オリジナリティは芸術作品の大切な価値とされてきましたが、20世紀後半からは、引用や複製を用いた作品によって、その価値自体が問い直されることもありました。芸術家の並外れた創作力が作品に刻む、新しく類例のない個性的な性格を指し、傑出した作品を見分ける基準の一つとされてきました。ただし現代では「新しさ」そのものが一般的な価値基準となり、本来の独創性と単なる新しさとが混同されやすいことも指摘されています。",
     "categoryIds": ["concepts"],
     "difficulty": 2,
     "examples": [
@@ -531,11 +615,17 @@
     "museumUsage": "作家の評価や、複製・引用を扱う作品の解説で使われます。",
     "relatedTerms": ["appropriation", "aura", "edition"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「独創性」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E7%8B%AC%E5%89%B5%E6%80%A7-582703",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "kitsch",
@@ -544,7 +634,7 @@
     "english": "Kitsch",
     "aliases": ["キッチ"],
     "summary": "大衆向けで、通俗的・感傷的とされる物や表現。美術ではそれを意図的に取り入れることもある。",
-    "definition": "ドイツ語に由来し、もともとは安っぽい模造品や、感傷に訴える通俗的な作品を軽んじて呼ぶ言葉でした。批評家クレメント・グリーンバーグが1939年の論文で前衛芸術と対比したことでも知られます。のちにポップアートなどでは、キッチュな物のけばけばしさや親しみやすさを、あえて作品に取り込む表現も現れました。",
+    "definition": "ドイツ語に由来し、もともとは安っぽい模造品や、感傷に訴える通俗的な作品を軽んじて呼ぶ言葉でした。批評家クレメント・グリーンバーグが1939年の論文で前衛芸術と対比したことでも知られます。のちにポップアートなどでは、キッチュな物のけばけばしさや親しみやすさを、あえて作品に取り込む表現も現れました。語源はドイツ語のKitsch（まがいもの、いい加減なもの）です。観光地の土産物のような時代錯誤の壁飾りや安っぽい絵皿など、けばけばしさや古臭さを意識しながら、あえて積極的に楽しもうとする美意識のあり方を指すこともあります。一方で、こうした見方には差別的な視線が含まれるとして否定する人も少なくありません。",
     "categoryIds": ["concepts"],
     "difficulty": 3,
     "examples": [
@@ -556,11 +646,17 @@
     "museumUsage": "ポップアートや現代美術の解説で、作品の通俗的な要素を指して使われます。",
     "relatedTerms": ["pop-art", "postmodernism", "avant-garde"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「キッチュ」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%8D%E3%81%A4%E3%81%A1%E3%82%86-3148905",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "sublime",
@@ -569,7 +665,7 @@
     "english": "The Sublime",
     "aliases": ["サブライム"],
     "summary": "圧倒的な大きさや力を前にしたときの、畏れと高揚が入り混じった感覚。",
-    "definition": "18世紀に、イギリスの思想家エドマンド・バークやドイツの哲学者カントらによって論じられた美学の概念です。整った美しさとは異なり、嵐の海や険しい山、無限の広がりなど、人間を圧倒するものを前にしたときに感じる、恐れと感動が入り混じった感覚を指します。ロマン主義の風景画や、20世紀の巨大な抽象絵画などと結びつけて語られます。",
+    "definition": "18世紀に、イギリスの思想家エドマンド・バークやドイツの哲学者カントらによって論じられた美学の概念です。整った美しさとは異なり、嵐の海や険しい山、無限の広がりなど、人間を圧倒するものを前にしたときに感じる、恐れと感動が入り混じった感覚を指します。ロマン主義の風景画や、20世紀の巨大な抽象絵画などと結びつけて語られます。起源は古代の修辞学にあり、最も格調の高い文体を指す言葉でした。1世紀ごろに書かれた偽ロンギノスの『崇高論』は、真の「高さ」がまず書き手の精神の気高さの表れであると説き、近世以降、美と並ぶ美的範疇として展開していく出発点となりました。",
     "generalDifference": "日常では「崇高な理想」のように「気高い」という意味で使われますが、美学では、畏れを伴う圧倒的な感覚を指す専門用語です。",
     "categoryIds": ["concepts"],
     "difficulty": 3,
@@ -587,11 +683,17 @@
       "abstract-expressionism"
     ],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「崇高」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E5%B4%87%E9%AB%98-83268",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "iconography",
@@ -600,7 +702,7 @@
     "english": "Iconography / Iconology",
     "aliases": ["イコノグラフィー", "図像解釈学", "イコノロジー"],
     "summary": "作品に描かれた人物や物、しぐさが何を意味しているかを読み解く研究方法。",
-    "definition": "美術作品に表されたイメージを、宗教、神話、文学などの文献や当時の約束事と照らし合わせて、その意味を解き明かす美術史の研究方法です。20世紀には美術史家エルヴィン・パノフスキーが、作品の意味を段階的に読み解く方法を体系化したことで知られます。",
+    "definition": "美術作品に表されたイメージを、宗教、神話、文学などの文献や当時の約束事と照らし合わせて、その意味を解き明かす美術史の研究方法です。20世紀には美術史家エルヴィン・パノフスキーが、作品の意味を段階的に読み解く方法を体系化したことで知られます。狭くは図像の主題や象徴を見分けて比較・分類する「イコノグラフィー」を指しますが、そこから発展し、図像の深い意味を時代や教養、精神性と関連づけて解釈する「イコノロジー（図像解釈学）」を含めて呼ぶこともあります。どちらもイメージや肖像を意味するギリシア語の「エイコン」に由来します。",
     "categoryIds": ["concepts", "composition-viewing"],
     "difficulty": 3,
     "examples": [
@@ -619,11 +721,17 @@
       "history-painting"
     ],
     "prerequisiteTerms": ["symbol"],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「図像学」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E5%9B%B3%E5%83%8F%E5%AD%A6-83901",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "vanitas",
@@ -632,7 +740,7 @@
     "english": "Vanitas",
     "aliases": ["虚栄", "ヴァニタス画"],
     "summary": "人生のはかなさや死の必然を思い起こさせる静物画、またはその主題。",
-    "definition": "ラテン語で「むなしさ」を意味し、旧約聖書の一節に由来します。とくに17世紀のオランダで多く描かれた静物画で、頭蓋骨、燃え尽きかけたろうそく、砂時計、しおれた花などを描き、地上の富や快楽のむなしさと死の必然を示しました。",
+    "definition": "ラテン語で「むなしさ」を意味し、旧約聖書の一節に由来します。とくに17世紀のオランダで多く描かれた静物画で、頭蓋骨、燃え尽きかけたろうそく、砂時計、しおれた花などを描き、地上の富や快楽のむなしさと死の必然を示しました。英国のテート美術館の用語解説では、見る人に死すべき運命と、地上の富や楽しみのはかなさを思い起こさせる、さまざまな象徴的な物を含んだ静物画と説明されています。20世紀にもピカソの《山羊の頭蓋骨、瓶、蝋燭》（1952年）のように、このテーマを受け継ぐ作品が描かれました。",
     "categoryIds": ["concepts", "genres-styles"],
     "difficulty": 3,
     "examples": [
@@ -645,18 +753,30 @@
     "museumUsage": "17世紀オランダ絵画や静物画の解説で使われ、現代の作品がこの主題を引用することもあります。",
     "relatedTerms": ["still-life", "symbol", "allegory", "baroque"],
     "prerequisiteTerms": ["still-life"],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "Art Term「Vanitas」",
+        "url": "https://www.tate.org.uk/art/art-terms/v/vanitas",
+        "publisher": "Tate"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「わび」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%82%8F%E3%81%B3-154286",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-29",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-10-30",
     "prerequisiteTerms": [],
     "slug": "wabi-sabi",
     "term": "侘び寂び",
@@ -664,7 +784,7 @@
     "english": "Wabi-sabi",
     "aliases": ["わびさび", "侘寂", "侘び", "寂び"],
     "summary": "簡素なもの、古びたもの、不完全なものに美しさを見いだす日本的な美意識。",
-    "definition": "「侘び」は質素で静かな状態の中に心の充足を見いだす美意識、「寂び」は時間の経過によって生まれる古びや枯れた趣を指します。もともとは別の概念で、侘びは千利休らの茶の湯、寂びは松尾芭蕉らの俳諧と結びつけて語られてきました。現代では一語として使われ、海外でも“Wabi-sabi”として紹介されています。",
+    "definition": "「侘び」は質素で静かな状態の中に心の充足を見いだす美意識、「寂び」は時間の経過によって生まれる古びや枯れた趣を指します。もともとは別の概念で、侘びは千利休らの茶の湯、寂びは松尾芭蕉らの俳諧と結びつけて語られてきました。現代では一語として使われ、海外でも“Wabi-sabi”として紹介されています。『万葉集』の「わびし」「わぶ」は恋が実らず苦しむ様子を表す言葉で、もともと美意識を示すものではありませんでした。のちに世俗を離れた暮らしに風雅を感じる心が生まれ、秋冬の季節感とも結びついて、枯淡・脱俗の美意識としての「わび」が形づくられていきました。",
     "artUsage": "茶道具や陶磁器、水墨画、庭園などの解説で、簡素さや古び、不均整の美しさを説明するときに使われます。",
     "generalDifference": "日常では「和風で渋い」「趣がある」くらいの漠然とした意味で使われることが多いですが、本来は茶の湯や俳諧の歴史の中で育まれた美意識を指します。",
     "difficulty": 2,
@@ -682,11 +802,17 @@
     "categoryIds": ["concepts"]
   },
   {
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「国宝」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E5%9B%BD%E5%AE%9D-64196",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-29",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-10-30",
     "prerequisiteTerms": [],
     "slug": "national-treasure",
     "term": "国宝",
@@ -694,7 +820,7 @@
     "english": "National Treasure",
     "aliases": ["国宝指定"],
     "summary": "国が指定する重要文化財のうち、特に価値が高いとされるもの。",
-    "definition": "文化財保護法にもとづき、国が「重要文化財」に指定したもののうち、世界文化の見地から価値が高く、たぐいない国民の宝として指定されたものです。絵画、彫刻、工芸品、書跡、考古資料などの美術工芸品と、建造物があります。まず重要文化財に指定され、そのなかから特に価値の高いものが国宝に指定される仕組みです。",
+    "definition": "文化財保護法にもとづき、国が「重要文化財」に指定したもののうち、世界文化の見地から価値が高く、たぐいない国民の宝として指定されたものです。絵画、彫刻、工芸品、書跡、考古資料などの美術工芸品と、建造物があります。まず重要文化財に指定され、そのなかから特に価値の高いものが国宝に指定される仕組みです。かつては古社寺保存法や国宝保存法によって指定されていましたが、1950年（昭和25年）に文化財保護法が制定されると、それまでの国宝はいったんすべて重要文化財に改められ、その中からあらためて特に重要なものが「新国宝」として指定されました。",
     "artUsage": "展示では作品名の横に「国宝」「重要文化財（重文）」と表示されます。保存のため展示日数が限られることが多く、会期中に展示替えが行われることがあります。",
     "generalDifference": "日常では「わが家の国宝」のように大切なものの比喩としても使われますが、美術館では法律にもとづく指定を指します。",
     "difficulty": 1,

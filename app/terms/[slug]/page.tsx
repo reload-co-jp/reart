@@ -416,6 +416,14 @@ const TermPage = async ({ params }: Props) => {
             </Block>
           )}
 
+          {t.sources.length === 0 && t.verification.note && (
+            <Block title="参考情報">
+              <p style={{ color: color.sub, fontSize: size.sm }}>
+                {t.verification.note}
+              </p>
+            </Block>
+          )}
+
           {t.sources.length > 0 && (
             <Block title="参考情報">
               <ul style={{ ...bullet, fontSize: size.sm }}>

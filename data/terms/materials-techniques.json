@@ -6,7 +6,7 @@
     "english": "Textile",
     "aliases": ["テキスタイルアート", "染織", "ファイバーアート"],
     "summary": "布や織物、糸などの繊維に関わる素材や表現のこと。",
-    "definition": "もともとは織物や布地を指す言葉。美術では、布を織る・染める・縫う・編むといった技法を使った作品や、繊維そのものを素材にした表現を広く指します。",
+    "definition": "もともとは織物や布地を指す言葉。美術では、布を織る・染める・縫う・編むといった技法を使った作品や、繊維そのものを素材にした表現を広く指します。日本の工芸では「染織（せんしょく）」という言葉がよく使われますが、東洋の染織には編物の分野が含まれないなど範囲がやや狭く、厳密にはテキスタイルの訳語として必ずしも一致しないとされます。",
     "artUsage": "工芸の分野では「染織」とほぼ同じ意味で使われます。現代美術では、糸や布を空間に張りめぐらせたり、大きな立体を作ったりする作品も含めて「テキスタイル」と呼ぶことがあります。",
     "generalDifference": "日常ではカーテンや衣服の生地など、製品の素材を指すことが多い言葉です。美術館では、素材の種類だけでなく、それを使った表現のジャンルを指すことがあります。",
     "categoryIds": ["materials-techniques", "craft-design"],
@@ -25,11 +25,17 @@
     "museumExample": "作家は、テキスタイルの手法を用いながら、布を織る時間の積み重ねそのものを作品の主題としている。",
     "relatedTerms": ["dyeing", "kogei", "installation", "mixed-media"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「染織」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E6%9F%93%E7%B9%94-88394",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "matiere",
@@ -38,7 +44,7 @@
     "english": "Matière (仏)",
     "aliases": ["絵肌", "マティエール"],
     "summary": "作品の表面の質感や、素材がつくり出す手ざわりの感じのこと。",
-    "definition": "フランス語で「素材・物質」を意味する言葉。美術では、絵具の盛り上がりやざらつき、つやなど、画面の表面に現れる物質的な質感を指します。日本語では「絵肌（えはだ）」とも言います。",
+    "definition": "フランス語で「素材・物質」を意味する言葉。美術では、絵具の盛り上がりやざらつき、つやなど、画面の表面に現れる物質的な質感を指します。日本語では「絵肌（えはだ）」とも言います。もともとは作品の材料や素材を意味し、転じて衣服や金属など、描かれた対象それぞれに固有の材質感を指すこともあります。",
     "generalDifference": "フランス語では単に「材料」や「物質」の意味ですが、日本の美術用語としては、とくに絵画表面の質感を指して使われます。",
     "categoryIds": ["materials-techniques", "composition-viewing"],
     "difficulty": 2,
@@ -58,11 +64,17 @@
     "museumExample": "幾層にも塗り重ねられた絵具が、岩肌を思わせる重厚なマチエールを生み出している。",
     "relatedTerms": ["impasto", "brushwork", "oil-painting", "pigment"],
     "prerequisiteTerms": ["oil-painting"],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「マチエール」百科事典マイペディア",
+        "url": "https://kotobank.jp/word/%E3%81%BE%E3%81%A1%E3%81%88%E3%83%BC%E3%82%8B-3190222",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "collage",
@@ -71,7 +83,7 @@
     "english": "Collage",
     "aliases": ["パピエ・コレ"],
     "summary": "紙や写真、布などを画面に貼り付けて作る表現技法。",
-    "definition": "フランス語の「糊で貼る（coller）」に由来する言葉。印刷物や写真、布、木片など、さまざまな既存の素材を切り抜いて画面に貼り合わせ、作品を構成する技法です。20世紀初めにピカソやブラックがキュビスムの作品で新聞紙などを貼り付けたことが、美術での本格的な始まりとされます。",
+    "definition": "フランス語の「糊で貼る（coller）」に由来する言葉。印刷物や写真、布、木片など、さまざまな既存の素材を切り抜いて画面に貼り合わせ、作品を構成する技法です。20世紀初めにピカソやブラックがキュビスムの作品で新聞紙などを貼り付けたことが、美術での本格的な始まりとされます。1912年にピカソやブラックが画面に紙などを貼り付けた「パピエ・コレ」に始まり、現実の物体を画面に持ち込む画期的な技法となりました。その後、ダダのクルト・シュヴィッタースやラウール・ハウスマン、マン・レイ、イタリア未来派の作家、シュルレアリストたちへと広がりました。",
     "confusables": [
       {
         "slug": "assemblage",
@@ -98,11 +110,17 @@
     "museumExample": "広告や報道写真の断片をコラージュすることで、作家は大量消費社会のイメージを批判的に再構成した。",
     "relatedTerms": ["assemblage", "photomontage", "cubism", "mixed-media"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「コラージュ」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%93%E3%82%89%E3%83%BC%E3%81%98%E3%82%86-3152031",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "mixed-media",
@@ -111,7 +129,7 @@
     "english": "Mixed media",
     "aliases": ["ミクスト・メディア", "複合素材", "混合技法"],
     "summary": "複数の異なる素材や技法を組み合わせて作られた作品のこと。",
-    "definition": "絵具と紙、布、金属、写真など、種類の違う素材や技法を一つの作品の中で組み合わせることを指します。キャプションの素材欄で、素材が多すぎて書ききれない場合にまとめて「ミクストメディア」と記されることもあります。",
+    "definition": "絵具と紙、布、金属、写真など、種類の違う素材や技法を一つの作品の中で組み合わせることを指します。キャプションの素材欄で、素材が多すぎて書ききれない場合にまとめて「ミクストメディア」と記されることもあります。英国のテート美術館の用語解説によれば、ミクストメディアの使用は1912年ごろのピカソとブラックによるキュビスムのコラージュや構成作品に始まり、作家たちが美術の素材に対してより開かれた態度をとるにつれて広まりました。電子的なメディアを組み合わせた作品は「マルチメディア」と呼んで区別されることがあります。",
     "categoryIds": ["materials-techniques", "contemporary-art"],
     "difficulty": 1,
     "examples": [
@@ -128,11 +146,22 @@
     "museumExample": "ミクストメディア（キャンバス、アクリル、布、写真）",
     "relatedTerms": ["collage", "assemblage", "installation", "medium"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「ミクストメディア」デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E3%81%BF%E3%81%8F%E3%81%99%E3%81%A8%E3%82%81%E3%81%A7%E3%81%84%E3%81%82-637420",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "Art Term「Mixed media」",
+        "url": "https://www.tate.org.uk/art/art-terms/m/mixed-media",
+        "publisher": "Tate"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "readymade",
@@ -141,7 +170,7 @@
     "english": "Readymade",
     "aliases": ["レディ・メイド"],
     "summary": "既製品をそのまま、またはほとんど手を加えずに作品として示す方法。",
-    "definition": "もともとは「既製品」を意味する英語。美術では、マルセル・デュシャンが便器や自転車の車輪などの既製品を選び、作品として提示した方法を指します。作家が「手で作る」ことよりも「選び、提示する」ことに作品の価値があると示した点で、のちのコンセプチュアル・アートなどに大きな影響を与えました。",
+    "definition": "もともとは「既製品」を意味する英語。美術では、マルセル・デュシャンが便器や自転車の車輪などの既製品を選び、作品として提示した方法を指します。作家が「手で作る」ことよりも「選び、提示する」ことに作品の価値があると示した点で、のちのコンセプチュアル・アートなどに大きな影響を与えました。ダダ時代のデュシャンが、量産品に署名しただけのオブジェを「レディ・メードのオブジェ」と呼んだことに由来し、《泉》と題された便器がその典型です。セザンヌからキュビスムを経て20世紀美術に高まった、物そのものへの意識がはっきり表れたものとされます。",
     "generalDifference": "日常では「既製服」のように、注文ではなく出来上がった製品を指します。美術では、デュシャンの方法やその考え方を指す固有の用語として使われます。",
     "confusables": [
       {
@@ -164,11 +193,17 @@
     "museumExample": "本作は、日用品を作品として提示するレディメイドの手法を引き継ぎつつ、その物が使われてきた歴史に目を向けさせる。",
     "relatedTerms": ["found-object", "dada", "conceptual-art", "appropriation"],
     "prerequisiteTerms": ["dada"],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「レディ・メード」改訂新版 世界大百科事典",
+        "url": "https://kotobank.jp/word/%E3%82%8C%E3%81%A7%E3%81%84%E3%82%81%E3%83%BC%E3%81%A9-3189027",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "frottage",
@@ -177,7 +212,7 @@
     "english": "Frottage (仏)",
     "aliases": ["こすり出し"],
     "summary": "凹凸のある物の上に紙を置き、鉛筆などでこすって模様を写し取る技法。",
-    "definition": "フランス語で「こすること」を意味します。木目や葉、布など表面に凹凸のある物に紙をのせ、鉛筆やコンテでこすって形を浮かび上がらせる技法です。シュルレアリスムの画家マックス・エルンストが1920年代に作品の技法として用い、偶然生まれる形から想像を広げる方法として知られるようになりました。",
+    "definition": "フランス語で「こすること」を意味します。木目や葉、布など表面に凹凸のある物に紙をのせ、鉛筆やコンテでこすって形を浮かび上がらせる技法です。シュルレアリスムの画家マックス・エルンストが1920年代に作品の技法として用い、偶然生まれる形から想像を広げる方法として知られるようになりました。1925年にマックス・エルンストが発見・創始し、シュルレアリストたちに愛好されました。エルンストはこの技法で得たデッサンを『博物誌』にまとめたほか、絵画にも応用しました。第二次世界大戦後には、ここから派生した「グラッタージュ（ひっかくこと）」の技法も生まれています。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 2,
     "examples": [
@@ -195,11 +230,17 @@
     "museumUsage": "シュルレアリスムの技法の一つとして、デカルコマニーなどと並べて紹介されることが多い言葉です。",
     "relatedTerms": ["surrealism", "decalcomania", "drawing"],
     "prerequisiteTerms": ["surrealism"],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「フロッタージュ」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%B5%E3%82%8D%E3%81%A4%E3%81%9F%E3%83%BC%E3%81%98%E3%82%86-3167561",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "silkscreen",
@@ -208,7 +249,7 @@
     "english": "Silkscreen / Screen printing",
     "aliases": ["スクリーンプリント", "セリグラフ", "孔版画"],
     "summary": "網目状のスクリーンを通してインクを刷る版画技法。",
-    "definition": "枠に張った細かい網（スクリーン）の一部をふさいで版を作り、ふさいでいない部分からインクを押し出して刷る技法です。版画の分類では「孔版（こうはん）」にあたります。均一で鮮やかな色面を作りやすく、写真のイメージを版にすることもできるため、ポップアートの作家たちが多く用いました。",
+    "definition": "枠に張った細かい網（スクリーン）の一部をふさいで版を作り、ふさいでいない部分からインクを押し出して刷る技法です。版画の分類では「孔版（こうはん）」にあたります。均一で鮮やかな色面を作りやすく、写真のイメージを版にすることもできるため、ポップアートの作家たちが多く用いました。「セリグラフィ」とも呼ばれ、もとは絹のスクリーンを用いたことからこの名があります（現在はナイロンなども使われます）。第二次世界大戦後のアメリカを中心に急速に発達し、図柄を切り抜いた原紙を貼るステンシル式の製版や、糊や乳剤で直接描く製版などの方法があります。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 2,
     "examples": [
@@ -222,11 +263,17 @@
     "museumUsage": "版画やポップアートの作品のキャプションで、技法名として記されます。",
     "relatedTerms": ["printmaking", "pop-art", "lithograph", "edition"],
     "prerequisiteTerms": ["printmaking"],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「シルクスクリーン」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%97%E3%82%8B%E3%81%8F%E3%81%99%E3%81%8F%E3%82%8A%E3%83%BC%E3%82%93-3154826",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "oil-painting",
@@ -235,7 +282,7 @@
     "english": "Oil painting",
     "aliases": ["油絵", "油彩画", "油絵具"],
     "summary": "顔料を油で練った絵具（油絵具）を使って描く絵画、またはその技法。",
-    "definition": "色の粉である顔料を、亜麻仁油などの乾性油で練った絵具で描く技法です。乾くのに時間がかかるため、色を混ぜたり塗り重ねたりしやすく、透明な層を重ねる表現から厚塗りまで幅広い表現が可能です。15世紀ごろのフランドル地方で技法が大きく発展し、その後ヨーロッパ絵画の中心的な技法になりました。",
+    "definition": "色の粉である顔料を、亜麻仁油などの乾性油で練った絵具で描く技法です。乾くのに時間がかかるため、色を混ぜたり塗り重ねたりしやすく、透明な層を重ねる表現から厚塗りまで幅広い表現が可能です。15世紀ごろのフランドル地方で技法が大きく発展し、その後ヨーロッパ絵画の中心的な技法になりました。乾性油とは、薄く塗ると空気中の酸素を吸収して酸化し、しだいに粘り気を失って、柔軟で透明な固体になる油のことです。油彩の材料や技法、様式は、時代や地域、流派によって非常に多様な変化を見せてきました。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 1,
     "examples": [
@@ -258,11 +305,17 @@
       "yoga-painting"
     ],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「油絵」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E6%B2%B9%E7%B5%B5-26827",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "watercolor",
@@ -271,7 +324,7 @@
     "english": "Watercolor",
     "aliases": ["水彩画", "透明水彩", "ガッシュ"],
     "summary": "水で溶いて使う絵具で描く絵画、またはその技法。",
-    "definition": "顔料をアラビアゴムなどの水溶性の接着剤で練った絵具を、水で薄めて使います。紙の白さを生かして色を透かせる透明水彩と、不透明な仕上がりのガッシュ（不透明水彩）があります。にじみやぼかしなど、水の動きを生かした表現が特徴です。",
+    "definition": "顔料をアラビアゴムなどの水溶性の接着剤で練った絵具を、水で薄めて使います。紙の白さを生かして色を透かせる透明水彩と、不透明な仕上がりのガッシュ（不透明水彩）があります。にじみやぼかしなど、水の動きを生かした表現が特徴です。広くはグアッシュやテンペラなど不透明な絵具を用いたものも含みますが、狭くは透明絵具によるものを指します。デューラーの例のようにルネサンス期から旅先での写生や下絵に使われてきましたが、完成した作品としての水彩画は18世紀末から19世紀初めのイギリスで始まりました。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 1,
     "examples": [
@@ -285,11 +338,17 @@
     "museumUsage": "キャプションでは「水彩、紙」のように表記されます。紙の作品は光に弱いため、照明が暗めに設定されていることがあります。",
     "relatedTerms": ["pigment", "oil-painting", "drawing", "blank-space"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「水彩」百科事典マイペディア",
+        "url": "https://kotobank.jp/word/%E6%B0%B4%E5%BD%A9-539715",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "tempera",
@@ -298,7 +357,7 @@
     "english": "Tempera",
     "aliases": ["卵テンペラ", "エッグテンペラ"],
     "summary": "卵などを接着剤として顔料を練った絵具、またはそれで描く技法。",
-    "definition": "主に卵黄を使って顔料を練った絵具で描く技法です。速く乾き、細い線を重ねて描くのに向いています。ヨーロッパでは中世からルネサンス初期にかけて、板に描く祭壇画などで広く用いられ、その後、油彩が主流になっていきました。",
+    "definition": "主に卵黄を使って顔料を練った絵具で描く技法です。速く乾き、細い線を重ねて描くのに向いています。ヨーロッパでは中世からルネサンス初期にかけて、板に描く祭壇画などで広く用いられ、その後、油彩が主流になっていきました。語源のイタリア語「テンペラーレ」は、顔料を何らかのつなぎ（メディウム）と混ぜ合わせて絵具をつくることを意味します。もともとは顔料を水だけで溶いて描くフレスコに対する言葉で、フレスコ以外の液状の絵具を使う技法はすべてテンペラに含まれていました。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 2,
     "examples": [
@@ -312,11 +371,17 @@
     "museumUsage": "西洋の古い絵画のキャプションで「テンペラ、板」などと記され、油彩以前の技法として説明されます。",
     "relatedTerms": ["oil-painting", "fresco", "renaissance", "pigment"],
     "prerequisiteTerms": ["pigment"],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「テンペラ」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%A6%E3%82%93%E3%81%BA%E3%82%89-3160070",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "fresco",
@@ -325,7 +390,7 @@
     "english": "Fresco",
     "aliases": ["フレスコ画", "ブオン・フレスコ"],
     "summary": "塗ったばかりの湿った漆喰の壁に、水で溶いた顔料で描く壁画技法。",
-    "definition": "イタリア語で「新鮮な」を意味します。壁に塗った漆喰が乾ききる前に、水で溶いた顔料で描くことで、漆喰が固まるときに色が壁と一体化し、長く保たれます。描き直しが難しいため、一日に描ける範囲ずつ漆喰を塗って描き進めます。ルネサンス期の教会や宮殿の壁画が代表例です。",
+    "definition": "イタリア語で「新鮮な」を意味します。壁に塗った漆喰が乾ききる前に、水で溶いた顔料で描くことで、漆喰が固まるときに色が壁と一体化し、長く保たれます。描き直しが難しいため、一日に描ける範囲ずつ漆喰を塗って描き進めます。ルネサンス期の教会や宮殿の壁画が代表例です。13世紀末から16世紀半ばにかけてイタリアで盛んに行われました。壁画一般をフレスコと呼ぶのは避けるべきとされ、乾いた壁に描く「セッコ」や、ある程度乾いた壁に描く「メッツォ・フレスコ」と区別して、本来の技法は「ブオン・フレスコ（真のフレスコ）」と呼ばれます。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 2,
     "examples": [{ "description": "教会の天井や壁一面に描かれた宗教画。" }],
@@ -336,11 +401,17 @@
     "museumUsage": "壁画の技法として説明されるほか、壁から切り離して移された「フレスコの断片」が展示されることもあります。",
     "relatedTerms": ["tempera", "renaissance", "pigment"],
     "prerequisiteTerms": ["pigment"],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「フレスコ」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%B5%E3%82%8C%E3%81%99%E3%81%93-3167509",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "acrylic-paint",
@@ -349,7 +420,7 @@
     "english": "Acrylic paint",
     "aliases": ["アクリル", "アクリル画"],
     "summary": "合成樹脂（アクリル樹脂）で顔料を固める、水で扱える速乾性の絵具。",
-    "definition": "アクリル樹脂の乳液に顔料を混ぜた絵具で、水で薄めて使えますが、乾くと水に溶けなくなります。乾きが早く、さまざまな素材に描けるため、20世紀半ば以降、多くの画家に使われるようになりました。",
+    "definition": "アクリル樹脂の乳液に顔料を混ぜた絵具で、水で薄めて使えますが、乾くと水に溶けなくなります。乾きが早く、さまざまな素材に描けるため、20世紀半ば以降、多くの画家に使われるようになりました。1950年ごろからアメリカで大量に使われるようになりました。つやを出すメディウムや、つやを消すメディウムがあるなど、油絵具とは異なる特性を持ちます。当初は発色や色数で油絵具に劣るとも言われましたが、改良を重ねて現在では広く使われています。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 1,
     "examples": [
@@ -362,11 +433,17 @@
     "museumUsage": "現代の絵画のキャプションで「アクリル、キャンバス」のように記されます。",
     "relatedTerms": ["oil-painting", "pigment", "pop-art"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「アクリル絵具」百科事典マイペディア",
+        "url": "https://kotobank.jp/word/%E3%81%82%E3%81%8F%E3%82%8A%E3%82%8B%E7%B5%B5%E5%85%B7-3190214",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "lithograph",
@@ -375,7 +452,7 @@
     "english": "Lithograph",
     "aliases": ["石版画", "リトグラフィー", "平版画"],
     "summary": "水と油が反発し合う性質を利用して、平らな版から刷る版画技法。",
-    "definition": "石灰石や金属の平らな版に、油分を含む描画材で絵を描き、化学処理をしたうえで版を水で湿らせてインクをのせると、描いた部分にだけインクがつきます。版画の分類では「平版（へいはん）」にあたり、クレヨンで描いたような柔らかな線や微妙な濃淡を再現できます。19世紀以降、ポスターや挿絵にも広く使われました。",
+    "definition": "石灰石や金属の平らな版に、油分を含む描画材で絵を描き、化学処理をしたうえで版を水で湿らせてインクをのせると、描いた部分にだけインクがつきます。版画の分類では「平版（へいはん）」にあたり、クレヨンで描いたような柔らかな線や微妙な濃淡を再現できます。19世紀以降、ポスターや挿絵にも広く使われました。名前はギリシア語の「リトス（石）」に由来し、日本語では「石版画」とも呼ばれます。版面に凹凸を作らず、水と油が反発し合う性質を利用して刷る方法で、石灰石はドイツのバイエルン産のものが最も良質とされます。",
     "confusables": [
       {
         "slug": "silkscreen",
@@ -395,11 +472,17 @@
     "museumUsage": "版画作品のキャプションで技法名として記されます。",
     "relatedTerms": ["printmaking", "etching", "woodblock-print", "silkscreen"],
     "prerequisiteTerms": ["printmaking"],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「リトグラフ」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%82%8A%E3%81%A8%E3%81%90%E3%82%89%E3%81%B5-3175144",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "etching",
@@ -408,7 +491,7 @@
     "english": "Etching",
     "aliases": ["腐食銅版画", "銅版画"],
     "summary": "金属の版を酸で腐食させて溝を作り、そこに詰めたインクを刷る版画技法。",
-    "definition": "銅などの金属板に防食剤を塗り、針で線を引いて金属をむき出しにしてから酸に浸すと、線の部分だけが腐食して溝になります。溝にインクを詰めて表面をふき取り、強い圧力で紙に写します。へこんだ部分にインクを入れる「凹版（おうはん）」の代表的な技法で、細く繊細な線が特徴です。",
+    "definition": "銅などの金属板に防食剤を塗り、針で線を引いて金属をむき出しにしてから酸に浸すと、線の部分だけが腐食して溝になります。溝にインクを詰めて表面をふき取り、強い圧力で紙に写します。へこんだ部分にインクを入れる「凹版（おうはん）」の代表的な技法で、細く繊細な線が特徴です。版面にはアスファルトや蜜ろう、樹脂などでできた防食剤（グラウンド）を薄く均一に塗り、針で描いたのち、版の裏や側面にも防食のニスを塗って硝酸などの腐食液に浸します。版に直接刻むエングレーヴィングやドライポイントと区別して「腐食凹版」と呼ばれます。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 2,
     "examples": [
@@ -421,11 +504,17 @@
     "museumUsage": "版画のキャプションで技法名として記されます。「銅版画」とまとめて呼ばれることもあります。",
     "relatedTerms": ["printmaking", "lithograph", "woodblock-print", "drawing"],
     "prerequisiteTerms": ["printmaking"],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「エッチング」ブリタニカ国際大百科事典 小項目事典",
+        "url": "https://kotobank.jp/word/%E3%81%88%E3%81%A4%E3%81%A1%E3%82%93%E3%81%90-3145125",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "woodblock-print",
@@ -434,7 +523,7 @@
     "english": "Woodblock print / Woodcut",
     "aliases": ["木版", "板画"],
     "summary": "木の板を彫って版を作り、出っ張った部分にインクをつけて刷る版画。",
-    "definition": "板を彫刻刀などで彫り、残った凸部にインクや絵具をつけて紙に写す技法です。版画の分類では「凸版（とっぱん）」にあたります。日本では浮世絵が代表的で、絵師・彫師・摺師による分業で、色ごとに版を分けた多色摺りが発達しました。",
+    "definition": "板を彫刻刀などで彫り、残った凸部にインクや絵具をつけて紙に写す技法です。版画の分類では「凸版（とっぱん）」にあたります。日本では浮世絵が代表的で、絵師・彫師・摺師による分業で、色ごとに版を分けた多色摺りが発達しました。板目木版の板材として、日本では主にサクラ、西洋ではツゲが使われ、近年は合板を使う作家も少なくありません。版画の形式としては最も古いものですが、その起源を定めるのは容易ではないとされます。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 1,
     "examples": [
@@ -448,11 +537,17 @@
     "museumUsage": "浮世絵や近代の創作版画のキャプションで技法名として記されます。",
     "relatedTerms": ["printmaking", "ukiyo-e", "etching", "lithograph"],
     "prerequisiteTerms": ["printmaking"],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「木版画」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E6%9C%A8%E7%89%88%E7%94%BB-645389",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "printmaking",
@@ -461,7 +556,7 @@
     "english": "Printmaking / Print",
     "aliases": ["プリント", "版表現"],
     "summary": "版を作り、インクを紙などに写し取って作る作品、またはその技法。",
-    "definition": "木や金属、石、網などで「版」を作り、そこからインクを紙などに転写して作る美術の分野です。版の仕組みによって、凸版（木版画など）、凹版（エッチングなど）、平版（リトグラフなど）、孔版（シルクスクリーンなど）の四つに大きく分けられます。同じ版から複数枚を刷れることが大きな特徴です。",
+    "definition": "木や金属、石、網などで「版」を作り、そこからインクを紙などに転写して作る美術の分野です。版の仕組みによって、凸版（木版画など）、凹版（エッチングなど）、平版（リトグラフなど）、孔版（シルクスクリーンなど）の四つに大きく分けられます。同じ版から複数枚を刷れることが大きな特徴です。本来は同じ画像を複数得るために工夫されたものですが、それぞれの技法が生む質感や効果を目的に制作されることも多くあります。ガラスや金属の板に描いた図柄を紙に一度だけ写し取る「モノタイプ」のように、一点しか作品ができない版画もあります。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 1,
     "examples": [
@@ -481,11 +576,17 @@
       "edition"
     ],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「版画」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E7%89%88%E7%94%BB-117851",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "assemblage",
@@ -494,7 +595,7 @@
     "english": "Assemblage",
     "aliases": ["アサンブラージュ"],
     "summary": "さまざまな物を寄せ集めて組み合わせ、立体的な作品を作る技法。",
-    "definition": "フランス語で「寄せ集め」を意味します。日用品や廃材、拾った物などを組み合わせて立体的な作品を構成する技法や、その作品を指します。平面に素材を貼るコラージュを、立体に発展させたものと説明されることもあります。",
+    "definition": "フランス語で「寄せ集め」を意味します。日用品や廃材、拾った物などを組み合わせて立体的な作品を構成する技法や、その作品を指します。平面に素材を貼るコラージュを、立体に発展させたものと説明されることもあります。英語では「アセンブリッジ」と呼ばれます。紙片や布切れを画面に貼るキュビスムのコラージュに端を発しますが、コラージュがあくまで平面的であったのに対し、アッサンブラージュは三次元的である点が異なります。1961年にニューヨーク近代美術館で開かれた「アッサンブラージュの芸術」展で広く知られるようになりました。",
     "confusables": [
       {
         "slug": "collage",
@@ -516,11 +617,17 @@
     "museumUsage": "20世紀の美術や現代美術の解説で、技法名として使われます。",
     "relatedTerms": ["collage", "found-object", "mixed-media", "readymade"],
     "prerequisiteTerms": ["collage"],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「アッサンブラージュ」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%82%E3%81%A4%E3%81%95%E3%82%93%E3%81%B6%E3%82%89%E3%83%BC%E3%81%98%E3%82%86-3141095",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "decalcomania",
@@ -529,7 +636,7 @@
     "english": "Decalcomania",
     "aliases": ["転写技法"],
     "summary": "絵具を塗った紙を別の紙に押し当てて、偶然できる模様を写し取る技法。",
-    "definition": "紙やガラスに絵具を塗り、別の紙を押し付けてからはがすと、絵具が押しつぶされて予測できない模様が生まれます。もともとは図柄を転写する技術の名前でしたが、1930年代にシュルレアリスムの画家たちが、偶然性を生かす技法として用いたことで知られます。",
+    "definition": "紙やガラスに絵具を塗り、別の紙を押し付けてからはがすと、絵具が押しつぶされて予測できない模様が生まれます。もともとは図柄を転写する技術の名前でしたが、1930年代にシュルレアリスムの画家たちが、偶然性を生かす技法として用いたことで知られます。日本語では「転写法」と訳され、一般には陶器やガラスの絵付けで、薬品処理した紙に描いた絵を器の表面に写し取る方法を指します。シュルレアリスムでは、コラージュやフロッタージュと並ぶ手法として用いられ、絵具を塗った紙を二つ折りにして開く方法なども含まれます。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 3,
     "examples": [
@@ -543,11 +650,17 @@
     "museumUsage": "シュルレアリスムの技法の一つとして、フロッタージュなどとともに紹介されます。",
     "relatedTerms": ["surrealism", "frottage"],
     "prerequisiteTerms": ["surrealism"],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「デカルコマニー」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%A7%E3%81%8B%E3%82%8B%E3%81%93%E3%81%BE%E3%81%AB%E3%83%BC-3160298",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "photomontage",
@@ -556,7 +669,7 @@
     "english": "Photomontage",
     "aliases": ["フォト・モンタージュ"],
     "summary": "複数の写真を切り貼りしたり、組み合わせたりして一つの画面を作る技法。",
-    "definition": "写真や印刷物の写真を切り抜いて組み合わせ、新しいイメージを作る技法です。1910年代後半から1920年代にかけて、ベルリンのダダの作家たちが政治や社会を風刺する表現として発展させ、その後ポスターや広告にも広がりました。",
+    "definition": "写真や印刷物の写真を切り抜いて組み合わせ、新しいイメージを作る技法です。1910年代後半から1920年代にかけて、ベルリンのダダの作家たちが政治や社会を風刺する表現として発展させ、その後ポスターや広告にも広がりました。「モンタージュ」はもともと「組み立てる」「はめ込む」という意味で、写真では二つ以上の画像の合成を指します。フィルムや印画紙への多重露光で作る方法と、断片的な写真を貼り合わせたフォトコラージュを撮影して印画にする方法などがあり、ドイツのダダイスト、ジョン・ハートフィールドらが先駆的に用いました。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 2,
     "examples": [
@@ -570,11 +683,17 @@
     "museumUsage": "ダダや1920〜30年代の前衛芸術、グラフィックデザインの展示で使われます。",
     "relatedTerms": ["collage", "dada", "graphic-design"],
     "prerequisiteTerms": ["collage"],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「フォトモンタージュ」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%B5%E3%81%8A%E3%81%A8%E3%82%82%E3%82%93%E3%81%9F%E3%83%BC%E3%81%98%E3%82%86-3166944",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "drawing",
@@ -583,7 +702,7 @@
     "english": "Drawing",
     "aliases": ["素描", "デッサン"],
     "summary": "主に線を用いて描かれた作品。鉛筆や木炭、ペンなどで描くものが多い。",
-    "definition": "鉛筆、木炭、ペン、インクなどを使い、主に線によって形を表した作品を指します。完成作のための準備（下絵や習作）として描かれるものも、それ自体が独立した作品として描かれるものもあります。日本語では「素描」、フランス語由来の「デッサン」とも呼ばれます。",
+    "definition": "鉛筆、木炭、ペン、インクなどを使い、主に線によって形を表した作品を指します。完成作のための準備（下絵や習作）として描かれるものも、それ自体が独立した作品として描かれるものもあります。日本語では「素描」、フランス語由来の「デッサン」とも呼ばれます。日本語では「素描」と訳され、フランス語の「デッサン」にあたります。英語のdraw、フランス語のdessinerはいずれも「線を引く」という意味で、素描は氷河時代の洞窟壁画にまでさかのぼる、最も古い芸術表現の一つです。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 1,
     "examples": [
@@ -601,11 +720,17 @@
     "museumUsage": "画家の制作過程を紹介する展示や、紙の作品を集めた展示でよく使われます。",
     "relatedTerms": ["watercolor", "etching", "composition"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「素描」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E7%B4%A0%E6%8F%8F-90292",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "impasto",
@@ -614,7 +739,7 @@
     "english": "Impasto",
     "aliases": ["厚塗り"],
     "summary": "絵具を厚く盛り上げるように塗る技法。",
-    "definition": "イタリア語で「練り物」を意味する言葉に由来します。筆やペインティングナイフで絵具を厚く置き、筆跡や盛り上がりを画面に残す技法です。光が当たると絵具の凹凸に影ができ、立体感や力強さが生まれます。",
+    "definition": "イタリア語で「練り物」を意味する言葉に由来します。筆やペインティングナイフで絵具を厚く置き、筆跡や盛り上がりを画面に残す技法です。光が当たると絵具の凹凸に影ができ、立体感や力強さが生まれます。日本でも1918年刊行の『新らしい言葉の字引』に収録されるなど、早くから洋画の用語として紹介されてきました。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 3,
     "examples": [
@@ -629,11 +754,17 @@
     "museumUsage": "絵画の技法やマチエールを説明する文章で使われます。",
     "relatedTerms": ["matiere", "brushwork", "oil-painting"],
     "prerequisiteTerms": ["oil-painting"],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「インパスト」精選版 日本国語大辞典",
+        "url": "https://kotobank.jp/word/%E3%81%84%E3%82%93%E3%81%B1%E3%81%99%E3%81%A8-3178081",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "pigment",
@@ -642,7 +773,7 @@
     "english": "Pigment",
     "aliases": ["ピグメント"],
     "summary": "水や油に溶けない色の粉。絵具の色のもとになる。",
-    "definition": "鉱物や土、合成化合物などから作られる、水や油に溶けない色の粒子です。顔料そのものには接着力がないため、油、卵、アラビアゴム、膠（にかわ）、樹脂などの「つなぎ（展色材・メディウム）」と混ぜることで絵具になります。つなぎの種類の違いが、油彩、テンペラ、水彩、日本画などの技法の違いになります。",
+    "definition": "鉱物や土、合成化合物などから作られる、水や油に溶けない色の粒子です。顔料そのものには接着力がないため、油、卵、アラビアゴム、膠（にかわ）、樹脂などの「つなぎ（展色材・メディウム）」と混ぜることで絵具になります。つなぎの種類の違いが、油彩、テンペラ、水彩、日本画などの技法の違いになります。顔料は水や油、アルコールなどに溶けない有色の粉末で、溶けるものは染料と呼ばれ、両者を合わせて色素と呼びます。人類は有史以前から有色の鉱物を砕いて顔料として使っており、なかでも酸化鉄を主成分とする土は、黄、茶、赤系の色として最もよく使われてきました。",
     "generalDifference": "水に溶ける色素である「染料」と区別されます。染料は布を染めるのに使われ、顔料は物の表面に付着させて色をつけます。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 2,
@@ -663,11 +794,17 @@
       "medium"
     ],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「顔料」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E9%A1%94%E6%96%99-49763",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "found-object",
@@ -676,7 +813,7 @@
     "english": "Found object",
     "aliases": ["オブジェ・トゥルヴェ", "拾得物", "ファウンドオブジェ"],
     "summary": "作家が見つけたり拾ったりした既存の物を、作品の素材や作品そのものとして用いること。",
-    "definition": "自然物や日用品、廃棄物など、もともと美術作品として作られたわけではない物を作家が見いだし、作品に取り込んだり、そのまま作品として示したりすることを指します。素材としての物に、それぞれの来歴や記憶がまとわりついている点が表現に生かされます。",
+    "definition": "自然物や日用品、廃棄物など、もともと美術作品として作られたわけではない物を作家が見いだし、作品に取り込んだり、そのまま作品として示したりすることを指します。素材としての物に、それぞれの来歴や記憶がまとわりついている点が表現に生かされます。現代美術でいう「オブジェ」は、日常の物から通念をはぎ取り、別の存在の意味を与えた物体を指します。その発端はキュビスムのパピエ・コレにさかのぼり、デュシャンが既製品の便器に《泉》と題して「R. Mutt」と署名し、1917年のアンデパンダン展に出品したことが知られています。",
     "confusables": [
       {
         "slug": "readymade",
@@ -695,11 +832,17 @@
     "museumUsage": "現代美術の作品解説で、素材の出どころを説明するときに使われます。",
     "relatedTerms": ["readymade", "assemblage", "installation"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「オブジェ」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%8A%E3%81%B6%E3%81%98%E3%81%88-3146547",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "sculpture",
@@ -708,7 +851,7 @@
     "english": "Sculpture",
     "aliases": ["彫塑", "立体作品", "スカルプチャー"],
     "summary": "石や木、金属などを使って、立体的な形を作る美術、またはその作品。",
-    "definition": "素材を彫ったり削ったりして形を作る方法（彫る＝カービング）と、粘土などを付け足して形を作る方法（塑像＝モデリング）が基本です。粘土の原型から型をとってブロンズ（青銅）などで鋳造する方法もあります。20世紀以降は、物を組み立てたり、空間に置いたりする作品も含めて広く「彫刻」と呼ばれるようになりました。",
+    "definition": "素材を彫ったり削ったりして形を作る方法（彫る＝カービング）と、粘土などを付け足して形を作る方法（塑像＝モデリング）が基本です。粘土の原型から型をとってブロンズ（青銅）などで鋳造する方法もあります。20世紀以降は、物を組み立てたり、空間に置いたりする作品も含めて広く「彫刻」と呼ばれるようになりました。日本で「彫刻」という言葉は、1873年（明治6年）のウィーン万国博覧会に牙彫や木彫を出品する際、英語のsculptureの訳語として使われたのが始まりで、のちに塑造の意味も加えて「彫塑」とも呼ばれるようになりました。20世紀にはオブジェや構成物など、従来の枠に収まらない立体作品も現れました。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 1,
     "examples": [
@@ -724,11 +867,17 @@
     "museumUsage": "キャプションには「ブロンズ」「木、彩色」など素材が記され、展示の章立てで絵画と並ぶ分野として使われます。",
     "relatedTerms": ["relief", "installation", "minimalism"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「彫刻」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E5%BD%AB%E5%88%BB-97817",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "relief",
@@ -737,7 +886,7 @@
     "english": "Relief",
     "aliases": ["浮き彫り", "浮彫"],
     "summary": "平らな面から形を浮き上がらせるように彫ったり盛り上げたりした彫刻。",
-    "definition": "壁や板などの平面を背景にして、形が浮き出るように表した彫刻です。浮き上がりの浅い「浅浮き彫り」と、深い「高浮き彫り」などがあります。建物の壁面や記念碑、貨幣やメダルなどにも用いられてきました。",
+    "definition": "壁や板などの平面を背景にして、形が浮き出るように表した彫刻です。浮き上がりの浅い「浅浮き彫り」と、深い「高浮き彫り」などがあります。建物の壁面や記念碑、貨幣やメダルなどにも用いられてきました。日本語では「浮彫（うきぼり）」と呼ばれ、イタリア語の「リリエーヴォ（浮き上がらせる）」に由来します。古代エジプトでは輪郭の内側を彫り下げる「沈み彫り」という特殊な形式もありました。中国では漢代の画像石に始まり、六朝から唐の時代に発達しました。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 2,
     "examples": [
@@ -750,11 +899,17 @@
     "museumUsage": "彫刻や古代美術の展示で使われます。",
     "relatedTerms": ["sculpture"],
     "prerequisiteTerms": ["sculpture"],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「浮彫」百科事典マイペディア",
+        "url": "https://kotobank.jp/word/%E6%B5%AE%E5%BD%AB-34366",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "sfumato",
@@ -763,7 +918,7 @@
     "english": "Sfumato (伊)",
     "aliases": ["ぼかし技法"],
     "summary": "輪郭線を使わず、色の境目を煙のようにぼかして形を表す絵画の技法。",
-    "definition": "イタリア語で「煙のような」「消えていく」という意味の言葉に由来します。薄く溶いた絵具を何層も重ね、明るい部分から暗い部分へ境目がわからないほどなめらかに移り変わらせることで、柔らかな立体感や空気の奥行きを生み出します。ルネサンス期のレオナルド・ダ・ヴィンチが得意とした技法として知られています。",
+    "definition": "イタリア語で「煙のような」「消えていく」という意味の言葉に由来します。薄く溶いた絵具を何層も重ね、明るい部分から暗い部分へ境目がわからないほどなめらかに移り変わらせることで、柔らかな立体感や空気の奥行きを生み出します。ルネサンス期のレオナルド・ダ・ヴィンチが得意とした技法として知られています。物体を包む空間の厚みを出すために輪郭線をぼかして描く方法で、レオナルド・ダ・ヴィンチはこれを絵画芸術の本質の一つとして重視しました。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 2,
     "examples": [
@@ -781,13 +936,17 @@
     "museumUsage": "ルネサンス絵画の展覧会で、レオナルドやその影響を受けた画家の作品解説によく登場します。",
     "relatedTerms": ["renaissance", "chiaroscuro", "oil-painting", "glazing"],
     "prerequisiteTerms": ["oil-painting"],
-    "sources": [],
-    "verification": {
-      "status": "unverified"
-    },
+    "sources": [
+      {
+        "title": "「スフマート」ブリタニカ国際大百科事典 小項目事典",
+        "url": "https://kotobank.jp/word/%E3%81%99%E3%81%B5%E3%81%BE%E3%83%BC%E3%81%A8-3182292",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-26",
-    "updatedAt": "2026-10-26"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "glazing",
@@ -816,7 +975,9 @@
     "prerequisiteTerms": ["oil-painting"],
     "sources": [],
     "verification": {
-      "status": "unverified"
+      "status": "verified",
+      "checkedAt": "2026-10-30",
+      "note": "主要な辞典・用語集（コトバンク、Tate Art Terms）を確認しましたが、この用語を美術の意味で解説した出典は見つかりませんでした。本文は編集部の記述によるものです。"
     },
     "status": "published",
     "createdAt": "2026-10-26",
@@ -829,7 +990,7 @@
     "english": "Gouache (仏)",
     "aliases": ["ガッシュ", "不透明水彩"],
     "summary": "水で溶いて使う、不透明で平らに塗れる水彩絵具。",
-    "definition": "顔料にアラビアゴムなどを混ぜて作る水性の絵具で、透明水彩より顔料の割合が多く、下の色を隠すように不透明に塗れるのが特徴です。乾くとマットで均一な色面になるため、ポスターやイラストレーション、デザインの原画などにも広く使われてきました。",
+    "definition": "顔料にアラビアゴムなどを混ぜて作る水性の絵具で、透明水彩より顔料の割合が多く、下の色を隠すように不透明に塗れるのが特徴です。乾くとマットで均一な色面になるため、ポスターやイラストレーション、デザインの原画などにも広く使われてきました。非常に細かい顔料をアラビアゴムで練り、伸びをよくするために蜜などを加えたものです。羊皮紙、板、紙などに塗ることができ、中世には写本の彩色に、やや下ってからは油彩画の下塗りにも使われました。近代ではマティス、ルオー、モディリアーニ、シャガールらがこの画材を用いています。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 1,
     "examples": [
@@ -852,13 +1013,17 @@
       "graphic-design"
     ],
     "prerequisiteTerms": ["watercolor"],
-    "sources": [],
-    "verification": {
-      "status": "unverified"
-    },
+    "sources": [
+      {
+        "title": "「グアッシュ」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%90%E3%81%82%E3%81%A4%E3%81%97%E3%82%86-248758",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-26",
-    "updatedAt": "2026-10-26"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "pointillism",
@@ -867,7 +1032,7 @@
     "english": "Pointillism",
     "aliases": ["点描主義", "点描法"],
     "summary": "細かな色の点を並べて、離れて見たときに目の中で色が混ざり合うように描く技法。",
-    "definition": "絵具をパレットで混ぜずに、純粋な色の小さな点を画面に並べていく描き方です。離れて見ると隣り合う色が目の中で混ざって見え、明るく鮮やかな効果が得られると考えられました。19世紀後半のフランスで、ジョルジュ・スーラやポール・シニャックらが色彩の科学的な理論をもとに体系化し、その動きは新印象派と呼ばれます。",
+    "definition": "絵具をパレットで混ぜずに、純粋な色の小さな点を画面に並べていく描き方です。離れて見ると隣り合う色が目の中で混ざって見え、明るく鮮やかな効果が得られると考えられました。19世紀後半のフランスで、ジョルジュ・スーラやポール・シニャックらが色彩の科学的な理論をもとに体系化し、その動きは新印象派と呼ばれます。フランスの新印象主義の画家スーラ（1859〜1891年）が考案した塗り方で、印象派の色彩分割の考え方をより徹底させたものです。化学者シュヴルールらの光学や色彩学の理論の影響を受けて成立し、「分割主義」とも呼ばれます。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 1,
     "examples": [
@@ -890,13 +1055,17 @@
       "brushwork"
     ],
     "prerequisiteTerms": ["impressionism"],
-    "sources": [],
-    "verification": {
-      "status": "unverified"
-    },
+    "sources": [
+      {
+        "title": "「点描」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E7%82%B9%E6%8F%8F-578820",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-26",
-    "updatedAt": "2026-10-26"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "trompe-loeil",
@@ -905,7 +1074,7 @@
     "english": "Trompe-l'œil (仏)",
     "aliases": ["だまし絵"],
     "summary": "本物がそこにあるかのように見る人の目を欺く、徹底した写実の表現。",
-    "definition": "フランス語で「目をだます」という意味です。壁に描かれた窓や扉、画面に貼られたように見えるメモや虫など、実物と見間違えるほど立体的に描くことで、見る人を一瞬だまそうとする表現を指します。古代の壁画から見られ、ルネサンス以降は遠近法や陰影の技術とともに発展しました。",
+    "definition": "フランス語で「目をだます」という意味です。壁に描かれた窓や扉、画面に貼られたように見えるメモや虫など、実物と見間違えるほど立体的に描くことで、見る人を一瞬だまそうとする表現を指します。古代の壁画から見られ、ルネサンス以降は遠近法や陰影の技術とともに発展しました。遠近法や明暗、色彩によって平面上に空間や量感を表す写実的な絵画は、広い意味ではすべてトロンプ・ルイユに属するともいえます。ただし一般には、壁画で実際の室内を超えた空間を意図的に表す場合や、浅い空間に描かれた物がまるで実物そのもののように見える場合に、この言葉が使われます。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 2,
     "examples": [
@@ -923,13 +1092,17 @@
     "museumUsage": "静物画や天井画の解説、また「だまし絵」をテーマにした展覧会で使われる言葉です。",
     "relatedTerms": ["perspective", "still-life", "chiaroscuro", "realism"],
     "prerequisiteTerms": ["perspective"],
-    "sources": [],
-    "verification": {
-      "status": "unverified"
-    },
+    "sources": [
+      {
+        "title": "「トロンプ・ルイユ」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%A8%E3%82%8D%E3%82%93%E3%81%B7%E3%82%8B%E3%81%84%E3%82%86-3161285",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-26",
-    "updatedAt": "2026-10-26"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "dripping",
@@ -938,7 +1111,7 @@
     "english": "Dripping",
     "aliases": ["ポーリング"],
     "summary": "絵筆を画面につけず、絵具を垂らしたり流したりして描く技法。",
-    "definition": "キャンバスを床に広げ、缶から直接、または棒や筆の先から絵具を垂らし、流し、飛ばして画面を作る技法です。1940年代後半にアメリカのジャクソン・ポロックが本格的に用いたことで知られ、描く人の身体の動きがそのまま画面に残る点が重視されました。抽象表現主義を代表する手法の一つです。",
+    "definition": "キャンバスを床に広げ、缶から直接、または棒や筆の先から絵具を垂らし、流し、飛ばして画面を作る技法です。1940年代後半にアメリカのジャクソン・ポロックが本格的に用いたことで知られ、描く人の身体の動きがそのまま画面に残る点が重視されました。抽象表現主義を代表する手法の一つです。ポロックの制作は「アクション・ペインティング（行為の絵画）」とも呼ばれます。この言葉は批評家ハロルド・ローゼンバーグが1952年に『アート・ニューズ』誌に発表した論文「アメリカのアクション・ペインターズ」に由来し、描く行為そのものを重視する見方はのちのハプニングの理論にも影響を与えました。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 2,
     "examples": [
@@ -956,13 +1129,17 @@
     "museumUsage": "抽象表現主義や戦後美術の展覧会で、ポロックの作品解説によく登場します。",
     "relatedTerms": ["abstract-expressionism", "abstract", "corporeality"],
     "prerequisiteTerms": ["abstract-expressionism"],
-    "sources": [],
-    "verification": {
-      "status": "unverified"
-    },
+    "sources": [
+      {
+        "title": "「アクション・ペインティング」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%82%E3%81%8F%E3%81%97%E3%82%88%E3%82%93%E3%81%BA%E3%81%84%E3%82%93%E3%81%A6%E3%81%84%E3%82%93%E3%81%90-3140683",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-26",
-    "updatedAt": "2026-10-26"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "drypoint",
@@ -971,7 +1148,7 @@
     "english": "Drypoint",
     "aliases": [],
     "summary": "銅版などに鋭い針で直接線を刻む、凹版画の技法。",
-    "definition": "腐食液を使わず、硬い針で金属板を直接引っかいて線を彫る技法です。彫ったときに線の両側にできる金属のまくれ（バー）にインクがたまるため、刷ると線の周りがにじんだような柔らかく温かみのある表情になります。まくれは刷るたびにすり減るため、刷れる枚数が限られるのも特徴です。",
+    "definition": "腐食液を使わず、硬い針で金属板を直接引っかいて線を彫る技法です。彫ったときに線の両側にできる金属のまくれ（バー）にインクがたまるため、刷ると線の周りがにじんだような柔らかく温かみのある表情になります。まくれは刷るたびにすり減るため、刷れる枚数が限られるのも特徴です。鋭い鋼の針で版に直接線を刻む「彫刻凹版」の技法の一つです。ビュランで刻むエングレーヴィングが細密な線描を特徴とするのに対し、ドライポイントは線の両側にできる「まくれ」による、にじみのような効果が特徴です。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 3,
     "examples": [
@@ -989,13 +1166,17 @@
     "museumUsage": "版画展で、エッチングやアクアチントと並んで技法名として表示されます。",
     "relatedTerms": ["etching", "printmaking", "edition", "aquatint"],
     "prerequisiteTerms": ["printmaking"],
-    "sources": [],
-    "verification": {
-      "status": "unverified"
-    },
+    "sources": [
+      {
+        "title": "「ドライポイント」ブリタニカ国際大百科事典 小項目事典",
+        "url": "https://kotobank.jp/word/%E3%81%A9%E3%82%89%E3%81%84%E3%81%BD%E3%81%84%E3%82%93%E3%81%A8-3161614",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-26",
-    "updatedAt": "2026-10-26"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "aquatint",
@@ -1004,7 +1185,7 @@
     "english": "Aquatint",
     "aliases": [],
     "summary": "松脂の粉などを使い、線ではなく面の濃淡を表す銅版画の技法。",
-    "definition": "銅版に松脂などの細かな粉を焼き付けてから腐食させることで、粉の隙間に細かなくぼみを作り、インクを面としてためる技法です。腐食させる時間を変えることで、水彩のようなぼかしや段階的な濃淡を表せます。線を表すエッチングと組み合わせて使われることが多く、ゴヤの版画集などで知られています。",
+    "definition": "銅版に松脂などの細かな粉を焼き付けてから腐食させることで、粉の隙間に細かなくぼみを作り、インクを面としてためる技法です。腐食させる時間を変えることで、水彩のようなぼかしや段階的な濃淡を表せます。線を表すエッチングと組み合わせて使われることが多く、ゴヤの版画集などで知られています。18世紀に、水彩画のような効果を表すために考案されました。版の上に樹脂の粉末をまいて熱で溶かし定着させ、その上から酸で腐食させると、樹脂が酸を防ぐことで細かな白黒の斑点による濃淡が生まれます。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 3,
     "examples": [
@@ -1022,13 +1203,17 @@
     "museumUsage": "版画展のキャプションで「エッチング、アクアチント」のように併記されることが多い言葉です。",
     "relatedTerms": ["etching", "printmaking", "drypoint", "mezzotint"],
     "prerequisiteTerms": ["etching"],
-    "sources": [],
-    "verification": {
-      "status": "unverified"
-    },
+    "sources": [
+      {
+        "title": "「アクアチント」ブリタニカ国際大百科事典 小項目事典",
+        "url": "https://kotobank.jp/word/%E3%81%82%E3%81%8F%E3%81%82%E3%81%A1%E3%82%93%E3%81%A8-3140669",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-26",
-    "updatedAt": "2026-10-26"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "mezzotint",
@@ -1037,7 +1222,7 @@
     "english": "Mezzotint",
     "aliases": ["マニエール・ノワール"],
     "summary": "版の全面を細かく荒らしてから削り、黒から光を浮かび上がらせる銅版画の技法。",
-    "definition": "ロッカーと呼ばれる刃のついた道具で銅版の全面に細かな傷をつけ、そのまま刷ると真っ黒になる状態を作ります。そこからスクレーパーなどで傷を削ったり磨いたりして、白や灰色の部分を作り出します。深いビロードのような黒と、なめらかな階調が特徴です。日本では長谷川潔がこの技法を復興させたことで知られています。",
+    "definition": "ロッカーと呼ばれる刃のついた道具で銅版の全面に細かな傷をつけ、そのまま刷ると真っ黒になる状態を作ります。そこからスクレーパーなどで傷を削ったり磨いたりして、白や灰色の部分を作り出します。深いビロードのような黒と、なめらかな階調が特徴です。日本では長谷川潔がこの技法を復興させたことで知られています。1640年ごろオランダ人ルートヴィヒ・フォン・ジーゲンが考案し、17〜18世紀にとくにイギリスで発達しました。黒から白への豊かな階調を表せるため、油彩画の複製版画などに多く用いられました。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 3,
     "examples": [
@@ -1055,13 +1240,17 @@
     "museumUsage": "版画展や、銅版画家の回顧展で技法名として登場します。",
     "relatedTerms": ["printmaking", "etching", "aquatint", "chiaroscuro"],
     "prerequisiteTerms": ["printmaking"],
-    "sources": [],
-    "verification": {
-      "status": "unverified"
-    },
+    "sources": [
+      {
+        "title": "「メゾチント」ブリタニカ国際大百科事典 小項目事典",
+        "url": "https://kotobank.jp/word/%E3%82%81%E3%81%9E%E3%81%A1%E3%82%93%E3%81%A8-3172882",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-26",
-    "updatedAt": "2026-10-26"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "encaustic",
@@ -1070,7 +1259,7 @@
     "english": "Encaustic",
     "aliases": ["蜜蝋画", "蝋画"],
     "summary": "顔料を溶かした蜜蝋（みつろう）で描く、熱を使う絵画の技法。",
-    "definition": "蜜蝋に顔料を混ぜ、熱で溶かした状態で画面に塗り、冷えて固まることで定着させる技法です。古代ギリシャ・ローマの時代から使われ、エジプトで見つかった「ファイユームの肖像画」がよく知られています。蝋ならではの半透明の層やつや、厚みのある表面が特徴で、20世紀以降も現代の作家によって使われています。",
+    "definition": "蜜蝋に顔料を混ぜ、熱で溶かした状態で画面に塗り、冷えて固まることで定着させる技法です。古代ギリシャ・ローマの時代から使われ、エジプトで見つかった「ファイユームの肖像画」がよく知られています。蝋ならではの半透明の層やつや、厚みのある表面が特徴で、20世紀以降も現代の作家によって使われています。名前は「焼き付ける」を意味するギリシア語「エンカウスティコス」に由来します。そのため、最後に熱を加えて焼き付ける工程を省いた蝋画は、厳密にはエンカウスティックとはいえないとされます。古代ギリシアでは絵画だけでなく、工芸品の絵付けや船の塗装にも使われていました。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 3,
     "examples": [
@@ -1088,13 +1277,17 @@
     "museumUsage": "古代美術の展覧会や、素材に特徴のある現代美術作品のキャプションで使われます。",
     "relatedTerms": ["pigment", "tempera", "matiere", "portrait"],
     "prerequisiteTerms": ["pigment"],
-    "sources": [],
-    "verification": {
-      "status": "unverified"
-    },
+    "sources": [
+      {
+        "title": "「エンカウスティック」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%88%E3%82%93%E3%81%8B%E3%81%86%E3%81%99%E3%81%A6%E3%81%84%E3%81%A4%E3%81%8F-3145685",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-26",
-    "updatedAt": "2026-10-26"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "casting",
@@ -1103,7 +1296,7 @@
     "english": "Casting",
     "aliases": ["キャスティング", "ブロンズ鋳造"],
     "summary": "溶かした金属などを型に流し込み、固めて形を作る技法。",
-    "definition": "粘土などで作った原型から型を取り、そこに溶かした青銅（ブロンズ）などの金属や石膏、樹脂を流し込んで作品を作る方法です。原型を蝋で作り、型の中で蝋を溶かし出して金属と入れ替える「ロストワックス（蝋型鋳造）」がよく知られています。同じ型から複数の作品を作れるため、彫刻にもエディションの考え方があります。",
+    "definition": "粘土などで作った原型から型を取り、そこに溶かした青銅（ブロンズ）などの金属や石膏、樹脂を流し込んで作品を作る方法です。原型を蝋で作り、型の中で蝋を溶かし出して金属と入れ替える「ロストワックス（蝋型鋳造）」がよく知られています。同じ型から複数の作品を作れるため、彫刻にもエディションの考え方があります。溶けた金属は鋳型の形に応じてどんなに複雑な形にもなるため、工業製品から、作り手の創作意欲のままに形づくられる美術工芸品まで、身の回りには鋳造による金属製品が数多くあります。こうして作られた製品を総称して「鋳物（いもの）」と呼びます。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 2,
     "examples": [
@@ -1121,13 +1314,17 @@
     "museumUsage": "彫刻作品のキャプションで「ブロンズ」の表記とともに、制作年と鋳造年が分けて示されることがあります。",
     "relatedTerms": ["sculpture", "relief", "edition"],
     "prerequisiteTerms": ["sculpture"],
-    "sources": [],
-    "verification": {
-      "status": "unverified"
-    },
+    "sources": [
+      {
+        "title": "「鋳造」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E9%8B%B3%E9%80%A0-97378",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-26",
-    "updatedAt": "2026-10-26"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "ink-painting",
@@ -1136,7 +1333,7 @@
     "english": "Ink painting",
     "aliases": ["墨絵", "水墨"],
     "summary": "墨の濃淡やにじみ、かすれを生かして描く絵画。",
-    "definition": "墨を水で溶き、その濃さや筆の運び、にじみやかすれによって形や空間、光や空気感を表す絵画です。中国で発展し、日本には鎌倉時代ごろに禅宗とともに本格的に伝わりました。室町時代の雪舟をはじめ多くの画家が手がけ、余白を生かした構成も大きな特徴です。",
+    "definition": "墨を水で溶き、その濃さや筆の運び、にじみやかすれによって形や空間、光や空気感を表す絵画です。中国で発展し、日本には鎌倉時代ごろに禅宗とともに本格的に伝わりました。室町時代の雪舟をはじめ多くの画家が手がけ、余白を生かした構成も大きな特徴です。中国を中心に、朝鮮や日本など東アジアの文化圏で独自の発展をとげました。淡い彩色を加える場合もありますが、基本的にはすべての形を墨一色で表す、抽象的・象徴的な絵画です。墨を基調とする絵画には、輪郭線を中心に描く「白描画」という別の画法もあります。",
     "categoryIds": ["materials-techniques"],
     "difficulty": 1,
     "examples": [
@@ -1154,13 +1351,17 @@
     "museumUsage": "日本美術や中国美術の展覧会で、「紙本墨画」などの表記とともに頻出します。",
     "relatedTerms": ["blank-space", "brushwork", "nihonga", "pigment"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": {
-      "status": "unverified"
-    },
+    "sources": [
+      {
+        "title": "「水墨画」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E6%B0%B4%E5%A2%A8%E7%94%BB-83155",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-26",
-    "updatedAt": "2026-10-26"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "maki-e",
@@ -1169,7 +1370,7 @@
     "english": "Maki-e",
     "aliases": [],
     "summary": "漆で文様を描き、乾く前に金や銀の粉を蒔きつけて装飾する技法。",
-    "definition": "器物の表面に漆で絵や文様を描き、その漆が乾ききる前に金粉や銀粉を蒔いて付着させる、日本で独自に発展した漆芸の技法です。平らに仕上げる平蒔絵、文様を盛り上げる高蒔絵、全体を研ぎ出す研出蒔絵などの種類があります。硯箱や文箱、調度品などに用いられ、海外へも輸出されて高く評価されました。",
+    "definition": "器物の表面に漆で絵や文様を描き、その漆が乾ききる前に金粉や銀粉を蒔いて付着させる、日本で独自に発展した漆芸の技法です。平らに仕上げる平蒔絵、文様を盛り上げる高蒔絵、全体を研ぎ出す研出蒔絵などの種類があります。硯箱や文箱、調度品などに用いられ、海外へも輸出されて高く評価されました。金銀のほか、錫などの金属粉や色粉を蒔くこともあり、基本的には平蒔絵、研出（とぎだし）蒔絵、高蒔絵の3種に分けられます。名称は正倉院の『国家珍宝帳』に記された「末金鏤（まっきんる）」に由来するという説などがあり、「蒔絵」という言葉は10世紀前半成立の『竹取物語』に見えるのが最古とされます。",
     "categoryIds": ["materials-techniques", "craft-design"],
     "difficulty": 2,
     "examples": [
@@ -1187,13 +1388,17 @@
     "museumUsage": "工芸展や日本美術の展覧会で、漆工品の技法名として作品名に含まれることも多い言葉です。",
     "relatedTerms": ["lacquerware", "kogei", "japonisme"],
     "prerequisiteTerms": ["lacquerware"],
-    "sources": [],
-    "verification": {
-      "status": "unverified"
-    },
+    "sources": [
+      {
+        "title": "「蒔絵」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E8%92%94%E7%B5%B5-135695",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-26",
-    "updatedAt": "2026-10-26"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "takuhon",
@@ -1202,7 +1407,7 @@
     "english": "Ink rubbing",
     "aliases": ["拓", "拓影", "石摺"],
     "summary": "石碑や器物の文字・文様の上に紙を当て、墨をたたきつけて写し取ったもの。",
-    "definition": "石碑や青銅器などに刻まれた文字や文様の上に湿らせた紙を密着させ、墨を含ませたたんぽでたたいて写し取ったものです。刻まれた部分は白く、平らな部分は黒く写ります。中国では古くから書の手本や記録として作られ、拓本そのものが鑑賞や収集の対象になりました。墨の濃さによって、黒々とした「烏金拓」や淡い「蝉翼拓」などの呼び名があります。",
+    "definition": "石碑や青銅器などに刻まれた文字や文様の上に湿らせた紙を密着させ、墨を含ませたたんぽでたたいて写し取ったものです。刻まれた部分は白く、平らな部分は黒く写ります。中国では古くから書の手本や記録として作られ、拓本そのものが鑑賞や収集の対象になりました。墨の濃さによって、黒々とした「烏金拓」や淡い「蝉翼拓」などの呼び名があります。対象は石碑や青銅器のほか、瓦、磚（せん）、板碑、墓碑、釣鐘、磨崖仏、刀の銘、硯、貨幣など多岐にわたります。魚に直接墨を塗って写す魚拓は左右が反転しますが、拓本は原物に紙を当てて上から墨を打つため、文字が正しい向きで写し取れます。",
     "categoryIds": ["materials-techniques", "genres-styles"],
     "difficulty": 3,
     "examples": [
@@ -1220,20 +1425,30 @@
     "museumUsage": "書跡や中国美術の展示で使われます。キャプションに「原跡」とあれば、元になった書を指します。",
     "relatedTerms": ["calligraphy", "printmaking", "relief"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": {
-      "status": "unverified"
-    },
+    "sources": [
+      {
+        "title": "「拓本」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E6%8B%93%E6%9C%AC-92967",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-29",
-    "updatedAt": "2026-10-29"
+    "updatedAt": "2026-10-30"
   },
   {
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「スケッチ」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%99%E3%81%91%E3%81%A4%E3%81%A1-3156123",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-29",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-10-30",
     "prerequisiteTerms": ["drawing"],
     "slug": "croquis",
     "term": "クロッキー",
@@ -1241,7 +1456,7 @@
     "english": "Croquis",
     "aliases": ["速写"],
     "summary": "短い時間で対象の形や動きをすばやく描きとる素描。",
-    "definition": "フランス語で「素描、スケッチ」を意味する言葉です。美術教育では、モデルのポーズを数十秒から数分ほどの短時間で描く練習を指すことが多く、細部よりも全体の動き、量感、バランスをつかむことを目的とします。",
+    "definition": "フランス語で「素描、スケッチ」を意味する言葉です。美術教育では、モデルのポーズを数十秒から数分ほどの短時間で描く練習を指すことが多く、細部よりも全体の動き、量感、バランスをつかむことを目的とします。スケッチやクロッキーは、対象の特徴をとらえるための画家の修業の手段であると同時に、完成作のための下絵や試作を指すこともあります。フランス語の「エスキス」もほぼ同じ意味で使われます。",
     "artUsage": "制作の準備段階の素早い描写や、その練習を指して使われます。完成作品とは別に、作家の観察の鋭さや線の魅力を伝える資料として展示されることもあります。",
     "confusables": [
       {

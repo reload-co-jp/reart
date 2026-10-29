@@ -40,7 +40,12 @@ export type Term = {
   relatedTerms: string[]
   prerequisiteTerms: string[]
   sources: Source[]
-  verification: { status: "unverified" | "verified"; checkedAt?: string }
+  // note: 出典が見つからなかった場合などの確認メモ。参考情報欄に表示する
+  verification: {
+    status: "unverified" | "verified"
+    checkedAt?: string
+    note?: string
+  }
   status: "published" | "draft"
   createdAt: string
   updatedAt: string

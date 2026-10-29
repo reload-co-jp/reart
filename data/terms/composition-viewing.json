@@ -6,7 +6,7 @@
     "english": "Composition",
     "aliases": ["コンポジション", "画面構成"],
     "summary": "画面の中に、物や人物、色や形をどのように配置するかという組み立てのこと。",
-    "definition": "作品の中で、モチーフや色、形、余白などをどのように配置し、全体をまとめるかという画面の組み立てを指します。三角形の安定した構図、斜めの線を生かした動きのある構図、中心をずらした構図など、配置の仕方によって作品の印象は大きく変わります。",
+    "definition": "作品の中で、モチーフや色、形、余白などをどのように配置し、全体をまとめるかという画面の組み立てを指します。三角形の安定した構図、斜めの線を生かした動きのある構図、中心をずらした構図など、配置の仕方によって作品の印象は大きく変わります。画面上のあらゆる視覚的要素が構図を決める要素となるため、構図は絵画の最も本質的な部分とも言われます。人物や物、背景の形とそれぞれが占める位置、つまり形のある物と空間との関係がまず基本となり、さらに量感どうしの関係や、全体をまとめる幾何学的な原理などが関わります。",
     "generalDifference": "写真やデザインでも使われる言葉ですが、抽象絵画では作品のタイトルとして「コンポジション」が使われることもあります。",
     "categoryIds": ["composition-viewing"],
     "difficulty": 1,
@@ -22,11 +22,17 @@
     "museumExample": "画面の手前に大きく波を配し、遠くの山を小さく見せる大胆な構図が、自然の力強さを際立たせている。",
     "relatedTerms": ["perspective", "blank-space", "motif", "triptych"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「構図」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E6%A7%8B%E5%9B%B3-62391",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "perspective",
@@ -35,7 +41,7 @@
     "english": "Perspective",
     "aliases": ["透視図法", "線遠近法", "空気遠近法", "パースペクティブ"],
     "summary": "平らな画面の上に、奥行きや距離感を表すための描き方。",
-    "definition": "遠くの物を小さく、近くの物を大きく描き、平らな画面に立体的な空間があるように見せる方法です。平行な線が画面の奥の一点（消失点）に集まるように描く「線遠近法」は、15世紀のイタリアで理論化され、ルネサンス絵画で発展しました。遠くの物を青みがかった、ぼんやりした色で描く「空気遠近法」もあります。",
+    "definition": "遠くの物を小さく、近くの物を大きく描き、平らな画面に立体的な空間があるように見せる方法です。平行な線が画面の奥の一点（消失点）に集まるように描く「線遠近法」は、15世紀のイタリアで理論化され、ルネサンス絵画で発展しました。遠くの物を青みがかった、ぼんやりした色で描く「空気遠近法」もあります。狭い意味ではルネサンス期に確立された数学的・幾何学的な透視図法（線遠近法）を指しますが、写実的でない絵画でも奥行きを暗示的・象徴的に表す工夫は行われてきました。色彩によって遠近を表す空気遠近法や色彩遠近法、浮彫りでの奥行き表現なども含めて、遠近法と総称されます。",
     "categoryIds": ["composition-viewing"],
     "difficulty": 1,
     "examples": [
@@ -56,11 +62,17 @@
       "landscape-painting"
     ],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「遠近法」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E9%81%A0%E8%BF%91%E6%B3%95-38062",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "chiaroscuro",
@@ -69,7 +81,7 @@
     "english": "Chiaroscuro",
     "aliases": ["明暗法", "明暗対比"],
     "summary": "光と影の対比によって、立体感や劇的な効果を表す絵画の技法。",
-    "definition": "イタリア語の「明るい（キアロ）」と「暗い（スクーロ）」を組み合わせた言葉です。光の当たる部分と影の部分の明暗の差を利用して、物の立体感や空間の奥行きを表します。とくに強い明暗の対比で劇的な効果を生む表現は、バロック期の絵画で多く用いられました。",
+    "definition": "イタリア語の「明るい（キアロ）」と「暗い（スクーロ）」を組み合わせた言葉です。光の当たる部分と影の部分の明暗の差を利用して、物の立体感や空間の奥行きを表します。とくに強い明暗の対比で劇的な効果を生む表現は、バロック期の絵画で多く用いられました。日本語では「明暗法」と訳されます。古代の壁画やルネサンス以降の写実的な絵画で、明るい部分から暗い部分への移り変わりによって浮彫りのような立体感を表す「肉付け（モデレ）」の手法と結びついて用いられ、とくに油彩画で重要な役割を果たしてきました。",
     "categoryIds": ["composition-viewing", "materials-techniques"],
     "difficulty": 2,
     "examples": [
@@ -85,11 +97,17 @@
     "museumUsage": "ルネサンスからバロックの西洋絵画の解説で使われます。",
     "relatedTerms": ["baroque", "composition", "portrait"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「明暗法」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E6%98%8E%E6%9A%97%E6%B3%95-141047",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "triptych",
@@ -98,7 +116,7 @@
     "english": "Triptych",
     "aliases": ["トリプティック", "三幅対", "祭壇画"],
     "summary": "三つの画面を並べて、一つの作品として構成したもの。",
-    "definition": "三枚のパネルを並べて一組とした絵画などの形式です。中世からルネサンスのヨーロッパでは、蝶番でつながった左右の扉を開閉できる祭壇画として多く作られました。中央に最も重要な場面を置き、左右に関連する場面を配置するのが一般的です。現代の絵画や写真でも用いられます。",
+    "definition": "三枚のパネルを並べて一組とした絵画などの形式です。中世からルネサンスのヨーロッパでは、蝶番でつながった左右の扉を開閉できる祭壇画として多く作られました。中央に最も重要な場面を置き、左右に関連する場面を配置するのが一般的です。現代の絵画や写真でも用いられます。キリスト教美術では祭壇を飾る三枚一組の聖画像を指し、中央パネルの両側にある翼パネルを折り畳めるようになっています。伝統的には絵画や浮彫りのパネルに使われる言葉ですが、現代では三つの画面やスクリーンで構成された映像作品などにも用いられます。",
     "categoryIds": ["composition-viewing"],
     "difficulty": 2,
     "examples": [
@@ -112,11 +130,22 @@
     "museumUsage": "宗教画の形式名として、また現代作品の構成を説明するときに使われます。",
     "relatedTerms": ["composition", "renaissance", "subject-matter"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「トリプティク」デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E3%81%A8%E3%82%8A%E3%81%B7%E3%81%A6%E3%81%84%E3%81%8F-3183972",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "Art Term「Triptych」",
+        "url": "https://www.tate.org.uk/art/art-terms/t/triptych",
+        "publisher": "Tate"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "edition",
@@ -125,7 +154,7 @@
     "english": "Edition",
     "aliases": ["限定部数", "エディション番号", "ed."],
     "summary": "版画や写真、彫刻などで、同じ作品を何点制作するかを定めた数や、その番号。",
-    "definition": "版画、写真、ブロンズ彫刻、映像作品など、同じ作品を複数制作できるものについて、制作する総数と各作品の通し番号を示すものです。たとえば「3/50」は50部中の3番目を意味します。総数とは別に、作家の手元に残す「A.P.（アーティスト・プルーフ）」が作られることもあります。",
+    "definition": "版画、写真、ブロンズ彫刻、映像作品など、同じ作品を複数制作できるものについて、制作する総数と各作品の通し番号を示すものです。たとえば「3/50」は50部中の3番目を意味します。総数とは別に、作家の手元に残す「A.P.（アーティスト・プルーフ）」が作られることもあります。英国のテート美術館の用語解説によれば、1枚の版から刷る部数を限定して「限定版（リミテッド・エディション）」とする慣習は19世紀後半から一般的になりました。作家や版元が部数を制限する場合は、刷り終えたあと版を破棄することが多く、作家用の「AP」のほか、刷り師や版元用の「PP（プリンターズ・プルーフ）」が作られることもあります。",
     "generalDifference": "日常では本や商品の「版」（限定版など）を指しますが、美術では作品の制作数と通し番号を指す言葉として使われます。",
     "categoryIds": ["composition-viewing"],
     "difficulty": 2,
@@ -139,11 +168,17 @@
     "museumUsage": "キャプションで、版画や写真、映像作品の制作数を示すために記されます。",
     "relatedTerms": ["printmaking", "originality", "aura", "caption"],
     "prerequisiteTerms": ["printmaking"],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "Art Term「Edition」",
+        "url": "https://www.tate.org.uk/art/art-terms/e/edition",
+        "publisher": "Tate"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "catalogue",
@@ -167,7 +202,11 @@
     "relatedTerms": ["curator", "caption", "retrospective"],
     "prerequisiteTerms": [],
     "sources": [],
-    "verification": { "status": "unverified" },
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30",
+      "note": "主要な辞典・用語集（コトバンク、Tate Art Terms）を確認しましたが、この用語を美術の意味で解説した出典は見つかりませんでした。本文は編集部の記述によるものです。"
+    },
     "status": "published",
     "createdAt": "2026-10-25",
     "updatedAt": "2026-10-25"
@@ -179,7 +218,7 @@
     "english": "Curator",
     "aliases": ["学芸員", "キュレーション"],
     "summary": "展覧会を企画し、作品の選定や展示の構成を考える専門家。",
-    "definition": "美術館などで、作品や資料の収集、調査研究、保存、展覧会の企画などを担当する専門職です。日本の美術館では「学芸員」とほぼ同じ意味で使われます。展覧会のテーマを決め、作品を選び、どのような順序や組み合わせで見せるかを考える仕事は「キュレーション」と呼ばれます。",
+    "definition": "美術館などで、作品や資料の収集、調査研究、保存、展覧会の企画などを担当する専門職です。日本の美術館では「学芸員」とほぼ同じ意味で使われます。展覧会のテーマを決め、作品を選び、どのような順序や組み合わせで見せるかを考える仕事は「キュレーション」と呼ばれます。日本では「学芸員」は博物館法に定められた国家資格で、美術館のほか、科学館、動物園、水族館、植物園などにも置かれます。文化財を保存して後世に伝えるとともに、市民に学びの機会を提供する教育普及の役割も担っています。",
     "generalDifference": "近年は「情報のキュレーション」のように、情報を選んで編集する意味でも広く使われますが、もともとは美術館や博物館の専門職を指す言葉です。",
     "categoryIds": ["composition-viewing"],
     "difficulty": 1,
@@ -195,11 +234,17 @@
     "museumUsage": "展覧会のクレジットや解説、ギャラリートークの案内で使われます。",
     "relatedTerms": ["catalogue", "retrospective", "white-cube", "biennale"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「学芸員」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E5%AD%A6%E8%8A%B8%E5%93%A1-43581",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "retrospective",
@@ -208,7 +253,7 @@
     "english": "Retrospective",
     "aliases": ["レトロスペクティブ"],
     "summary": "一人の作家の初期から晩年までの作品を集め、その歩みをたどる展覧会。",
-    "definition": "一人の作家（またはグループ）の長い期間にわたる作品を集め、制作の変化や全体像を紹介する展覧会です。初期作品から代表作、晩年の作品まで時代順に並べる構成が多く見られます。存命の作家の場合も、それまでの活動をまとめる展覧会を回顧展と呼ぶことがあります。",
+    "definition": "一人の作家（またはグループ）の長い期間にわたる作品を集め、制作の変化や全体像を紹介する展覧会です。初期作品から代表作、晩年の作品まで時代順に並べる構成が多く見られます。存命の作家の場合も、それまでの活動をまとめる展覧会を回顧展と呼ぶことがあります。英語の「レトロスペクティブ」に当たり、作家の全生涯にわたる作品や活動を総覧することを目的とします。",
     "categoryIds": ["composition-viewing"],
     "difficulty": 1,
     "examples": [
@@ -222,11 +267,17 @@
     "museumUsage": "展覧会のタイトルや案内で使われます。",
     "relatedTerms": ["curator", "catalogue"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「回顧展」デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E5%9B%9E%E9%A1%A7%E5%B1%95-685651",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "white-cube",
@@ -235,7 +286,7 @@
     "english": "White cube",
     "aliases": ["ホワイト・キューブ"],
     "summary": "白い壁で囲まれ、装飾のない、近現代の美術館やギャラリーの典型的な展示空間。",
-    "definition": "白い壁、均一な照明、窓や装飾のない、作品だけに集中できるよう作られた展示空間を指します。20世紀の美術館で広く採用されました。一方で、作品を現実の社会から切り離し、特別なものに見せる空間であるとして、1970年代には批評家ブライアン・オドハティらによって問い直されました。",
+    "definition": "白い壁、均一な照明、窓や装飾のない、作品だけに集中できるよう作られた展示空間を指します。20世紀の美術館で広く採用されました。一方で、作品を現実の社会から切り離し、特別なものに見せる空間であるとして、1970年代には批評家ブライアン・オドハティらによって問い直されました。この概念は、オドハティが1975年1月にロサンゼルス・カウンティ美術館で行った講演「ホワイト・キューブの内部で——1855-1974年」で提起したのが始まりです。のちに同名の論考として刊行され、展示空間そのものが作品の見え方を方向づけているという議論に大きな影響を与えました。",
     "categoryIds": ["composition-viewing", "contemporary-art"],
     "difficulty": 2,
     "examples": [
@@ -247,11 +298,17 @@
     "museumUsage": "現代美術の解説で、美術館の外での展示や、場所と作品の関係を論じるときに使われます。",
     "relatedTerms": ["site-specific", "context", "installation", "curator"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「ホワイト・キューブ」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%BB%E3%82%8F%E3%81%84%E3%81%A8%E3%81%8D%E3%82%86%E3%83%BC%E3%81%B6-1592918",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "complementary-colors",
@@ -260,7 +317,7 @@
     "english": "Complementary colors",
     "aliases": ["反対色", "補色対比"],
     "summary": "色相環で正反対の位置にあり、並べると互いを引き立て合う色の組み合わせ。",
-    "definition": "赤と緑、青とオレンジ、黄と紫のように、色相環で向かい合う位置にある色の組み合わせです。隣り合わせに置くとお互いの色が鮮やかに見える「補色対比」の効果があります。印象派やポスト印象派の画家たちは、こうした色の効果を意識して用いました。",
+    "definition": "赤と緑、青とオレンジ、黄と紫のように、色相環で向かい合う位置にある色の組み合わせです。隣り合わせに置くとお互いの色が鮮やかに見える「補色対比」の効果があります。印象派やポスト印象派の画家たちは、こうした色の効果を意識して用いました。色彩学では、色の光を混ぜ合わせて無彩色（白や灰色）になる二色（加法混色による補色）、絵具などを混ぜて無彩色になる二色（減法混色による補色）、ある色を見つめた後に現れる残像の色（残像補色）などに分けて説明されます。",
     "categoryIds": ["composition-viewing"],
     "difficulty": 2,
     "examples": [
@@ -273,11 +330,17 @@
     "museumUsage": "色彩の効果を説明する絵画の解説で使われます。",
     "relatedTerms": ["impressionism", "fauvism", "composition"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「補色」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E8%A3%9C%E8%89%B2-133090",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
     "slug": "blank-space",
@@ -302,7 +365,11 @@
     "relatedTerms": ["composition", "nihonga", "watercolor"],
     "prerequisiteTerms": [],
     "sources": [],
-    "verification": { "status": "unverified" },
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30",
+      "note": "主要な辞典・用語集（コトバンク、Tate Art Terms）を確認しましたが、この用語を美術の意味で解説した出典は見つかりませんでした。本文は編集部の記述によるものです。"
+    },
     "status": "published",
     "createdAt": "2026-10-25",
     "updatedAt": "2026-10-25"
@@ -330,7 +397,11 @@
     "relatedTerms": ["impasto", "matiere", "impressionism", "corporeality"],
     "prerequisiteTerms": [],
     "sources": [],
-    "verification": { "status": "unverified" },
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30",
+      "note": "主要な辞典・用語集（コトバンク、Tate Art Terms）を確認しましたが、この用語を美術の意味で解説した出典は見つかりませんでした。本文は編集部の記述によるものです。"
+    },
     "status": "published",
     "createdAt": "2026-10-25",
     "updatedAt": "2026-10-25"
@@ -358,7 +429,11 @@
     "relatedTerms": ["caption", "abstract"],
     "prerequisiteTerms": [],
     "sources": [],
-    "verification": { "status": "unverified" },
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30",
+      "note": "主要な辞典・用語集（コトバンク、Tate Art Terms）を確認しましたが、この用語を美術の意味で解説した出典は見つかりませんでした。本文は編集部の記述によるものです。"
+    },
     "status": "published",
     "createdAt": "2026-10-25",
     "updatedAt": "2026-10-25"
@@ -370,7 +445,7 @@
     "english": "Caption / Label",
     "aliases": ["作品ラベル", "解説パネル", "ラベル"],
     "summary": "展示作品のそばに掲示される、作品名や作者、素材などの情報を記した札。",
-    "definition": "作品の横や下に掲示される小さな説明のことです。一般的に、作家名、作品名、制作年、素材・技法、サイズ、所蔵先などが記されます。作品の背景や見どころを短く説明した解説文が添えられることもあります。",
+    "definition": "作品の横や下に掲示される小さな説明のことです。一般的に、作家名、作品名、制作年、素材・技法、サイズ、所蔵先などが記されます。作品の背景や見どころを短く説明した解説文が添えられることもあります。もともとは印刷物で写真や挿絵に添える説明文を指す言葉で、記事の見出しや映画の字幕の意味でも使われます。",
     "categoryIds": ["composition-viewing"],
     "difficulty": 1,
     "examples": [
@@ -385,18 +460,30 @@
     "museumUsage": "展示室で必ず目にする基本の言葉です。",
     "relatedTerms": ["mixed-media", "untitled", "edition", "catalogue"],
     "prerequisiteTerms": [],
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「キャプション」デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E3%81%8D%E3%82%84%E3%81%B7%E3%81%97%E3%82%88%E3%82%93-3209774",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-25",
-    "updatedAt": "2026-10-25"
+    "updatedAt": "2026-10-30"
   },
   {
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「黄金比」デジタル大辞泉",
+        "url": "https://kotobank.jp/word/%E9%BB%84%E9%87%91%E6%AF%94-173016",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-29",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-10-30",
     "prerequisiteTerms": ["composition"],
     "slug": "golden-ratio",
     "term": "黄金比",
@@ -404,7 +491,7 @@
     "english": "Golden ratio",
     "aliases": ["黄金分割", "黄金律"],
     "summary": "約1：1.618の比率で、古くから美しい比例とされてきたもの。",
-    "definition": "線分を、全体と長い部分の比が、長い部分と短い部分の比と等しくなるように分けたときの比率で、およそ1：1.618です。古代ギリシアから知られ、ルネサンス期には数学者ルカ・パチョーリが『神聖比例論』で論じました。20世紀には建築家ル・コルビュジエが黄金比をもとにした寸法体系「モデュロール」を考案しました。",
+    "definition": "線分を、全体と長い部分の比が、長い部分と短い部分の比と等しくなるように分けたときの比率で、およそ1：1.618です。古代ギリシアから知られ、ルネサンス期には数学者ルカ・パチョーリが『神聖比例論』で論じました。20世紀には建築家ル・コルビュジエが黄金比をもとにした寸法体系「モデュロール」を考案しました。人にとって最も安定し、美しい比率とされ、造形の要素の一つとして扱われてきました。「外中比」とも呼ばれます。",
     "artUsage": "絵画や建築の構図・比例を分析する際に使われます。ただし、古代の建築や有名な絵画に黄金比が使われているという説には、後から当てはめたものも多く、根拠がはっきりしない例も少なくありません。",
     "confusables": [
       {
@@ -428,7 +515,11 @@
   },
   {
     "sources": [],
-    "verification": { "status": "unverified" },
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30",
+      "note": "主要な辞典・用語集（コトバンク、Tate Art Terms）を確認しましたが、この用語を美術の意味で解説した出典は見つかりませんでした。本文は編集部の記述によるものです。"
+    },
     "status": "published",
     "createdAt": "2026-10-29",
     "updatedAt": "2026-10-29",
@@ -469,11 +560,17 @@
     "categoryIds": ["composition-viewing"]
   },
   {
-    "sources": [],
-    "verification": { "status": "unverified" },
+    "sources": [
+      {
+        "title": "「屏風」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E5%B1%8F%E9%A2%A8-121394",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": { "status": "verified", "checkedAt": "2026-10-30" },
     "status": "published",
     "createdAt": "2026-10-29",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-10-30",
     "prerequisiteTerms": [],
     "slug": "byobu",
     "term": "屏風",
@@ -481,7 +578,7 @@
     "english": "Folding screen",
     "aliases": ["屏風絵", "六曲一双"],
     "summary": "複数の画面をつないだ折りたたみ式の調度で、日本美術の重要な画面形式。",
-    "definition": "風よけや間仕切りのための室内調度で、その画面に絵や書が描かれました。一枚の面を「扇（せん）」と数え、六扇からなるものを「六曲」、左右一対を「一双」と呼びます。向かって右を右隻（うせき）、左を左隻（させき）といいます。ジグザグに折って立てるため、見る角度によって画面に奥行きや変化が生まれます。",
+    "definition": "風よけや間仕切りのための室内調度で、その画面に絵や書が描かれました。一枚の面を「扇（せん）」と数え、六扇からなるものを「六曲」、左右一対を「一双」と呼びます。向かって右を右隻（うせき）、左を左隻（させき）といいます。ジグザグに折って立てるため、見る角度によって画面に奥行きや変化が生まれます。日本への伝来を伝える最初の記録は『日本書紀』の朱鳥元年（686年）の条で、新羅からの献上品に屏風があったとされます。奈良時代の『東大寺献物帳』には「御屏風壱百畳」と記され、そのうちのいくつかが正倉院に現存しています。",
     "artUsage": "屏風に描かれた絵画（屏風絵）を指して使われることも多く、展示では作品名に「〜図屏風」とつくのが一般的です。",
     "difficulty": 1,
     "examples": [
