@@ -19,20 +19,56 @@ export const TermCard: FC<{
       flexDirection: "column",
       gap: space.xs,
       height: "100%",
-      padding: space.md,
+      padding: space.lg,
       textDecoration: "none",
     }}
   >
-    <span style={{ color: color.sub, fontSize: size.xs }}>
-      {term.reading}
-      {term.english && ` / ${term.english}`}
-    </span>
+    {term.english && (
+      <span
+        style={{
+          color: color.accent,
+          fontSize: size.xs,
+          fontWeight: 600,
+          letterSpacing: ".18em",
+          textTransform: "uppercase",
+        }}
+      >
+        {term.english}
+      </span>
+    )}
     <span
-      style={{ fontFamily: font.serif, fontSize: size.lg, fontWeight: 500 }}
+      style={{
+        fontFamily: font.serif,
+        fontSize: size.xl,
+        fontWeight: 700,
+        letterSpacing: ".04em",
+        lineHeight: 1.3,
+      }}
     >
       {term.term}
     </span>
-    <span style={{ fontSize: size.sm, lineHeight: 1.7 }}>{term.summary}</span>
+    <span
+      style={{
+        borderBottom: `1px solid ${color.border}`,
+        color: color.sub,
+        fontSize: size.xs,
+        letterSpacing: ".2em",
+        paddingBottom: space.sm,
+      }}
+    >
+      {term.reading}
+    </span>
+    <span
+      style={{
+        color: color.ink,
+        fontSize: size.md,
+        letterSpacing: ".03em",
+        lineHeight: 1.9,
+        paddingTop: space.xs,
+      }}
+    >
+      {term.summary}
+    </span>
     {categoryNames && (
       <span
         style={{
@@ -66,7 +102,12 @@ export const TermGrid: FC<{
   terms: TermIndex[]
   categoryNames?: Record<string, string>
 }> = ({ terms, categoryNames }) => (
-  <ul style={styles.grid}>
+  <ul
+    style={{
+      ...styles.grid,
+      gridTemplateColumns: "repeat(auto-fill, minmax(min(100%, 20rem), 1fr))",
+    }}
+  >
     {terms.map((t) => (
       <li key={t.slug}>
         <TermCard term={t} categoryNames={categoryNames} />
