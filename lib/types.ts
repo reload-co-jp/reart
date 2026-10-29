@@ -105,7 +105,7 @@ export type TermArtwork = {
   artworkId: string
   keyword: string
   reason: string
-  unchecked?: boolean // `collect` で自動収集した未確認の候補。ページに出さない
+  unchecked?: boolean // `collect` で自動収集した未確認の候補
 }
 
 export type Exhibition = {

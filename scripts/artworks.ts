@@ -6,7 +6,7 @@
 //   pnpm artworks remove <slug> <artworkId>
 //   pnpm artworks refresh [artworkId]   指定作品、または画像取得エラーの作品を再取得
 //   pnpm artworks collect               全用語に、作品未登録の館の上位候補を未確認で登録
-// collect の候補（unchecked）はページに出ない。add し直すと確認済みになる。
+// collect の候補には unchecked が付く。add し直すと確認済みになる。
 // 表示順は data/term-artworks.json の配列順。並べ替えはファイルを直接編集する。
 //
 // 利用条件の判定（CC0 / Public Domain のみ保存）

@@ -156,10 +156,9 @@ export const guidesForCategory = (slug: string) =>
     .sort((a, b) => b.n - a.n)
     .map((x) => x.g)
 
-// 用語に紐付いた確認済みの作品のうち、画像を保存済みのものを表示順に
+// 用語に紐付いた作品のうち、画像を保存済みのものを表示順に
 export const artworksForTerm = (slug: string) =>
   (termArtworks[slug] ?? [])
-    .filter((l) => !l.unchecked)
     .map((l) => artworks.find((a) => a.id === l.artworkId)!)
     .filter((a) => a.localImagePath)
 
