@@ -1,14 +1,15 @@
 "use client"
 
-import { CSSProperties, FC, useRef } from "react"
-import { color } from "@/components/theme"
+import { CSSProperties, FC, ReactNode, useRef } from "react"
+import { color, size, space } from "@/components/theme"
 
-// 画像タップで全画面表示。Esc・背景タップで閉じる
+// 画像タップで全画面表示。Esc・画像タップで閉じる
 export const ImageViewer: FC<{
   src: string
   alt: string
+  caption?: ReactNode
   style?: CSSProperties
-}> = ({ src, alt, style }) => {
+}> = ({ src, alt, caption, style }) => {
   const ref = useRef<HTMLDialogElement>(null)
   return (
     <>
@@ -41,41 +42,60 @@ export const ImageViewer: FC<{
           width: "100vw",
         }}
       >
-        <button
-          type="button"
-          aria-label="閉じる"
-          onClick={() => ref.current?.close()}
-          style={{
-            background: "none",
-            border: 0,
-            color: color.inverse,
-            cursor: "zoom-out",
-            display: "block",
-            height: "100%",
-            padding: 0,
-            position: "relative",
-            width: "100%",
-          }}
+        <div
+          style={{ display: "flex", flexDirection: "column", height: "100%" }}
         >
-          <img
-            src={src}
-            alt={alt}
-            style={{ height: "100%", objectFit: "contain", width: "100%" }}
-          />
-          <span
-            aria-hidden
+          <button
+            type="button"
+            aria-label="閉じる"
+            onClick={() => ref.current?.close()}
             style={{
-              fontSize: "2rem",
-              lineHeight: 1,
-              padding: "1rem",
-              position: "absolute",
-              right: 0,
-              top: 0,
+              background: "none",
+              border: 0,
+              color: color.inverse,
+              cursor: "zoom-out",
+              display: "block",
+              flex: 1,
+              minHeight: 0,
+              padding: 0,
+              position: "relative",
+              width: "100%",
             }}
           >
-            ×
-          </span>
-        </button>
+            <img
+              src={src}
+              alt={alt}
+              style={{ height: "100%", objectFit: "contain", width: "100%" }}
+            />
+            <span
+              aria-hidden
+              style={{
+                fontSize: "2rem",
+                lineHeight: 1,
+                padding: "1rem",
+                position: "absolute",
+                right: 0,
+                top: 0,
+              }}
+            >
+              ×
+            </span>
+          </button>
+          {caption && (
+            <div
+              style={{
+                color: color.inverse,
+                fontSize: size.sm,
+                lineHeight: 1.8,
+                maxHeight: "40%",
+                overflowY: "auto",
+                padding: space.md,
+              }}
+            >
+              {caption}
+            </div>
+          )}
+        </div>
       </dialog>
     </>
   )

@@ -319,6 +319,19 @@ const TermPage = async ({ params }: Props) => {
                       <ImageViewer
                         src={a.localImagePath}
                         alt={a.title}
+                        caption={
+                          <>
+                            <p>
+                              {a.artist && `${a.artist}`}《{a.title}》
+                              {a.date && `、${a.date}`}
+                            </p>
+                            {a.description && (
+                              <p lang="en" style={{ marginTop: space.sm }}>
+                                {a.description}
+                              </p>
+                            )}
+                          </>
+                        }
                         style={{
                           width: "100%",
                           height: 200,
