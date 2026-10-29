@@ -1194,5 +1194,38 @@
     "status": "published",
     "createdAt": "2026-10-26",
     "updatedAt": "2026-10-26"
+  },
+  {
+    "slug": "takuhon",
+    "term": "拓本",
+    "reading": "たくほん",
+    "english": "Ink rubbing",
+    "aliases": ["拓", "拓影", "石摺"],
+    "summary": "石碑や器物の文字・文様の上に紙を当て、墨をたたきつけて写し取ったもの。",
+    "definition": "石碑や青銅器などに刻まれた文字や文様の上に湿らせた紙を密着させ、墨を含ませたたんぽでたたいて写し取ったものです。刻まれた部分は白く、平らな部分は黒く写ります。中国では古くから書の手本や記録として作られ、拓本そのものが鑑賞や収集の対象になりました。墨の濃さによって、黒々とした「烏金拓」や淡い「蝉翼拓」などの呼び名があります。",
+    "categoryIds": ["materials-techniques", "genres-styles"],
+    "difficulty": 3,
+    "examples": [
+      {
+        "description": "書聖・王羲之の書を刻んだ石碑から写し取った拓本。"
+      },
+      {
+        "description": "青銅器の銘文を写した拓本。"
+      }
+    ],
+    "viewingTips": [
+      "文字が白く抜けていることから、元は石に彫られた文字だとわかる。",
+      "墨の濃淡の使い分けに注目する。"
+    ],
+    "museumUsage": "書跡や中国美術の展示で使われます。キャプションに「原跡」とあれば、元になった書を指します。",
+    "relatedTerms": ["calligraphy", "printmaking", "relief"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": {
+      "status": "unverified"
+    },
+    "status": "published",
+    "createdAt": "2026-10-29",
+    "updatedAt": "2026-10-29"
   }
 ]

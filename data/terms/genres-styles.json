@@ -591,5 +591,137 @@
     "status": "published",
     "createdAt": "2026-10-25",
     "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "mandala",
+    "term": "曼荼羅",
+    "reading": "まんだら",
+    "english": "Mandala",
+    "aliases": ["曼陀羅", "マンダラ"],
+    "summary": "仏や菩薩を決まった配置で描き、仏教の世界観を表した図。",
+    "definition": "仏教、とくに密教で、悟りの世界や仏の教えを図で表したものです。中心となる仏のまわりに多くの仏や菩薩を幾何学的な配置で描くのが典型です。日本では両界曼荼羅（胎蔵界・金剛界）がよく知られ、チベット仏教でも色鮮やかな曼荼羅が数多く作られました。礼拝や修行のための道具でもあります。",
+    "categoryIds": ["genres-styles", "concepts"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "中心の大日如来を多くの仏が取り囲む、両界曼荼羅。"
+      },
+      {
+        "description": "高価な絵具を使って鮮やかに描かれた、チベット仏教の曼荼羅。"
+      }
+    ],
+    "viewingTips": [
+      "まず中心の仏を見つけ、そこから外側へ視線を広げていく。",
+      "配置の対称性や、色の使い分けに注目する。"
+    ],
+    "museumUsage": "仏教美術の展示で頻出します。作品名には中心となる仏の名前が入ることが多いです。",
+    "relatedTerms": ["iconography", "symbol", "pigment"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": {
+      "status": "unverified"
+    },
+    "status": "published",
+    "createdAt": "2026-10-29",
+    "updatedAt": "2026-10-29"
+  },
+  {
+    "slug": "miniature-painting",
+    "term": "細密画",
+    "reading": "さいみつが",
+    "english": "Miniature painting",
+    "aliases": ["ミニアチュール", "ミニアチュール絵画"],
+    "summary": "細い筆で精密に描かれた小さな絵画。写本の挿絵や肖像画が多い。",
+    "definition": "小さな画面に細い筆で精密に描き込んだ絵画です。中世ヨーロッパの写本挿絵のほか、ペルシア、インド（ムガル派やラージプート派など）、オスマン朝などで大きく発展しました。鮮やかな顔料や金が使われ、宮廷の人物や物語の場面が細部まで描かれます。",
+    "categoryIds": ["genres-styles"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "インドの宮廷で描かれた、王の肖像の細密画。"
+      },
+      {
+        "description": "ペルシアの物語写本に添えられた挿絵。"
+      }
+    ],
+    "viewingTips": [
+      "単眼鏡などを使って、衣装の文様や顔の表情などの細部を見る。",
+      "金や鮮やかな顔料の使い方に注目する。"
+    ],
+    "museumUsage": "インドやイスラム圏の絵画の展示で使われます。キャプションには「〜派」と画派名が記されることがあります。",
+    "relatedTerms": ["portrait", "pigment", "watercolor"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": {
+      "status": "unverified"
+    },
+    "status": "published",
+    "createdAt": "2026-10-29",
+    "updatedAt": "2026-10-29"
+  },
+  {
+    "slug": "calligraphy",
+    "term": "書",
+    "reading": "しょ",
+    "english": "Calligraphy",
+    "aliases": ["書道", "書跡", "書蹟"],
+    "summary": "筆と墨で文字を書く芸術、またはその作品。",
+    "definition": "筆と墨を使って文字を書く表現で、東アジアでは絵画と並ぶ重要な芸術とされてきました。文字の形だけでなく、筆の運び、線の強弱、墨の濃淡、余白とのバランスなどが鑑賞の対象になります。中国の王羲之は「書聖」と呼ばれ、後の時代の手本となりました。美術館では、古人が書いた作品を「書跡」と呼びます。",
+    "categoryIds": ["genres-styles"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "王羲之の書を手本として写した作品。"
+      },
+      {
+        "description": "禅僧が力強い筆づかいで書いた墨跡。"
+      }
+    ],
+    "viewingTips": [
+      "読めなくても、筆の速さや線の勢いを目で追ってみる。",
+      "墨の濃淡やかすれ、文字と余白の関係に注目する。"
+    ],
+    "museumUsage": "東洋美術の展示で分野名として使われます。展示室名や作品分類に「書跡」とあるのは書の作品のことです。",
+    "relatedTerms": ["ink-painting", "takuhon", "blank-space", "bunjinga"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": {
+      "status": "unverified"
+    },
+    "status": "published",
+    "createdAt": "2026-10-29",
+    "updatedAt": "2026-10-29"
+  },
+  {
+    "slug": "bunjinga",
+    "term": "文人画",
+    "reading": "ぶんじんが",
+    "english": "Literati painting",
+    "aliases": ["南画", "文人"],
+    "summary": "職業画家ではない教養人（文人）が、趣味として自由に描いた絵画。",
+    "definition": "学問や詩文に通じた知識人である「文人」が、職業としてではなく自らの心を表すために描いた絵画です。中国で発達し、山水や草木を水墨や淡い彩色で描くことが多く、詩や書と組み合わせることも重視されました。日本では江戸時代に広まり「南画」とも呼ばれ、池大雅や与謝蕪村などが知られます。文人は書斎で書画や文房具を愛好しました。",
+    "categoryIds": ["genres-styles", "art-history"],
+    "difficulty": 3,
+    "examples": [
+      {
+        "description": "山水の風景に、描いた本人の詩を書き添えた掛軸。"
+      },
+      {
+        "description": "江戸時代に池大雅が描いた、柔らかな筆づかいの山水図。"
+      }
+    ],
+    "viewingTips": [
+      "絵と一緒に書かれた詩や文字にも目を向ける。",
+      "写実よりも、筆づかいや画面の雰囲気を味わう。"
+    ],
+    "museumUsage": "中国絵画や江戸絵画の展示で使われます。「文人の書斎」として、文房具や書画を一緒に展示することもあります。",
+    "relatedTerms": ["ink-painting", "calligraphy", "landscape-painting"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": {
+      "status": "unverified"
+    },
+    "status": "published",
+    "createdAt": "2026-10-29",
+    "updatedAt": "2026-10-29"
   }
 ]

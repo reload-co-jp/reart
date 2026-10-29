@@ -214,5 +214,181 @@
     "status": "published",
     "createdAt": "2026-10-25",
     "updatedAt": "2026-10-25"
+  },
+  {
+    "slug": "celadon",
+    "term": "青磁",
+    "reading": "せいじ",
+    "english": "Celadon",
+    "aliases": ["青瓷", "セラドン"],
+    "summary": "鉄分を含む釉薬を還元炎で焼き、青緑色に発色させたやきもの。",
+    "definition": "釉薬に含まれるわずかな鉄分が、窯の中で酸素の少ない状態（還元炎）で焼かれることで青緑色に発色したやきものです。中国で古くから作られ、宋時代の龍泉窯などの作品が名品として知られます。朝鮮半島の高麗青磁や、タイ、日本などアジア各地でも作られました。釉の厚みや焼き加減によって、澄んだ青から黄みを帯びた色まで表情が変わります。",
+    "categoryIds": ["craft-design", "materials-techniques"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "中国・南宋時代の龍泉窯で焼かれた、澄んだ青緑色の花生。"
+      },
+      {
+        "description": "黄みを帯びた柔らかな色調の、タイ・シーサッチャナーライ窯の鉢。"
+      }
+    ],
+    "viewingTips": [
+      "産地や時代による色の違い（青みが強いか、黄みを帯びるか）を見比べる。",
+      "釉が厚くたまった部分と薄い部分の色の差に注目する。"
+    ],
+    "museumUsage": "東洋陶磁の展示で頻出します。キャプションでは「青磁鉄絵」「青磁象嵌」のように、装飾技法と組み合わせた名前で記されます。",
+    "relatedTerms": ["ceramics", "glaze", "tetsu-e", "kogei"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": {
+      "status": "unverified"
+    },
+    "status": "published",
+    "createdAt": "2026-10-29",
+    "updatedAt": "2026-10-29"
+  },
+  {
+    "slug": "glaze",
+    "term": "釉薬",
+    "reading": "ゆうやく",
+    "english": "Glaze",
+    "aliases": ["釉", "うわぐすり"],
+    "summary": "やきものの表面にかけ、焼成によってガラス質の膜にする薬。",
+    "definition": "陶磁器の表面にかけて焼くと、溶けてガラス質の膜になる材料です。器に水がしみこむのを防ぐとともに、色やつや、質感を与えます。含まれる金属の種類や焼き方によって色が変わり、鉄を含むものは青磁や黒い天目に、銅を含むものは赤や緑に発色します。キャプションでは「釉」と一字で書かれることも多い言葉です。",
+    "confusables": [
+      {
+        "slug": "glazing",
+        "note": "グレーズは油彩画で薄い透明な絵具を重ねる技法で、やきものの釉薬とは別のものです。"
+      }
+    ],
+    "categoryIds": ["craft-design", "materials-techniques"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "鉄分を含む釉が青緑色に発色した青磁の碗。"
+      },
+      {
+        "description": "釉が流れ落ちて、思いがけない景色を生んだ茶碗。"
+      }
+    ],
+    "viewingTips": [
+      "釉の色・つや・ひび（貫入）などの表情を観察する。",
+      "器の下のほうで釉が止まっている部分を探すと、釉の厚みがわかる。"
+    ],
+    "museumUsage": "陶磁器の展示で、色や質感を説明するときに使われます。「釉調」は釉の色合いや質感を指す言葉です。",
+    "relatedTerms": ["ceramics", "celadon", "tetsu-e"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": {
+      "status": "unverified"
+    },
+    "status": "published",
+    "createdAt": "2026-10-29",
+    "updatedAt": "2026-10-29"
+  },
+  {
+    "slug": "tetsu-e",
+    "term": "鉄絵",
+    "reading": "てつえ",
+    "english": "Iron-painted decoration",
+    "aliases": ["鉄絵具", "銹絵"],
+    "summary": "鉄分を多く含む絵具で文様を描き、焼成で黒褐色などに発色させる陶磁器の装飾。",
+    "definition": "鉄分を多く含む顔料で器に絵や文様を描き、釉をかけて焼く装飾技法です。焼き上がると黒や茶褐色に発色します。釉の下に描く「下絵付け」の一種で、中国の磁州窯や朝鮮半島、日本の志野・唐津焼、東南アジアのやきものなど、各地で使われてきました。",
+    "categoryIds": ["craft-design", "materials-techniques"],
+    "difficulty": 3,
+    "examples": [
+      {
+        "description": "青磁の釉の下に、鉄絵で魚や草花を描いた鉢。"
+      },
+      {
+        "description": "白い化粧土の上に黒褐色の鉄絵で文様を描いた磁州窯の壺。"
+      }
+    ],
+    "viewingTips": [
+      "筆の勢いや線の太さの変化から、描き手の手の動きを想像する。"
+    ],
+    "museumUsage": "陶磁器のキャプションで「青磁鉄絵」「鉄絵草花文」のように、技法名として作品名に組み込まれます。",
+    "relatedTerms": ["ceramics", "glaze", "celadon", "monyo"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": {
+      "status": "unverified"
+    },
+    "status": "published",
+    "createdAt": "2026-10-29",
+    "updatedAt": "2026-10-29"
+  },
+  {
+    "slug": "embroidery",
+    "term": "刺繍",
+    "reading": "ししゅう",
+    "english": "Embroidery",
+    "aliases": ["刺繡", "繡", "エンブロイダリー"],
+    "summary": "布に針と糸で模様や絵を縫い表す装飾技法。",
+    "definition": "布地に針で色糸を刺し、模様や絵を表す技法です。糸の種類や刺し方（ステッチ）の組み合わせによって、面を埋めたり、立体感やつやを出したりできます。中国では古くから高度な刺繍が発達し、衣装や仏具、敷物などを華やかに飾りました。染めや織りとは違い、すでにできた布の上に装飾を加える点が特徴です。",
+    "categoryIds": ["craft-design", "materials-techniques"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "色とりどりの絹糸で草花を表した、中国・明時代の打敷。"
+      },
+      {
+        "description": "金糸を使って文様を縫い表した能装束。"
+      }
+    ],
+    "viewingTips": [
+      "近くで見て、糸の向きや刺し方の違いを探す。",
+      "糸のつやが光の当たり方でどう変わるかに注目する。"
+    ],
+    "museumUsage": "染織の展示で、技法名として使われます。展示室では「刺繡」と旧字体で書かれることもあります。",
+    "relatedTerms": ["textile", "dyeing", "monyo"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": {
+      "status": "unverified"
+    },
+    "status": "published",
+    "createdAt": "2026-10-29",
+    "updatedAt": "2026-10-29"
+  },
+  {
+    "slug": "monyo",
+    "term": "文様",
+    "reading": "もんよう",
+    "english": "Pattern / Motif",
+    "aliases": ["紋様", "文様表現"],
+    "summary": "器や布、建築などを飾るために繰り返し表される図柄。",
+    "definition": "工芸品や建築などの表面を飾る図柄のことです。植物、動物、幾何学的な形などが、決まった型として繰り返し使われます。日本や東洋の美術では作品名に文様の名前が組み込まれることが多く、「唐草文」「花卉魚文」のように「〜文」と略して書かれます。文様には吉祥（めでたさ）や長寿などの願いが込められていることもあります。",
+    "confusables": [
+      {
+        "slug": "motif",
+        "note": "モチーフは作品に描かれる題材全般を指し、文様は装飾として繰り返される図柄を指します。"
+      }
+    ],
+    "categoryIds": ["craft-design", "concepts"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "つる草が連続して広がる唐草文の鉢。"
+      },
+      {
+        "description": "長寿を願う鶴や亀を表した着物。"
+      }
+    ],
+    "viewingTips": [
+      "作品名の「〜文」の部分から、何の文様かを読み取る。",
+      "文様に込められた願いや意味を考えてみる。"
+    ],
+    "museumUsage": "工芸の展示のキャプションで、作品名の一部として頻繁に使われます。",
+    "relatedTerms": ["motif", "symbol", "textile", "ceramics"],
+    "prerequisiteTerms": [],
+    "sources": [],
+    "verification": {
+      "status": "unverified"
+    },
+    "status": "published",
+    "createdAt": "2026-10-29",
+    "updatedAt": "2026-10-29"
   }
 ]
