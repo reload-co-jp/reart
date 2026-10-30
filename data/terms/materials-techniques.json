@@ -1627,5 +1627,1345 @@
     "museumExample": "わずかな線で人体の動きを捉えたクロッキーからは、作家の鋭い観察眼がうかがえる。",
     "relatedTerms": ["drawing", "brushwork"],
     "categoryIds": ["materials-techniques"]
+  },
+  {
+    "confusables": [
+      {
+        "slug": "medium",
+        "note": "メディウムは絵具など作品を形づくる素材を指し、支持体はそれを載せて支える土台を指します。"
+      }
+    ],
+    "prerequisiteTerms": [],
+    "slug": "support",
+    "term": "支持体",
+    "reading": "しじたい",
+    "english": "Support",
+    "aliases": ["基底材"],
+    "summary": "キャンヴァスや板、紙など、絵具などを載せて作品を支える土台となるもの。",
+    "definition": "芸術作品が存在することを「支える」もの、つまり作品の物質的な土台を意味します。絵画なら絵具のように、各ジャンルに固有の素材を「メディウム」と呼ぶのに対し、「支持体」はそれを文字どおり支えるものに当たります。一般にキャンヴァスを支持体とする絵画以外では、何を支持体とみなすかを決めるのが難しい場合も多くあります。絵画の分野で支持体そのものを問題にした作家として、ルーチョ・フォンタナが知られます。フォンタナは「空間主義」を唱え、キャンヴァスに穴を開けたり切り裂いたりすることで、二次元とみなされる絵画の三次元性を示そうとしました。通常の長方形ではない変形キャンヴァスを用いたフランク・ステラらも、この流れに位置づけられます。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "麻布に油絵具で描かれた絵画。この場合の支持体は麻布。"
+      },
+      {
+        "description": "キャンヴァスに刃物で切れ目を入れた作品。"
+      }
+    ],
+    "viewingTips": [
+      "キャプションの素材欄で、何に描かれているかを確かめる。",
+      "作品の側面や縁を見て、支持体の厚みや形に注目する。"
+    ],
+    "museumUsage": "作品の素材や保存修復の解説、「〜に油彩」といったキャプションの読み方の説明で使われます。",
+    "relatedTerms": ["medium", "oil-painting", "tableau", "fresco", "matiere"],
+    "sources": [
+      {
+        "title": "現代美術用語辞典「支持体」",
+        "url": "https://artscape.jp/artword/6027/",
+        "publisher": "artscape"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "stencil",
+    "term": "ステンシル",
+    "reading": "すてんしる",
+    "english": "Stencil",
+    "aliases": ["型紙摺り", "合羽摺り", "合羽版", "ポショワール"],
+    "summary": "形を切り抜いた型紙の上から絵具を刷り込み、穴の形を写す技法。",
+    "definition": "紙や金属の板に図柄や文字を切り抜き、その上から絵具やインクを刷り込んで、穴を通して形を写す方法です。フランス語ではポショワールと呼びます。孔版の最も基本的な技法で、版画、染織、簡易印刷などに使われます。日本の合羽摺りや、型紙を使う型染めもステンシルの一種で、日本では特に染織の分野で高度な技術が発達しました。細かな描写には向きませんが、簡潔で明快な表現が得られます。プレス機を使わないため刷る対象を選ばず、また版画のなかでは例外的に図柄が左右反転しないのも特徴です。代表的な作例としてマティスの画集『ジャズ』（1947年）が挙げられます。「合羽摺り」の名は、型紙に使う油を引いた耐水性の紙を、かつて雨具（合羽）に用いたことに由来します。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "切り抜いた型を壁に当て、スプレーで人物の姿を吹き付けた作品。"
+      },
+      {
+        "description": "型紙を使って、くっきりとした色面を刷り重ねた版画集。"
+      }
+    ],
+    "viewingTips": [
+      "色の境目がくっきりしているか、型の縁がにじんでいないかを近くで見る。",
+      "同じ形が繰り返し使われていないかを探す。"
+    ],
+    "museumUsage": "版画や染織の技法の解説、ストリートアートの作品紹介で使われます。",
+    "relatedTerms": ["printmaking", "silkscreen", "dyeing", "street-art"],
+    "sources": [
+      {
+        "title": "「ステンシル」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%99%E3%81%A6%E3%82%93%E3%81%97%E3%82%8B-3156375",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "現代美術用語辞典「ステンシル」",
+        "url": "https://artscape.jp/artword/6161/",
+        "publisher": "artscape"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [
+      {
+        "slug": "etching",
+        "note": "エッチングは薬品で版を腐食させて線をつくりますが、エングレーヴィングは刃物で直接版を彫ります。"
+      },
+      {
+        "slug": "drypoint",
+        "note": "ドライポイントも直接彫る技法ですが、針で引っかくため線ににじみが出ます。エングレーヴィングは線がくっきりしています。"
+      }
+    ],
+    "prerequisiteTerms": [],
+    "slug": "engraving",
+    "term": "エングレーヴィング",
+    "reading": "えんぐれーゔぃんぐ",
+    "english": "Engraving",
+    "aliases": ["エングレービング", "ビュラン彫り", "線刻銅版画"],
+    "summary": "ビュランという鋭い刃物で銅版を直接彫って版をつくる、最も古い凹版の技法。",
+    "definition": "ビュランと呼ばれる鋭い彫刻刀で銅版を直接彫って版をつくる凹版技法の一つです。1420年から30年ごろにドイツで生まれた、凹版のなかで最も古い技法とされます。彫った溝にインクを詰め、プレス機で刷ります。ビュランは一定の方向にしか彫り進められないため、思いどおりの線をつくるには熟練が必要です。線は明確でなめらかで、始まりと終わりが細く中ほどが太くなるのが特徴です。民衆が楽しんだ木版画と対照的に、素材が高価で高い技術を要する金属の版画は、当初から王侯などの富裕層の鑑賞や収集のためにつくられ、代表的な作家にデューラーがいます。写真がない時代には名画の複製技法としてもよく用いられ、鋼鉄の版を使うスチール・エングレーヴィングは、現在も紙幣や切手の印刷に使われています。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "細い線を何本も平行に重ねて陰影をつけた、16世紀の銅版画。"
+      },
+      {
+        "description": "紙幣に刷られた肖像の、非常に細かな線の模様。"
+      }
+    ],
+    "viewingTips": [
+      "単眼鏡などで線に近づき、線の太さが途中で変わる様子を確かめる。",
+      "線の重ね方だけで、どのように明暗や質感が表されているかを見る。"
+    ],
+    "museumUsage": "西洋の版画、特にデューラーなどの銅版画の展示で使われます。",
+    "relatedTerms": [
+      "printmaking",
+      "etching",
+      "drypoint",
+      "mezzotint",
+      "aquatint"
+    ],
+    "sources": [
+      {
+        "title": "「エングレービング」ブリタニカ国際大百科事典 小項目事典",
+        "url": "https://kotobank.jp/word/%E3%81%88%E3%82%93%E3%81%90%E3%82%8C%E3%83%BC%E3%81%B3%E3%82%93%E3%81%90-3178693",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "現代美術用語辞典「エングレーヴィング」",
+        "url": "https://artscape.jp/artword/5691/",
+        "publisher": "artscape"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [
+      {
+        "slug": "pigment",
+        "note": "顔料は色のもとになる粉全般を指し、岩絵具はそのうち鉱石などからつくる日本画用の粒子状の絵具を指します。"
+      }
+    ],
+    "prerequisiteTerms": [],
+    "slug": "iwa-enogu",
+    "term": "岩絵具",
+    "reading": "いわえのぐ",
+    "english": "Mineral pigments",
+    "aliases": ["岩絵の具", "天然岩絵具", "新岩絵具"],
+    "summary": "鉱石を砕いてつくる、日本画で使われる粒子状の絵具。",
+    "definition": "主に鉱石を砕いてつくられた、粒子状の日本画の絵具です。朱、緑青（ろくしょう）、群青（ぐんじょう）、黄土などがあり、砂のように粗い粒子と、艶のないマットな質感が特徴です。絵具そのものには接着する力がなく、水にも溶けないため、膠（にかわ）を加えて画面に定着させます。粒子の大きさは番号で表され、粒子が細かいほど色が淡く白っぽくなり、最も細かいものは「白（びゃく）」と呼ばれます。天然の鉱石からつくる「天然岩絵具」のほか、近代以降には、ガラスに金属酸化物を加えた人工の石を砕いた「新岩絵具」もつくられ、色数が豊富になりました。粒子の隙間から下の色が透けやすいため、塗り重ねることで深みのある色調を表現できます。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "群青と緑青の岩絵具で、山や水の流れを鮮やかに描いた日本画。"
+      },
+      {
+        "description": "粗い粒子を厚く重ね、ざらりとした質感を出した花の絵。"
+      }
+    ],
+    "viewingTips": [
+      "斜めから画面を見て、粒子がきらめいたり、ざらついて見えたりするかを確かめる。",
+      "色の重なりから、何層に塗り重ねられているかを想像する。"
+    ],
+    "museumUsage": "日本画のキャプションの素材欄や、日本画の技法の解説で使われます。",
+    "relatedTerms": ["nihonga", "nikawa", "gofun", "pigment", "shihon-kenpon"],
+    "sources": [
+      {
+        "title": "「岩絵具」百科事典マイペディア",
+        "url": "https://kotobank.jp/word/%E5%B2%A9%E7%B5%B5%E5%85%B7-32608",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "造形ファイル「岩絵具」",
+        "url": "https://zokeifile.musabi.ac.jp/岩絵具/",
+        "publisher": "武蔵野美術大学"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "gofun",
+    "term": "胡粉",
+    "reading": "ごふん",
+    "english": "Gofun (shell white)",
+    "aliases": ["具"],
+    "summary": "貝殻を焼いたり砕いたりしてつくる、日本画の白い絵具。",
+    "definition": "牡蠣や蛤、ほたてなどの貝殻からつくられる、東洋画の白色顔料です。主成分は炭酸カルシウムで、きめが細かく、艶のないマットな質感が特徴です。それ自体に接着性はなく、膠を加えて画面に定着させます。白色としてだけでなく、地塗りや盛り上げの下地、ほかの絵具との混色にも広く使われ、墨と混ぜたものを「具墨（ぐずみ）」、朱と混ぜたものを「朱の具」と呼ぶように、「具」は胡粉を意味します。「胡」は中国で西域を指す言葉です。顔料として使われるようになったのは室町時代以降のことで、それ以前は白土や鉛白などが用いられました。桃山時代の障屏画では、桜や菊の花を胡粉で盛り上げて表現した例が見られます。材質上はがれ落ちやすいため、胡粉で彩色された作品は取り扱いに注意が必要です。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "花びらを白く盛り上げて、立体的に描いた桜の屏風。"
+      },
+      {
+        "description": "人物の顔や手を白く塗り重ねた美人画。"
+      }
+    ],
+    "viewingTips": [
+      "白い部分が盛り上がっていないかを、斜めから光の当たり方で確かめる。",
+      "白の色合いが、紙や絹の地の色とどう違うかを見比べる。"
+    ],
+    "museumUsage": "日本画や障屏画、人形などの解説で、白の表現や下地の説明に使われます。",
+    "relatedTerms": ["iwa-enogu", "nikawa", "nihonga", "pigment", "shohekiga"],
+    "sources": [
+      {
+        "title": "「胡粉」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E8%83%A1%E7%B2%89-65962",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "造形ファイル「胡粉」",
+        "url": "https://zokeifile.musabi.ac.jp/胡粉/",
+        "publisher": "武蔵野美術大学"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "nikawa",
+    "term": "膠",
+    "reading": "にかわ",
+    "english": "Animal glue",
+    "aliases": ["膠液", "三千本膠", "鹿膠"],
+    "summary": "動物の骨や皮からとる接着剤。日本画では絵具を画面に定着させるのに欠かせない。",
+    "definition": "動物の骨、皮、腱などを煮出して得られる、ゼラチン（コラーゲン）を主成分とする物質です。木竹工芸の接着剤や、東洋画の顔料を溶く材料として幅広く使われてきました。古くは古代の壁画の時代から使われ、現在も日本画では、接着性を持たない岩絵具や胡粉を画面に定着させる重要な素材です。ふだんは棒状や板状に乾燥させて保存し、湯煎で溶かして使います。現在は牛を原料とするものがほとんどですが、日本ではかつて鹿の膠が多く使われたため「鹿膠」という名前が残っています。よく使われる「三千本膠」は、一貫目（約3.75kg）の膠液から三千本がつくられることに由来する名前です。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "岩絵具を膠液で練り、筆で画面に置くように描いた日本画。"
+      },
+      {
+        "description": "膠で木材を貼り合わせて仕上げた木工品。"
+      }
+    ],
+    "viewingTips": [
+      "日本画の色の定着には膠が使われていることを意識し、絵具の質感を観察する。",
+      "古い作品で絵具がはがれている部分があれば、膠の劣化が関係していないか解説を確かめる。"
+    ],
+    "museumUsage": "日本画の材料や保存修復の解説で使われます。",
+    "relatedTerms": ["iwa-enogu", "gofun", "nihonga", "pigment"],
+    "sources": [
+      {
+        "title": "「膠」ブリタニカ国際大百科事典 小項目事典",
+        "url": "https://kotobank.jp/word/%E8%86%A0-109157",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "造形ファイル「膠」",
+        "url": "https://zokeifile.musabi.ac.jp/膠/",
+        "publisher": "武蔵野美術大学"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "gold-leaf",
+    "term": "金箔",
+    "reading": "きんぱく",
+    "english": "Gold leaf",
+    "aliases": ["箔", "金地", "金箔押し"],
+    "summary": "金を薄く打ち延ばした箔。屏風の金地や工芸品の装飾に使われる。",
+    "definition": "最も歴史の古い金属箔の一種で、金のよく延びる性質を利用して、厚さ0.1マイクロメートルほどまで打ち延ばしたものです。純度の高い金は打ち延ばすのが難しいため、市販のものは金に銅や銀を加えた合金で、配合によって色合いに違いが出ます。日本では金沢市で国内生産量の98％以上がつくられています。製箔には伝統的な技法が多く残り、最後の箔打ちでは、特殊な処理をした和紙に薄い金を挟んで束にし、打ち延ばして仕上げます。主に美術工芸品の装飾や、細かく切った金切箔、金糸の材料などに用いられます。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "画面の背景一面に金箔を貼った屏風。"
+      },
+      {
+        "description": "漆の器の表面に金箔を貼って文様を表した工芸品。"
+      }
+    ],
+    "viewingTips": [
+      "金地に細い線や格子状の継ぎ目が見えたら、箔を一枚ずつ貼り重ねた跡かを確かめる。",
+      "照明の角度や見る位置によって、金の輝きがどう変わるかを観察する。"
+    ],
+    "museumUsage": "屏風や障壁画のキャプション（「紙本金地着色」など）や、工芸品の解説でよく使われます。",
+    "relatedTerms": ["byobu", "shohekiga", "rinpa", "maki-e", "washi"],
+    "sources": [
+      {
+        "title": "「金箔」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E9%87%91%E7%AE%94-54441",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "shihon-kenpon",
+    "term": "紙本・絹本",
+    "reading": "しほん・けんぽん",
+    "english": "On paper / On silk",
+    "aliases": [
+      "紙本",
+      "絹本",
+      "紙本着色",
+      "絹本着色",
+      "紙本墨画",
+      "紙本墨書",
+      "絖本"
+    ],
+    "summary": "書や絵が紙に描かれているか（紙本）、絹に描かれているか（絹本）を示す言葉。",
+    "definition": "紙本は、書・画・文書などが紙に書かれたものを指し、紙に対して絹に書かれたものを絹本（けんぽん）といいます。「本」には「材質」の意味があります。技法を表す言葉と組み合わせて、主に美術作品や歴史資料の材質を示すのに使われ、たとえば「紙本墨書」は紙に墨で書かれた書や文書、「紙本着色」は紙に描かれた彩色画を示します。ほかに「紙本淡彩」「紙本金地着色」などの表記があります。同じ絹でも、光沢のある絖（ぬめ）に書いたものは、とくに絖本（こうほん）と呼ばれます。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "キャプションに「紙本墨画淡彩」とある、紙に墨で描いて薄く色をつけた山水画。"
+      },
+      {
+        "description": "キャプションに「絹本着色」とある、絹に彩色で描かれた仏画。"
+      }
+    ],
+    "viewingTips": [
+      "キャプションの最初の二文字で、紙と絹のどちらに描かれているかを確かめる。",
+      "絹本の作品では、近づいて絹の織り目が見えるかを確かめる。"
+    ],
+    "museumUsage": "日本・東洋の書画のキャプションの素材欄で、ほぼ必ず使われる表記です。",
+    "museumExample": "紙本金地着色　六曲一双",
+    "relatedTerms": ["caption", "washi", "support", "kakejiku", "ink-painting"],
+    "sources": [
+      {
+        "title": "「紙本」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E7%B4%99%E6%9C%AC-523548",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "washi",
+    "term": "和紙",
+    "reading": "わし",
+    "english": "Washi (Japanese paper)",
+    "aliases": ["雁皮紙", "楮紙", "鳥の子紙", "手漉き和紙"],
+    "summary": "楮や三椏、雁皮の繊維を原料に、日本独自の「流し漉き」でつくる手漉きの紙。",
+    "definition": "日本でつくられる手漉きの紙で、洋紙に対する言葉です。コウゾ（楮）、ミツマタ（三椏）、ガンピ（雁皮）などの樹皮の長くしなやかな繊維を原料とし、「ねり」と呼ばれる植物性の粘液を混ぜた液を、漉き桁で揺らしながらすくい上げる「流し漉き」で漉き上げます。これは日本独自の製法で、薄くても繊維が均一に絡み合い、美しく丈夫な紙になります。製紙法は中国で大成され、朝鮮半島を経て飛鳥時代に日本へ伝わりました。現存する最古の和紙は、正倉院に残る702年ごろの戸籍の紙とされます。墨書きには適しますが、多孔質のため一般にペン書きや印刷には向きません。造形の分野では、日本画の支持体や裏打ち、版画の刷りの紙、作品の保存などに使われています。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "和紙に墨で書かれた書の作品。"
+      },
+      {
+        "description": "薄い雁皮紙に刷られた細密な版画。"
+      }
+    ],
+    "viewingTips": [
+      "紙の縁や表面に、繊維や漉きむらが見えるかを確かめる。",
+      "墨のにじみ方から、紙の性質を想像する。"
+    ],
+    "museumUsage": "書や日本画、版画のキャプションの素材欄や、保存修復の解説で使われます。",
+    "relatedTerms": [
+      "shihon-kenpon",
+      "support",
+      "calligraphy",
+      "woodblock-print",
+      "ink-painting"
+    ],
+    "sources": [
+      {
+        "title": "「和紙」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E5%92%8C%E7%B4%99-154040",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "造形ファイル「和紙」",
+        "url": "https://zokeifile.musabi.ac.jp/和紙/",
+        "publisher": "武蔵野美術大学"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "bronze",
+    "term": "ブロンズ",
+    "reading": "ぶろんず",
+    "english": "Bronze",
+    "aliases": ["青銅", "銅像"],
+    "summary": "青銅のこと。銅に錫を加えた合金で、金属像の基本的な素材の一つ。",
+    "definition": "青銅のことで、銅およそ9割に、1割前後の錫（スズ）を加えた銅合金です。金属製の器具や金属像の最も基本的な素材の一つです。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "粘土の原型から鋳造され、緑がかった色に変化した人物の立像。"
+      },
+      {
+        "description": "屋外の広場に設置された金属の彫刻。"
+      }
+    ],
+    "viewingTips": [
+      "表面の色や質感（磨かれた輝き、緑青のさび、着色）に注目する。",
+      "キャプションに鋳造年や「エディション」の表記があるかを確かめる。"
+    ],
+    "museumUsage": "彫刻のキャプションの素材欄で「ブロンズ」と記されることが多くあります。",
+    "relatedTerms": ["casting", "sculpture", "edition", "public-art"],
+    "sources": [
+      {
+        "title": "「ブロンズ」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%B6%E3%82%8D%E3%82%93%E3%81%9A-3168244",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "terracotta",
+    "term": "テラコッタ",
+    "reading": "てらこった",
+    "english": "Terracotta",
+    "aliases": ["素焼き", "テラコッタ像"],
+    "summary": "粘土で形をつくり、低い温度で素焼きにした彫刻や器。",
+    "definition": "イタリア語で「焼いた土」を意味し、素焼の意味でも使われます。鉄分を含む粗い粘土で形をつくって乾かし、800〜1000℃ほどの低い温度で焼きます。古代から壺や瓦、れんがなどに用いられ、メソポタミアやエジプトの遺跡からも見つかっています。日本の埴輪や中国の俑（よう）もテラコッタの一種です。古代ギリシアのタナグラの墓地から多く見つかった小像は「タナグラ人形」として知られ、15世紀のイタリアではドナテッロやルカ・デッラ・ロッビアが優れた作品を残しました。近代以降も彫刻の素材として使われています。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "赤茶色の素焼きの土でつくられた、手のひらほどの女性の小像。"
+      },
+      {
+        "description": "古墳から出土した人や馬の形の埴輪。"
+      }
+    ],
+    "viewingTips": [
+      "土の色や、指で押さえた跡など手で形づくった痕跡を探す。",
+      "ブロンズや石の彫刻と並んでいたら、表面の質感の違いを比べる。"
+    ],
+    "museumUsage": "彫刻や考古資料のキャプションの素材欄で使われます。",
+    "relatedTerms": ["sculpture", "ceramics", "bronze"],
+    "sources": [
+      {
+        "title": "「テラコッタ」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%A6%E3%82%89%E3%81%93%E3%81%A4%E3%81%9F-3159932",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [
+      {
+        "slug": "yosegi-zukuri",
+        "note": "寄木造は頭や胴などの主要部を複数の材を組み合わせてつくる技法で、一木造は主要部を一本の木から彫り出します。"
+      }
+    ],
+    "prerequisiteTerms": [],
+    "slug": "ichiboku-zukuri",
+    "term": "一木造",
+    "reading": "いちぼくづくり",
+    "english": "Ichiboku-zukuri",
+    "aliases": ["一木彫", "一木造り"],
+    "summary": "仏像の頭部と胴体など主要な部分を、一本の木から彫り出す技法。",
+    "definition": "木彫、とくに仏像彫刻の技法で、像の頭部から胴体までの主要部分を一本の木から彫り出すものです。腕や、坐像の膝などの突き出た部分は別の材を継ぐ場合も一木造と呼びます。干割れを防ぐため、背面などから内部をくり抜く「内刳り（うちぐり）」をすることも多くあります。奈良時代後期から平安時代前期に盛んに行われ、代表的な作品に神護寺の薬師如来立像や新薬師寺の薬師如来坐像があります。平安時代後期に仏師定朝によって寄木造が完成されると、木彫の主流は寄木造に移りましたが、一木造はその後も地方の造像などで用いられ、江戸時代には円空や木喰らが一木彫の仏像をつくりました。その背景には、木を神の依り代とみなす日本の神木・霊木の意識があったと指摘されることもあります。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "重量感のある体つきを一本の木から彫り出した、平安時代初期の薬師如来像。"
+      },
+      {
+        "description": "ノミの跡を荒々しく残した円空の仏像。"
+      }
+    ],
+    "viewingTips": [
+      "像の量感や、木目が体の中を通っている様子に注目する。",
+      "側面や背面が見られる展示では、材の継ぎ目があるかを探す。"
+    ],
+    "museumUsage": "仏像のキャプションの「木造」の技法表記や、仏教美術の解説で使われます。",
+    "relatedTerms": [
+      "yosegi-zukuri",
+      "sculpture",
+      "national-treasure",
+      "important-cultural-property"
+    ],
+    "sources": [
+      {
+        "title": "「一木造」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E4%B8%80%E6%9C%A8%E9%80%A0-31379",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "現代美術用語辞典「一木造」",
+        "url": "https://artscape.jp/artword/5597/",
+        "publisher": "artscape"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [
+      {
+        "slug": "ichiboku-zukuri",
+        "note": "一木造は主要部を一本の木から彫り出す技法で、寄木造は複数の材を組み合わせてつくる技法です。"
+      }
+    ],
+    "prerequisiteTerms": [],
+    "slug": "yosegi-zukuri",
+    "term": "寄木造",
+    "reading": "よせぎづくり",
+    "english": "Yosegi-zukuri",
+    "aliases": ["寄木造り"],
+    "summary": "仏像の頭や胴などの主要部分を、複数の木材を組み合わせてつくる技法。",
+    "definition": "木彫仏の主要部分に複数の材を用いた像、またはその構造です。頭や胴などの主要な部分を、前後や左右に二材、あるいは前後左右に四材を規則正しく継ぎ合わせて構成します。木寄法（きよせほう）の完成者と伝えられる仏師定朝の作、平等院鳳凰堂の阿弥陀如来坐像（1053年）は典型的な寄木造です。多用されるようになったのは11世紀初めごろからで、仮組みした材に輪郭などを墨で描き入れたうえで、いったんばらばらにして彫り、組み上げて仕上げます。そのため何人かの仏師が分担して制作でき、多くの注文に応じることができました。また、材の肉を薄く仕上げることで、重さを減らし、干割れを防げるという特長があります。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "穏やかな表情の大きな阿弥陀如来坐像。"
+      },
+      {
+        "description": "複数の仏師の分担によってつくられた、等身大を超える仏像。"
+      }
+    ],
+    "viewingTips": [
+      "大きな像の場合、どのように材が組み合わされているかを解説図で確かめる。",
+      "一木造の像と比べ、体の厚みや量感の違いを感じてみる。"
+    ],
+    "museumUsage": "仏像のキャプションや、仏師の制作方法を紹介する解説で使われます。",
+    "relatedTerms": [
+      "ichiboku-zukuri",
+      "sculpture",
+      "workshop",
+      "national-treasure"
+    ],
+    "sources": [
+      {
+        "title": "「寄木造」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E5%AF%84%E6%9C%A8%E9%80%A0-146261",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "pastel",
+    "term": "パステル",
+    "reading": "ぱすてる",
+    "english": "Pastel",
+    "aliases": ["パステル画", "チョーク"],
+    "summary": "顔料を固めた棒状の画材。粉っぽく柔らかな発色が特徴。",
+    "definition": "西洋画の画材の一種で、素描に用いられます。顔料の粉末を水溶性のつなぎ剤で固めたもののうち、比較的柔らかいものを一般にパステルと呼びます。16世紀初めにはすでに素描に用いられていましたが、18世紀までは硬いチョークのほうが好まれました。発色と柔らかさが十分に生かされるようになったのは18世紀のことで、とくにフランスの画家たちに好まれました。19世紀後半にはドガがパステルで重厚な絵画的作品を生み出し、ルノワール、メアリー・カサット、ロートレックらもこの画材で優れた作品を残しています。作品のキャプションでは、多色で、この画材独特の粉っぽい柔らかさがはっきりしたものがパステルと表記されます。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "色の粉を指でぼかしながら描いた、踊り子の姿。"
+      },
+      {
+        "description": "色紙の上に柔らかな色を重ねた人物の肖像。"
+      }
+    ],
+    "viewingTips": [
+      "近づいて、紙の凹凸に色の粉が乗っている様子を観察する。",
+      "色の重なりやぼかしから、指や紙でこすった跡を探してみる。"
+    ],
+    "museumUsage": "素描や紙の作品のキャプションの素材欄で使われます。",
+    "relatedTerms": ["drawing", "pigment", "croquis", "impressionism"],
+    "sources": [
+      {
+        "title": "「パステル」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%B1%E3%81%99%E3%81%A6%E3%82%8B-3164759",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [
+      {
+        "slug": "woodblock-print",
+        "note": "一般的な木版画（板目木版）は木を縦に切った板を彫りますが、木口木版は輪切りにした硬い面を使い、より細かく彫れます。"
+      },
+      {
+        "slug": "engraving",
+        "note": "エングレーヴィングは銅版を彫る凹版で、木口木版は似た道具で木を彫る凸版です。"
+      }
+    ],
+    "prerequisiteTerms": [],
+    "slug": "wood-engraving",
+    "term": "木口木版",
+    "reading": "こぐちもくはん",
+    "english": "Wood engraving",
+    "aliases": ["西洋木版", "ウッド・エングレーヴィング"],
+    "summary": "硬い木を輪切りにした面を版木にし、ビュランで細かく彫る木版画。",
+    "definition": "木を輪切りにした硬い面（木口）を版木に使い、ビュランで彫ることで、精密で繊細な表現ができる木版画です。凸版に分類されますが、一般的な板目木版とは大きく異なり、その緻密さは銅版画に近いものです。西洋木版とも呼ばれます。版木には柘植（つげ）、椿、梨、楓などの目の詰まった硬い木が使われ、大きさが木の太さに限られるため、寄木にした版木もつくられます。18世紀後半にイギリスのトマス・ビューイックによって広まり、活字と一緒に印刷できることから、19世紀には書籍の挿絵として盛んに使われました。ギュスターヴ・ドレの原画を彫り師たちが彫り出した挿絵がよく知られています。写真をそのまま印刷する方法が開発されてからも、現代の版画家たちに取り上げられています。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "19世紀の本に収められた、細い線で緻密に彫られた挿絵。"
+      },
+      {
+        "description": "小さな版面に、動物の毛並みまで細かく表した版画。"
+      }
+    ],
+    "viewingTips": [
+      "単眼鏡などで近づき、白い細線で形が表されている様子を確かめる。",
+      "作品の小ささと描き込みの細かさを比べてみる。"
+    ],
+    "museumUsage": "版画の展示や、挿絵本・近代の印刷物を紹介する展示で使われます。",
+    "relatedTerms": ["woodblock-print", "engraving", "printmaking"],
+    "sources": [
+      {
+        "title": "現代美術用語辞典「木口木版」",
+        "url": "https://artscape.jp/artword/5918/",
+        "publisher": "artscape"
+      },
+      {
+        "title": "造形ファイル「木口木版」",
+        "url": "https://zokeifile.musabi.ac.jp/木口木版/",
+        "publisher": "武蔵野美術大学"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "linocut",
+    "term": "リノカット",
+    "reading": "りのかっと",
+    "english": "Linocut",
+    "aliases": ["リノリウム版画", "リノリウム・カット", "リノ版画"],
+    "summary": "床材のリノリウムを版にして彫る、木版画に似た凸版の版画。",
+    "definition": "床材に使われるリノリウムを版にして、彫刻刀で彫る凸版の版画技法です。リノリウム版画ともいいます。リノリウムは安価で丈夫で柔らかく、木目の方向による制限がないため彫りやすく、油性インクとの相性もよく広い面をむらなく刷れることから、美術教育でもよく使われてきました。ただし鋭く繊細な線の表現には向きません。リノリウム自体は19世紀後半のイギリスで発明され、版画として美術に登場したのは20世紀初頭です。マティスやピカソがこの技法を生かした作品を残しており、ピカソは1958年から、一枚の版を彫り進めながら色を刷り重ねていく多色刷りの作品を100点前後制作しました。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "白と黒の強いコントラストで人物を表した版画。"
+      },
+      {
+        "description": "一枚の版を彫り進めながら、色を何度も刷り重ねた多色版画。"
+      }
+    ],
+    "viewingTips": [
+      "彫り跡の形や、広い面の色の均一さを確かめる。",
+      "多色刷りの場合、どの色から順に刷られたかを考えてみる。"
+    ],
+    "museumUsage": "版画のキャプションの技法欄や、近現代の版画の展示で使われます。",
+    "relatedTerms": ["printmaking", "woodblock-print", "expressionism"],
+    "sources": [
+      {
+        "title": "「リノリウム・カット」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%82%8A%E3%81%AE%E3%82%8A%E3%81%86%E3%82%80%E3%81%8B%E3%81%A4%E3%81%A8-1606764",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "現代美術用語辞典「リノカット」",
+        "url": "https://artscape.jp/artword/6963/",
+        "publisher": "artscape"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "monotype",
+    "term": "モノタイプ",
+    "reading": "ものたいぷ",
+    "english": "Monotype",
+    "aliases": ["モノプリント"],
+    "summary": "板に直接描いた絵を紙に写し取る、一枚しか刷れない版画技法。",
+    "definition": "ガラスや金属、アクリルなどの平らな板に、インクや油絵具で直接絵を描き、乾く前に紙を載せてこすったりプレス機にかけたりして写し取る版画技法です。「モノ」はギリシャ語で「ただ一つの」を意味し、同じイメージを繰り返し刷ることができず、一枚だけの作品になるのが大きな特徴です。彫るなどの版をつくる作業が要らないため自由に描けて、版を通すことで直接描くだけでは得られないかすれや奥行きが生まれます。1640年代半ばのジョヴァンニ・ベネデット・カスティリオーネの作例が最初とされ、18世紀にはウィリアム・ブレイク、19世紀後半にはドガやゴーギャンがこの技法を用いました。とりわけドガは、版の上の絵具を拭ったり手を加えたりして微妙なグラデーションを生み出しました。複数刷れるという版画の原則から外れるため、かつては版画の範疇から外されることもありました。",
+    "generalDifference": "印刷の分野では活字を一つずつ鋳造する機械の名前ですが、美術では一枚だけ刷る版画技法を指します。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "黒いインクを拭き取って光を表した、ぼんやりとした室内の情景。"
+      },
+      {
+        "description": "かすれやにじみが残る、一点だけの色彩豊かな版画。"
+      }
+    ],
+    "viewingTips": [
+      "筆で直接描いた絵とは違う、かすれや転写の質感を探す。",
+      "同じ作家の他の版画と比べ、刷りの自由さを感じてみる。"
+    ],
+    "museumUsage": "版画の展示や、ドガなどの作家の技法解説で使われます。",
+    "relatedTerms": ["printmaking", "edition", "decalcomania", "impressionism"],
+    "sources": [
+      {
+        "title": "現代美術用語辞典「モノタイプ」",
+        "url": "https://artscape.jp/artword/6886/",
+        "publisher": "artscape"
+      },
+      {
+        "title": "造形ファイル「モノタイプ」",
+        "url": "https://zokeifile.musabi.ac.jp/モノタイプ/",
+        "publisher": "武蔵野美術大学"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "tarashikomi",
+    "term": "たらし込み",
+    "reading": "たらしこみ",
+    "english": "Tarashikomi",
+    "aliases": ["溜込", "垂らし込み"],
+    "summary": "乾かないうちの絵具に別の絵具をたらし、にじみで独特の調子を生む技法。",
+    "definition": "近世の大和絵の手法で、絵具が乾かないうちに、その上から別の絵具をたらしてにじみをつくり、独特の調子を与えるものです。水墨にも応用されます。俵屋宗達が始め、尾形光琳や酒井抱一らも活用しました。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "墨のにじみで、木の幹のこぶや苔の質感を表した屏風。"
+      },
+      {
+        "description": "緑の絵具のにじみで、柔らかな草の葉の重なりを表した絵。"
+      }
+    ],
+    "viewingTips": [
+      "色や墨の境目に、輪のようなにじみの跡がないかを探す。",
+      "にじみが偶然できたものか、狙ってつくられたものかを想像する。"
+    ],
+    "museumUsage": "琳派の作品解説で、技法の特徴としてよく紹介されます。",
+    "relatedTerms": ["rinpa", "yamato-e", "ink-painting", "mokkotsu"],
+    "sources": [
+      {
+        "title": "「溜込」百科事典マイペディア",
+        "url": "https://kotobank.jp/word/%E6%BA%9C%E8%BE%BC-322653",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [
+      {
+        "slug": "hakubyo",
+        "note": "白描は墨の線を主体に描く表現で、没骨は反対に輪郭線を使わずに色や墨の面で形を表します。"
+      }
+    ],
+    "prerequisiteTerms": [],
+    "slug": "mokkotsu",
+    "term": "没骨",
+    "reading": "もっこつ",
+    "english": "Boneless painting",
+    "aliases": ["没骨法", "没骨描"],
+    "summary": "輪郭線を描かずに、色や墨の濃淡だけで形を表す東洋画の技法。",
+    "definition": "東洋画の技法の一つで、輪郭を線でくくる「鉤勒（こうろく）」に対するものです。輪郭線を用いず、水墨や色彩、とくにその隈取りによって形を表します。主に花鳥画に用いられ、中国北宋の花鳥画家・徐崇嗣（じょすうし）が始めたと伝えられます。宮廷の主流だった鉤勒の花鳥画とは対照的な新しい表現として成功し、清代初めには惲寿平（うんじゅへい）が没骨を駆使して自然主義的な花鳥画を描きました。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "輪郭線を引かず、色のぼかしだけで花びらを描いた花鳥画。"
+      },
+      {
+        "description": "墨の濃淡の面だけで、竹の葉を表した水墨画。"
+      }
+    ],
+    "viewingTips": [
+      "形の縁に線があるかどうかを確かめ、線で描いた絵と見比べる。"
+    ],
+    "museumUsage": "中国絵画や花鳥画、日本画の技法解説で使われます。",
+    "relatedTerms": ["ink-painting", "hakubyo", "morotai", "tarashikomi"],
+    "sources": [
+      {
+        "title": "「没骨」百科事典マイペディア",
+        "url": "https://kotobank.jp/word/%E6%B2%A1%E9%AA%A8-142495",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "現代美術用語辞典「没骨／朦朧体」",
+        "url": "https://artscape.jp/artword/6879/",
+        "publisher": "artscape"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "hakubyo",
+    "term": "白描",
+    "reading": "はくびょう",
+    "english": "Ink line drawing",
+    "aliases": ["白描画", "白画"],
+    "summary": "色をつけず、墨の線を主体に描いた絵。",
+    "definition": "白描画、白画ともいい、描線を主体として墨一色で描いた絵です。わずかに淡い彩色を施したものもあります。日本では平安時代に僧侶が仏の姿などを描いた白描図像を多く描き、その系譜を引く《鳥獣戯画》や《枕草子絵巻》などが有名です。中国では李公麟（りこうりん）の《五馬図》が代表的な作品です。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "墨の線だけで、跳びはねる動物たちを生き生きと描いた絵巻。"
+      },
+      {
+        "description": "細い墨線で人物の姿を描き、色をつけていない仏の図像。"
+      }
+    ],
+    "viewingTips": [
+      "線の太さや速さの変化から、筆の動きを想像する。",
+      "色がないことで、どんな印象が生まれているかを考える。"
+    ],
+    "museumUsage": "絵巻や仏教絵画、水墨画の解説で使われます。",
+    "relatedTerms": ["ink-painting", "emaki", "mokkotsu", "drawing"],
+    "sources": [
+      {
+        "title": "「白描」百科事典マイペディア",
+        "url": "https://kotobank.jp/word/%E7%99%BD%E6%8F%8F-600464",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [
+      {
+        "slug": "ichiboku-zukuri",
+        "note": "一木造は木から彫り出す技法で、乾漆は漆と麻布や木屑の漆を重ねて形をつくる技法です。"
+      }
+    ],
+    "prerequisiteTerms": [],
+    "slug": "kanshitsu",
+    "term": "乾漆",
+    "reading": "かんしつ",
+    "english": "Dry lacquer",
+    "aliases": ["乾漆造", "脱活乾漆", "木心乾漆"],
+    "summary": "漆と麻布を重ねたり、木屑を練った漆を盛ったりしてつくる仏像の技法。奈良時代に盛ん。",
+    "definition": "仏像制作の技法で、脱活乾漆（だっかつかんしつ）と木心乾漆（もくしんかんしつ）の2種類があります。脱活乾漆は、土でおおよその像の形をつくり、その上に漆で麻布を何重にも張り重ね、乾いたあとで中の土を抜き取って補強の木枠を組み入れるものです。細部は木屑を練り込んだ漆（木屎漆）で形づくります。西域や中国で行われ、日本では奈良時代に盛んになり、興福寺の八部衆・十大弟子像や東大寺の不空羂索観音像、唐招提寺の鑑真和上像などが代表例です。木心乾漆は、像のおおよその形を木でつくり、その上に木屎漆を盛り上げてつくるもので、聖林寺の十一面観音像がこの技法によります。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "細い腕と少年のような顔立ちの、奈良時代の仏像。"
+      },
+      {
+        "description": "目を閉じて静かに坐る僧の、写実的な肖像彫刻。"
+      }
+    ],
+    "viewingTips": [
+      "木彫の像と比べ、表面の柔らかさや軽やかさを観察する。",
+      "キャプションの「乾漆造」「木心乾漆造」の表記を確かめる。"
+    ],
+    "museumUsage": "奈良時代の仏像のキャプションや解説で使われます。",
+    "relatedTerms": [
+      "sculpture",
+      "lacquerware",
+      "ichiboku-zukuri",
+      "sozo",
+      "national-treasure"
+    ],
+    "sources": [
+      {
+        "title": "「乾漆」百科事典マイペディア",
+        "url": "https://kotobank.jp/word/%E4%B9%BE%E6%BC%86-48850",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "sozo",
+    "term": "塑造",
+    "reading": "そぞう",
+    "english": "Modelling",
+    "aliases": ["塑像", "モデリング", "モデラージュ"],
+    "summary": "粘土などをつけたり盛ったりして形をつくる彫刻の技法。",
+    "definition": "「塑」は粘土を意味し、塑造は粘土で形をつくる技法、これによってつくられる彫刻が塑像です。彫刻の技法は大きく、木彫や石彫のように材料から形を彫り出すカービングと、粘土などをくっつけて自由な形をつくるモデリングに分けられ、塑造は後者にあたります。粘土が手に入りやすく、形を変えやすく、技法も単純なため、彫刻の歴史で最初の、そして最もよく使われる手法です。粘土を支えるために鉄や木材、しゅろ縄などの心棒を使うこともあり、指や手のひらでの造形に、へらなどの道具も補助的に使われます。近代では、ブロンズなどで仕上げる作品の原型として使われることが一般的で、粘土の原型から石膏型をつくり、さらに金属で鋳造します。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "指で粘土を盛りつけた跡が、ブロンズの表面にそのまま残る人物像。"
+      },
+      {
+        "description": "土でつくられ、彩色された寺院の仏像。"
+      }
+    ],
+    "viewingTips": [
+      "表面に、指やへらで粘土を押しつけた跡が残っていないかを探す。",
+      "彫り出した彫刻と比べ、形のつくられ方の違いを考える。"
+    ],
+    "museumUsage": "彫刻の制作方法の解説や、仏像の「塑造」という技法表記で使われます。",
+    "relatedTerms": [
+      "sculpture",
+      "bronze",
+      "casting",
+      "terracotta",
+      "kanshitsu"
+    ],
+    "sources": [
+      {
+        "title": "「塑造」改訂新版 世界大百科事典",
+        "url": "https://kotobank.jp/word/%E5%A1%91%E9%80%A0-554472",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "grisaille",
+    "term": "グリザイユ",
+    "reading": "ぐりざいゆ",
+    "english": "Grisaille",
+    "aliases": ["灰色画", "単色画"],
+    "summary": "灰色などの無彩色の濃淡だけで描き、彫刻のように見せる絵画技法。",
+    "definition": "灰色を意味するフランス語「グリ（gris）」の派生語で、無彩色の陰影の調子だけで仕上げた絵の総称です。一見して大理石の浮彫りのように見える効果をねらった技法で、古代ギリシア・ローマ以来、建築の装飾壁画に多くの例があります。北方ルネサンスの祭壇画では、開いたときの色彩の効果を考えて、両翼を閉じたときには彫像が並んでいるように見せるためにグリザイユが多く使われ、ファン・エイク兄弟の《ヘントの祭壇画》がその代表例です。油絵の制作過程で、彩色の前に全体の明暗をみるために描かれる単色の下絵もグリザイユといいます。ステンドグラスや陶器、金属などの工芸の装飾にも用いられます。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "祭壇画の扉の外側に、灰色だけで石の彫像のように描かれた聖人の姿。"
+      },
+      {
+        "description": "白から黒までの濃淡だけで描かれた油彩の下絵。"
+      }
+    ],
+    "viewingTips": [
+      "祭壇画では扉の外側と内側で、色の使い方がどう違うかを比べる。",
+      "色のない画面で、立体感がどのように表されているかを観察する。"
+    ],
+    "museumUsage": "西洋の祭壇画や油彩画の技法解説で使われます。",
+    "relatedTerms": [
+      "triptych",
+      "chiaroscuro",
+      "lightness",
+      "oil-painting",
+      "relief"
+    ],
+    "sources": [
+      {
+        "title": "「グリザイユ」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%90%E3%82%8A%E3%81%96%E3%81%84%E3%82%86-3150737",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "conte",
+    "term": "コンテ",
+    "reading": "こんて",
+    "english": "Conté crayon",
+    "aliases": ["コンテ・クレヨン", "サンギーヌ", "カーボンチョーク"],
+    "summary": "顔料を粘土などと固めた棒状の素描用の画材。",
+    "definition": "素描用の画材の一種で、コンテ・クレヨンの略です。18世紀末に、鉛筆の発明でも知られるフランスのニコラ・ジャック・コンテがコンテ社をつくり、顔料を材料にした画材を製造販売したことに由来します。酸化鉄やカーボンブラックなどの顔料を粉末にし、粘土などを加えて棒状に固めたもので、硬さは鉛筆と木炭の中間程度です。白、黒、セピア（褐色）、サンギーヌ（赤褐色）が基本の色で、主にデッサンやクロッキーに使われます。17・18世紀に素描用の画材として好まれたサンギーヌは、血を意味するギリシア語に由来する鮮やかな赤褐色で、19世紀以降はコンテに加工されたものが一般的になりました。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "赤褐色の線で描かれた人物の素描。"
+      },
+      {
+        "description": "色紙の上に黒と白のコンテで陰影をつけたデッサン。"
+      }
+    ],
+    "viewingTips": ["線の色や太さ、ぼかしの跡から、画材の使われ方を観察する。"],
+    "museumUsage": "素描のキャプションの素材欄で使われます。",
+    "relatedTerms": ["drawing", "croquis", "pastel", "charcoal"],
+    "sources": [
+      {
+        "title": "「コンテ」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%93%E3%82%93%E3%81%A6-3152287",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "造形ファイル「コンテ」",
+        "url": "https://zokeifile.musabi.ac.jp/コンテ/",
+        "publisher": "武蔵野美術大学"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "charcoal",
+    "term": "木炭",
+    "reading": "もくたん",
+    "english": "Charcoal",
+    "aliases": ["木炭デッサン", "チャコール"],
+    "summary": "木の枝などを炭にした素描用の画材。柔らかく、濃淡やぼかしを出しやすい。",
+    "definition": "樹木の枝や幹を棒状に小割りにしたものを炭化させ、デッサン用の描画材としたものです。柳や桑などの枝や、蔓草の茎などが原料になり、木の種類や焼き具合によって硬さや濃さが大きく異なります。材質が柔らかく、繊細な調子や濃淡、ぼかしを出しやすいため、単色ながら豊かな表現ができます。木炭の粒子を紙に定着させる成分を含まないため、描いた部分ははがれ落ちやすい一方、布や指で重ね具合を細かく調整できます。最も古い筆記具の一つとされます。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "濃淡を指でこすってぼかし、柔らかな陰影をつけた人物の素描。"
+      },
+      {
+        "description": "大きな紙に黒々とした線で描かれた構想図。"
+      }
+    ],
+    "viewingTips": ["黒の深さや、指や布でこすった跡を観察する。"],
+    "museumUsage": "素描のキャプションの素材欄で使われます。",
+    "relatedTerms": ["drawing", "conte", "croquis", "esquisse"],
+    "sources": [
+      {
+        "title": "造形ファイル「木炭」",
+        "url": "https://zokeifile.musabi.ac.jp/木炭/",
+        "publisher": "武蔵野美術大学"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "marble",
+    "term": "大理石",
+    "reading": "だいりせき",
+    "english": "Marble",
+    "aliases": ["マーブル"],
+    "summary": "研磨すると美しい光沢が出る石。古代から彫刻や建築に使われてきた。",
+    "definition": "石灰岩が熱による変成作用を受けて再結晶した岩石で、岩石学的には結晶質石灰岩です。純粋なものは白色ですが、含まれる成分によってさまざまな色や模様があります。きめが細かく、研磨すると美しい光沢が出て、硬さも低く加工しやすいため、装飾用の建材や彫刻の材料として使われます。こうした用途では、再結晶しているかどうかにかかわらず石灰岩を大理石と呼ぶこともあります。名前は中国雲南省の大理府という地名に由来します。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "白い石から彫り出され、肌のなめらかさまで表した古代の人物像。"
+      },
+      {
+        "description": "色の異なる石を組み合わせた床や壁の装飾。"
+      }
+    ],
+    "viewingTips": [
+      "石の表面の光沢や、透けるような質感に注目する。",
+      "磨かれた部分と、ノミの跡を残した部分の違いを探す。"
+    ],
+    "museumUsage": "彫刻のキャプションの素材欄で使われます。",
+    "relatedTerms": ["sculpture", "relief", "bronze", "mosaic"],
+    "sources": [
+      {
+        "title": "「大理石」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E5%A4%A7%E7%90%86%E7%9F%B3-92269",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "canvas",
+    "term": "キャンバス",
+    "reading": "きゃんばす",
+    "english": "Canvas",
+    "aliases": ["カンバス", "キャンヴァス", "カンヴァス", "画布"],
+    "summary": "麻や木綿で織った丈夫な布。油彩画の代表的な支持体。",
+    "definition": "大麻を意味する古典語に由来し、木綿や麻で織った厚手の丈夫な布を指します。最も一般的なのは絵画の支持体となる画布の意味で、油彩画そのものの同義語のようにも使われます。布を絵の支持体に使った歴史は紀元前2000年ごろのエジプトにさかのぼりますが、今日のようなキャンバスが板に代わって使われるようになったのは、15世紀中ごろのヴェネツィアをはじめとするイタリアです。それまでのヨーロッパの絵画はポプラやカシの板に描かれ、下ごしらえに手間がかかり高価で、大きな画面の板を得るのも容易ではありませんでした。キャンバスは安価で、はぎ合わせて大きさを自由に決められ、持ち運びにも便利だったため、16〜17世紀に油彩画技法の発展とともに広まりました。とくに亜麻布が油彩画に最も適しています。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "キャプションに「油彩、カンヴァス」と記された絵画。"
+      },
+      {
+        "description": "画面の縁から、布の織り目や木枠に留めた釘が見える作品。"
+      }
+    ],
+    "viewingTips": [
+      "絵具の薄い部分から、布の織り目が透けて見えるかを確かめる。",
+      "作品の側面が見えるときは、布の張り方に注目する。"
+    ],
+    "museumUsage": "油彩画のキャプションの素材欄で「油彩、カンヴァス」「キャンバスに油彩」のように使われます。",
+    "relatedTerms": ["support", "oil-painting", "tableau", "acrylic-paint"],
+    "sources": [
+      {
+        "title": "「カンバス」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%8B%E3%82%93%E3%81%B0%E3%81%99-1521007",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "stained-glass",
+    "term": "ステンドグラス",
+    "reading": "すてんどぐらす",
+    "english": "Stained glass",
+    "aliases": ["ステンド・グラス"],
+    "summary": "色ガラスの破片を鉛の枠でつなぎ、窓などに図像や文様を表したもの。",
+    "definition": "色板ガラスにグリザイユという顔料で線や陰影を描いて焼き付け、ガラス片を断面がH形の鉛の帯で組み合わせて、画像や文様を表したものです。とくに中世ヨーロッパの教会建築で華やかに展開しました。現存する最古の例は、ドイツのロルシュ修道院で見つかった9〜10世紀の「聖者の頭部」の断片とされます。中世を通じて、ステンドグラスは人々の心を照らす光として、神の家である教会にふさわしい装飾と考えられ、建築様式と深く関わりながら発展しました。窓が比較的小さいロマネスクの教会堂に対し、13世紀のゴシック様式では壁面が大きく開かれ、ステンドグラスがより重要な役割を果たすようになりました。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "聖書の物語を、円形の枠ごとに場面を分けて表した教会の窓。"
+      },
+      {
+        "description": "光を受けて床に色の影を落とす、大きなバラ窓。"
+      }
+    ],
+    "viewingTips": [
+      "外の光の明るさによって、色の見え方がどう変わるかを確かめる。",
+      "鉛の線が、絵の輪郭としても使われていることに注目する。"
+    ],
+    "museumUsage": "中世美術やゴシック建築、近代の装飾美術の展示で使われます。",
+    "relatedTerms": ["gothic", "grisaille", "mosaic", "art-nouveau"],
+    "sources": [
+      {
+        "title": "「ステンドグラス」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%99%E3%81%A6%E3%82%93%E3%81%A9%E3%81%90%E3%82%89%E3%81%99-3156376",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "mosaic",
+    "term": "モザイク",
+    "reading": "もざいく",
+    "english": "Mosaic",
+    "aliases": ["モザイク画", "テッセラ"],
+    "summary": "石やガラスの小さな破片を並べて、壁や床に絵や模様を表す技法。",
+    "definition": "大理石やガラスなどの小さな断片を使って建築の壁面や床を装飾する技法と、その作品を指します。技法としては広い意味での象嵌の一種で、表現形式からみれば絵画（壁画）に属するともいえます。最古の例は紀元前3000年紀初めの、シュメールの都市ウルクの遺跡で見つかった建築装飾です。材料と表現の両面で高度に発展したのは、ヘレニズム期のギリシアと、それを受け継いだローマ、そしてビザンティンです。ギリシアでは初め小石が使われ、のちにさいころ形に切った石片が使われるようになりました。この石片はローマではテッセラと呼ばれました。",
+    "categoryIds": ["materials-techniques"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "金色のガラス片を背景に、聖人の姿を表した教会の壁面。"
+      },
+      {
+        "description": "小さな石片で、海の生き物を描いた古代ローマの床。"
+      }
+    ],
+    "viewingTips": [
+      "近くで一つひとつの破片を見たあと、離れて全体の像を見る。",
+      "破片の並べ方の向きが、形や動きをどう表しているかを観察する。"
+    ],
+    "museumUsage": "古代ローマやビザンティン美術、建築装飾の展示で使われます。",
+    "relatedTerms": ["zogan", "stained-glass", "marble", "fresco"],
+    "sources": [
+      {
+        "title": "「モザイク」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%82%82%E3%81%96%E3%81%84%E3%81%8F-1600759",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
   }
 ]

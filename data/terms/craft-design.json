@@ -511,5 +511,223 @@
     "museumExample": "割れを金で継いだ跡は、器が大切に使い継がれてきた歴史を物語っている。",
     "relatedTerms": ["lacquerware", "maki-e", "ceramics", "wabi-sabi"],
     "categoryIds": ["craft-design"]
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "shippo",
+    "term": "七宝",
+    "reading": "しっぽう",
+    "english": "Cloisonné / Enamel",
+    "aliases": ["七宝焼", "有線七宝", "無線七宝", "エマイユ", "エナメル"],
+    "summary": "金属の素地にガラス質の釉薬を焼き付けて装飾する工芸。",
+    "definition": "金属の素地にガラス質の釉薬（うわぐすり）を焼き付けて装飾する工芸です。素地には通常銅が使われ、金や銀などのほか、まれに陶器やガラスも用いられます。釉薬に加える金属酸化物によって、青、緑、黄、茶などの色が得られます。七宝という言葉は、仏教の経典にいう金、銀、瑠璃などの7種の宝石に由来し、西洋ではエマイユ、エナメルと呼びます。技法には、銀の細いリボンで輪郭線をつくり、その中に色の釉薬を詰めて焼く「有線七宝」、輪郭線をつくらずに色を塗り分けて焼く「七宝絵（無線七宝）」、素地に彫った文様の上に透明な釉薬をかける「透明七宝」などがあります。",
+    "categoryIds": ["craft-design"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "細い金属線で区切られた中に、鮮やかな色で花鳥を表した花瓶。"
+      },
+      {
+        "description": "輪郭線がなく、絵画のようなぼかしで風景を表した飾り皿。"
+      }
+    ],
+    "viewingTips": [
+      "色の境目に金属の線があるかどうかで、有線か無線かを見分ける。",
+      "ガラス質の表面の光沢や透明感に注目する。"
+    ],
+    "museumUsage": "明治の輸出工芸や装身具、仏具などの展示で使われます。",
+    "relatedTerms": ["kogei", "glaze", "zogan", "maki-e"],
+    "sources": [
+      {
+        "title": "「七宝」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E4%B8%83%E5%AE%9D-73878",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "zogan",
+    "term": "象嵌",
+    "reading": "ぞうがん",
+    "english": "Inlay",
+    "aliases": ["象眼", "布目象嵌", "平象嵌"],
+    "summary": "素材の表面に別の素材をはめ込んで、文様や文字を表す装飾技法。",
+    "definition": "工芸の装飾技法で、象眼とも書きます。金属、陶磁、木材などの表面に、別の材料（同じ種類のこともあります）をはめ込むことです。金属の象嵌には、文様や文字を線状にはめ込む糸象嵌、板状に幅広くはめる平象嵌のほか、布目象嵌、高肉象嵌などがあります。陶磁器では、素地に異なる色の土をはめ込んで絵や文様を表し、釉薬をかけて焼きます。木材では主に紫檀や黒檀、象牙などをはめ込みます。",
+    "categoryIds": ["craft-design"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "鉄の刀の鍔（つば）に、金や銀で細い文様をはめ込んだもの。"
+      },
+      {
+        "description": "白や黒の土をはめ込んで、鶴や雲の文様を表した高麗の青磁。"
+      }
+    ],
+    "viewingTips": [
+      "色の違う素材の境目を近くで見て、はめ込まれていることを確かめる。"
+    ],
+    "museumUsage": "金工や陶磁器、木工の解説で技法名として使われます。",
+    "relatedTerms": ["kogei", "celadon", "maki-e", "mosaic", "shippo"],
+    "sources": [
+      {
+        "title": "「象嵌」百科事典マイペディア",
+        "url": "https://kotobank.jp/word/%E8%B1%A1%E5%B5%8C-796506",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [
+      {
+        "slug": "iroe",
+        "note": "染付は釉薬の下に藍色で描く下絵付けで、色絵は焼いた器の釉薬の上に赤や緑などで描く上絵付けです。"
+      }
+    ],
+    "prerequisiteTerms": [],
+    "slug": "sometsuke",
+    "term": "染付",
+    "reading": "そめつけ",
+    "english": "Blue and white",
+    "aliases": ["青花", "呉須", "染付磁器"],
+    "summary": "白地に藍色の顔料で文様を描き、透明な釉薬をかけて焼いた陶磁器。",
+    "definition": "陶磁器の装飾技法の一つで、その製品も指します。白地に藍青色の絵や文様があるもので、中国では青花（せいか）、英語ではブルー・アンド・ホワイトと呼びます。白い素地の器に、呉須（ごす）などと呼ばれる酸化コバルトを主成分とする顔料で文様を描き、その上に透明な釉薬をかけて高温で焼きます。14世紀の元代後期に中国の景徳鎮窯で、白磁の素地に青の文様がくっきりと浮かぶ染付磁器が開発され、「元の染付」と呼ばれて、東アフリカに至る世界各地に輸出されました。",
+    "categoryIds": ["craft-design"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "白い大皿に、藍色で竜や波の文様を描いた磁器。"
+      },
+      {
+        "description": "藍色の濃淡で山水を描いた茶碗。"
+      }
+    ],
+    "viewingTips": [
+      "藍色の濃淡やにじみから、筆の動きを想像する。",
+      "器の裏や縁にも文様が描かれていないかを確かめる。"
+    ],
+    "museumUsage": "陶磁器の展示で、技法名や作品名（「染付〇〇文皿」など）として使われます。",
+    "relatedTerms": ["ceramics", "hakuji", "iroe", "glaze", "celadon"],
+    "sources": [
+      {
+        "title": "「染付」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E6%9F%93%E4%BB%98-90361",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [
+      {
+        "slug": "sometsuke",
+        "note": "色絵は釉薬の上に描く上絵付けで、染付は釉薬の下に藍色で描く下絵付けです。"
+      }
+    ],
+    "prerequisiteTerms": [],
+    "slug": "iroe",
+    "term": "色絵",
+    "reading": "いろえ",
+    "english": "Overglaze enamels",
+    "aliases": ["赤絵", "錦手", "五彩", "上絵付け"],
+    "summary": "焼き上げた器の釉薬の上に、赤や緑などの色で絵付けして再び焼いた陶磁器。",
+    "definition": "赤絵、錦手（にしきで）、五彩ともいい、陶磁器の基本的な装飾法の一つです。白い釉薬の陶器や白磁の釉面の上に、赤、黄、緑などの絵具で上絵付けをします。高温で焼いた器に絵付けをし、錦窯と呼ばれる小さな窯で800℃前後の低い温度で再び焼き付けることで、絵具が釉面となじんで発色します。華やかな赤の絵具が目立つため、江戸時代初期から「赤絵」が色絵の総称として使われるほどでした。世界で最初に色絵を考案したのは、中国華北の磁州窯（じしゅうよう）とされます。",
+    "categoryIds": ["craft-design"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "白い磁器に、赤や緑、金で草花を華やかに描いた大皿。"
+      },
+      {
+        "description": "染付の藍色の上に、赤や黄の色を重ねた鉢。"
+      }
+    ],
+    "viewingTips": [
+      "絵の部分が釉面の上にわずかに盛り上がっていないかを、光の反射で確かめる。"
+    ],
+    "museumUsage": "陶磁器の展示で、技法名や作品名（「色絵〇〇文皿」など）として使われます。",
+    "relatedTerms": ["ceramics", "sometsuke", "hakuji", "glaze"],
+    "sources": [
+      {
+        "title": "「色絵」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E8%89%B2%E7%B5%B5-32554",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [
+      {
+        "slug": "celadon",
+        "note": "青磁は釉薬に含まれる鉄分で青緑色に発色し、白磁は鉄分を取り除いて白く仕上げます。"
+      }
+    ],
+    "prerequisiteTerms": [],
+    "slug": "hakuji",
+    "term": "白磁",
+    "reading": "はくじ",
+    "english": "White porcelain",
+    "aliases": ["白磁器"],
+    "summary": "白い磁器の素地に透明な釉薬をかけて焼いた磁器。",
+    "definition": "白色の磁器の素地に透明な釉薬をかけた磁器の総称です。中国で発明され、その母体は青磁で、青磁の素地と釉薬から鉄分を取り除くことで白磁がつくられました。カオリナイトと呼ばれる白い粘土で素地をつくり、鉄分を含まない透明な釉薬をかけて、1250℃以上で焼き上げます。560〜570年代の中国華北が始まりとされ、隋・唐・宋代には華北が主な産地となり、とくに北宋時代の定窯（ていよう）で白磁の絶頂期を示す名品が焼かれました。",
+    "categoryIds": ["craft-design"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "装飾をほとんど持たず、白い肌と形の美しさを見せる壺。"
+      },
+      {
+        "description": "わずかに青みを帯びた白い釉薬の碗。"
+      }
+    ],
+    "viewingTips": [
+      "白の色合い（青み、黄みなど）の違いを、隣の作品と比べる。",
+      "装飾が少ない分、形の輪郭や厚みに注目する。"
+    ],
+    "museumUsage": "中国・朝鮮・日本の陶磁器の展示で使われます。",
+    "relatedTerms": ["celadon", "ceramics", "sometsuke", "iroe", "glaze"],
+    "sources": [
+      {
+        "title": "「白磁」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E7%99%BD%E7%A3%81-113684",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
   }
 ]

@@ -1013,5 +1013,356 @@
       "pop-art"
     ],
     "categoryIds": ["genres-styles"]
+  },
+  {
+    "confusables": [
+      {
+        "slug": "abstract-expressionism",
+        "note": "抽象表現主義はアメリカの戦後絵画の動向全体を指し、アクション・ペインティングはそのうち描く行為を重んじる傾向を指します。"
+      }
+    ],
+    "prerequisiteTerms": [],
+    "slug": "action-painting",
+    "term": "アクション・ペインティング",
+    "reading": "あくしょんぺいんてぃんぐ",
+    "english": "Action Painting",
+    "aliases": ["行為の絵画", "ジェスチュア・ペインティング"],
+    "summary": "描く行為そのものを重んじ、画家の身振りの跡を画面に残した絵画。",
+    "definition": "「行為の絵画」を意味し、批評家ハロルド・ローゼンバーグが1952年に『アート・ニューズ』誌に発表した論文「アメリカのアクション・ペインターたち」で提唱した概念です。ポロックやデ・クーニング、フランツ・クラインらの、ブラッシュ・ストロークやドリッピングといった身振りを伴う絵画が想定されています。ローゼンバーグによれば、こうした絵画ではキャンヴァスは完成に向けた手段ではなく、画家が素材と格闘する「競技場」であり、描く過程そのものに価値が置かれます。背景には、シュルレアリスムのオートマティスムや実存哲学などの影響があります。キャンヴァスを出来事が起こる場とみなす考え方は、のちのハプニングやパフォーマンスにもつながりました。日本では具体美術協会が行為と絵画を直接結びつけた例に数えられます。今日ではアメリカの動向全体を指すときは抽象表現主義という語が広く使われます。",
+    "categoryIds": ["genres-styles"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "床に広げたキャンヴァスの上を歩き回りながら、絵具を滴らせて描いた絵画。"
+      },
+      {
+        "description": "太い刷毛で一気に引いた黒い線が画面を走る絵画。"
+      }
+    ],
+    "viewingTips": [
+      "絵具の跡から、画家がどんな動きで描いたのかを想像する。",
+      "作品の大きさと、画家の体の大きさを比べてみる。"
+    ],
+    "museumUsage": "ポロックや具体美術協会の作品解説でよく使われます。",
+    "museumExample": "床に置いた画布に絵具を流し込む制作は、アクション・ペインティングの代表的な手法として知られる。",
+    "relatedTerms": [
+      "abstract-expressionism",
+      "dripping",
+      "art-informel",
+      "gutai",
+      "automatism",
+      "happening"
+    ],
+    "sources": [
+      {
+        "title": "「アクション・ペインティング」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%82%E3%81%8F%E3%81%97%E3%82%88%E3%82%93%E3%81%BA%E3%81%84%E3%82%93%E3%81%A6%E3%81%84%E3%82%93%E3%81%90-3140683",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "現代美術用語辞典「アクション・ペインティング」",
+        "url": "https://artscape.jp/artword/5478/",
+        "publisher": "artscape"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "color-field-painting",
+    "term": "カラー・フィールド・ペインティング",
+    "reading": "からーふぃーるどぺいんてぃんぐ",
+    "english": "Color Field Painting",
+    "aliases": ["色面絵画", "色彩の場の絵画"],
+    "summary": "大きく広がる色の面で画面を満たし、色そのものを体験させる抽象絵画。",
+    "definition": "色彩による「面」の領域が画面の大きな割合を占める絵画を指し、「色彩の場の絵画」と訳されます。批評家クレメント・グリーンバーグが、バーネット・ニューマンの作品を色彩による「場（フィールド）」の絵画と呼んだことに始まり、ニューマンやマーク・ロスコらの色面を強調した抽象表現主義の作品が、1950年代後半から60年代に多くの作家に引き継がれたことで定着しました。強い筆致や激しいコントラストを避け、同じか近い色相、似た明度や彩度で画面をつくる点が特色です。地と図の区別をあいまいにし、画面全体を一つのまとまりとして見せることで、平面性が強められました。モーリス・ルイスやヘレン・フランケンサーラー、ケネス・ノーランドらも含まれ、エルズワース・ケリーらの「ハード・エッジ」の作品をこの傾向に含めることもあります。",
+    "categoryIds": ["genres-styles"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "深い赤の画面に、ぼんやりとした輪郭の暗い長方形が浮かぶ大きな絵画。"
+      },
+      {
+        "description": "一色で塗られた広い画面を、細い縦の線が一本だけ横切る絵画。"
+      }
+    ],
+    "viewingTips": [
+      "作品の近くに立ち、視界が色で満たされたときの感覚を味わう。",
+      "色の境目がくっきりしているか、にじんでいるかを確かめる。"
+    ],
+    "museumUsage": "ロスコやニューマンなど、戦後アメリカ美術の展示で使われます。",
+    "relatedTerms": [
+      "abstract-expressionism",
+      "abstract",
+      "minimalism",
+      "hue",
+      "complementary-colors"
+    ],
+    "sources": [
+      {
+        "title": "「カラー・フィールド・ペインティング」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%8B%E3%82%89%E3%83%BC%E3%81%B5%E3%81%84%E3%83%BC%E3%82%8B%E3%81%A9%E3%81%BA%E3%81%84%E3%82%93%E3%81%A6%E3%81%84%E3%82%93%E3%81%90-3147870",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "現代美術用語辞典「カラー・フィールド・ペインティング」",
+        "url": "https://artscape.jp/artword/5750/",
+        "publisher": "artscape"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "bijinga",
+    "term": "美人画",
+    "reading": "びじんが",
+    "english": "Bijin-ga",
+    "aliases": ["美人図"],
+    "summary": "美しい女性の姿を主題とした絵画。浮世絵や近代の日本画で一つのジャンルとなった。",
+    "definition": "美しい容姿を鑑賞の目的とした絵画で、主に東洋の絵画について使われます。中国では唐代に「樹下美人図」が流行し、その影響を伝える正倉院宝物の《鳥毛立女屏風》などが残っています。日本では江戸時代初期以降に独立した主題となり、寛文年間（1661〜1673年）ごろには遊女などの立ち姿を一人で描く「寛文美人図」が生まれました。浮世絵を創始した菱川師宣は木版画で生き生きとした美人像を確立し、以後、美人画は浮世絵の主流となりました。「美人画」という言葉自体は江戸時代以前にはなく、明治期に美術の制度が整い、ジャンル分けが進むなかで成立したと考えられています。近代には文展・帝展を通じて日本画の一ジャンルとなり、鏑木清方や上村松園らが代表的な画家として知られます。一般に洋画の女性像、特に裸婦像は美人画に含まれません。",
+    "generalDifference": "日常では「美しい人」を指す言葉ですが、美術では女性像を描いた絵画のジャンル名です。",
+    "categoryIds": ["genres-styles"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "着物姿の女性が振り返る一瞬をとらえた掛け軸。"
+      },
+      {
+        "description": "季節の花とともに、身支度をする女性を描いた浮世絵版画。"
+      }
+    ],
+    "viewingTips": [
+      "着物の柄や髪型、小物から、描かれた時代や身分を読み取る。",
+      "顔の描き方を作家ごとに比べ、それぞれが理想とした美しさの違いを探す。"
+    ],
+    "museumUsage": "浮世絵や近代日本画の展覧会で、ジャンル名や章タイトルとしてよく使われます。",
+    "museumExample": "上村松園は、気品ある女性の姿を描いた美人画で知られる。",
+    "relatedTerms": [
+      "ukiyo-e",
+      "nihonga",
+      "portrait",
+      "genre-painting",
+      "woodblock-print"
+    ],
+    "sources": [
+      {
+        "title": "「美人画」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E7%BE%8E%E4%BA%BA%E7%94%BB-610136",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "現代美術用語辞典「美人画」",
+        "url": "https://artscape.jp/artword/6604/",
+        "publisher": "artscape"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [
+      {
+        "slug": "op-art",
+        "note": "オプ・アートは静止した画面が動いて見える目の錯覚を使い、キネティック・アートは作品が実際に動きます。"
+      }
+    ],
+    "prerequisiteTerms": [],
+    "slug": "kinetic-art",
+    "term": "キネティック・アート",
+    "reading": "きねてぃっくあーと",
+    "english": "Kinetic Art",
+    "aliases": ["動く彫刻", "キネティック・スカルプチャー"],
+    "summary": "風やモーターなどの力で、作品そのものが実際に動く美術。",
+    "definition": "動く彫刻など、実際に運動を伴う美術作品の総称です。従来の彫刻が静止した形のなかに動きを感じさせるものだったのに対し、第一次世界大戦後、立体作品に現実の運動を取り入れ、時間に基づく造形をつくろうとする試みが生まれました。モーターで立体を動かしたマルセル・デュシャンの《回転ガラス板》やナウム・ガボの《直立する波》（ともに1920年）が先駆的な例で、1930年代にはアレクサンダー・カルダーが風やわずかな空気の動きで揺れる「モビール」へと展開しました。本格的に盛んになったのは1950年代以降で、根底には伝統的な媒体への疑問と、科学やテクノロジーへの関心がありました。風力や水力など自然の力を使うもの、モーターによるもの（ジャン・ティンゲリーなど）、光や音、映像と組み合わせたもの（ニコラ・シェフェールなど）があります。同時代のオプ・アートが静止した画面での視覚効果を追求したのに対し、物理的な空間での動きを伴う点が特徴です。",
+    "categoryIds": ["genres-styles"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "天井から吊るされ、空気の流れでゆっくり回る色とりどりの板の作品。"
+      },
+      {
+        "description": "モーターで歯車や廃材がガタガタと動き続ける機械のような彫刻。"
+      }
+    ],
+    "viewingTips": [
+      "しばらく立ち止まり、動きのリズムや繰り返しを観察する。",
+      "動力が風、モーター、人の手のどれなのかを確かめる。"
+    ],
+    "museumUsage": "彫刻や現代美術の展示で、動く作品の分類として使われます。",
+    "relatedTerms": [
+      "sculpture",
+      "op-art",
+      "media-art",
+      "interactive",
+      "constructivism"
+    ],
+    "sources": [
+      {
+        "title": "「キネティック・アート」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%8D%E3%81%AD%E3%81%A6%E3%81%84%E3%81%A4%E3%81%8F%E3%81%82%E3%83%BC%E3%81%A8-3148953",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "現代美術用語辞典「キネティック・アート」",
+        "url": "https://artscape.jp/artword/5785/",
+        "publisher": "artscape"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "chinso",
+    "term": "頂相",
+    "reading": "ちんそう",
+    "english": "Chinsō (portrait of a Zen master)",
+    "aliases": ["ちんぞう", "禅僧肖像"],
+    "summary": "禅宗の高僧の肖像画や肖像彫刻。",
+    "definition": "禅僧の肖像画のことで、「ちんぞう」「ちょうそう」とも読みます。禅宗では、法は人によって伝わるとして師を重んじるため、その肖像も尊重されました。忌日に高僧の画像を掛けるほか、修行を積んだ証として師の肖像を弟子に与えます。いずれも師を生きているかのように写実的に描くことが求められ、画像には師自らが賛を添える習わしがあります。曲彔（きょくろく）という椅子に座り、竹篦（しっぺい）などを持つ全身像や半身像が多く見られます。彫刻でも同じ形式の像がつくられ、中国では北宋から南宋、日本では鎌倉時代末から室町時代にかけて盛んにつくられました。",
+    "categoryIds": ["genres-styles"],
+    "difficulty": 3,
+    "examples": [
+      {
+        "description": "椅子に座り、払子を手にした禅僧の全身像に、本人の筆で賛が書かれた掛軸。"
+      },
+      {
+        "description": "しわや骨格まで写実的に表した、禅僧の木彫の坐像。"
+      }
+    ],
+    "viewingTips": [
+      "顔の描写の写実性に注目し、その人の人柄を想像する。",
+      "画面上部の賛を誰が書いたかを解説で確かめる。"
+    ],
+    "museumUsage": "禅宗寺院の宝物や、中世の肖像画・肖像彫刻の展示で使われます。",
+    "relatedTerms": ["portrait", "gasan", "kakejiku", "sculpture"],
+    "sources": [
+      {
+        "title": "「頂相」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E9%A0%82%E7%9B%B8-98708",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "butsuga",
+    "term": "仏画",
+    "reading": "ぶつが",
+    "english": "Buddhist painting",
+    "aliases": ["仏教絵画", "仏教画"],
+    "summary": "仏教を主題とした絵画。とくに礼拝の対象となる仏の姿を描いた画像。",
+    "definition": "仏教絵画のことで、広くは仏教の宗教活動のために描かれた、仏教を主題とする絵画の総称です。狭い意味では、仏像（彫像）に対応して、礼拝の対象となる仏の尊像を表した画像を指します。仏教の絵画活動は、インドの仏教建造物の壁や天井、柱などを絵画や文様で飾ることから始まり、インドのアジャンタ石窟には紀元前1世紀にさかのぼる壁画の一部が残っています。仏教が広まった各地で、建物を飾る仏画のほか、日常の礼拝の本尊や特別な行事に用いる尊像が描かれ、密教や浄土教などの登場によって、教派特有の内容を表したものも生まれました。",
+    "categoryIds": ["genres-styles"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "絹に描かれ、金の細い文様で衣を飾った菩薩の画像。"
+      },
+      {
+        "description": "雲に乗った阿弥陀如来が人々を迎えに来る場面を描いた絵。"
+      }
+    ],
+    "viewingTips": [
+      "描かれた仏の姿勢や持ち物、手の形から、どの仏かを解説で確かめる。",
+      "もともとどんな場で、どのように礼拝されていたかを想像する。"
+    ],
+    "museumUsage": "仏教美術や寺院の宝物の展示で使われます。",
+    "relatedTerms": [
+      "mandala",
+      "iconography",
+      "shihon-kenpon",
+      "kakejiku",
+      "engi-e"
+    ],
+    "sources": [
+      {
+        "title": "「仏画」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E4%BB%8F%E7%94%BB-125059",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "engi-e",
+    "term": "縁起絵",
+    "reading": "えんぎえ",
+    "english": "Illustrated legends of temples and shrines",
+    "aliases": ["縁起絵巻", "寺社縁起"],
+    "summary": "寺社の始まりや神仏のご利益の物語を絵にしたもの。",
+    "definition": "寺社の創建の由来や、神仏の霊験の物語である「縁起」を絵にしたものです。絵巻の形式が多く、宗教界による民衆への布教が活発になる平安時代末に始まり、鎌倉時代に流行しました。布教の手段としてだけでなく、祈願のために奉納されたり、物語としての興味からつくられたりすることもありました。《粉河寺縁起絵巻》《石山寺縁起絵巻》《北野天神縁起絵巻》《春日権現験記》など数多くの作品があります。",
+    "categoryIds": ["genres-styles"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "寺の本尊が現れ、人々の病を治すまでを描いた絵巻。"
+      },
+      {
+        "description": "神社の祭神の生涯と、その霊験を描いた掛軸。"
+      }
+    ],
+    "viewingTips": [
+      "物語の始まりから終わりまで、場面の順番を追う。",
+      "描かれた寺社の建物や人々の暮らしの様子にも注目する。"
+    ],
+    "museumUsage": "絵巻や寺社の宝物の展示で使われます。",
+    "relatedTerms": ["emaki", "butsuga", "yamato-e", "kakejiku"],
+    "sources": [
+      {
+        "title": "「縁起絵」百科事典マイペディア",
+        "url": "https://kotobank.jp/word/%E7%B8%81%E8%B5%B7%E7%B5%B5-821411",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
   }
 ]

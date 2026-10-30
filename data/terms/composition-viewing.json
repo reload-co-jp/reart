@@ -633,5 +633,650 @@
     "museumExample": "六曲一双の大画面に、四季の移ろいが右隻から左隻へと連続して描かれている。",
     "relatedTerms": ["rinpa", "kano-school", "yamato-e", "triptych"],
     "categoryIds": ["composition-viewing"]
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "hue",
+    "term": "色相",
+    "reading": "しきそう",
+    "english": "Hue",
+    "aliases": ["色み", "色合い"],
+    "summary": "赤、黄、緑、青など、色を区別する「色み」のこと。色の三属性の一つ。",
+    "definition": "色の三属性（色相・明度・彩度）の一つで、赤、青、黄、緑のように色を特徴づけ、区別するときに使う「色み」のことです。光は目に見える範囲の波長の長さによって色みが変わり、波長が長いと赤、短くなるにつれて橙、黄、緑、青、紫と連続的に変化して感じられます。白、黒、灰色は色相と彩度を持たないため無彩色と呼ばれ、色みのある色は有彩色と呼ばれます。19世紀フランスのゴブラン織製作所の染色部門を監督した化学者シュヴルールは、色相を「有彩色における色合いや色み」と定義しました。色相の移り変わりは、輪のように並べた図（色相環）で表すことができます。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "青から紫へと少しずつ色みが移り変わる空を描いた風景画。"
+      },
+      {
+        "description": "赤と緑のように色相環で向かい合う色を隣り合わせた絵画。"
+      }
+    ],
+    "viewingTips": [
+      "作品に使われている色みがいくつあるかを数えてみる。",
+      "似た色相でまとめた作品と、離れた色相を組み合わせた作品で印象を比べる。"
+    ],
+    "museumUsage": "色彩を重視する絵画の解説や、色の使い方を説明する場面で使われます。",
+    "relatedTerms": [
+      "lightness",
+      "saturation",
+      "complementary-colors",
+      "color-field-painting",
+      "pigment"
+    ],
+    "sources": [
+      {
+        "title": "現代美術用語辞典「色相」",
+        "url": "https://artscape.jp/artword/6022/",
+        "publisher": "artscape"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "lightness",
+    "term": "明度",
+    "reading": "めいど",
+    "english": "Value",
+    "aliases": ["明るさ", "ヴァルール"],
+    "summary": "色の明るさ・暗さの度合い。色の三属性の一つ。",
+    "definition": "色の三属性（色相・明度・彩度）の一つで、色の明るさや暗さを表します。明度は物体の表面が光を反射する割合で測られ、光をすべて反射する白が最も高く、まったく反射しない黒が最も低くなります。明度は色みのある有彩色にも、白・灰色・黒の無彩色にもあり、有彩色はグレーに置き換えることで明度を比べられます。例えば黄色は明度が高く、青は明度が低い色です。色の表示に使われるマンセル表色系では、白を10、黒を0として、その間を明るさの感覚に従って等しく区切った数値で表します。明度の高い色と低い色を同じ画面に並べると、明るいものはより明るく、暗いものはより暗く見えます。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "暗い背景の中に、明るく照らされた人物の顔が浮かび上がる絵画。"
+      },
+      {
+        "description": "白から黒までの灰色の段階だけで描かれた水墨画。"
+      }
+    ],
+    "viewingTips": [
+      "目を細めて作品を見ると、色みよりも明るさの違いが見えやすくなる。",
+      "画面の中で一番明るい部分と一番暗い部分を探し、どこに目が引かれるかを確かめる。"
+    ],
+    "museumUsage": "明暗の対比を使った絵画や、モノクロームの作品の解説で使われます。",
+    "relatedTerms": ["hue", "saturation", "chiaroscuro", "ink-painting"],
+    "sources": [
+      {
+        "title": "「明度」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E6%98%8E%E5%BA%A6-9202",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "現代美術用語辞典「明度」",
+        "url": "https://artscape.jp/artword/6845/",
+        "publisher": "artscape"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "saturation",
+    "term": "彩度",
+    "reading": "さいど",
+    "english": "Saturation",
+    "aliases": ["鮮やかさ", "飽和度"],
+    "summary": "色の鮮やかさの度合い。色の三属性の一つ。",
+    "definition": "色の三属性（色相・明度・彩度）の一つで、色みの強さや鮮やかさの度合いを表し、飽和度とも呼ばれます。同じ黄色でも、はっきりした黄色は彩度が高く、灰色がかったくすんだ黄色は彩度が低いと言います。プリズムで分けた太陽光の色（スペクトル色）は最も彩度が高く、純色とも呼ばれます。白、黒、灰色の無彩色は彩度を持ちません。彩度は数値でも表すことができ、マンセル表色系では無彩色を0として、有彩色に値が示されています。隣り合う色や背景の色によって、見かけの彩度が違って見えることもあります。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "原色に近い鮮やかな赤や青を、混ぜずにそのまま塗った絵画。"
+      },
+      {
+        "description": "灰色がかった落ち着いた色だけでまとめた静物画。"
+      }
+    ],
+    "viewingTips": [
+      "鮮やかな色が画面のどこに置かれているかを探し、その効果を考える。",
+      "同じ作家の初期と後期の作品で、色の鮮やかさがどう変わったかを比べる。"
+    ],
+    "museumUsage": "色彩の特徴を説明する作品解説や、フォーヴィスムなど色を重視する動向の解説で使われます。",
+    "relatedTerms": ["hue", "lightness", "complementary-colors", "fauvism"],
+    "sources": [
+      {
+        "title": "「彩度」百科事典マイペディア",
+        "url": "https://kotobank.jp/word/%E5%BD%A9%E5%BA%A6-3649",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "現代美術用語辞典「彩度」",
+        "url": "https://artscape.jp/artword/5968/",
+        "publisher": "artscape"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [
+      {
+        "slug": "croquis",
+        "note": "クロッキーは対象を短時間で素早く描きとるものですが、エスキースは完成作の構想を練るための下絵です。"
+      },
+      {
+        "slug": "drawing",
+        "note": "ドローイングは線を主体とした表現全般を指し、それ自体が作品になります。エスキースは完成作の準備として描かれるものです。"
+      }
+    ],
+    "prerequisiteTerms": [],
+    "slug": "esquisse",
+    "term": "エスキース",
+    "reading": "えすきーす",
+    "english": "Esquisse",
+    "aliases": ["エスキス", "下絵", "素案"],
+    "summary": "作品をつくる前に、構想や構図を練るために描く下描き。",
+    "definition": "フランス語で素描、下絵、素案、概要を意味します。作品を制作するための着想や構想、構図を描きとめた下描きのことで、アイデアを吟味し、計画を練る作業やその下絵そのものを指します。速く描くことを特に意味するクロッキーとは異なり、検討を重ねるなかで通常は何枚も描かれます。完成作のための準備であることが強く意識されるため、色や配置の指示、メモなどが書き込まれたり、画面の範囲を決めるトリミングの線が引かれたりすることも多くあります。建築の分野では、デザイン全体の構想図やその作業を指して使われます。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "大作の油彩画のために、人物の配置を何通りも描き比べた小さな紙の下絵。"
+      },
+      {
+        "description": "色の指定が文字で書き込まれた壁画の構想図。"
+      }
+    ],
+    "viewingTips": [
+      "完成作と並んでいる場合は、構図や人物の配置がどう変わったかを比べる。",
+      "書き込まれたメモや線から、作家の考えた過程をたどる。"
+    ],
+    "museumUsage": "完成作と並べて、制作過程を紹介する展示でよく使われます。",
+    "museumExample": "本展では、完成作とともに数多くのエスキースを展示し、構想が固まるまでの過程をたどる。",
+    "relatedTerms": ["drawing", "croquis", "composition", "tableau"],
+    "sources": [
+      {
+        "title": "現代美術用語辞典「エスキース」",
+        "url": "https://artscape.jp/artword/5680/",
+        "publisher": "artscape"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "tableau",
+    "term": "タブロー",
+    "reading": "たぶろー",
+    "english": "Tableau",
+    "aliases": ["板絵", "完成画"],
+    "summary": "板やキャンヴァスに描かれた、持ち運びのできる完成した絵画。",
+    "definition": "フランス語で、木の板や枠に張った布（キャンヴァス）に描かれた絵を指し、壁画に対するイーゼル画を意味します。語源はラテン語の「タブラ（板）」です。特定の建物や礼拝の役割と結びつく壁画と異なり、場所や目的にしばられず持ち運べる絵をタブローと呼びます。そのためタブローの誕生は、周囲の空間から画面を切り離す額縁の存在と切り離せません。現在では作品として完成した絵画を指し、素描や下絵（エスキース）と対になる言葉として使われることもあります。ただし近代になると、エスキースのような描き方のタブローも現れました。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "額縁に収められ、展示室の壁に掛けられた油彩画。"
+      },
+      {
+        "description": "下絵や素描を重ねた末に仕上げられた大きな完成作。"
+      }
+    ],
+    "viewingTips": [
+      "同じ作家の素描や下絵と比べ、完成作で何が加わったかを探す。",
+      "額縁が画面の印象をどう変えているかにも目を向ける。"
+    ],
+    "museumUsage": "作品解説で、下絵や素描と区別して完成作の絵画を指すときに使われます。",
+    "relatedTerms": [
+      "esquisse",
+      "oil-painting",
+      "fresco",
+      "support",
+      "drawing"
+    ],
+    "sources": [
+      {
+        "title": "「タブロー」百科事典マイペディア",
+        "url": "https://kotobank.jp/word/%E3%81%9F%E3%81%B6%E3%82%8D%E3%83%BC-3182918",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "現代美術用語辞典「タブロー」",
+        "url": "https://artscape.jp/artword/6269/",
+        "publisher": "artscape"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [
+      {
+        "slug": "catalogue",
+        "note": "図録は一つの展覧会の出品作品をまとめた本で、カタログ・レゾネは作家の全作品を網羅した目録です。"
+      }
+    ],
+    "prerequisiteTerms": [],
+    "slug": "catalogue-raisonne",
+    "term": "カタログ・レゾネ",
+    "reading": "かたろぐれぞね",
+    "english": "Catalogue raisonné",
+    "aliases": ["レゾネ", "全作品目録", "総目録"],
+    "summary": "ある作家の全作品を調べ上げ、詳しいデータとともに収録した目録。",
+    "definition": "ある芸術家、あるいは一つの美術館やコレクションの全作品のデータを網羅した目録です。「レゾネ」はフランス語で「理由を付した」といった意味です。今日では、作品の図版、タイトル、制作年、素材・技法、寸法、署名の有無、研究者による解説、所蔵歴（来歴）、展覧会歴、文献歴などの詳しいデータを収めたものを指し、作品の鑑定や研究に欠かせない基本資料となっています。この語の使い方は17世紀終わりから18世紀初めごろの競売カタログで始まったとされ、もとは真贋を判断する根拠として利用されました。個人の作品総目録は19世紀後半に一般化し、20世紀に入って写真図版が多く載るようになると、美術史研究の材料として広く使われるようになりました。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "一人の画家の油彩画すべてに番号を振り、来歴や展覧会歴を記した数巻の本。"
+      },
+      {
+        "description": "版画家の全作品を、版の状態の違いまで区別して収録した目録。"
+      }
+    ],
+    "viewingTips": [
+      "キャプションや解説に作品番号が書かれていたら、レゾネの番号かどうかを確かめる。"
+    ],
+    "museumUsage": "作品解説や参考文献欄で、作品の基本情報の出典として挙げられます。",
+    "relatedTerms": ["catalogue", "retrospective", "edition", "curator"],
+    "sources": [
+      {
+        "title": "「カタログ・レゾネ」ブリタニカ国際大百科事典 小項目事典",
+        "url": "https://kotobank.jp/word/%E3%81%8B%E3%81%9F%E3%82%8D%E3%81%90%E3%82%8C%E3%81%9E%E3%81%AD-162190",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "現代美術用語辞典「カタログ・レゾネ」",
+        "url": "https://artscape.jp/artword/5743/",
+        "publisher": "artscape"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "kakejiku",
+    "term": "掛軸",
+    "reading": "かけじく",
+    "english": "Hanging scroll",
+    "aliases": ["掛物", "掛幅", "軸", "幅", "対幅"],
+    "summary": "書や絵を表装して、床の間や壁に掛けて鑑賞する形式。",
+    "definition": "書画を表装して、床の間や壁に掛けて鑑賞するもので、掛物、掛幅（かけふく）、軸、幅ともいいます。巻物から転じたものといわれ、日本の掛物は中国から伝わった方法を受け継ぎ、鎌倉時代に禅宗とともにもたらされたものが基盤となっています。表装を職業とする裱褙師（ひょうほえし）も活躍するようになりました。平安時代にはすでに仏画の掛物が室内に飾られていましたが、流行するようになったのは、書院造が発展して床（とこ）が設けられるようになってからです。室町時代には三幅対や対幅（二幅）の名品が広間の床に掛けられ、山水花鳥画や宋・元時代の中国絵画が珍重されました。書を床に掛けるようになったのはそれより後で、茶の湯の発展とも深く結びついています。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "縦長の画面に山水を描き、布で表装した一幅の絵。"
+      },
+      {
+        "description": "中央に仏、左右に従う者を描いた三幅で一組の掛軸。"
+      }
+    ],
+    "viewingTips": [
+      "絵の周りの表装の布の色や柄も、作品と合わせて鑑賞する。",
+      "「一幅」「双幅」「三幅対」などの数え方をキャプションで確かめる。"
+    ],
+    "museumUsage": "日本・東洋の書画のキャプションの形式欄（「一幅」など）で使われます。",
+    "relatedTerms": ["byobu", "emaki", "gasan", "rakkan", "shihon-kenpon"],
+    "sources": [
+      {
+        "title": "「掛物」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E6%8E%9B%E7%89%A9-461265",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "emaki",
+    "term": "絵巻",
+    "reading": "えまき",
+    "english": "Handscroll",
+    "aliases": ["絵巻物", "詞書", "絵詞"],
+    "summary": "詞書（文章）と絵を交互に配し、巻物に仕立てて物語を展開する日本の絵画形式。",
+    "definition": "日本独自の美術様式の一つで、絵巻物ともいいます。詞書（ことばがき）と呼ばれる文章と絵によって、物語、説話、伝記、社寺の縁起などを展開し、巻物に仕立てて保存・鑑賞されました。主に10世紀（平安時代）から16世紀（室町時代）にかけて、大和絵の画風で数多く制作されました。内容からは、仏教の経典を絵解きしたものや、社寺の由来を描いた縁起、高僧の伝記などの宗教的な絵巻と、『源氏物語絵巻』のような物語・日記や、『伴大納言絵詞』のような説話を題材とした鑑賞的な絵巻に分けられます。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "右から左へ、場面が途切れずに続いていく合戦の絵巻。"
+      },
+      {
+        "description": "文章と絵が交互に現れる、寺の由来を描いた縁起絵巻。"
+      }
+    ],
+    "viewingTips": [
+      "右から左へ、時間の流れに沿って場面を追う。",
+      "同じ人物が一つの画面に何度も登場していないかを探す。"
+    ],
+    "museumUsage": "日本美術の展示で頻繁に使われ、展示替えで公開場面が変わることも多くあります。",
+    "relatedTerms": ["yamato-e", "kakejiku", "byobu", "shohekiga"],
+    "sources": [
+      {
+        "title": "「絵巻」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E7%B5%B5%E5%B7%BB-37371",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [
+      {
+        "slug": "byobu",
+        "note": "屏風は持ち運べる調度に描かれた絵で、障壁画は襖や壁など建物に組み込まれた面に描かれた絵です。両者をあわせて障屏画と呼びます。"
+      }
+    ],
+    "prerequisiteTerms": [],
+    "slug": "shohekiga",
+    "term": "障壁画",
+    "reading": "しょうへきが",
+    "english": "Wall and sliding-door paintings",
+    "aliases": ["障屏画", "襖絵", "障子絵", "壁貼付絵"],
+    "summary": "襖や壁、屏風など、建物の間仕切りや壁面に描かれた絵の総称。",
+    "definition": "襖などの障子絵や壁に貼り付けた絵（壁貼付絵）を障壁画といい、屏風絵とあわせて障屏画（しょうへいが）と総称します。古代の「障子」は襖・衝立・板戸などを広く指しました。土壁や板壁に直接描いた壁画をあわせて障壁画と呼ぶこともあります。日本家屋の間仕切りに絵を描いて室内を飾ることは古くから行われ、平安時代には中国の事物を描いた唐絵から、しだいに四季の風物や名所を描く大和絵が盛んになりました。中世には水墨による山水花鳥が主な画題となり、室町時代には禅宗寺院で盛んに描かれました。古い作品は建物とともにほとんど失われましたが、絵巻に描かれた室内の様子などから、当時の障屏画の様子を推測できます。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "寺の部屋をぐるりと囲む襖に、四季の山水を連続して描いたもの。"
+      },
+      {
+        "description": "城の広間の壁や襖に、金地で大きな松を描いたもの。"
+      }
+    ],
+    "viewingTips": [
+      "もともとどんな部屋に、どの順番で並んでいたかを想像しながら見る。",
+      "座ったときの目の高さで見ると、どう見えるかを考えてみる。"
+    ],
+    "museumUsage": "寺院や城の美術を紹介する展示や、狩野派の作品解説でよく使われます。",
+    "relatedTerms": [
+      "byobu",
+      "kano-school",
+      "gold-leaf",
+      "ink-painting",
+      "yamato-e"
+    ],
+    "sources": [
+      {
+        "title": "「障屏画」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E9%9A%9C%E5%B1%8F%E7%94%BB-79804",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [
+      {
+        "slug": "gasan",
+        "note": "画賛は絵に添えて書かれた詩文で、作者以外の人が書くこともあります。落款は作者自身の署名と印です。"
+      }
+    ],
+    "prerequisiteTerms": [],
+    "slug": "rakkan",
+    "term": "落款",
+    "reading": "らっかん",
+    "english": "Signature and seal",
+    "aliases": ["款記", "落款印", "印章", "隠し落款"],
+    "summary": "書画の完成時に、作者が作品に書き入れる署名と押す印。",
+    "definition": "「落成款識（らくせいかんしき）」の略で、日本や東洋の書画で、完成したときに作者が作品に入れる署名と捺印のことです。書の末尾や画面の余白などに、姓名や雅号、制作年月日などを書き、印を押します。絵の内容に関わる詩文（賛）や、制作の経緯を記した文がある場合には、それらを含めていうこともあります。作品の真贋や制作年代を推定するうえで、一つの基準となります。対幅や屏風では、それぞれ対称の位置に入れるのが普通です。落款が目立つのを避けたい場合には、描かれた木の葉や岩の中にひそかに入れることもあり、これを「隠し落款」といいます。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "掛軸の左下に、雅号の署名と朱色の印が入っているもの。"
+      },
+      {
+        "description": "屏風の左右の端に、対称の位置で署名と印が入っているもの。"
+      }
+    ],
+    "viewingTips": [
+      "画面の隅や余白で署名と印を探し、どこに入れられているかを見る。",
+      "印の数や形から、作家が使い分けていた印を比べてみる。"
+    ],
+    "museumUsage": "書画の解説で、作者や制作時期の判断の根拠として使われます。",
+    "relatedTerms": [
+      "gasan",
+      "kakejiku",
+      "calligraphy",
+      "blank-space",
+      "catalogue-raisonne"
+    ],
+    "sources": [
+      {
+        "title": "「落款」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E8%90%BD%E6%AC%BE-147329",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "gasan",
+    "term": "画賛",
+    "reading": "がさん",
+    "english": "Painting inscription",
+    "aliases": ["賛", "画讃", "画贊", "自画賛"],
+    "summary": "絵の余白に書き添えられた詩や文、和歌。",
+    "definition": "画讃・画贊とも書き、単に賛ともいいます。もともとは絵を賞賛する言葉を余白に書き記したものを指しましたが、のちに絵とともに書かれた文、詩、歌などを指すようになりました。中国や日本では古くから書と画を一体とみる考えがあり、書と絵をあわせて鑑賞したり、詩や和歌の文学的な内容と絵を結びつけたりするために生まれました。起こりは中国の唐代で、宋代に形式が整い、その影響を受けて日本の鎌倉・室町時代の水墨画や肖像画にも多くの例が見られます。江戸時代の文人画にも好んで用いられ、現代の日本画にもしばしば見られます。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "山水画の上部の余白に、禅僧たちが詩を書き連ねた掛軸。"
+      },
+      {
+        "description": "人物の肖像の上に、その人をたたえる文が書かれた絵。"
+      }
+    ],
+    "viewingTips": [
+      "解説に賛の読み下しや訳があれば、絵と内容を照らし合わせる。",
+      "絵と賛の書き手が同じ人か、別の人かを確かめる。"
+    ],
+    "museumUsage": "水墨画や文人画、禅宗の肖像画（頂相）などの解説で使われます。",
+    "relatedTerms": [
+      "rakkan",
+      "ink-painting",
+      "bunjinga",
+      "calligraphy",
+      "blank-space"
+    ],
+    "sources": [
+      {
+        "title": "「画賛」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E7%94%BB%E8%B3%9B-461846",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [
+      {
+        "slug": "mosha",
+        "note": "模写はほかの作品を写すことで、写生は実物を見て描くことです。"
+      }
+    ],
+    "prerequisiteTerms": [],
+    "slug": "shasei",
+    "term": "写生",
+    "reading": "しゃせい",
+    "english": "Sketching from life",
+    "aliases": ["写生画", "スケッチ"],
+    "summary": "自然や物を、実際に見たままに描くこと。",
+    "definition": "自然や事物を実際に見たままに描くことです。中国では唐の終わりごろから、先人の作品を写して描く伝統的な「臨画」に対して、実物を観察して描く傾向が強まり、「写生」はこの「臨画」に対する言葉として使われました。宋代からは、動植物など生きたものを直接描く意味で使われるようになりました。日本では江戸時代に、オランダ絵画の流入とともに円山応挙らが写生を重んじました。明治時代にはスケッチやデッサンの訳語にあてられ、大正期には山本鼎らの自由画教育の普及とともに、学校の図画教育にも写生が取り入れられました。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "庭の草花や虫を、実物を見ながら細かく描きとめた写生帖。"
+      },
+      {
+        "description": "旅先の風景を、その場で描いた素描。"
+      }
+    ],
+    "viewingTips": [
+      "写生と、それをもとに仕上げた完成作が並んでいたら、何が省かれ何が加えられたかを比べる。"
+    ],
+    "museumUsage": "円山派や近代日本画の解説、画家の写生帖の展示で使われます。",
+    "relatedTerms": ["drawing", "mosha", "funpon", "realism", "esquisse"],
+    "sources": [
+      {
+        "title": "「写生」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E5%86%99%E7%94%9F-186198",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "funpon",
+    "term": "粉本",
+    "reading": "ふんぽん",
+    "english": "Model copybook",
+    "aliases": ["手本"],
+    "summary": "画家が制作の参考にするための模写や写生帳などの総称。",
+    "definition": "画家が制作の参考にするための模写、見取図、写生帳などの総称です。昔はまず胡粉で下絵を描いたことから、この名が起こったといわれます。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "古い名画の構図を写しとった、画派の中で受け継がれた手本の巻物。"
+      }
+    ],
+    "viewingTips": [
+      "粉本と完成作を見比べ、同じ図柄がどう使い回されているかを探す。"
+    ],
+    "museumUsage": "狩野派などの画派の制作方法や、画家の学習の過程を紹介する展示で使われます。",
+    "relatedTerms": ["mosha", "shasei", "kano-school", "gofun", "esquisse"],
+    "sources": [
+      {
+        "title": "「粉本」百科事典マイペディア",
+        "url": "https://kotobank.jp/word/%E7%B2%89%E6%9C%AC-623571",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "temporary-exhibition",
+    "term": "企画展",
+    "reading": "きかくてん",
+    "english": "Temporary exhibition",
+    "aliases": ["特別展"],
+    "summary": "あるテーマに沿って、期間を区切って開かれる展覧会。",
+    "definition": "美術館や博物館などで、あるテーマに沿って一定期間作品を展示することです。常設展が自館の収蔵作品を展示するのに対し、企画展では自館のコレクション以外にも、国内外の美術館やギャラリー、コレクターから作品を借りて展示します。費用や作業を分担するため、複数の美術館を回る巡回展にすることもあります。日本では1980年代以降、コレクションを持たないクンストハレ形式の美術館が多く開館したことなどから、企画展中心の運営が一般的です。テーマの設定から作品の選定、借用の交渉、会場構成までを指揮する学芸員にとって、企画展は研究成果の発表の場であり、論文を収めた展覧会カタログは文献としての価値も高くなります。",
+    "categoryIds": ["composition-viewing"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "一人の画家の作品を国内外から集め、3か月間だけ開かれる展覧会。"
+      }
+    ],
+    "viewingTips": [
+      "展覧会のタイトルと章立てから、どんなテーマで作品が選ばれたのかを考える。",
+      "作品ごとの所蔵先を確かめ、どこから借りてきたものかを見る。"
+    ],
+    "museumUsage": "美術館の展覧会案内で、常設展（コレクション展）と区別して使われます。",
+    "relatedTerms": ["curator", "catalogue", "retrospective", "white-cube"],
+    "sources": [
+      {
+        "title": "現代美術用語辞典「企画展」",
+        "url": "https://artscape.jp/artword/5775/",
+        "publisher": "artscape"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
   }
 ]

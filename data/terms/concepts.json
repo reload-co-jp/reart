@@ -886,5 +886,394 @@
     "museumExample": "本展では、国宝3件、重要文化財12件を含む約100件の作品を展示する（会期中展示替えあり）。",
     "relatedTerms": ["byobu", "calligraphy", "sculpture", "catalogue"],
     "categoryIds": ["concepts"]
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "depaysement",
+    "term": "デペイズマン",
+    "reading": "でぺいずまん",
+    "english": "Dépaysement",
+    "aliases": ["転置"],
+    "summary": "物を本来の場所や文脈から切り離して思いがけない組み合わせに置き、違和感や驚きを生む手法。",
+    "definition": "フランス語で「異なった環境に置くこと」を意味し、転じて「居心地の悪さ、違和感」も表します。美術ではシュルレアリスムの手法の一つを指し、ある物を日常的な環境から異質な環境に移し、実用的な性格を奪って、物どうしの奇妙な出会いを生み出すことで、見る人の感覚の深いところに強い衝撃を与えることをねらいます。詩人ロートレアモンの『マルドロールの歌』（1869年）にある「解剖台の上でのミシンと蝙蝠傘との偶然の出会い」という一節が、この考え方を説明する決まり文句としてよく引かれます。この手法にふさわしい作品を発表した画家に、デ・キリコ、マックス・エルンスト、マグリットらがいます。",
+    "generalDifference": "日常のフランス語では「気分転換」や「異国にいる感覚」を指しますが、美術では違和感を生む表現の手法です。",
+    "categoryIds": ["concepts"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "青空の下の室内に、巨大なリンゴが部屋いっぱいに置かれている絵画。"
+      },
+      {
+        "description": "海辺に古典彫刻の頭部と手袋が並べられた、夢のような情景の絵画。"
+      }
+    ],
+    "viewingTips": [
+      "画面の中で、本来その場所にあるはずのない物を探す。",
+      "組み合わせが生む違和感が、どんな気分や連想を呼び起こすかを考える。"
+    ],
+    "museumUsage": "シュルレアリスム、特にマグリットやデ・キリコの作品解説で使われます。",
+    "museumExample": "日常の事物を思いがけない場所に置くデペイズマンの手法によって、見慣れた世界が不穏なものに変わる。",
+    "relatedTerms": ["surrealism", "objet", "collage", "context", "automatism"],
+    "sources": [
+      {
+        "title": "「デペイズマン」ブリタニカ国際大百科事典 小項目事典",
+        "url": "https://kotobank.jp/word/%E3%81%A7%E3%81%BA%E3%81%84%E3%81%9A%E3%81%BE%E3%82%93-101420",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "現代美術用語辞典「デペイズマン」",
+        "url": "https://artscape.jp/artword/6362/",
+        "publisher": "artscape"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "automatism",
+    "term": "オートマティスム",
+    "reading": "おーとまてぃすむ",
+    "english": "Automatism",
+    "aliases": ["オートマティズム", "自動記述", "自動筆記"],
+    "summary": "理性や意図による制御を外し、無意識の働きに任せて描いたり書いたりするシュルレアリスムの手法。",
+    "definition": "1920年代にシュルレアリストが示した芸術の手法と創作の理念で、「自動記述」などと訳されます。1924年の「シュルレアリスム宣言」でアンドレ・ブルトンは、これを「理性によるどんな統制もなく、美学上・道徳上のどんな気づかいからも離れた思考の書き取り」としました。もとは自動的・反射的な体の反応を指す生理学や精神医学の用語で、ブルトンはフロイトの自由連想などの方法を、無意識を引き出す芸術の手法に応用できると考えました。美術では、偶然の効果を定着させるマックス・エルンストのフロッタージュやデカルコマニー、アンドレ・マッソンの自動デッサン、ジョアン・ミロの「夢の絵画」などが試みられました。第二次世界大戦後には、アメリカの抽象表現主義やヨーロッパのアンフォルメルに深い影響を与え、ポロックらのアクション・ペインティングが生まれるきっかけとなりました。",
+    "categoryIds": ["concepts"],
+    "difficulty": 2,
+    "examples": [
+      {
+        "description": "ペンを紙から離さずに、手の動くままに描き続けた線のドローイング。"
+      },
+      {
+        "description": "砂や絵具を偶然に任せて画面に散らし、そこから形を見いだした絵画。"
+      }
+    ],
+    "viewingTips": [
+      "線や形が、計画的に描かれたものか、手の動きに任せたものかを見分けてみる。",
+      "偶然できた形の中に、自分には何が見えるかを探してみる。"
+    ],
+    "museumUsage": "シュルレアリスムや戦後の抽象絵画の展示で、制作方法の説明として使われます。",
+    "relatedTerms": [
+      "surrealism",
+      "frottage",
+      "decalcomania",
+      "action-painting",
+      "abstract-expressionism",
+      "art-informel"
+    ],
+    "sources": [
+      {
+        "title": "「オートマティスム」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%8A%E3%83%BC%E3%81%A8%E3%81%BE%E3%81%A6%E3%81%84%E3%81%99%E3%82%80-3146970",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "現代美術用語辞典「オートマティスム／オートマティズム」",
+        "url": "https://artscape.jp/artword/5725/",
+        "publisher": "artscape"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [
+      {
+        "slug": "readymade",
+        "note": "レディメイドはデュシャンが既製品をそのまま作品とした手法を指し、オブジェはより広く、物を作品として示すこと全般を指します。"
+      },
+      {
+        "slug": "found-object",
+        "note": "ファウンド・オブジェクトは見つけた物を素材として使うことを指し、オブジェはその物を作品として示す考え方まで含みます。"
+      }
+    ],
+    "prerequisiteTerms": [],
+    "slug": "objet",
+    "term": "オブジェ",
+    "reading": "おぶじぇ",
+    "english": "Objet",
+    "aliases": ["オブジェクト"],
+    "summary": "日用品や自然物を本来の用途から切り離し、「もの」そのものとして作品にしたもの。",
+    "definition": "フランス語で「物」「物体」「対象」を意味します。美術では、量産された既製品や自然物の断片など、本来は芸術と関係のない物体を、実用から離れたただの「もの」として示すときに使われ、物体そのものと、それを作品として示す考え方の両方を含む呼び名です。20世紀初頭のダダのなかで生まれ、デュシャンが既製品の便器に《泉》と題して1917年の展覧会に出品しようとしたことはよく知られています。その後シュルレアリスムが盛んに用い、物から通常の意味や用途を奪うことで、見る人の深層心理に働きかけられると考えました。日本でフランス語の呼び名が広まったのは、シュルレアリスムを通じて定着したためです。オブジェの登場によって、「絵画」と「彫刻」を基本とする19世紀以前の芸術の考え方は大きく変わることになりました。",
+    "generalDifference": "日常では飾りとして置く置物や立体的な装飾品を指しますが、美術では物を本来の意味から切り離して示す考え方を含みます。",
+    "categoryIds": ["concepts"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "毛皮で覆われたティーカップとスプーンの作品。"
+      },
+      {
+        "description": "流木や石を拾い集め、台の上にそのまま置いて示した作品。"
+      }
+    ],
+    "viewingTips": [
+      "その物が普段どんな用途で使われているかを思い浮かべ、展示されたときとの違いを考える。",
+      "作家が手を加えた部分と、そのままの部分を見分けてみる。"
+    ],
+    "museumUsage": "ダダやシュルレアリスム、戦後の前衛美術の展示や、キャプションの作品形式欄で使われます。",
+    "relatedTerms": [
+      "readymade",
+      "found-object",
+      "surrealism",
+      "dada",
+      "assemblage",
+      "depaysement"
+    ],
+    "sources": [
+      {
+        "title": "「オブジェ」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E3%81%8A%E3%81%B6%E3%81%98%E3%81%88-3146547",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "現代美術用語辞典「オブジェ」",
+        "url": "https://artscape.jp/artword/5705/",
+        "publisher": "artscape"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [
+      {
+        "slug": "appropriation",
+        "note": "アプロプリエーションは既存の作品を引用して新しい意味を生む表現で、模写はもとの作品に倣って写す複製や学習の方法です。"
+      }
+    ],
+    "prerequisiteTerms": [],
+    "slug": "mosha",
+    "term": "模写",
+    "reading": "もしゃ",
+    "english": "Copy",
+    "aliases": ["臨模", "復原模写", "現状模写", "コピー"],
+    "summary": "絵画や書などを、もとの作品に倣って写すこと。",
+    "definition": "複製の方法の一つで、絵画や書などをオリジナル（原作・原本）に倣って写すことです。目的には、原本を守るための模品の作成や、原作の技法の研究などがあり、今日では文化財の保護に欠かせないものとなっています。文化財の模写には、原本の汚れや変色をそのまま写す「現状模写」と、制作当時の形や色彩を研究して再現する「復原模写」があります。中国では古くから絵画の六法の一つ「伝模移写」として尊重され、原本を傍らに置いて見ながら写す「臨模（りんも）」と、原本の上に薄い紙を置いて写す「搨模（とうも）」という方法があります。",
+    "categoryIds": ["concepts"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "退色した古い仏画を、制作当時の鮮やかな色で再現した復原模写。"
+      },
+      {
+        "description": "画家が修業時代に、名画を見ながら写した作品。"
+      }
+    ],
+    "viewingTips": [
+      "原本と模写が並んでいたら、色や線の違いを比べる。",
+      "現状模写か復原模写かを解説で確かめる。"
+    ],
+    "museumUsage": "原本の代わりに展示される模本の表示や、画家の修業・文化財保存の解説で使われます。",
+    "relatedTerms": [
+      "originality",
+      "appropriation",
+      "national-treasure",
+      "important-cultural-property"
+    ],
+    "sources": [
+      {
+        "title": "「模写」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E6%A8%A1%E5%86%99-142340",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "important-cultural-property",
+    "term": "重要文化財",
+    "reading": "じゅうようぶんかざい",
+    "english": "Important Cultural Property",
+    "aliases": ["重文", "重要文化財指定"],
+    "summary": "文化財保護法に基づき、国が特に重要と指定した有形文化財。",
+    "definition": "日本にある有形文化財のうち、特に重要とみなされたもので、「重文」と略されます。1950年に制定された文化財保護法に基づき、絵画、彫刻、工芸品、考古資料、建造物などのうち、芸術上・学術上とくに価値の高いものを文部科学大臣が指定します。1949年の法隆寺金堂の火災をきっかけに、それまでの国宝保存法などに代わってこの制度が生まれ、同時に従来の国宝はすべて重要文化財に改められました。重要文化財のうち、さらに重要と認められたものが今日の国宝です。管理の責任者が定められ、現状を変更する際には許可が必要になる一方、保存のための補助を国から受けることができます。",
+    "categoryIds": ["concepts"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "キャプションに「重要文化財」と記された、室町時代の屏風。"
+      }
+    ],
+    "viewingTips": [
+      "キャプションの「国宝」「重要文化財」の表示を確かめ、指定の理由を解説から探す。",
+      "指定品は展示期間が限られることが多いので、展示替えの予定を確認する。"
+    ],
+    "museumUsage": "キャプションの作品名の近くに「重要文化財」「重文」と表示されます。",
+    "relatedTerms": ["national-treasure", "caption", "mosha"],
+    "sources": [
+      {
+        "title": "「重要文化財」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E9%87%8D%E8%A6%81%E6%96%87%E5%8C%96%E8%B2%A1-77465",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "workshop",
+    "term": "工房",
+    "reading": "こうぼう",
+    "english": "Workshop",
+    "aliases": ["アトリエ", "ボッテガ", "工房作"],
+    "summary": "芸術家や職人の仕事場。また、親方のもとで弟子たちが共同で制作する組織。",
+    "definition": "職人や芸術家の仕事場であり、転じて、そこで親方や師匠に従って制作に携わる人々の組織を指します。英語でワークショップやスタジオ、フランス語でアトリエ、イタリア語でボッテガと呼びます。中世ヨーロッパの工房はギルド（同業組合）の統制下にあり、古代・中世には芸術家と職人の間に原理的な区別はなく、絵画や彫刻の制作も工房の制度に組み込まれていました。ルネサンス以降、芸術家はしだいに職人の階級から独立していきますが、工房の伝統は18世紀ごろまで続きました。工房は教育の場、共同制作の場、作品の倉庫・展示場という三つの役割を持ち、画家を志す者は10歳前後で住み込みで入門し、下地や絵具づくりから素描、彩色へと実践を通して学び、上達すると親方の作品の一部を任されました。",
+    "categoryIds": ["concepts"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "親方の画家が人物の顔を描き、背景を弟子たちが仕上げた祭壇画。"
+      },
+      {
+        "description": "キャプションに「〜工房」と記された、作者を一人に特定できない作品。"
+      }
+    ],
+    "viewingTips": [
+      "「工房作」「〜と工房」の表記があれば、親方と弟子の手の違いを探してみる。"
+    ],
+    "museumUsage": "西洋の古典絵画などのキャプションで、「〜工房」「工房作」として作者表記に使われます。",
+    "relatedTerms": [
+      "renaissance",
+      "originality",
+      "yosegi-zukuri",
+      "kano-school"
+    ],
+    "sources": [
+      {
+        "title": "「工房」改訂新版 世界大百科事典",
+        "url": "https://kotobank.jp/word/%E5%B7%A5%E6%88%BF-188414",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [
+      {
+        "slug": "mosha",
+        "note": "模写は学習や保存のために原作に倣って写すもので、贋作は他人を欺く意図で作者を偽ったものです。"
+      }
+    ],
+    "prerequisiteTerms": [],
+    "slug": "forgery",
+    "term": "贋作",
+    "reading": "がんさく",
+    "english": "Forgery",
+    "aliases": ["偽作", "にせもの", "真贋"],
+    "summary": "他人を欺く意図で、ほかの作者の名を騙ってつくられた作品。",
+    "definition": "実際は別の者が手がけたにもかかわらず、作者の名を騙って流通する美術作品のことで、にせもの、偽作ともいいます。原作者や同じ工房による複製（レプリカ）や、過去の巨匠に倣うための模作（習作）と区別されるのは、他人を欺くという明確な意図でつくられる点です。その大部分は意図的につくられ、絵画の贋作は画家によって、陶磁器の贋作は陶芸家によってつくられるなど、一定の技術を持つ贋作者がいます。絵画や版画が誕生した15世紀以降に増え、とくに国際的な美術市場が成立した19世紀末には人気作家の贋作が氾濫しました。鑑定にはX線検査や化学分析なども使われますが、万全ではなく、同時代の人の目を欺いたものが後世にたやすく見破られることもあります。",
+    "categoryIds": ["concepts"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "有名な画家の作風をまね、その署名を入れて売られた絵画。"
+      }
+    ],
+    "viewingTips": [
+      "「伝〜筆」「〜派」など、作者の表記が断定されていない作品の書き方に注目する。"
+    ],
+    "museumUsage": "真贋をテーマにした展覧会や、作品の来歴・鑑定の解説で使われます。",
+    "relatedTerms": [
+      "mosha",
+      "originality",
+      "catalogue-raisonne",
+      "rakkan",
+      "workshop"
+    ],
+    "sources": [
+      {
+        "title": "「贋作」日本大百科全書(ニッポニカ)",
+        "url": "https://kotobank.jp/word/%E8%B4%8B%E4%BD%9C-48778",
+        "publisher": "コトバンク"
+      },
+      {
+        "title": "現代美術用語辞典「贋作」",
+        "url": "https://artscape.jp/artword/5769/",
+        "publisher": "artscape"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
+  },
+  {
+    "confusables": [],
+    "prerequisiteTerms": [],
+    "slug": "patron",
+    "term": "パトロン",
+    "reading": "ぱとろん",
+    "english": "Patron",
+    "aliases": ["パトロネージュ", "庇護者", "注文主"],
+    "summary": "芸術家を経済的に支援する後援者。",
+    "definition": "一般には後援者や保護者を意味しますが、とくに芸術家を経済的に援助する場合にこの名称が用いられます。芸術が職業として成り立つ以前は、パトロンとしての王侯貴族や有力者の庇護が必要でした。イタリア・ルネサンスでメディチ家が果たした役割はとくに有名です。イギリスではエリザベス朝から18世紀まで、王室や貴族がパトロンとなって詩壇や劇壇の繁栄を支えました。",
+    "categoryIds": ["concepts"],
+    "difficulty": 1,
+    "examples": [
+      {
+        "description": "注文主の一族の姿が、聖人の物語の中に描き込まれた礼拝堂の壁画。"
+      }
+    ],
+    "viewingTips": [
+      "誰の注文で、どこに飾るためにつくられた作品かを解説で確かめる。",
+      "画面の中に注文主自身の姿や紋章が描かれていないかを探す。"
+    ],
+    "museumUsage": "ルネサンス美術などの解説で、作品の注文主や支援者を説明するときに使われます。",
+    "relatedTerms": ["renaissance", "workshop", "art-fair"],
+    "sources": [
+      {
+        "title": "「パトロン」ブリタニカ国際大百科事典 小項目事典",
+        "url": "https://kotobank.jp/word/%E3%81%B1%E3%81%A8%E3%82%8D%E3%82%93-3184834",
+        "publisher": "コトバンク"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "checkedAt": "2026-10-30"
+    },
+    "status": "published",
+    "createdAt": "2026-10-30",
+    "updatedAt": "2026-10-30"
   }
 ]
