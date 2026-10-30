@@ -5,13 +5,16 @@
 //   pnpm artworks add <slug> <artworkId> <keyword> [理由]
 //   pnpm artworks remove <slug> <artworkId>
 //   pnpm artworks refresh [artworkId]   指定作品、または画像取得エラーの作品を再取得
-//   pnpm artworks collect               全用語に、作品未登録の館の上位候補を未確認で登録
-// collect の候補には unchecked が付く。add し直すと確認済みになる。
+//   pnpm artworks collect [--replace]   作品が足りない用語に有名作の候補を未確認で登録
+//                                       --replace は未確認の候補を捨てて取り直す
+// collect は Wikidata の言語版数（有名さの目安）順の作品を優先し、足りなければ
+// Cleveland の館選定ハイライトで補う。候補には unchecked が付く。add し直すと確認済みになる。
 // 表示順は data/term-artworks.json の配列順。並べ替えはファイルを直接編集する。
 //
 // 利用条件の判定（CC0 / Public Domain のみ保存）
 //   The Met: isPublicDomain（Open Access = CC0）
 //   Cleveland: share_license_status === "CC0"
+//   Wikidata: 画像（Wikimedia Commons）のライセンスが pd / cc0
 import fs from "node:fs"
 import path from "node:path"
 import type { Artwork, TermArtwork } from "../lib/types"
@@ -21,8 +24,12 @@ const ARTWORKS = path.join(DATA, "artworks.json")
 const LINKS = path.join(DATA, "term-artworks.json")
 const IMAGES = path.join(process.cwd(), "public", "artworks")
 const PER_PAGE = 10
-const COLLECT_PER_SOURCE = 2
-const UA = { "User-Agent": "reart-artworks-fetcher" }
+const COLLECT_PER_TERM = 3
+// Wikimedia は連絡先入りの User-Agent を求める
+const UA = {
+  "User-Agent":
+    "reart-artworks-fetcher (https://github.com/reload-co-jp/reart)",
+}
 
 type Found = Omit<Artwork, "id" | "localImagePath" | "downloadedAt" | "error">
 type Adapter = {
@@ -108,7 +115,96 @@ const cma: Adapter = {
   get: async (id) => fromCma((await getJson(`${CMA}/${id}`)).data),
 }
 
-const adapters: Record<Artwork["source"], Adapter> = { met, cma }
+const cmaHighlight: Adapter = {
+  ...cma,
+  async search(q, page) {
+    const r = await getJson(
+      `${CMA}/?q=${enc(q)}&has_image=1&cc0=1&highlight=1&limit=${PER_PAGE}&skip=${page * PER_PAGE}`
+    )
+    return r.data.map(fromCma).filter(Boolean)
+  },
+}
+
+const sparql = async (q: string) =>
+  (
+    await getJson(
+      `https://query.wikidata.org/sparql?format=json&query=${enc(q)}`
+    )
+  ).results.bindings
+
+type Commons = { url: string; license: string }
+export const fromWikidata = (
+  id: string,
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  r: any,
+  c?: Commons
+): Found | undefined =>
+  r?.image && c && /^(pd|cc0)/i.test(c.license)
+    ? {
+        source: "wikidata",
+        sourceId: id,
+        title: r.title?.value ?? "",
+        artist: r.artist?.value ?? "",
+        date: r.year?.value ?? "",
+        museum: r.museum?.value ?? "",
+        description: "",
+        imageUrl: c.url,
+        sourceUrl: `https://www.wikidata.org/wiki/${id}`,
+        rights: `${c.license === "cc0" ? "CC0" : "Public Domain"}（Wikimedia Commons）`,
+      }
+    : undefined
+
+// P18 の Special:FilePath URL から、縮小画像の URL とライセンスを引く
+const commons = async (filePath: string): Promise<Commons | undefined> => {
+  const title = "File:" + decodeURIComponent(filePath.split("/").pop()!)
+  const r = await getJson(
+    `https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url|extmetadata&iiurlwidth=1200&titles=${enc(title)}`
+  )
+  const [page] = Object.values(r.query.pages) as {
+    imageinfo?: {
+      url: string
+      thumburl?: string
+      extmetadata?: { License?: { value: string } }
+    }[]
+  }[]
+  const ii = page?.imageinfo?.[0]
+  if (!ii) return
+  return {
+    url: (ii.thumburl ?? ii.url).split("?")[0],
+    license: ii.extmetadata?.License?.value ?? "",
+  }
+}
+
+const wikidata: Adapter = {
+  // 用語を上位 3 件の項目に解決し（同名の人名・作品を拾っても下の条件で落ちる）、
+  // その様式・ジャンル・素材を持つ作品を言語版数順に取る。作者と所蔵先の
+  // 無いもの（運動に属する人物など）は除く
+  async search(q, page) {
+    const s = await getJson(
+      `https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&type=item&limit=3&search=${enc(q)}`
+    )
+    const ids = s.search.map((x: { id: string }) => `wd:${x.id}`).join(" ")
+    if (!ids) return []
+    const rows = await sparql(
+      `SELECT DISTINCT ?w ?s WHERE { VALUES ?m { ${ids} } ?w wdt:P135|wdt:P136|wdt:P186 ?m; wdt:P18 []; wdt:P170 []; wdt:P195 []; wikibase:sitelinks ?s. } ORDER BY DESC(?s) LIMIT ${PER_PAGE} OFFSET ${page * PER_PAGE}`
+    )
+    const found = []
+    for (const r of rows) {
+      await sleep(1000)
+      const a = await wikidata.get(r.w.value.split("/").pop())
+      if (a) found.push(a)
+    }
+    return found
+  },
+  async get(id) {
+    const [r] = await sparql(
+      `SELECT (SAMPLE(?img) AS ?image) (COALESCE(SAMPLE(?l), SAMPLE(?lj), SAMPLE(?la)) AS ?title) (GROUP_CONCAT(DISTINCT ?al; separator=", ") AS ?artist) (SAMPLE(?ml) AS ?museum) (MIN(YEAR(?d)) AS ?year) WHERE { wd:${id} wdt:P18 ?img. OPTIONAL { wd:${id} rdfs:label ?l FILTER(lang(?l) = "en") } OPTIONAL { wd:${id} rdfs:label ?lj FILTER(lang(?lj) = "ja") } OPTIONAL { wd:${id} rdfs:label ?la } OPTIONAL { wd:${id} wdt:P170/rdfs:label ?al FILTER(lang(?al) = "en") } OPTIONAL { wd:${id} wdt:P195/rdfs:label ?ml FILTER(lang(?ml) = "en") } OPTIONAL { wd:${id} wdt:P571 ?d } }`
+    )
+    return fromWikidata(id, r, r?.image && (await commons(r.image.value)))
+  },
+}
+
+const adapters: Record<Artwork["source"], Adapter> = { met, cma, wikidata }
 
 const read = <T>(file: string, empty: T): T =>
   fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, "utf8")) : empty
@@ -234,26 +330,26 @@ const main = async () => {
       [slug]: (links[slug] ?? []).filter((l) => l.artworkId !== id),
     })
   } else if (cmd === "collect") {
+    const replace = args.includes("--replace")
     let current = artworks
     for (const t of loadTerms()) {
       if (t.status !== "published") continue
       const q = toQuery(t.english ?? t.term)
-      const list = links[t.slug] ?? []
-      for (const [source, adapter] of Object.entries(adapters)) {
-        // 登録済みの館は飛ばす（失敗した館だけ再実行できる）
-        if (list.some((l) => l.artworkId.startsWith(`${source}:`))) continue
+      const list = (links[t.slug] ?? []).filter(
+        (l) => !(replace && l.unchecked)
+      )
+      for (const [source, adapter, reason] of [
+        ["wikidata", wikidata, "代表作（Wikidata 言語版数順、未確認）"],
+        ["cma", cmaHighlight, "館のハイライト（未確認）"],
+      ] as const) {
+        if (list.length >= COLLECT_PER_TERM) break
         try {
-          for (const found of (await adapter.search(q, 0)).slice(
-            0,
-            COLLECT_PER_SOURCE
-          )) {
+          for (const found of await adapter.search(q, 0)) {
+            if (list.length >= COLLECT_PER_TERM) break
+            const id = `${source}:${found.sourceId}`
+            if (list.some((l) => l.artworkId === id)) continue
             current = await saveArtwork(found, current)
-            list.push({
-              artworkId: `${source}:${found.sourceId}`,
-              keyword: q,
-              reason: "キーワード一致（未確認）",
-              unchecked: true,
-            })
+            list.push({ artworkId: id, keyword: q, reason, unchecked: true })
           }
         } catch (e) {
           console.error(`${t.slug} ${source}: ${e}`)
@@ -262,6 +358,23 @@ const main = async () => {
       links[t.slug] = list
       write(LINKS, links)
       console.log(`${t.slug} "${q}": ${list.length}`)
+    }
+    if (replace) {
+      // どの用語からも参照されなくなった作品と画像を消す
+      const used = new Set(
+        Object.values(links)
+          .flat()
+          .map((l) => l.artworkId)
+      )
+      for (const a of current)
+        if (!used.has(a.id) && a.localImagePath)
+          fs.rmSync(path.join(process.cwd(), "public", a.localImagePath), {
+            force: true,
+          })
+      write(
+        ARTWORKS,
+        current.filter((a) => used.has(a.id))
+      )
     }
   } else if (cmd === "refresh") {
     const ids = args.length

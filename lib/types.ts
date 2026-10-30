@@ -90,7 +90,7 @@ export const DIFFICULTY_LABEL: Record<Difficulty, string> = {
 // 利用条件（CC0 / Public Domain）を確認できた作品だけを保存する。
 export type Artwork = {
   id: string // `${source}:${sourceId}`
-  source: "met" | "cma"
+  source: "met" | "cma" | "wikidata"
   sourceId: string
   title: string
   artist: string

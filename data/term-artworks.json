@@ -1,749 +1,506 @@
 {
   "modernism": [
     {
-      "artworkId": "cma:164314",
+      "artworkId": "wikidata:Q2538580",
       "keyword": "Modernism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:130974",
+      "artworkId": "wikidata:Q2381632",
       "keyword": "Modernism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q3212521",
+      "keyword": "Modernism",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "postmodernism": [],
   "avant-garde": [
     {
-      "artworkId": "met:393177",
+      "artworkId": "wikidata:Q1922418",
       "keyword": "Avant-garde",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:20637",
+      "artworkId": "wikidata:Q1345290",
       "keyword": "Avant-garde",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:128394",
+      "artworkId": "wikidata:Q4247398",
       "keyword": "Avant-garde",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:126769",
-      "keyword": "Avant-garde",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "dada": [
     {
-      "artworkId": "cma:159216",
+      "artworkId": "wikidata:Q1345290",
       "keyword": "Dada",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q164918",
+      "keyword": "Dada",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q7736407",
+      "keyword": "Dada",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "impressionism": [
     {
-      "artworkId": "met:13177",
+      "artworkId": "wikidata:Q328523",
       "keyword": "Impressionism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:13176",
+      "artworkId": "wikidata:Q500951",
       "keyword": "Impressionism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:320778",
+      "artworkId": "wikidata:Q1167907",
       "keyword": "Impressionism",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:125104",
-      "keyword": "Impressionism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "post-impressionism": [
     {
-      "artworkId": "met:694642",
+      "artworkId": "wikidata:Q45585",
       "keyword": "Post-Impressionism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:125104",
+      "artworkId": "wikidata:Q154469",
       "keyword": "Post-Impressionism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:135299",
+      "artworkId": "wikidata:Q634122",
       "keyword": "Post-Impressionism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "fauvism": [
     {
-      "artworkId": "cma:115405",
+      "artworkId": "wikidata:Q1437492",
       "keyword": "Fauvism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q921429",
+      "keyword": "Fauvism",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q2538580",
+      "keyword": "Fauvism",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "cubism": [
     {
-      "artworkId": "cma:115405",
+      "artworkId": "wikidata:Q2272215",
       "keyword": "Cubism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:143278",
+      "artworkId": "wikidata:Q6461080",
       "keyword": "Cubism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q60497141",
+      "keyword": "Cubism",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
-  "futurism": [],
-  "constructivism": [],
+  "futurism": [
+    {
+      "artworkId": "wikidata:Q587514",
+      "keyword": "Futurism",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q934482",
+      "keyword": "Futurism",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q19883646",
+      "keyword": "Futurism",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    }
+  ],
+  "constructivism": [
+    {
+      "artworkId": "wikidata:Q19883785",
+      "keyword": "Constructivism",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    }
+  ],
   "bauhaus": [
     {
-      "artworkId": "cma:136592",
+      "artworkId": "wikidata:Q22570081",
       "keyword": "Bauhaus",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q18705545",
+      "keyword": "Bauhaus",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "renaissance": [
     {
-      "artworkId": "cma:113202",
+      "artworkId": "wikidata:Q128910",
       "keyword": "Renaissance",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:143744",
+      "artworkId": "wikidata:Q2066739",
       "keyword": "Renaissance",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:207016",
+      "artworkId": "wikidata:Q2900992",
       "keyword": "Renaissance",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:679092",
-      "keyword": "Renaissance",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "baroque": [
     {
-      "artworkId": "cma:148758",
+      "artworkId": "wikidata:Q208758",
       "keyword": "Baroque",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:111691",
+      "artworkId": "wikidata:Q1133420",
       "keyword": "Baroque",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:502347",
+      "artworkId": "wikidata:Q544315",
       "keyword": "Baroque",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:503578",
-      "keyword": "Baroque",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "neoclassicism": [
     {
-      "artworkId": "cma:169465",
+      "artworkId": "wikidata:Q476458",
       "keyword": "Neoclassicism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:150353",
+      "artworkId": "wikidata:Q59201",
       "keyword": "Neoclassicism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:85429",
+      "artworkId": "wikidata:Q1215604",
       "keyword": "Neoclassicism",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:200356",
-      "keyword": "Neoclassicism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "romanticism": [
     {
-      "artworkId": "cma:150851",
+      "artworkId": "wikidata:Q29530",
       "keyword": "Romanticism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:161708",
+      "artworkId": "wikidata:Q212616",
       "keyword": "Romanticism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:438947",
+      "artworkId": "wikidata:Q152867",
       "keyword": "Romanticism",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:206893",
-      "keyword": "Romanticism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "symbolism": [
     {
-      "artworkId": "cma:110180",
+      "artworkId": "wikidata:Q500951",
       "keyword": "Symbolism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:294067",
+      "artworkId": "wikidata:Q471289",
       "keyword": "Symbolism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:781761",
+      "artworkId": "wikidata:Q669994",
       "keyword": "Symbolism",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:548303",
-      "keyword": "Symbolism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
-  "gutai": [
-    {
-      "artworkId": "met:16580",
-      "keyword": "Gutai Art Association",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:13124",
-      "keyword": "Gutai Art Association",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    }
-  ],
-  "mono-ha": [
-    {
-      "artworkId": "met:671001",
-      "keyword": "Mono-ha",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:44861",
-      "keyword": "Mono-ha",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    }
-  ],
+  "gutai": [],
+  "mono-ha": [],
   "fluxus": [],
   "art-nouveau": [
     {
-      "artworkId": "cma:370537",
+      "artworkId": "wikidata:Q698487",
       "keyword": "Art Nouveau",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:148803",
+      "artworkId": "wikidata:Q354396",
       "keyword": "Art Nouveau",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:392369",
+      "artworkId": "wikidata:Q17001535",
       "keyword": "Art Nouveau",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:392368",
-      "keyword": "Art Nouveau",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "japonisme": [
     {
-      "artworkId": "cma:166854",
+      "artworkId": "wikidata:Q13528770",
       "keyword": "Japonisme",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:166855",
+      "artworkId": "wikidata:Q10322900",
       "keyword": "Japonisme",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:399200",
+      "artworkId": "wikidata:Q13418238",
       "keyword": "Japonisme",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:771056",
-      "keyword": "Japonisme",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "composition": [
     {
-      "artworkId": "cma:143278",
+      "artworkId": "wikidata:Q692259",
       "keyword": "Composition",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:153326",
+      "artworkId": "wikidata:Q124657332",
       "keyword": "Composition",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q131056493",
+      "keyword": "Composition",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "perspective": [
     {
-      "artworkId": "met:777804",
-      "keyword": "Perspective",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:365241",
-      "keyword": "Perspective",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:95401",
-      "keyword": "Perspective",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
       "artworkId": "cma:151904",
       "keyword": "Perspective",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:130396",
+      "keyword": "Perspective",
+      "reason": "館のハイライト（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:127250",
+      "keyword": "Perspective",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "chiaroscuro": [
     {
-      "artworkId": "cma:136307",
+      "artworkId": "cma:128048",
       "keyword": "Chiaroscuro",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:149782",
+      "artworkId": "cma:141931",
       "keyword": "Chiaroscuro",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:386049",
-      "keyword": "Chiaroscuro",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:638336",
-      "keyword": "Chiaroscuro",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "triptych": [
     {
-      "artworkId": "cma:120995",
+      "artworkId": "wikidata:Q121545709",
       "keyword": "Triptych",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:130492",
+      "artworkId": "wikidata:Q121546448",
       "keyword": "Triptych",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:207034",
+      "artworkId": "wikidata:Q121546724",
       "keyword": "Triptych",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:460519",
-      "keyword": "Triptych",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "edition": [
     {
-      "artworkId": "cma:351227",
+      "artworkId": "cma:166544",
       "keyword": "Edition",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:133111",
+      "artworkId": "cma:166199",
       "keyword": "Edition",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:129875",
+      "keyword": "Edition",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "catalogue": [
     {
-      "artworkId": "met:415761",
+      "artworkId": "cma:113202",
       "keyword": "Exhibition catalogue",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:202733",
-      "keyword": "Exhibition catalogue",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:115160",
-      "keyword": "Exhibition catalogue",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:300665",
-      "keyword": "Exhibition catalogue",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
-  "curator": [
-    {
-      "artworkId": "met:188324",
-      "keyword": "Curator",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:756889",
-      "keyword": "Curator",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:135238",
-      "keyword": "Curator",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:129221",
-      "keyword": "Curator",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    }
-  ],
-  "retrospective": [
-    {
-      "artworkId": "met:191818",
-      "keyword": "Retrospective",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:255983",
-      "keyword": "Retrospective",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    }
-  ],
-  "white-cube": [
-    {
-      "artworkId": "met:544089",
-      "keyword": "White cube",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:245494",
-      "keyword": "White cube",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    }
-  ],
-  "complementary-colors": [
-    {
-      "artworkId": "cma:140319",
-      "keyword": "Complementary colors",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:140318",
-      "keyword": "Complementary colors",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:443197",
-      "keyword": "Complementary colors",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:436170",
-      "keyword": "Complementary colors",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    }
-  ],
-  "blank-space": [
-    {
-      "artworkId": "cma:138857",
-      "keyword": "Blank space",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:171438",
-      "keyword": "Blank space",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:548517",
-      "keyword": "Blank space",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:42319",
-      "keyword": "Blank space",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    }
-  ],
+  "curator": [],
+  "retrospective": [],
+  "white-cube": [],
+  "complementary-colors": [],
+  "blank-space": [],
   "brushwork": [
     {
-      "artworkId": "cma:130391",
+      "artworkId": "cma:136682",
       "keyword": "Brushwork",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:135595",
-      "keyword": "Brushwork",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:49773",
-      "keyword": "Brushwork",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:36037",
-      "keyword": "Brushwork",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
-  "untitled": [
-    {
-      "artworkId": "cma:152349",
-      "keyword": "Untitled",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:534931",
-      "keyword": "Untitled",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    }
-  ],
-  "caption": [
-    {
-      "artworkId": "cma:145830",
-      "keyword": "Caption",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:535124",
-      "keyword": "Caption",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:811574",
-      "keyword": "Caption",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:811579",
-      "keyword": "Caption",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    }
-  ],
+  "untitled": [],
+  "caption": [],
   "context": [
     {
-      "artworkId": "met:246124",
+      "artworkId": "cma:153664",
       "keyword": "Context",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:504217",
+      "artworkId": "cma:159000",
       "keyword": "Context",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:136459",
+      "artworkId": "cma:117901",
       "keyword": "Context",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:137276",
-      "keyword": "Context",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
-  "criticality": [
-    {
-      "artworkId": "met:395763",
-      "keyword": "Criticality",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:725400",
-      "keyword": "Criticality",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    }
-  ],
-  "corporeality": [
-    {
-      "artworkId": "met:198627",
-      "keyword": "Corporeality",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:198606",
-      "keyword": "Corporeality",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    }
-  ],
+  "criticality": [],
+  "corporeality": [],
   "symbol": [
     {
-      "artworkId": "cma:159181",
+      "artworkId": "cma:153401",
       "keyword": "Symbol",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:147558",
+      "artworkId": "cma:130939",
       "keyword": "Symbol",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:319050",
+      "artworkId": "cma:153383",
       "keyword": "Symbol",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:447009",
-      "keyword": "Symbol",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "sign": [
     {
-      "artworkId": "cma:147060",
+      "artworkId": "cma:110180",
       "keyword": "Sign",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:147058",
+      "artworkId": "cma:159234",
       "keyword": "Sign",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:7511",
+      "artworkId": "cma:150389",
       "keyword": "Sign",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:8252",
-      "keyword": "Sign",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
@@ -751,300 +508,134 @@
     {
       "artworkId": "cma:152017",
       "keyword": "Reconstruction",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:153369",
+      "artworkId": "cma:163448",
       "keyword": "Reconstruction",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:551605",
-      "keyword": "Reconstruction",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:551606",
-      "keyword": "Reconstruction",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
-  "interactive": [
-    {
-      "artworkId": "met:26502",
-      "keyword": "Interactive",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:54028",
-      "keyword": "Interactive",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    }
-  ],
+  "interactive": [],
   "motif": [
     {
-      "artworkId": "cma:101864",
+      "artworkId": "cma:156112",
       "keyword": "Motif",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:311692",
+      "artworkId": "cma:165186",
       "keyword": "Motif",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:454778",
+      "artworkId": "cma:703217",
       "keyword": "Motif",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:51954",
-      "keyword": "Motif",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "subject-matter": [
     {
-      "artworkId": "cma:148672",
+      "artworkId": "cma:135185",
       "keyword": "Subject",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:151064",
+      "artworkId": "cma:155499",
       "keyword": "Subject",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:189436",
+      "artworkId": "cma:110180",
       "keyword": "Subject",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:685759",
-      "keyword": "Subject",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "allegory": [
     {
-      "artworkId": "met:437217",
+      "artworkId": "wikidata:Q334138",
       "keyword": "Allegory",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:373908",
+      "artworkId": "wikidata:Q549847",
       "keyword": "Allegory",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:143904",
+      "artworkId": "wikidata:Q1167178",
       "keyword": "Allegory",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:105637",
-      "keyword": "Allegory",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
-  "appropriation": [
-    {
-      "artworkId": "cma:114743",
-      "keyword": "Appropriation",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:153810",
-      "keyword": "Appropriation",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:82626",
-      "keyword": "Appropriation",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:680133",
-      "keyword": "Appropriation",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    }
-  ],
+  "appropriation": [],
   "representation": [
     {
-      "artworkId": "met:565106",
+      "artworkId": "cma:161695",
       "keyword": "Representation",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:565105",
+      "artworkId": "cma:107310",
       "keyword": "Representation",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:156896",
+      "artworkId": "cma:130396",
       "keyword": "Representation",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:147008",
-      "keyword": "Representation",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
-  "aura": [
-    {
-      "artworkId": "met:54125",
-      "keyword": "Aura",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:147",
-      "keyword": "Aura",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:145999",
-      "keyword": "Aura",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:142736",
-      "keyword": "Aura",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    }
-  ],
+  "aura": [],
   "site-specific": [
-    {
-      "artworkId": "cma:160128",
-      "keyword": "Site-specific",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
     {
       "artworkId": "cma:148774",
       "keyword": "Site-specific",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:437793",
-      "keyword": "Site-specific",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:437797",
-      "keyword": "Site-specific",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "medium": [
     {
-      "artworkId": "cma:101646",
+      "artworkId": "wikidata:Q12418",
       "keyword": "Medium",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:520273",
+      "artworkId": "wikidata:Q45585",
       "keyword": "Medium",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:548997",
+      "artworkId": "wikidata:Q185372",
       "keyword": "Medium",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:549002",
-      "keyword": "Medium",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
-  "originality": [
-    {
-      "artworkId": "met:423385",
-      "keyword": "Originality",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:240880",
-      "keyword": "Originality",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:126769",
-      "keyword": "Originality",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:149108",
-      "keyword": "Originality",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    }
-  ],
+  "originality": [],
   "kitsch": [],
   "sublime": [
     {
-      "artworkId": "cma:137153",
+      "artworkId": "cma:148774",
       "keyword": "The Sublime",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:159770",
-      "keyword": "The Sublime",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:736517",
-      "keyword": "The Sublime",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:789533",
-      "keyword": "The Sublime",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
@@ -1052,319 +643,191 @@
     {
       "artworkId": "cma:163543",
       "keyword": "Iconography",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:170479",
+      "artworkId": "cma:157643",
       "keyword": "Iconography",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:337062",
+      "artworkId": "cma:153664",
       "keyword": "Iconography",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:367094",
-      "keyword": "Iconography",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "vanitas": [
     {
-      "artworkId": "met:336034",
+      "artworkId": "wikidata:Q7536969",
       "keyword": "Vanitas",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:436485",
+      "artworkId": "wikidata:Q4008601",
       "keyword": "Vanitas",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q2258217",
+      "keyword": "Vanitas",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "installation": [
     {
-      "artworkId": "cma:165164",
+      "artworkId": "wikidata:Q7597386",
       "keyword": "Installation",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:156810",
-      "keyword": "Installation",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
-  "video-art": [
-    {
-      "artworkId": "cma:129214",
-      "keyword": "Video art",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:118674",
-      "keyword": "Video art",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    }
-  ],
+  "video-art": [],
   "performance-art": [
     {
-      "artworkId": "met:853686",
+      "artworkId": "cma:130638",
       "keyword": "Performance art",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:148156",
+      "artworkId": "cma:117940",
       "keyword": "Performance art",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:110818",
-      "keyword": "Performance art",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "media-art": [
     {
-      "artworkId": "cma:148753",
-      "keyword": "Media art",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
       "artworkId": "cma:108544",
       "keyword": "Media art",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:448654",
+      "artworkId": "cma:129799",
       "keyword": "Media art",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:448655",
-      "keyword": "Media art",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "land-art": [
     {
-      "artworkId": "met:12595",
+      "artworkId": "cma:122351",
       "keyword": "Land art",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:337853",
+      "artworkId": "cma:111811",
       "keyword": "Land art",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:136479",
+      "artworkId": "cma:136667",
       "keyword": "Land art",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:136480",
-      "keyword": "Land art",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "public-art": [
     {
-      "artworkId": "cma:110910",
+      "artworkId": "wikidata:Q2584017",
       "keyword": "Public art",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:112585",
+      "artworkId": "cma:117905",
       "keyword": "Public art",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    }
-  ],
-  "relational-art": [
-    {
-      "artworkId": "met:455041",
-      "keyword": "Relational aesthetics",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:62543",
-      "keyword": "Relational aesthetics",
-      "reason": "キーワード一致（未確認）",
+      "artworkId": "cma:157643",
+      "keyword": "Public art",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
+  "relational-art": [],
   "participatory-art": [],
   "art-project": [
     {
-      "artworkId": "cma:152258",
+      "artworkId": "cma:149943",
       "keyword": "Art project",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:160047",
+      "artworkId": "cma:136482",
       "keyword": "Art project",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:372052",
-      "keyword": "Art project",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:374564",
-      "keyword": "Art project",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "biennale": [],
   "street-art": [
     {
-      "artworkId": "cma:141484",
+      "artworkId": "cma:161427",
       "keyword": "Street art",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:97165",
-      "keyword": "Street art",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:658769",
-      "keyword": "Street art",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:13124",
-      "keyword": "Street art",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "sound-art": [
     {
-      "artworkId": "cma:110821",
+      "artworkId": "cma:106841",
       "keyword": "Sound art",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:154757",
-      "keyword": "Sound art",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:553045",
-      "keyword": "Sound art",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "happening": [
     {
-      "artworkId": "cma:114778",
+      "artworkId": "wikidata:Q3563746",
       "keyword": "Happening",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
       "artworkId": "cma:114776",
       "keyword": "Happening",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:754987",
-      "keyword": "Happening",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:547773",
-      "keyword": "Happening",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "kogei": [
     {
-      "artworkId": "cma:300665",
+      "artworkId": "cma:148774",
       "keyword": "Crafts",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:127712",
-      "keyword": "Crafts",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:20270",
-      "keyword": "Crafts",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:14336",
-      "keyword": "Crafts",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "ceramics": [
     {
-      "artworkId": "cma:137298",
+      "artworkId": "wikidata:Q540716",
       "keyword": "Ceramics",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
       "artworkId": "cma:155665",
       "keyword": "Ceramics",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:449044",
+      "artworkId": "cma:159277",
       "keyword": "Ceramics",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:447658",
-      "keyword": "Ceramics",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
@@ -1372,1163 +835,954 @@
     {
       "artworkId": "cma:703217",
       "keyword": "Lacquerware",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:142640",
-      "keyword": "Lacquerware",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:841656",
-      "keyword": "Lacquerware",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:51282",
-      "keyword": "Lacquerware",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
-  "mingei": [
-    {
-      "artworkId": "met:36115",
-      "keyword": "Mingei",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    }
-  ],
+  "mingei": [],
   "dyeing": [
     {
-      "artworkId": "cma:156310",
+      "artworkId": "cma:143165",
       "keyword": "Dyeing",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:98133",
+      "artworkId": "cma:142283",
       "keyword": "Dyeing",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:74585",
+      "artworkId": "cma:141931",
       "keyword": "Dyeing",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:61803",
-      "keyword": "Dyeing",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "arts-and-crafts": [
     {
-      "artworkId": "cma:300665",
+      "artworkId": "wikidata:Q90080562",
       "keyword": "Arts and Crafts Movement",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:375054",
+      "artworkId": "wikidata:Q90157551",
       "keyword": "Arts and Crafts Movement",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:20270",
-      "keyword": "Arts and Crafts Movement",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:14336",
-      "keyword": "Arts and Crafts Movement",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "art-deco": [
     {
-      "artworkId": "cma:173164",
+      "artworkId": "wikidata:Q769461",
       "keyword": "Art Deco",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:109610",
+      "artworkId": "wikidata:Q130612073",
       "keyword": "Art Deco",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    }
-  ],
-  "graphic-design": [
-    {
-      "artworkId": "cma:149955",
-      "keyword": "Graphic design",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:151951",
-      "keyword": "Graphic design",
-      "reason": "キーワード一致（未確認）",
+      "artworkId": "wikidata:Q20054388",
+      "keyword": "Art Deco",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
+  "graphic-design": [],
   "contemporary": [
     {
-      "artworkId": "cma:109042",
+      "artworkId": "wikidata:Q49817158",
       "keyword": "Contemporary art",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:147938",
+      "artworkId": "wikidata:Q19368290",
       "keyword": "Contemporary art",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:459210",
+      "artworkId": "wikidata:Q17640196",
       "keyword": "Contemporary art",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "abstract": [
     {
-      "artworkId": "cma:124800",
+      "artworkId": "cma:142356",
       "keyword": "Abstract",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:100713",
+      "artworkId": "cma:127227",
       "keyword": "Abstract",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:154710",
+      "keyword": "Abstract",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "figurative": [
     {
-      "artworkId": "met:14859",
+      "artworkId": "wikidata:Q5308687",
       "keyword": "Figurative",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:98657",
+      "artworkId": "wikidata:Q22946905",
       "keyword": "Figurative",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:110819",
+      "artworkId": "wikidata:Q25388435",
       "keyword": "Figurative",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "conceptual-art": [
     {
-      "artworkId": "cma:156281",
+      "artworkId": "wikidata:Q164918",
       "keyword": "Conceptual art",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:137323",
+      "artworkId": "wikidata:Q49817158",
       "keyword": "Conceptual art",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q98078637",
+      "keyword": "Conceptual art",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "surrealism": [
     {
-      "artworkId": "cma:142792",
+      "artworkId": "wikidata:Q1061035",
       "keyword": "Surrealism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:171157",
+      "artworkId": "wikidata:Q164918",
       "keyword": "Surrealism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q2272215",
+      "keyword": "Surrealism",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "minimalism": [
     {
-      "artworkId": "cma:151444",
+      "artworkId": "wikidata:Q96893475",
       "keyword": "Minimalism",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:97133",
-      "keyword": "Minimalism",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:72738",
-      "keyword": "Minimalism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
-  "pop-art": [],
-  "expressionism": [
+  "pop-art": [
     {
-      "artworkId": "cma:142792",
-      "keyword": "Expressionism",
-      "reason": "キーワード一致（未確認）",
+      "artworkId": "wikidata:Q2697937",
+      "keyword": "Pop art",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:103708",
+      "artworkId": "wikidata:Q3567592",
+      "keyword": "Pop art",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q5308687",
+      "keyword": "Pop art",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    }
+  ],
+  "expressionism": [
+    {
+      "artworkId": "wikidata:Q471379",
       "keyword": "Expressionism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q1150997",
+      "keyword": "Expressionism",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q1683743",
+      "keyword": "Expressionism",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "abstract-expressionism": [
     {
-      "artworkId": "cma:103708",
+      "artworkId": "wikidata:Q19919146",
       "keyword": "Abstract Expressionism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q18665648",
+      "keyword": "Abstract Expressionism",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q50318886",
+      "keyword": "Abstract Expressionism",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "still-life": [
     {
-      "artworkId": "cma:147607",
+      "artworkId": "wikidata:Q152509",
       "keyword": "Still life",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:132616",
+      "artworkId": "wikidata:Q2697937",
       "keyword": "Still life",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:436305",
+      "artworkId": "wikidata:Q2471800",
       "keyword": "Still life",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:10996",
-      "keyword": "Still life",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "landscape-painting": [
     {
-      "artworkId": "met:53577",
+      "artworkId": "wikidata:Q45585",
       "keyword": "Landscape painting",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:53576",
+      "artworkId": "wikidata:Q311243",
       "keyword": "Landscape painting",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:141639",
+      "artworkId": "wikidata:Q152509",
       "keyword": "Landscape painting",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:171296",
-      "keyword": "Landscape painting",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "portrait": [
     {
-      "artworkId": "cma:124089",
+      "artworkId": "wikidata:Q12418",
       "keyword": "Portrait",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:160885",
+      "artworkId": "wikidata:Q698487",
       "keyword": "Portrait",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:226943",
+      "artworkId": "wikidata:Q474338",
       "keyword": "Portrait",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:191566",
-      "keyword": "Portrait",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "genre-painting": [
     {
-      "artworkId": "cma:153778",
+      "artworkId": "wikidata:Q17277950",
       "keyword": "Genre painting",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:117774",
+      "artworkId": "wikidata:Q2565897",
       "keyword": "Genre painting",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:10843",
+      "artworkId": "wikidata:Q4879965",
       "keyword": "Genre painting",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:11224",
-      "keyword": "Genre painting",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "history-painting": [
     {
-      "artworkId": "cma:163044",
+      "artworkId": "wikidata:Q29530",
       "keyword": "History painting",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:149665",
+      "artworkId": "wikidata:Q186953",
       "keyword": "History painting",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:436579",
+      "artworkId": "wikidata:Q1752990",
       "keyword": "History painting",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:377262",
-      "keyword": "History painting",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "realism": [
     {
-      "artworkId": "met:253619",
+      "artworkId": "wikidata:Q175628",
       "keyword": "Realism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:40063",
+      "artworkId": "wikidata:Q540488",
       "keyword": "Realism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:151904",
+      "artworkId": "wikidata:Q3088614",
       "keyword": "Realism",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:145412",
-      "keyword": "Realism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "nihonga": [
     {
-      "artworkId": "met:744428",
+      "artworkId": "wikidata:Q113487164",
       "keyword": "Nihonga",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q110263240",
+      "keyword": "Nihonga",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q110267943",
+      "keyword": "Nihonga",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "yoga-painting": [
     {
-      "artworkId": "cma:147449",
+      "artworkId": "wikidata:Q109365592",
       "keyword": "Yōga",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:145852",
+      "artworkId": "wikidata:Q115235589",
       "keyword": "Yōga",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:39251",
+      "artworkId": "wikidata:Q18683355",
       "keyword": "Yōga",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:38476",
-      "keyword": "Yōga",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "ukiyo-e": [
     {
-      "artworkId": "met:789145",
+      "artworkId": "wikidata:Q252485",
       "keyword": "Ukiyo-e",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:789144",
+      "artworkId": "wikidata:Q3565037",
       "keyword": "Ukiyo-e",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:151064",
+      "artworkId": "wikidata:Q5826309",
       "keyword": "Ukiyo-e",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:152444",
-      "keyword": "Ukiyo-e",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "textile": [
     {
-      "artworkId": "cma:165269",
+      "artworkId": "wikidata:Q26221185",
       "keyword": "Textile",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:165272",
+      "artworkId": "wikidata:Q15880875",
       "keyword": "Textile",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:450741",
+      "artworkId": "wikidata:Q96377852",
       "keyword": "Textile",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:463022",
-      "keyword": "Textile",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
-  "matiere": [
-    {
-      "artworkId": "cma:122767",
-      "keyword": "Matière",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:107033",
-      "keyword": "Matière",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:757106",
-      "keyword": "Matière",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:460478",
-      "keyword": "Matière",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    }
-  ],
+  "matiere": [],
   "collage": [
     {
-      "artworkId": "cma:138684",
+      "artworkId": "wikidata:Q3203218",
       "keyword": "Collage",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:715339",
+      "artworkId": "wikidata:Q6464197",
       "keyword": "Collage",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:291371",
+      "artworkId": "wikidata:Q130375592",
       "keyword": "Collage",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "mixed-media": [
     {
-      "artworkId": "cma:129799",
+      "artworkId": "wikidata:Q2623789",
       "keyword": "Mixed media",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:142753",
+      "artworkId": "wikidata:Q91926989",
       "keyword": "Mixed media",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q3946841",
+      "keyword": "Mixed media",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "readymade": [
     {
+      "artworkId": "wikidata:Q164918",
+      "keyword": "Readymade",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q3339457",
+      "keyword": "Readymade",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
       "artworkId": "cma:310353",
       "keyword": "Readymade",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:141110",
-      "keyword": "Readymade",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:222226",
-      "keyword": "Readymade",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "frottage": [],
   "silkscreen": [
     {
-      "artworkId": "cma:133320",
+      "artworkId": "wikidata:Q138330299",
       "keyword": "Silkscreen",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:133319",
-      "keyword": "Silkscreen",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "oil-painting": [
     {
-      "artworkId": "met:659725",
+      "artworkId": "wikidata:Q21257452",
       "keyword": "Oil painting",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:656610",
+      "artworkId": "wikidata:Q104554030",
       "keyword": "Oil painting",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
       "artworkId": "cma:141639",
       "keyword": "Oil painting",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:136911",
-      "keyword": "Oil painting",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "watercolor": [
     {
-      "artworkId": "cma:110565",
+      "artworkId": "wikidata:Q660841",
       "keyword": "Watercolor",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:172894",
+      "artworkId": "wikidata:Q3818663",
       "keyword": "Watercolor",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:1668",
+      "artworkId": "wikidata:Q29382987",
       "keyword": "Watercolor",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:268873",
-      "keyword": "Watercolor",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "tempera": [
     {
-      "artworkId": "cma:283088",
+      "artworkId": "wikidata:Q128910",
       "keyword": "Tempera",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:169736",
+      "artworkId": "wikidata:Q151047",
       "keyword": "Tempera",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:551159",
+      "artworkId": "wikidata:Q474338",
       "keyword": "Tempera",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:548847",
-      "keyword": "Tempera",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "fresco": [
     {
-      "artworkId": "met:253327",
+      "artworkId": "wikidata:Q3709305",
       "keyword": "Fresco",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:471425",
+      "artworkId": "wikidata:Q1237596",
       "keyword": "Fresco",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:138881",
+      "artworkId": "wikidata:Q1528037",
       "keyword": "Fresco",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:141207",
-      "keyword": "Fresco",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "acrylic-paint": [
     {
-      "artworkId": "cma:103664",
+      "artworkId": "wikidata:Q2697937",
       "keyword": "Acrylic paint",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:543427",
+      "artworkId": "wikidata:Q3567592",
       "keyword": "Acrylic paint",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q5308687",
+      "keyword": "Acrylic paint",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "lithograph": [
     {
-      "artworkId": "cma:122918",
+      "artworkId": "wikidata:Q42573074",
       "keyword": "Lithograph",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:108408",
+      "artworkId": "wikidata:Q23499306",
       "keyword": "Lithograph",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q47532838",
+      "keyword": "Lithograph",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "etching": [
     {
-      "artworkId": "cma:160709",
+      "artworkId": "wikidata:Q7624318",
       "keyword": "Etching",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:128883",
+      "artworkId": "wikidata:Q109523297",
       "keyword": "Etching",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q110143441",
+      "keyword": "Etching",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "woodblock-print": [
     {
-      "artworkId": "cma:679096",
+      "artworkId": "wikidata:Q111753051",
       "keyword": "Woodblock print",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:679373",
+      "artworkId": "wikidata:Q19883381",
       "keyword": "Woodblock print",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:51088",
+      "artworkId": "wikidata:Q133463913",
       "keyword": "Woodblock print",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:55196",
-      "keyword": "Woodblock print",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "printmaking": [
     {
-      "artworkId": "cma:155849",
+      "artworkId": "cma:313396",
       "keyword": "Printmaking",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:125526",
+      "artworkId": "cma:127250",
       "keyword": "Printmaking",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:415528",
-      "keyword": "Printmaking",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:817514",
-      "keyword": "Printmaking",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "assemblage": [
     {
-      "artworkId": "cma:98745",
+      "artworkId": "wikidata:Q7899954",
       "keyword": "Assemblage",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:97693",
+      "artworkId": "wikidata:Q7736407",
       "keyword": "Assemblage",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
-    }
-  ],
-  "decalcomania": [
+    },
     {
-      "artworkId": "met:6210",
-      "keyword": "Decalcomania",
-      "reason": "キーワード一致（未確認）",
+      "artworkId": "cma:155043",
+      "keyword": "Assemblage",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
-  "photomontage": [
-    {
-      "artworkId": "met:305832",
-      "keyword": "Photomontage",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    }
-  ],
+  "decalcomania": [],
+  "photomontage": [],
   "drawing": [
     {
-      "artworkId": "cma:144846",
+      "artworkId": "wikidata:Q66023252",
       "keyword": "Drawing",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:149149",
+      "artworkId": "wikidata:Q64787178",
       "keyword": "Drawing",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:380202",
+      "artworkId": "wikidata:Q109016695",
       "keyword": "Drawing",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:3408",
-      "keyword": "Drawing",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
-  "impasto": [
-    {
-      "artworkId": "cma:149111",
-      "keyword": "Impasto",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:142372",
-      "keyword": "Impasto",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:252509",
-      "keyword": "Impasto",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:647338",
-      "keyword": "Impasto",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    }
-  ],
+  "impasto": [],
   "pigment": [
     {
-      "artworkId": "met:318444",
+      "artworkId": "wikidata:Q18683181",
       "keyword": "Pigment",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:40640",
+      "artworkId": "wikidata:Q28173654",
       "keyword": "Pigment",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:109518",
+      "artworkId": "wikidata:Q112111667",
       "keyword": "Pigment",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:109514",
-      "keyword": "Pigment",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "found-object": [
     {
-      "artworkId": "cma:97485",
+      "artworkId": "wikidata:Q164918",
       "keyword": "Found object",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:123806",
+      "artworkId": "wikidata:Q3339457",
       "keyword": "Found object",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:37743",
+      "artworkId": "cma:117824",
       "keyword": "Found object",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:11677",
-      "keyword": "Found object",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "sculpture": [
     {
-      "artworkId": "met:394727",
+      "artworkId": "wikidata:Q2584017",
       "keyword": "Sculpture",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:449853",
+      "artworkId": "wikidata:Q873906",
       "keyword": "Sculpture",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:98627",
+      "artworkId": "wikidata:Q50804863",
       "keyword": "Sculpture",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:143152",
-      "keyword": "Sculpture",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "relief": [
     {
-      "artworkId": "cma:109294",
+      "artworkId": "cma:167459",
       "keyword": "Relief",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:108314",
+      "artworkId": "cma:143381",
       "keyword": "Relief",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:307639",
+      "artworkId": "cma:122979",
       "keyword": "Relief",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:307638",
-      "keyword": "Relief",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "sfumato": [
     {
-      "artworkId": "met:459421",
-      "keyword": "Sfumato",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:816618",
-      "keyword": "Sfumato",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
       "artworkId": "cma:112586",
       "keyword": "Sfumato",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:153406",
-      "keyword": "Sfumato",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "glazing": [
     {
-      "artworkId": "cma:151901",
+      "artworkId": "cma:161427",
       "keyword": "Glazing",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:299444",
+      "artworkId": "cma:123616",
       "keyword": "Glazing",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:590412",
+      "artworkId": "cma:137198",
       "keyword": "Glazing",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:590413",
-      "keyword": "Glazing",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "gouache": [
     {
-      "artworkId": "cma:145195",
+      "artworkId": "wikidata:Q2072801",
       "keyword": "Gouache",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:101498",
+      "artworkId": "wikidata:Q19697889",
       "keyword": "Gouache",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:826330",
+      "artworkId": "wikidata:Q21151884",
       "keyword": "Gouache",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:415324",
-      "keyword": "Gouache",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "pointillism": [
     {
-      "artworkId": "met:437658",
+      "artworkId": "wikidata:Q1044742",
       "keyword": "Pointillism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:459117",
+      "artworkId": "wikidata:Q3835761",
       "keyword": "Pointillism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:320778",
+      "artworkId": "wikidata:Q3268045",
       "keyword": "Pointillism",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:161274",
-      "keyword": "Pointillism",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "trompe-loeil": [
     {
-      "artworkId": "cma:132938",
+      "artworkId": "wikidata:Q2203407",
       "keyword": "Trompe-l'œil",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q21117699",
+      "keyword": "Trompe-l'œil",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q7863000",
+      "keyword": "Trompe-l'œil",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "dripping": [
     {
-      "artworkId": "met:823924",
-      "keyword": "Dripping",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:59861",
-      "keyword": "Dripping",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:155871",
-      "keyword": "Dripping",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
       "artworkId": "cma:140476",
       "keyword": "Dripping",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "drypoint": [
     {
-      "artworkId": "cma:108103",
+      "artworkId": "wikidata:Q110183598",
       "keyword": "Drypoint",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:135706",
+      "artworkId": "wikidata:Q22273224",
       "keyword": "Drypoint",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q22273248",
+      "keyword": "Drypoint",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "aquatint": [
     {
-      "artworkId": "cma:132853",
+      "artworkId": "wikidata:Q106856615",
       "keyword": "Aquatint",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:132850",
+      "artworkId": "wikidata:Q106835815",
       "keyword": "Aquatint",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:395202",
+      "artworkId": "wikidata:Q106835816",
       "keyword": "Aquatint",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:405473",
-      "keyword": "Aquatint",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "mezzotint": [
     {
-      "artworkId": "met:263461",
+      "artworkId": "wikidata:Q110038497",
       "keyword": "Mezzotint",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:263462",
+      "artworkId": "wikidata:Q110040073",
       "keyword": "Mezzotint",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:457386",
+      "artworkId": "wikidata:Q110040160",
       "keyword": "Mezzotint",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:457384",
-      "keyword": "Mezzotint",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
@@ -2536,103 +1790,359 @@
     {
       "artworkId": "cma:145925",
       "keyword": "Encaustic",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:145923",
-      "keyword": "Encaustic",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:3531",
-      "keyword": "Encaustic",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:14326",
-      "keyword": "Encaustic",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "casting": [
     {
-      "artworkId": "met:316476",
+      "artworkId": "cma:98627",
       "keyword": "Casting",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:728281",
+      "artworkId": "cma:128067",
       "keyword": "Casting",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:329314",
+      "artworkId": "cma:172387",
       "keyword": "Casting",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "cma:125101",
-      "keyword": "Casting",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     }
   ],
   "ink-painting": [
     {
-      "artworkId": "cma:151543",
+      "artworkId": "wikidata:Q11531476",
       "keyword": "Ink painting",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:145430",
+      "artworkId": "wikidata:Q138034980",
       "keyword": "Ink painting",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:55353",
+      "artworkId": "wikidata:Q140078414",
       "keyword": "Ink painting",
-      "reason": "キーワード一致（未確認）",
-      "unchecked": true
-    },
-    {
-      "artworkId": "met:74673",
-      "keyword": "Ink painting",
-      "reason": "キーワード一致（未確認）",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ],
   "maki-e": [
     {
-      "artworkId": "met:57585",
+      "artworkId": "cma:285876",
       "keyword": "Maki-e",
-      "reason": "キーワード一致（未確認）",
+      "reason": "館のハイライト（未確認）",
+      "unchecked": true
+    }
+  ],
+  "rococo": [
+    {
+      "artworkId": "wikidata:Q2629559",
+      "keyword": "Rococo",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "met:57955",
-      "keyword": "Maki-e",
-      "reason": "キーワード一致（未確認）",
+      "artworkId": "wikidata:Q2629423",
+      "keyword": "Rococo",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:156795",
-      "keyword": "Maki-e",
-      "reason": "キーワード一致（未確認）",
+      "artworkId": "wikidata:Q3556817",
+      "keyword": "Rococo",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    }
+  ],
+  "gothic": [
+    {
+      "artworkId": "cma:106841",
+      "keyword": "Gothic",
+      "reason": "館のハイライト（未確認）",
       "unchecked": true
     },
     {
-      "artworkId": "cma:156797",
-      "keyword": "Maki-e",
-      "reason": "キーワード一致（未確認）",
+      "artworkId": "cma:135538",
+      "keyword": "Gothic",
+      "reason": "館のハイライト（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:119143",
+      "keyword": "Gothic",
+      "reason": "館のハイライト（未確認）",
+      "unchecked": true
+    }
+  ],
+  "mannerism": [
+    {
+      "artworkId": "wikidata:Q567861",
+      "keyword": "Mannerism",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q1212937",
+      "keyword": "Mannerism",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q185255",
+      "keyword": "Mannerism",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    }
+  ],
+  "rinpa": [
+    {
+      "artworkId": "wikidata:Q31892412",
+      "keyword": "Rinpa",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:142283",
+      "keyword": "Rinpa",
+      "reason": "館のハイライト（未確認）",
+      "unchecked": true
+    }
+  ],
+  "kano-school": [
+    {
+      "artworkId": "wikidata:Q17224235",
+      "keyword": "Kano school",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q21404077",
+      "keyword": "Kano school",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    }
+  ],
+  "golden-ratio": [],
+  "rule-of-thirds": [],
+  "byobu": [
+    {
+      "artworkId": "wikidata:Q11530118",
+      "keyword": "Folding screen",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q33162756",
+      "keyword": "Folding screen",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q29910980",
+      "keyword": "Folding screen",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    }
+  ],
+  "wabi-sabi": [],
+  "national-treasure": [],
+  "nuit-blanche": [],
+  "contemporary-dance": [],
+  "contemporary-circus": [
+    {
+      "artworkId": "cma:142792",
+      "keyword": "Contemporary circus",
+      "reason": "館のハイライト（未確認）",
+      "unchecked": true
+    }
+  ],
+  "celadon": [
+    {
+      "artworkId": "cma:109541",
+      "keyword": "Celadon",
+      "reason": "館のハイライト（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:123616",
+      "keyword": "Celadon",
+      "reason": "館のハイライト（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:103681",
+      "keyword": "Celadon",
+      "reason": "館のハイライト（未確認）",
+      "unchecked": true
+    }
+  ],
+  "glaze": [
+    {
+      "artworkId": "wikidata:Q2827906",
+      "keyword": "Glaze",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q87832017",
+      "keyword": "Glaze",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q87832473",
+      "keyword": "Glaze",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    }
+  ],
+  "tetsu-e": [],
+  "embroidery": [
+    {
+      "artworkId": "wikidata:Q187483",
+      "keyword": "Embroidery",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q29383466",
+      "keyword": "Embroidery",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q22078342",
+      "keyword": "Embroidery",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    }
+  ],
+  "monyo": [
+    {
+      "artworkId": "cma:147441",
+      "keyword": "Pattern",
+      "reason": "館のハイライト（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:136154",
+      "keyword": "Pattern",
+      "reason": "館のハイライト（未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "cma:131337",
+      "keyword": "Pattern",
+      "reason": "館のハイライト（未確認）",
+      "unchecked": true
+    }
+  ],
+  "kintsugi": [],
+  "mandala": [
+    {
+      "artworkId": "cma:130396",
+      "keyword": "Mandala",
+      "reason": "館のハイライト（未確認）",
+      "unchecked": true
+    }
+  ],
+  "miniature-painting": [
+    {
+      "artworkId": "wikidata:Q70595592",
+      "keyword": "Miniature painting",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q7232242",
+      "keyword": "Miniature painting",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q70476127",
+      "keyword": "Miniature painting",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    }
+  ],
+  "calligraphy": [
+    {
+      "artworkId": "wikidata:Q97596479",
+      "keyword": "Calligraphy",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q61854885",
+      "keyword": "Calligraphy",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q52937100",
+      "keyword": "Calligraphy",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    }
+  ],
+  "bunjinga": [
+    {
+      "artworkId": "cma:86399",
+      "keyword": "Literati painting",
+      "reason": "館のハイライト（未確認）",
+      "unchecked": true
+    }
+  ],
+  "yamato-e": [
+    {
+      "artworkId": "wikidata:Q3443335",
+      "keyword": "Yamato-e",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q2904124",
+      "keyword": "Yamato-e",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q51685293",
+      "keyword": "Yamato-e",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    }
+  ],
+  "art-brut": [
+    {
+      "artworkId": "wikidata:Q116249043",
+      "keyword": "Art Brut",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    }
+  ],
+  "op-art": [],
+  "takuhon": [],
+  "croquis": [
+    {
+      "artworkId": "wikidata:Q55212006",
+      "keyword": "Croquis",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
+      "unchecked": true
+    },
+    {
+      "artworkId": "wikidata:Q55364789",
+      "keyword": "Croquis",
+      "reason": "代表作（Wikidata 言語版数順、未確認）",
       "unchecked": true
     }
   ]
